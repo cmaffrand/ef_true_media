@@ -1,0 +1,96 @@
+attribute,min,ok,top,ponderation
+Height,165,175,180,8
+Offensive Awareness,70,75,80,1
+Ball Control,78,82,87,5
+Dribbling,78,82,87,5
+Tight Possession,80,84,88,8
+Low Pass,80,87,90,10
+Lofted Pass,80,87,90,10
+Finishing,70,75,80,3
+Heading,70,75,80,1
+Place Kicking,70,75,85,2
+Curl,65,70,75,2
+Defensive Awareness,80,87,90,10
+Defensive Engagement,80,87,90,8
+Tackling,80,87,90,8
+Aggression,80,87,90,8
+Speed,80,87,90,13
+Acceleration,80,87,90,10
+Kicking Power,70,80,87,3
+Jump,70,75,80,1
+Physical Contact,80,85,88,8
+Balance,78,82,87,5
+Stamina,85,90,95,17
+
+epic_dif,0,0,0,0
+weak_foot_usage,0,0,0,1000
+weak_foot_acc,0,0,0,1000
+player_form,0,0,0,3000
+injury_resistance,0,0,0,0
+
+Skills,0,0,0,0
+Long Reach Tackle,0,0,0,1300
+Phenomenal Pass,0,0,0,1300
+Visionary Pass,0,0,0,1300
+Aerial Fort,0,0,0,800
+Fortress,0,0,0,800
+Magnetic Feet,0,0,0,800
+Blitz Curler,0,0,0,500
+Low Screamer,0,0,0,500
+Game Changing Pass,0,0,0,500
+Phenomenal Finishing,0,0,0,300
+Edged Crossing,0,0,0,300
+Acceleration Burst,0,0,0,300
+Momentum Dribbling,0,0,0,300
+Will Power,0,0,0,200
+Bullet Header,0,0,0,200
+Through Passing,0,0,0,1000
+One Touch Pass,0,0,0,1000
+First Time Shot,0,0,0,800
+Interception,0,0,0,800
+Blocker,0,0,0,800
+Sliding Tackle,0,0,0,800
+Man Marking,0,0,0,500
+Double Touch,0,0,0,500
+Fighting Spirit,0,0,0,500
+Aerial Superiority,0,0,0,500
+Weighted Pass,0,0,0,500
+Low Lofted Pass,0,0,0,500
+Long Range Shooting,0,0,0,500
+Marseille Turn,0,0,0,300
+Long Range Curler,0,0,0,300
+Gamesmanship,0,0,0,300
+Outside Curler,0,0,0,300
+Heading,0,0,0,300
+Pinpoint Crossing,0,0,0,300
+Cut Behind & Turn,0,0,0,300
+Acrobatic Clearance,0,0,0,300
+Sole Control,0,0,0,300
+Flip Flap,0,0,0,300
+Heel Trick,0,0,0,300
+Super Sub,0,0,0,300
+Track Back,0,0,0,300
+Scotch Move,0,0,0,300
+Chop Turn,0,0,0,300
+Long Throw,0,0,0,300
+Scissors Feint,0,0,0,300
+Rabona,0,0,0,200
+Rising Shots,0,0,0,200
+Knuckle Shots,0,0,0,200
+Dipping Shots,0,0,0,200
+Captaincy,0,0,0,200
+Acrobatic Finishing,0,0,0,200
+Penalty Specialist,0,0,0,200
+Sombrero,0,0,0,200
+Chip Shot Control,0,0,0,100
+No Look Pass,0,0,0,100
+
+Bio,0,0,0,0
+Leg Length,0,0,0,250
+Arm Length,0,0,0,50
+Waist Size,0,0,0,0
+Chest,0,0,0,25
+Shoulder Width,0,0,0,25
+Neck Length,0,0,0,0
+Quick Bio,0,0,0,5
+Strong Bio,0,0,0,5

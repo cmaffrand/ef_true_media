@@ -1,0 +1,40 @@
+attribute,min,ok,top,ponderation
+Height,187,190,195,10
+Goalkeeping,87,90,95,17
+Gk Catching,87,90,95,8
+GK Parrying,87,90,95,10
+GK Reflexes,87,90,95,13
+GK Reach,87,90,95,10
+Jump,75,85,90,1
+
+off_def_dif,0,0,0,500
+epic_dif,0,0,0,0
+weak_foot_usage,0,0,0,400
+weak_foot_acc,0,0,0,400
+player_form,0,0,0,3000
+injury_resistance,0,0,0,400
+
+Skills,0,0,0,0
+GK Spirit Roar,0,0,0,2100
+GK Directing Defence,0,0,0,2100
+GK Low Punt,0,0,0,1300
+GK Penalty Saver,0,0,0,1300
+Fighting Spirit,0,0,0,1000
+GK Long Throw,0,0,0,800
+GK High Punt,0,0,0,800
+Visionary Pass,0,0,0,500
+Captaincy,0,0,0,500
+One Touch Pass,0,0,0,500
+Low Lofted Pass,0,0,0,500
+Weighted Pass,0,0,0,500
+Through Passing,0,0,0,300
+
+Bio,0,0,0,0
+Leg Length,0,0,0,120
+Arm Length,0,0,0,40
+Waist Size,0,0,0,15
+Chest,0,0,0,15
+Shoulder Width,0,0,0,40
+Neck Length,0,0,0,0
+Quick Bio,0,0,0,0
+Strong Bio,0,0,0,5

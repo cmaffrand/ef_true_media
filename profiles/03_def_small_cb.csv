@@ -1,0 +1,62 @@
+attribute,min,ok,top,ponderation
+Height,178,185,190,5
+Offensive Awareness,40,70,100,0
+Ball Control,70,75,80,3
+Dribbling,70,75,80,1
+Tight Possession,70,75,80,2
+Low Pass,70,75,82,5
+Lofted Pass,70,75,82,5
+Finishing,40,70,100,0
+Heading,80,85,88,5
+Place Kicking,40,70,100,0
+Curl,40,70,100,0
+Defensive Awareness,85,90,95,13
+Defensive Engagement,85,90,95,10
+Tackling,85,90,95,10
+Aggression,84,87,90,10
+Speed,82,87,92,10
+Acceleration,80,87,90,8
+Kicking Power,40,70,100,0
+Jump,75,80,90,5
+Physical Contact,80,85,90,8
+Balance,65,70,75,2
+Stamina,84,87,90,5
+
+epic_dif,0,0,0,0
+weak_foot_usage,0,0,0,600
+weak_foot_acc,0,0,0,600
+player_form,0,0,0,3000
+injury_resistance,0,0,0,0
+
+Skills,0,0,0,0
+Long Reach Tackle,0,0,0,2100
+Aerial Fort,0,0,0,1300
+Fortress,0,0,0,1300
+Visionary Pass,0,0,0,500
+Phenomenal Pass,0,0,0,500
+Low Screamer,0,0,0,300
+Game Changing Pass,0,0,0,200
+Interception,0,0,0,800
+Blocker,0,0,0,800
+Man Marking,0,0,0,800
+Aerial Superiority,0,0,0,800
+Sliding Tackle,0,0,0,800
+Acrobatic Clearance,0,0,0,800
+Fighting Spirit,0,0,0,800
+Heading,0,0,0,500
+One Touch Pass,0,0,0,500
+Through Passing,0,0,0,500
+Low Lofted Pass,0,0,0,300
+Weighted Pass,0,0,0,300
+Gamesmanship,0,0,0,200
+Captaincy,0,0,0,100
+
+Bio,0,0,0,0
+Leg Length,0,0,0,250
+Arm Length,0,0,0,50
+Waist Size,0,0,0,0
+Chest,0,0,0,25
+Shoulder Width,0,0,0,25
+Neck Length,0,0,0,0
+Quick Bio,0,0,0,0
+Strong Bio,0,0,0,5
