@@ -1,0 +1,87 @@
+Name: Deco
+Position: CMF
+Style: Orchestrator
+
+Training:
+SHO: 4
+PAS: 5
+DRI: 6
+DEX: 8
+LBS: 12
+AER: 6
+DEF: 5
+GK1: 0
+GK2: 0
+GK3: 0
+Lv: 68
+Manager: Fabio Capello
+
+Attributes:
+Offensive Awareness: 83
+Ball Control: 94
+Dribbling: 91
+Tight Possession: 94
+Low Pass: 96
+Lofted Pass: 95
+Finishing: 83
+Heading: 66
+Place Kicking: 81
+Curl: 82
+Defensive Awareness: 70
+Defensive Engagement: 71
+Tackling: 71
+Aggression: 73
+Goalkeeping: 41
+Gk Catching: 41
+GK Parrying: 41
+GK Reflexes: 41
+GK Reach: 41
+Speed: 88
+Acceleration: 90
+Kicking Power: 97
+Jump: 68
+Balance: 90
+Stamina: 90
+Physical Contact: 75
+
+Skills:
+Double Touch
+Marseille Turn
+Cut Behind & Turn
+Long Range Curler
+Long Range Shooting
+One Touch Pass
+Through Passing
+Outside Curler
+Phenomenal Pass
+Low Screamer
+
+Biometrics:
+Height: 174
+Weight: 73
+Arm Length: 7
+Shoulder Width: 6
+Neck Length: 5
+Chest: 7
+Neck Size: 9
+Shoulder Height: 2
+Leg Length: 7
+Thigh Size: 7
+Waist Size: 8
+Arm Size: 5
+Calf Size: 7
+Leg Coverage Radius: 167.9
+Arm Coverage Radius: 157.8
+Jumping Height: 248.0
+Torso Collision: 48.3
+Leg Length Based Height: 174
+
+Com Skills:
+Mazing Run
+Incisive Run
+
+Other Stats:
+Weak Foot Usage: 1
+Weak Foot Accuracy: 2
+Form: 2
+Injury Resistance: 1

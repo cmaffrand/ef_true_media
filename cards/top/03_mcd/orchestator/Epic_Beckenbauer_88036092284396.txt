@@ -1,0 +1,99 @@
+Franz Beckenbauer
+Orchestrator
+Height
+181cm
+Weight
+77kg
+Age
+29
+Foot
+
+B
+
+
+
+
+Regista +2
+
+Technique +1
+
+0
+Condition History
+Arrow Probabilities (%)
+521031041041041041031031011001009895
+
+DMF
+0/66
+Level Cap 
+34
+
+Shooting
+0
+
+Passing
+8
+
+Dribbling
+8
+
+Dexterity
+8
+
+Lower Body Strength
+8
+
+Aerial Strength
+5
+
+Defending
+8
+
+GK 1
+
+GK 2
+
+GK 3
+Attacking
+Offensive Awareness		69
+Ball Control	●	88
+Dribbling	●	86
+Tight Possession	●	94
+Low Pass	●	95
+Lofted Pass		85
+Finishing	●	77
+Heading		78
+Place Kicking		74
+Curl		72
+Defending
+Defensive Awareness	●	91
+Defensive Engagement		92
+Tackling	●	91
+Aggression		87
+Goalkeeping		41
+Gk Catching		41
+GK Parrying		41
+GK Reflexes		41
+GK Reach		41
+athleticism
+Speed		88
+Acceleration		87
+Kicking Power		88
+Jump		88
+Physical Contact		87
+Balance		83
+Stamina		92
+Weak Foot Usage		2
+Weak Foot Acc		2
+Form		2
+Injury Resistance		2
+Skills
+Long Range Shooting
+One Touch Pass
+Through Passing
+Weighted Pass
+Outside Curler
+Interception
+Captaincy
+Blocker
+Sliding Tackle
+Fortress

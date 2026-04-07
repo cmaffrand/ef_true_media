@@ -1,0 +1,112 @@
+Luis Suárez
+Goal Poacher
+Height
+182cm
+Weight
+83kg
+Age
+26
+Foot
+
+B
+
+
+
+
+Shooting +3
+
+Agility +1
+
+0
+Condition History
+Arrow Probabilities (%)
+508193938594100100101104104105106
+
+CF
+0/66
+Level Cap 
+34
+
+Shooting
+8
+
+Passing
+4
+
+Dribbling
+6
+
+Dexterity
+8
+
+Lower Body Strength
+9
+
+Aerial Strength
+9
+
+Defending
+
+GK 1
+
+GK 2
+
+GK 3
+Attacking
+Offensive Awareness		90
+Ball Control	●	91
+Dribbling		90
+Tight Possession		91
+Low Pass		76
+Lofted Pass		71
+Finishing	●	94
+Heading		78
+Place Kicking		83
+Curl		87
+Defending
+Defensive Awareness	●	50
+Defensive Engagement		58
+Tackling		49
+Aggression		59
+Goalkeeping		41
+Gk Catching		41
+GK Parrying		41
+GK Reflexes		41
+GK Reach		41
+athleticism
+Speed	●	92
+Acceleration	●	93
+Kicking Power	●	93
+Jump		77
+Physical Contact	●	90
+Balance	●	90
+Stamina	●	89
+Weak Foot Usage		2
+Weak Foot Acc		3
+Form		2
+Injury Resistance		2
+Skills
+Double Touch
+Sole Control
+Long Range Curler
+Long Range Shooting
+Rising Shots
+Acrobatic Finishing
+First Time Shot
+Outside Curler
+Momentum Dribbling
+Low Screamer
+
+Body Measurements
+Leg Length
+6
+Arm Length
+4
+Waist Size
+5
+Chest
+10
+Shoulder Width
+12
+Neck Length
+4

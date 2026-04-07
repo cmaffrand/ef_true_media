@@ -1,0 +1,98 @@
+Michael Olise
+Cross Specialist
+Height
+184cm
+Weight
+73kg
+Age
+24
+Foot
+
+B
+
+
+
+
+Accuracy +2
+
+Agility +1
+
+0
+Condition History
+Arrow Probabilities (%)
+47779494859710310310310310310399
+
+RMF
+0/68
+Level Cap 
+35
+
+Shooting
+7
+
+Passing
+6
+
+Dribbling
+8
+
+Dexterity
+8
+
+Lower Body Strength
+12
+
+Aerial Strength
+2
+
+Defending
+
+GK 1
+
+GK 2
+
+GK 3
+Attacking
+Offensive Awareness		83
+Ball Control		90
+Dribbling		93
+Tight Possession		91
+Low Pass	●	90
+Lofted Pass	●	90
+Finishing	●	87
+Heading		53
+Place Kicking		88
+Curl		90
+Defending
+Defensive Awareness	●	52
+Defensive Engagement		52
+Tackling		54
+Aggression		58
+Goalkeeping		41
+Gk Catching		41
+GK Parrying		41
+GK Reflexes		41
+GK Reach		41
+athleticism
+Speed	●	93
+Acceleration	●	91
+Kicking Power	●	94
+Jump		58
+Physical Contact		70
+Balance	●	88
+Stamina	●	89
+Weak Foot Usage		1
+Weak Foot Acc		2
+Form		2
+Injury Resistance		0
+Skills
+Double Touch
+Flip Flap
+Sole Control
+Long Range Curler
+Long Range Shooting
+One Touch Pass
+Through Passing
+Pinpoint Crossing
+Outside Curler
+Edged Crossing

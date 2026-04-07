@@ -1,0 +1,98 @@
+Eduardo Camavinga
+Orchestrator
+Height
+182cm
+Weight
+68kg
+Age
+23
+Foot
+
+A
+
+
+
+
+Hard Worker +2
+
+No Booster
+
+0
+Condition History
+Arrow Probabilities (%)
+5096102102991021031039999999590
+
+CMF
+0/64
+Level Cap 
+33
+
+Shooting
+
+Passing
+9
+
+Dribbling
+8
+
+Dexterity
+8
+
+Lower Body Strength
+9
+
+Aerial Strength
+4
+
+Defending
+5
+
+GK 1
+
+GK 2
+
+GK 3
+Attacking
+Offensive Awareness		75
+Ball Control		90
+Dribbling		90
+Tight Possession		93
+Low Pass		91
+Lofted Pass		90
+Finishing	●	63
+Heading		66
+Place Kicking		58
+Curl		65
+Defending
+Defensive Awareness	●	80
+Defensive Engagement		85
+Tackling		83
+Aggression	●	84
+Goalkeeping		41
+Gk Catching		41
+GK Parrying		41
+GK Reflexes		41
+GK Reach		41
+athleticism
+Speed		90
+Acceleration	●	91
+Kicking Power		81
+Jump		81
+Physical Contact	●	81
+Balance		85
+Stamina	●	94
+Weak Foot Usage		1
+Weak Foot Acc		1
+Form		1
+Injury Resistance		2
+Skills
+Double Touch
+Marseille Turn
+Sole Control
+One Touch Pass
+Through Passing
+Interception
+Super Sub
+Blocker
+Sliding Tackle
+Game Changing Pass

@@ -1,0 +1,110 @@
+Ronald Araújo
+Defensive Full-back
+Height
+188cm
+Weight
+79kg
+Age
+23
+Foot
+
+B
+
+
+
+
+Duelling +2
+
+Duelling +1
+
+0
+Condition History
+Arrow Probabilities (%)
+531071031031039796969293938991
+
+RB
+0/64
+Level Cap 
+33
+
+Shooting
+
+Passing
+4
+
+Dribbling
+2
+
+Dexterity
+4
+
+Lower Body Strength
+8
+
+Aerial Strength
+7
+
+Defending
+14
+
+GK 1
+
+GK 2
+
+GK 3
+Attacking
+Offensive Awareness		66
+Ball Control		77
+Dribbling		73
+Tight Possession		70
+Low Pass		81
+Lofted Pass		82
+Finishing	●	74
+Heading		96
+Place Kicking		54
+Curl		60
+Defending
+Defensive Awareness	●	91
+Defensive Engagement		99
+Tackling	●	94
+Aggression		88
+Goalkeeping		41
+Gk Catching		41
+GK Parrying		41
+GK Reflexes		41
+GK Reach		41
+athleticism
+Speed	●	94
+Acceleration		90
+Kicking Power		78
+Jump		95
+Physical Contact		90
+Balance		69
+Stamina	●	97
+Weak Foot Usage		1
+Weak Foot Acc		1
+Form		2
+Injury Resistance		0
+Skills
+Heading
+Man Marking
+Interception
+Acrobatic Clearance
+Fighting Spirit
+Aerial Superiority
+Blocker
+Sliding Tackle
+
+Body Measurements
+Leg Length
+11
+Arm Length
+7
+Waist Size
+6
+Chest
+6
+Shoulder Width
+8
+Neck Length
+6

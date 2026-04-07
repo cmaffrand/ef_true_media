@@ -1,0 +1,89 @@
+Name: Lilian Thuram
+Position: RB
+Style: Defensive Full back
+
+Training:
+SHO: 0
+PAS: 5
+DRI: 2
+DEX: 8
+LBS: 8
+AER: 8
+DEF: 12
+GK1: 0
+GK2: 0
+GK3: 0
+Lv: 68
+Manager: Fabio Capello
+
+Attributes:
+Offensive Awareness: 75
+Ball Control: 78
+Dribbling: 82
+Tight Possession: 70
+Low Pass: 80
+Lofted Pass: 80
+Finishing: 57
+Heading: 89
+Place Kicking: 55
+Curl: 66
+Defensive Awareness: 95
+Defensive Engagement: 95
+Tackling: 98
+Aggression: 93
+Goalkeeping: 41
+Gk Catching: 41
+GK Parrying: 41
+GK Reflexes: 41
+GK Reach: 41
+Speed: 94
+Acceleration: 90
+Kicking Power: 83
+Jump: 95
+Balance: 79
+Stamina: 95
+Physical Contact: 87
+
+Skills:
+Pinpoint Crossing
+Long Throw
+Man Marking
+Interception
+Acrobatic Clearance
+Captaincy
+Fighting Spirit
+Blocker
+Sliding Tackle
+Fortress
+
+Biometrics:
+Height: 182
+Weight: 70
+Arm Length: 6
+Shoulder Width: 6
+Neck Length: 7
+Chest: 6
+Neck Size: 8
+Shoulder Height: 6
+Leg Length: 12
+Thigh Size: 7
+Waist Size: 6
+Arm Size: 6
+Calf Size: 7
+Leg Coverage Radius: 178.4
+Arm Coverage Radius: 164.0
+Jumping Height: 274.3
+Torso Collision: 50.4
+Leg Length Based Height: 187
+
+Com Skills:
+Trickster
+Speeding Bullet
+Long Ball Expert
+Early Crosser
+
+Other Stats:
+Weak Foot Usage: 1
+Weak Foot Accuracy: 2
+Form: 2
+Injury Resistance: 2

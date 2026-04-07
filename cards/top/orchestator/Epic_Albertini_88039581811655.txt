@@ -1,0 +1,115 @@
+Demetrio Albertini
+Orchestrator
+Height
+180cm
+Weight
+77kg
+Age
+23
+Foot
+
+B
+
+
+
+
+Regista +3
+
+Agility +1
+
+0
+Condition History
+Arrow Probabilities (%)
+501021041041031041031031011001009896
+
+DMF
+0/64
+Level Cap 
+33
+
+Shooting
+4
+
+Passing
+4
+
+Dribbling
+4
+
+Dexterity
+6
+
+Lower Body Strength
+9
+
+Aerial Strength
+6
+
+Defending
+11
+
+GK 1
+0
+
+GK 2
+0
+
+GK 3
+0
+Attacking
+Offensive Awareness		78
+Ball Control		87
+Dribbling		80
+Tight Possession	●	87
+Low Pass	●	92
+Lofted Pass		89
+Finishing	●	77
+Heading		76
+Place Kicking		91
+Curl		92
+Defending
+Defensive Awareness	●	93
+Defensive Engagement		90
+Tackling	●	90
+Aggression		84
+Goalkeeping		41
+Gk Catching		41
+GK Parrying		41
+GK Reflexes		41
+GK Reach		41
+athleticism
+Speed	●	88
+Acceleration	●	89
+Kicking Power		92
+Jump		79
+Physical Contact		80
+Balance	●	81
+Stamina	●	91
+Weak Foot Usage		1
+Weak Foot Acc		2
+Form		2
+Injury Resistance		1
+Skills
+Double Touch
+Sole Control
+One Touch Pass
+Through Passing
+Weighted Pass
+Outside Curler
+Low Lofted Pass
+Interception
+Phenomenal Pass
+
+Body Measurements
+Leg Length
+9
+Arm Length
+5
+Waist Size
+5
+Chest
+2
+Shoulder Width
+5
+Neck Length
+4

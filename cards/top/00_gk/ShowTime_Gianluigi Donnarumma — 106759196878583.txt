@@ -1,0 +1,80 @@
+Name: Gianluigi Donnarumma
+Position: GK
+Style: Offensive Goalkeeper
+
+Training:
+SHO: 0
+PAS: 0
+DRI: 0
+DEX: 0
+LBS: 0
+AER: 2
+DEF: 0
+GK1: 9
+GK2: 9
+GK3: 12
+Lv: 56
+Manager: Fabio Capello
+
+Attributes:
+Offensive Awareness: 41
+Ball Control: 61
+Dribbling: 48
+Tight Possession: 53
+Low Pass: 58
+Lofted Pass: 60
+Finishing: 42
+Heading: 51
+Place Kicking: 61
+Curl: 51
+Defensive Awareness: 51
+Defensive Engagement: 49
+Tackling: 65
+Aggression: 48
+Goalkeeping: 97
+Gk Catching: 95
+GK Parrying: 95
+GK Reflexes: 100
+GK Reach: 96
+Speed: 58
+Acceleration: 59
+Kicking Power: 72
+Jump: 79
+Balance: 54
+Stamina: 61
+Physical Contact: 66
+
+Skills:
+Gk Low Punt
+GK Long Throw
+GK Penalty Saver
+Captaincy
+
+Biometrics:
+Height: 196
+Weight: 90
+Arm Length: 6
+Shoulder Width: 10
+Neck Length: 5
+Chest: 6
+Neck Size: 6
+Shoulder Height: 5
+Leg Length: 10
+Thigh Size: 9
+Waist Size: 5
+Arm Size: 8
+Calf Size: 8
+Leg Coverage Radius: 190.9
+Arm Coverage Radius: 177.4
+Jumping Height: 277.2
+Torso Collision: 55.6
+Leg Length Based Height: 199
+
+Com Skills:
+—
+
+Other Stats:
+Weak Foot Usage: 1
+Weak Foot Accuracy: 1
+Form: 2
+Injury Resistance: 2

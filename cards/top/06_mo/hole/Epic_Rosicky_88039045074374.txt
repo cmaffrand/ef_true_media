@@ -1,0 +1,111 @@
+Tomáš Rosický
+Hole Player
+Height
+178cm
+Weight
+65kg
+Age
+24
+Foot
+
+B
+
+
+
+
+Ball Protection +3
+
+Agility +1
+
+0
+Condition History
+Arrow Probabilities (%)
+468195958898103103103104104104100
+
+AMF
+0/68
+Level Cap 
+35
+
+Shooting
+7
+
+Passing
+7
+
+Dribbling
+8
+
+Dexterity
+11
+
+Lower Body Strength
+9
+
+Aerial Strength
+
+Defending
+
+GK 1
+
+GK 2
+
+GK 3
+Attacking
+Offensive Awareness		90
+Ball Control	●	93
+Dribbling		91
+Tight Possession	●	95
+Low Pass		88
+Lofted Pass		87
+Finishing	●	88
+Heading		58
+Place Kicking		81
+Curl		85
+Defending
+Defensive Awareness	●	62
+Defensive Engagement		63
+Tackling		63
+Aggression		65
+Goalkeeping		41
+Gk Catching		41
+GK Parrying		41
+GK Reflexes		41
+GK Reach		41
+athleticism
+Speed	●	88
+Acceleration	●	91
+Kicking Power		88
+Jump		64
+Physical Contact	●	70
+Balance	●	92
+Stamina	●	85
+Weak Foot Usage		2
+Weak Foot Acc		2
+Form		2
+Injury Resistance		0
+Skills
+Double Touch
+Marseille Turn
+Sole Control
+Long Range Curler
+Long Range Shooting
+First Time Shot
+One Touch Pass
+Through Passing
+Outside Curler
+Phenomenal Pass
+
+Body Measurements
+Leg Length
+8
+Arm Length
+2
+Waist Size
+4
+Chest
+5
+Shoulder Width
+6
+Neck Length
+4

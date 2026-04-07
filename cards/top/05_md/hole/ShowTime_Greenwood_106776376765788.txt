@@ -1,0 +1,116 @@
+Mason Greenwood
+Hole Player
+Height
+181cm
+Weight
+70kg
+Age
+24
+Foot
+
+A
+
+
+
+
+Breakthrough +3
+
+Technique +1
+
+0
+Condition History
+Arrow Probabilities (%)
+488095958798104104104106106106103
+
+RMF
+0/58
+Level Cap 
+30
+
+Shooting
+9
+
+Passing
+4
+
+Dribbling
+8
+
+Dexterity
+9
+
+Lower Body Strength
+8
+
+Aerial Strength
+0
+
+Defending
+0
+
+GK 1
+0
+
+GK 2
+0
+
+GK 3
+0
+Attacking
+Offensive Awareness		87
+Ball Control	●	95
+Dribbling	●	96
+Tight Possession	●	90
+Low Pass	●	84
+Lofted Pass		84
+Finishing	●	90
+Heading		64
+Place Kicking		84
+Curl		87
+Defending
+Defensive Awareness	●	54
+Defensive Engagement		60
+Tackling		53
+Aggression		56
+Goalkeeping		41
+Gk Catching		41
+GK Parrying		41
+GK Reflexes		41
+GK Reach		41
+athleticism
+Speed	●	91
+Acceleration		93
+Kicking Power	●	93
+Jump		68
+Physical Contact	●	80
+Balance		93
+Stamina		87
+Weak Foot Usage		3
+Weak Foot Acc		3
+Form		1
+Injury Resistance		1
+Skills
+Scissors Feint
+Double Touch
+Marseille Turn
+Chop Turn
+Cut Behind & Turn
+Long Range Curler
+Long Range Shooting
+First Time Shot
+Outside Curler
+Acceleration Burst
+
+Body Measurements
+Leg Length
+10
+Arm Length
+11
+Waist Size
+1
+Chest
+1
+Shoulder Width
+7
+Neck Length
+7

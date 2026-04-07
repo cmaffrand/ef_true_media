@@ -1,0 +1,112 @@
+Giuseppe Bergomi
+Defensive Full-back
+Height
+184cm
+Weight
+74kg
+Age
+25
+Foot
+
+B
+
+
+
+
+Shutdown +3
+
+Duelling +1
+
+0
+Condition History
+Arrow Probabilities (%)
+521071031031029796969093938990
+
+RB
+0/64
+Level Cap 
+33
+
+Shooting
+
+Passing
+4
+
+Dribbling
+3
+
+Dexterity
+8
+
+Lower Body Strength
+8
+
+Aerial Strength
+10
+
+Defending
+9
+
+GK 1
+
+GK 2
+
+GK 3
+Attacking
+Offensive Awareness		72
+Ball Control		76
+Dribbling		75
+Tight Possession		77
+Low Pass		77
+Lofted Pass		77
+Finishing	●	63
+Heading		85
+Place Kicking		58
+Curl		71
+Defending
+Defensive Awareness	●	96
+Defensive Engagement	●	98
+Tackling	●	96
+Aggression		93
+Goalkeeping		41
+Gk Catching		41
+GK Parrying		41
+GK Reflexes		41
+GK Reach		41
+athleticism
+Speed	●	95
+Acceleration		91
+Kicking Power		89
+Jump		90
+Physical Contact		90
+Balance		84
+Stamina	●	92
+Weak Foot Usage		1
+Weak Foot Acc		1
+Form		2
+Injury Resistance		1
+Skills
+Heading
+Man Marking
+Interception
+Captaincy
+Fighting Spirit
+Aerial Superiority
+Blocker
+Sliding Tackle
+Long Reach Tackle
+Fortress
+
+Body Measurements
+Leg Length
+7
+Arm Length
+5
+Waist Size
+4
+Chest
+3
+Shoulder Width
+8
+Neck Length
+8

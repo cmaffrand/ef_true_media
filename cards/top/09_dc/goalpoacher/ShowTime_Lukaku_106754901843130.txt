@@ -1,0 +1,113 @@
+Romelu Lukaku
+Goal Poacher
+Height
+191cm
+Weight
+94kg
+Age
+32
+Foot
+
+C
+
+
+
+
+Striker's Instinct +3
+
+Agility +1
+
+0
+Condition History
+Arrow Probabilities (%)
+528292928493989899102102103104
+
+CF
+0/66
+Level Cap 
+34
+
+Shooting
+7
+
+Passing
+6
+
+Dribbling
+7
+
+Dexterity
+10
+
+Lower Body Strength
+9
+
+Aerial Strength
+4
+
+Defending
+
+GK 1
+1
+
+GK 2
+
+GK 3
+Attacking
+Offensive Awareness	●	93
+Ball Control	●	87
+Dribbling		88
+Tight Possession		83
+Low Pass		80
+Lofted Pass		76
+Finishing	●	92
+Heading		81
+Place Kicking		72
+Curl		76
+Defending
+Defensive Awareness	●	48
+Defensive Engagement		53
+Tackling		52
+Aggression		55
+Goalkeeping		42
+Gk Catching		41
+GK Parrying		41
+GK Reflexes		41
+GK Reach		41
+athleticism
+Speed	●	92
+Acceleration	●	91
+Kicking Power		90
+Jump		77
+Physical Contact		90
+Balance	●	75
+Stamina	●	85
+Weak Foot Usage		2
+Weak Foot Acc		2
+Form		2
+Injury Resistance		0
+Skills
+Heading
+Long Range Curler
+First Time Shot
+One Touch Pass
+Through Passing
+Outside Curler
+Penalty Specialist
+Fighting Spirit
+Aerial Superiority
+Visionary Pass
+
+Body Measurements
+Leg Length
+13
+Arm Length
+11
+Waist Size
+8
+Chest
+9
+Shoulder Width
+12
+Neck Length
+4

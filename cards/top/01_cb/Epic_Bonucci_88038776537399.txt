@@ -1,0 +1,111 @@
+Leonardo Bonucci
+Build Up
+Height
+190cm
+Weight
+82kg
+Age
+29
+Foot
+
+B
+
+
+
+
+Rebuilding +3
+
+Stealing +1
+
+0
+Condition History
+Arrow Probabilities (%)
+531049595989086868384848183
+
+CB
+0/56
+Level Cap 
+29
+
+Shooting
+
+Passing
+
+Dribbling
+
+Dexterity
+8
+
+Lower Body Strength
+8
+
+Aerial Strength
+9
+
+Defending
+9
+
+GK 1
+2
+
+GK 2
+
+GK 3
+Attacking
+Offensive Awareness		66
+Ball Control		69
+Dribbling		66
+Tight Possession		66
+Low Pass	●	80
+Lofted Pass		75
+Finishing	●	64
+Heading		85
+Place Kicking		58
+Curl		63
+Defending
+Defensive Awareness	●	96
+Defensive Engagement	●	96
+Tackling	●	95
+Aggression	●	97
+Goalkeeping		43
+Gk Catching		41
+GK Parrying		41
+GK Reflexes		41
+GK Reach		41
+athleticism
+Speed		85
+Acceleration	●	82
+Kicking Power		84
+Jump		89
+Physical Contact	●	90
+Balance		69
+Stamina		83
+Weak Foot Usage		2
+Weak Foot Acc		2
+Form		2
+Injury Resistance		1
+Skills
+Weighted Pass
+Man Marking
+Interception
+Acrobatic Clearance
+Fighting Spirit
+Aerial Superiority
+Blocker
+Sliding Tackle
+Fortress
+Visionary Pass
+
+Body Measurements
+Leg Length
+7
+Arm Length
+5
+Waist Size
+4
+Chest
+3
+Shoulder Width
+8
+Neck Length
+6

@@ -1,0 +1,113 @@
+Deco
+Orchestrator
+Height
+174cm
+Weight
+73kg
+Age
+29
+Foot
+
+B
+
+
+
+
+Passing +2
+
+No Booster
+
+0
+Condition History
+Arrow Probabilities (%)
+458396969310310510510610310310498
+
+CMF
+0/68
+Level Cap 
+35
+
+Shooting
+8
+
+Passing
+4
+
+Dribbling
+8
+
+Dexterity
+9
+
+Lower Body Strength
+9
+
+Aerial Strength
+0
+
+Defending
+7
+
+GK 1
+
+GK 2
+
+GK 3
+Attacking
+Offensive Awareness		87
+Ball Control		96
+Dribbling		93
+Tight Possession		96
+Low Pass	●	97
+Lofted Pass	●	90
+Finishing	●	85
+Heading		58
+Place Kicking		89
+Curl	●	87
+Defending
+Defensive Awareness	●	71
+Defensive Engagement		70
+Tackling		70
+Aggression		74
+Goalkeeping		41
+Gk Catching		41
+GK Parrying		41
+GK Reflexes		41
+GK Reach		41
+athleticism
+Speed		81
+Acceleration		90
+Kicking Power	●	94
+Jump		60
+Physical Contact		62
+Balance		92
+Stamina		87
+Weak Foot Usage		1
+Weak Foot Acc		2
+Form		2
+Injury Resistance		1
+Skills
+Double Touch
+Marseille Turn
+Cut Behind & Turn
+Long Range Curler
+Long Range Shooting
+Heel Trick
+One Touch Pass
+Through Passing
+Weighted Pass
+Outside Curler
+
+Body Measurements
+Leg Length
+7
+Arm Length
+7
+Waist Size
+8
+Chest
+7
+Shoulder Width
+6
+Neck Length
+5

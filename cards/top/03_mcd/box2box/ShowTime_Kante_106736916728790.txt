@@ -1,0 +1,98 @@
+NGolo Kanté
+Box To Box
+Height
+168cm
+Weight
+68kg
+Age
+34
+Foot
+
+C
+
+
+
+
+Duelling +2
+
+Agility +1
+
+0
+Condition History
+Arrow Probabilities (%)
+46991011011009999999394949085
+
+DMF
+0/76
+Level Cap 
+39
+
+Shooting
+
+Passing
+8
+
+Dribbling
+8
+
+Dexterity
+8
+
+Lower Body Strength
+10
+
+Aerial Strength
+7
+
+Defending
+8
+
+GK 1
+
+GK 2
+
+GK 3
+Attacking
+Offensive Awareness		71
+Ball Control		84
+Dribbling		80
+Tight Possession		89
+Low Pass		84
+Lofted Pass		82
+Finishing	●	63
+Heading		63
+Place Kicking		61
+Curl		63
+Defending
+Defensive Awareness	●	95
+Defensive Engagement		96
+Tackling	●	96
+Aggression		95
+Goalkeeping		41
+Gk Catching		41
+GK Parrying		41
+GK Reflexes		41
+GK Reach		41
+athleticism
+Speed	●	90
+Acceleration	●	88
+Kicking Power		78
+Jump		78
+Physical Contact		76
+Balance	●	95
+Stamina	●	96
+Weak Foot Usage		1
+Weak Foot Acc		1
+Form		1
+Injury Resistance		0
+Skills
+Double Touch
+Cut Behind & Turn
+One Touch Pass
+Through Passing
+Weighted Pass
+Man Marking
+Interception
+Fighting Spirit
+Sliding Tackle
+Fortress

@@ -1,0 +1,111 @@
+Franck Ribéry
+Prolific Winger
+Height
+170cm
+Weight
+72kg
+Age
+30
+Foot
+
+B
+
+
+
+
+Fantasista +2
+
+Off the Ball +1
+
+0
+Condition History
+Arrow Probabilities (%)
+43729191829610310310310510510599
+
+LWF
+0/60
+Level Cap 
+31
+
+Shooting
+7
+
+Passing
+6
+
+Dribbling
+8
+
+Dexterity
+8
+
+Lower Body Strength
+10
+
+Aerial Strength
+
+Defending
+
+GK 1
+
+GK 2
+
+GK 3
+Attacking
+Offensive Awareness	●	85
+Ball Control	●	96
+Dribbling	●	97
+Tight Possession		94
+Low Pass		88
+Lofted Pass		84
+Finishing	●	90
+Heading		54
+Place Kicking		80
+Curl		87
+Defending
+Defensive Awareness	●	50
+Defensive Engagement		54
+Tackling		49
+Aggression		58
+Goalkeeping		41
+Gk Catching		41
+GK Parrying		41
+GK Reflexes		41
+GK Reach		41
+athleticism
+Speed	●	92
+Acceleration	●	94
+Kicking Power		93
+Jump		53
+Physical Contact		66
+Balance	●	94
+Stamina	●	83
+Weak Foot Usage		2
+Weak Foot Acc		3
+Form		2
+Injury Resistance		0
+Skills
+Double Touch
+Flip Flap
+Chop Turn
+Long Range Curler
+Acrobatic Finishing
+First Time Shot
+Through Passing
+Pinpoint Crossing
+Outside Curler
+Momentum Dribbling
+
+Body Measurements
+Leg Length
+9
+Arm Length
+5
+Waist Size
+6
+Chest
+7
+Shoulder Width
+12
+Neck Length
+5

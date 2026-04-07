@@ -1,0 +1,99 @@
+Xabi Alonso
+Orchestrator
+Height
+183cm
+Weight
+80kg
+Age
+33
+Foot
+
+B
+
+
+
+
+Regista +2
+
+Agility +1
+
+0
+Condition History
+Arrow Probabilities (%)
+509610110110110410210310299999894
+
+DMF
+0/64
+Level Cap 
+33
+
+Shooting
+5
+
+Passing
+8
+
+Dribbling
+8
+
+Dexterity
+8
+
+Lower Body Strength
+9
+
+Aerial Strength
+3
+
+Defending
+4
+
+GK 1
+
+GK 2
+
+GK 3
+Attacking
+Offensive Awareness		78
+Ball Control		89
+Dribbling		82
+Tight Possession	●	92
+Low Pass	●	97
+Lofted Pass		95
+Finishing	●	75
+Heading		71
+Place Kicking		88
+Curl		89
+Defending
+Defensive Awareness	●	85
+Defensive Engagement		92
+Tackling	●	83
+Aggression		82
+Goalkeeping		41
+Gk Catching		41
+GK Parrying		41
+GK Reflexes		41
+GK Reach		41
+athleticism
+Speed	●	82
+Acceleration	●	83
+Kicking Power		95
+Jump		75
+Physical Contact		80
+Balance	●	78
+Stamina	●	88
+Weak Foot Usage		1
+Weak Foot Acc		2
+Form		2
+Injury Resistance		1
+Skills
+Long Range Shooting
+One Touch Pass
+Through Passing
+Weighted Pass
+Pinpoint Crossing
+Outside Curler
+Low Lofted Pass
+Penalty Specialist
+Interception
+Blocker

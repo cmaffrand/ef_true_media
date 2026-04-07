@@ -1,0 +1,99 @@
+Roberto Carlos
+Cross Specialist
+Height
+168cm
+Weight
+73kg
+Age
+29
+Foot
+
+B
+
+
+
+
+Crossing +2
+
+Crossing +1
+
+0
+Condition History
+Arrow Probabilities (%)
+48911021029510010510510110310310097
+
+LMF
+0/66
+Level Cap 
+34
+
+Shooting
+6
+
+Passing
+11
+
+Dribbling
+8
+
+Dexterity
+8
+
+Lower Body Strength
+8
+
+Aerial Strength
+1
+
+Defending
+
+GK 1
+
+GK 2
+
+GK 3
+Attacking
+Offensive Awareness		79
+Ball Control		83
+Dribbling		88
+Tight Possession		88
+Low Pass		83
+Lofted Pass	●	90
+Finishing	●	81
+Heading		61
+Place Kicking		87
+Curl	●	96
+Defending
+Defensive Awareness	●	72
+Defensive Engagement		73
+Tackling		74
+Aggression		74
+Goalkeeping		41
+Gk Catching		41
+GK Parrying		41
+GK Reflexes		41
+GK Reach		41
+athleticism
+Speed	●	98
+Acceleration		95
+Kicking Power		98
+Jump		75
+Physical Contact		80
+Balance		90
+Stamina	●	95
+Weak Foot Usage		0
+Weak Foot Acc		1
+Form		2
+Injury Resistance		2
+Skills
+Double Touch
+Long Range Shooting
+First Time Shot
+One Touch Pass
+Through Passing
+Pinpoint Crossing
+Outside Curler
+Long Throw
+Man Marking
+Blocker
+Edged Crossing

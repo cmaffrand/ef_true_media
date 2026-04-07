@@ -1,0 +1,98 @@
+Ronald Koeman
+Destroyer
+Height
+182cm
+Weight
+81kg
+Age
+30
+Foot
+
+B
+
+
+
+
+Rebuilding +3
+
+Shutdown +1
+
+0
+Condition History
+Arrow Probabilities (%)
+521041001001019794949292929193
+
+CB
+0/56
+Level Cap 
+29
+
+Shooting
+
+Passing
+2
+
+Dribbling
+
+Dexterity
+6
+
+Lower Body Strength
+10
+
+Aerial Strength
+8
+
+Defending
+9
+
+GK 1
+1
+
+GK 2
+
+GK 3
+Attacking
+Offensive Awareness		74
+Ball Control		73
+Dribbling		69
+Tight Possession		74
+Low Pass	●	82
+Lofted Pass		80
+Finishing	●	78
+Heading		80
+Place Kicking		82
+Curl		77
+Defending
+Defensive Awareness	●	94
+Defensive Engagement	●	94
+Tackling	●	91
+Aggression	●	92
+Goalkeeping		42
+Gk Catching		41
+GK Parrying		41
+GK Reflexes		41
+GK Reach		41
+athleticism
+Speed	●	89
+Acceleration		80
+Kicking Power		98
+Jump		90
+Physical Contact		90
+Balance		75
+Stamina		91
+Weak Foot Usage		1
+Weak Foot Acc		2
+Form		2
+Injury Resistance		1
+Skills
+Long Range Shooting
+Rising Shots
+Low Lofted Pass
+Man Marking
+Interception
+Fighting Spirit
+Blocker
+Sliding Tackle
+Fortress
+Low Screamer

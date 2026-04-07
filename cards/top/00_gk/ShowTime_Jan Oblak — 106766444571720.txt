@@ -1,0 +1,81 @@
+Name: Jan Oblak
+Position: GK
+Style: Defensive Goalkeeper
+
+Training:
+SHO: 0
+PAS: 0
+DRI: 0
+DEX: 0
+LBS: 0
+AER: 2
+DEF: 0
+GK1: 8
+GK2: 12
+GK3: 8
+Lv: 50
+Manager: Fabio Capello
+
+Attributes:
+Offensive Awareness: 41
+Ball Control: 61
+Dribbling: 44
+Tight Possession: 45
+Low Pass: 64
+Lofted Pass: 66
+Finishing: 42
+Heading: 44
+Place Kicking: 61
+Curl: 52
+Defensive Awareness: 46
+Defensive Engagement: 47
+Tackling: 61
+Aggression: 47
+Goalkeeping: 94
+Gk Catching: 95
+GK Parrying: 95
+GK Reflexes: 94
+GK Reach: 93
+Speed: 54
+Acceleration: 52
+Kicking Power: 72
+Jump: 81
+Balance: 50
+Stamina: 61
+Physical Contact: 76
+
+Skills:
+GK High Punt
+GK Long Throw
+GK Penalty Saver
+Captaincy
+GK Direct Defending
+
+Biometrics:
+Height: 188
+Weight: 87
+Arm Length: 7
+Shoulder Width: 8
+Neck Length: 4
+Chest: 5
+Neck Size: 6
+Shoulder Height: 10
+Leg Length: 7
+Thigh Size: 5
+Waist Size: 3
+Arm Size: 7
+Calf Size: 4
+Leg Coverage Radius: 181.4
+Arm Coverage Radius: 170.9
+Jumping Height: 270.3
+Torso Collision: 52.4
+Leg Length Based Height: 188
+
+Com Skills:
+—
+
+Other Stats:
+Weak Foot Usage: 0
+Weak Foot Accuracy: 0
+Form: 2
+Injury Resistance: 2

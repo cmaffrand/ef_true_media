@@ -1,0 +1,98 @@
+Frank Rijkaard
+Anchor Man
+Height
+190cm
+Weight
+87kg
+Age
+32
+Foot
+
+B
+
+
+
+
+Counter +3
+
+Shutdown +1
+
+0
+Condition History
+Arrow Probabilities (%)
+521021001001029996969493939291
+
+DMF
+0/64
+Level Cap 
+33
+
+Shooting
+
+Passing
+3
+
+Dribbling
+8
+
+Dexterity
+8
+
+Lower Body Strength
+8
+
+Aerial Strength
+4
+
+Defending
+11
+
+GK 1
+
+GK 2
+
+GK 3
+Attacking
+Offensive Awareness		76
+Ball Control		83
+Dribbling		80
+Tight Possession		82
+Low Pass	●	84
+Lofted Pass		80
+Finishing	●	68
+Heading		80
+Place Kicking		71
+Curl		71
+Defending
+Defensive Awareness	●	92
+Defensive Engagement	●	92
+Tackling	●	91
+Aggression		87
+Goalkeeping		41
+Gk Catching		41
+GK Parrying		41
+GK Reflexes		41
+GK Reach		41
+athleticism
+Speed	●	84
+Acceleration		80
+Kicking Power		90
+Jump		81
+Physical Contact	●	91
+Balance		76
+Stamina		92
+Weak Foot Usage		1
+Weak Foot Acc		3
+Form		2
+Injury Resistance		2
+Skills
+One Touch Pass
+Through Passing
+Weighted Pass
+Low Lofted Pass
+Man Marking
+Interception
+Fighting Spirit
+Aerial Superiority
+Blocker
+Visionary Pass

@@ -1,0 +1,113 @@
+Mark van Bommel
+Orchestrator
+Height
+187cm
+Weight
+85kg
+Age
+28
+Foot
+
+B
+
+
+
+
+Passing +3
+
+Agility +1
+
+0
+Condition History
+Arrow Probabilities (%)
+5210010210210210310210210098989794
+
+CMF
+0/68
+Level Cap 
+35
+
+Shooting
+7
+
+Passing
+7
+
+Dribbling
+8
+
+Dexterity
+8
+
+Lower Body Strength
+8
+
+Aerial Strength
+6
+
+Defending
+4
+
+GK 1
+
+GK 2
+
+GK 3
+Attacking
+Offensive Awareness		75
+Ball Control		85
+Dribbling		83
+Tight Possession		84
+Low Pass	●	93
+Lofted Pass	●	93
+Finishing	●	75
+Heading		82
+Place Kicking		82
+Curl	●	88
+Defending
+Defensive Awareness	●	82
+Defensive Engagement		82
+Tackling		84
+Aggression		87
+Goalkeeping		41
+Gk Catching		41
+GK Parrying		41
+GK Reflexes		41
+GK Reach		41
+athleticism
+Speed	●	88
+Acceleration	●	85
+Kicking Power	●	92
+Jump		78
+Physical Contact		87
+Balance	●	74
+Stamina	●	91
+Weak Foot Usage		2
+Weak Foot Acc		2
+Form		2
+Injury Resistance		1
+Skills
+One Touch Pass
+Through Passing
+Weighted Pass
+Outside Curler
+Low Lofted Pass
+Interception
+Fighting Spirit
+Blocker
+Sliding Tackle
+Phenomenal Pass
+
+Body Measurements
+Leg Length
+7
+Arm Length
+4
+Waist Size
+7
+Chest
+5
+Shoulder Width
+5
+Neck Length
+4

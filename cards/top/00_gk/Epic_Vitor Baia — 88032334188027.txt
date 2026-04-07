@@ -1,0 +1,79 @@
+Name: Vitor Baia
+Position: GK
+Style: Defensive Goalkeeper
+
+Training:
+SHO: 0
+PAS: 0
+DRI: 0
+DEX: 0
+LBS: 0
+AER: 1
+DEF: 0
+GK1: 8
+GK2: 10
+GK3: 11
+Lv: 52
+Manager: Fabio Capello
+
+Attributes:
+Offensive Awareness: 41
+Ball Control: 56
+Dribbling: 46
+Tight Possession: 48
+Low Pass: 63
+Lofted Pass: 63
+Finishing: 42
+Heading: 54
+Place Kicking: 53
+Curl: 45
+Defensive Awareness: 50
+Defensive Engagement: 48
+Tackling: 62
+Aggression: 44
+Goalkeeping: 93
+Gk Catching: 91
+GK Parrying: 92
+GK Reflexes: 97
+GK Reach: 91
+Speed: 53
+Acceleration: 61
+Kicking Power: 75
+Jump: 80
+Balance: 60
+Stamina: 56
+Physical Contact: 73
+
+Skills:
+Gk Low Punt
+GK High Punt
+GK Penalty Saver
+
+Biometrics:
+Height: 184
+Weight: 78
+Arm Length: 7
+Shoulder Width: 9
+Neck Length: 6
+Chest: 7
+Neck Size: 8
+Shoulder Height: 9
+Leg Length: 10
+Thigh Size: 8
+Waist Size: 6
+Arm Size: 10
+Calf Size: 8
+Leg Coverage Radius: 179.2
+Arm Coverage Radius: 167.4
+Jumping Height: 266.1
+Torso Collision: 51.9
+Leg Length Based Height: 187
+
+Com Skills:
+—
+
+Other Stats:
+Weak Foot Usage: 3
+Weak Foot Accuracy: 3
+Form: 2
+Injury Resistance: 1

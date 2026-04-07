@@ -1,0 +1,111 @@
+A. Costacurta
+Defensive Full-back
+Height
+182cm
+Weight
+75kg
+Age
+37
+Foot
+
+B
+
+
+
+
+Duelling +2
+
+Shutdown +1
+
+0
+Condition History
+Arrow Probabilities (%)
+511021011011029896969291918886
+
+LB
+0/72
+Level Cap 
+37
+
+Shooting
+0
+
+Passing
+3
+
+Dribbling
+3
+
+Dexterity
+10
+
+Lower Body Strength
+9
+
+Aerial Strength
+9
+
+Defending
+10
+
+GK 1
+
+GK 2
+
+GK 3
+Attacking
+Offensive Awareness		75
+Ball Control		77
+Dribbling		81
+Tight Possession		75
+Low Pass		83
+Lofted Pass		90
+Finishing	●	59
+Heading		92
+Place Kicking		60
+Curl		73
+Defending
+Defensive Awareness	●	93
+Defensive Engagement	●	100
+Tackling	●	90
+Aggression		82
+Goalkeeping		41
+Gk Catching		41
+GK Parrying		41
+GK Reflexes		41
+GK Reach		41
+athleticism
+Speed	●	85
+Acceleration		80
+Kicking Power		84
+Jump		82
+Physical Contact		90
+Balance		80
+Stamina	●	95
+Weak Foot Usage		3
+Weak Foot Acc		3
+Form		2
+Injury Resistance		2
+Skills
+Heading
+Man Marking
+Interception
+Acrobatic Clearance
+Captaincy
+Fighting Spirit
+Blocker
+Sliding Tackle
+
+Body Measurements
+Leg Length
+6
+Arm Length
+7
+Waist Size
+8
+Chest
+7
+Shoulder Width
+6
+Neck Length
+9

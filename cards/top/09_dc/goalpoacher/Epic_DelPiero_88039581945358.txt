@@ -1,0 +1,112 @@
+Alessandro Del Piero
+Goal Poacher
+Height
+173cm
+Weight
+73kg
+Age
+33
+Foot
+
+B
+
+
+
+
+Shooting +3
+
+Free-kick Taking +1
+
+0
+Condition History
+Arrow Probabilities (%)
+477592928294102102102106106107106
+
+CF
+0/66
+Level Cap 
+34
+
+Shooting
+8
+
+Passing
+6
+
+Dribbling
+8
+
+Dexterity
+8
+
+Lower Body Strength
+10
+
+Aerial Strength
+4
+
+Defending
+
+GK 1
+
+GK 2
+
+GK 3
+Attacking
+Offensive Awareness		92
+Ball Control	●	94
+Dribbling		92
+Tight Possession		91
+Low Pass		79
+Lofted Pass		76
+Finishing	●	96
+Heading		71
+Place Kicking	●	95
+Curl	●	97
+Defending
+Defensive Awareness	●	47
+Defensive Engagement		47
+Tackling		45
+Aggression		50
+Goalkeeping		41
+Gk Catching		41
+GK Parrying		41
+GK Reflexes		41
+GK Reach		41
+athleticism
+Speed		93
+Acceleration		95
+Kicking Power	●	94
+Jump		72
+Physical Contact	●	75
+Balance		95
+Stamina		87
+Weak Foot Usage		2
+Weak Foot Acc		2
+Form		1
+Injury Resistance		1
+Skills
+Double Touch
+Marseille Turn
+Long Range Curler
+Long Range Shooting
+Rising Shots
+First Time Shot
+Through Passing
+Gamesmanship
+Blitz Curler
+Momentum Dribbling
+
+Body Measurements
+Leg Length
+10
+Arm Length
+6
+Waist Size
+10
+Chest
+10
+Shoulder Width
+9
+Neck Length
+4

@@ -1,0 +1,112 @@
+Dimitar Berbatov
+Deep-Lying Forward
+Height
+189cm
+Weight
+79kg
+Age
+30
+Foot
+
+B
+
+
+
+
+Striker's Instinct +2
+
+Agility +1
+
+0
+Condition History
+Arrow Probabilities (%)
+4975888882929797100101101104103
+
+CF
+0/60
+Level Cap 
+31
+
+Shooting
+8
+
+Passing
+6
+
+Dribbling
+8
+
+Dexterity
+8
+
+Lower Body Strength
+8
+
+Aerial Strength
+4
+
+Defending
+
+GK 1
+
+GK 2
+
+GK 3
+Attacking
+Offensive Awareness	●	93
+Ball Control	●	95
+Dribbling		83
+Tight Possession		91
+Low Pass		83
+Lofted Pass		75
+Finishing	●	93
+Heading		80
+Place Kicking		80
+Curl		82
+Defending
+Defensive Awareness	●	47
+Defensive Engagement		43
+Tackling		43
+Aggression		54
+Goalkeeping		41
+Gk Catching		41
+GK Parrying		41
+GK Reflexes		41
+GK Reach		41
+athleticism
+Speed	●	88
+Acceleration	●	82
+Kicking Power		91
+Jump		68
+Physical Contact		81
+Balance	●	85
+Stamina	●	83
+Weak Foot Usage		1
+Weak Foot Acc		2
+Form		2
+Injury Resistance		1
+Skills
+Double Touch
+Marseille Turn
+Sombrero
+Acrobatic Finishing
+Heel Trick
+First Time Shot
+One Touch Pass
+Outside Curler
+No Look Pass
+Aerial Superiority
+
+Body Measurements
+Leg Length
+11
+Arm Length
+9
+Waist Size
+5
+Chest
+7
+Shoulder Width
+11
+Neck Length
+5

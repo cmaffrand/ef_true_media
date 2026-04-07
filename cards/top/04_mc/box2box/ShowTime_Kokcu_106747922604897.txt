@@ -1,0 +1,114 @@
+Orkun Kökçü
+Box To Box
+Height
+175cm
+Weight
+68kg
+Age
+25
+Foot
+
+A
+
+
+
+
+Balancer +3
+
+No Booster
+
+0
+Condition History
+Arrow Probabilities (%)
+48909999961001021029998989793
+
+CMF
+0/70
+Level Cap 
+36
+
+Shooting
+4
+
+Passing
+6
+
+Dribbling
+6
+
+Dexterity
+9
+
+Lower Body Strength
+10
+
+Aerial Strength
+5
+
+Defending
+7
+
+GK 1
+1
+
+GK 2
+
+GK 3
+Attacking
+Offensive Awareness	●	80
+Ball Control		87
+Dribbling		83
+Tight Possession		84
+Low Pass		87
+Lofted Pass		87
+Finishing	●	75
+Heading		59
+Place Kicking		84
+Curl		89
+Defending
+Defensive Awareness	●	78
+Defensive Engagement		76
+Tackling		75
+Aggression		83
+Goalkeeping		42
+Gk Catching		41
+GK Parrying		41
+GK Reflexes		41
+GK Reach		41
+athleticism
+Speed		87
+Acceleration	●	91
+Kicking Power		93
+Jump		73
+Physical Contact		70
+Balance		89
+Stamina	●	98
+Weak Foot Usage		2
+Weak Foot Acc		2
+Form		2
+Injury Resistance		2
+Skills
+Cut Behind & Turn
+Sole Control
+Long Range Shooting
+Dipping Shot
+One Touch Pass
+Through Passing
+Weighted Pass
+Low Lofted Pass
+Penalty Specialist
+Visionary Pass
+
+Body Measurements
+Leg Length
+7
+Arm Length
+8
+Waist Size
+8
+Chest
+7
+Shoulder Width
+10
+Neck Length
+7

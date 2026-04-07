@@ -1,0 +1,87 @@
+Name: Clarence Seedorf
+Position: DMF
+Style: Box To Box
+
+Training:
+SHO: 0
+PAS: 6
+DRI: 6
+DEX: 8
+LBS: 8
+AER: 8
+DEF: 8
+GK1: 0
+GK2: 0
+GK3: 0
+Lv: 64
+Manager: Fabio Capello
+
+Attributes:
+Offensive Awareness: 77
+Ball Control: 90
+Dribbling: 90
+Tight Possession: 91
+Low Pass: 89
+Lofted Pass: 87
+Finishing: 68
+Heading: 75
+Place Kicking: 74
+Curl: 74
+Defensive Awareness: 90
+Defensive Engagement: 91
+Tackling: 85
+Aggression: 85
+Goalkeeping: 41
+Gk Catching: 41
+GK Parrying: 41
+GK Reflexes: 41
+GK Reach: 41
+Speed: 90
+Acceleration: 90
+Kicking Power: 85
+Jump: 80
+Balance: 87
+Stamina: 95
+Physical Contact: 87
+
+Skills:
+Double Touch
+Marseille Turn
+Long Range Shooting
+One Touch Pass
+Through Passing
+Man Marking
+Interception
+Fighting Spirit
+Blocker
+Phenomenal Pass
+
+Biometrics:
+Height: 177
+Weight: 80
+Arm Length: 7
+Shoulder Width: 11
+Neck Length: 7
+Chest: 9
+Neck Size: 8
+Shoulder Height: 0
+Leg Length: 9
+Thigh Size: 14
+Waist Size: 8
+Arm Size: 10
+Calf Size: 12
+Leg Coverage Radius: 171.9
+Arm Coverage Radius: 161.4
+Jumping Height: 259.4
+Torso Collision: 50.9
+Leg Length Based Height: 179
+
+Com Skills:
+Incisive Run
+Early Crosser
+
+Other Stats:
+Weak Foot Usage: 3
+Weak Foot Accuracy: 3
+Form: 2
+Injury Resistance: 2

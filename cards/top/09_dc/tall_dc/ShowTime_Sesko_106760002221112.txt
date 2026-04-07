@@ -1,0 +1,113 @@
+Benjamin Šeško
+Goal Poacher
+Height
+195cm
+Weight
+86kg
+Age
+22
+Foot
+
+C
+
+
+
+
+Striker's Instinct +3
+
+Aerial +1
+
+0
+Condition History
+Arrow Probabilities (%)
+548490908489939395100100101105
+
+CF
+0/66
+Level Cap 
+34
+
+Shooting
+8
+
+Passing
+2
+
+Dribbling
+8
+
+Dexterity
+8
+
+Lower Body Strength
+8
+
+Aerial Strength
+9
+
+Defending
+
+GK 1
+1
+
+GK 2
+
+GK 3
+Attacking
+Offensive Awareness	●	90
+Ball Control	●	85
+Dribbling		87
+Tight Possession		83
+Low Pass		70
+Lofted Pass		64
+Finishing	●	92
+Heading	●	90
+Place Kicking		66
+Curl		69
+Defending
+Defensive Awareness	●	48
+Defensive Engagement		63
+Tackling		50
+Aggression		69
+Goalkeeping		42
+Gk Catching		41
+GK Parrying		41
+GK Reflexes		41
+GK Reach		41
+athleticism
+Speed		92
+Acceleration	●	90
+Kicking Power		92
+Jump	●	90
+Physical Contact	●	92
+Balance		74
+Stamina		83
+Weak Foot Usage		2
+Weak Foot Acc		3
+Form		2
+Injury Resistance		1
+Skills
+Heading
+Long Range Curler
+Long Range Shooting
+Acrobatic Finishing
+First Time Shot
+One Touch Pass
+Through Passing
+Aerial Superiority
+Phenomenal Finishing
+Bullet Header
+
+Body Measurements
+Leg Length
+9
+Arm Length
+7
+Waist Size
+5
+Chest
+5
+Shoulder Width
+7
+Neck Length
+8

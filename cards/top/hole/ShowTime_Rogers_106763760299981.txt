@@ -1,0 +1,111 @@
+Morgan Rogers
+Hole Player
+Height
+187cm
+Weight
+80kg
+Age
+23
+Foot
+
+A
+
+
+
+
+Ball Protection +3
+
+Accuracy +1
+
+0
+Condition History
+Arrow Probabilities (%)
+508696969199103103103104104105103
+
+AMF
+0/64
+Level Cap 
+33
+
+Shooting
+8
+
+Passing
+8
+
+Dribbling
+8
+
+Dexterity
+9
+
+Lower Body Strength
+8
+
+Aerial Strength
+1
+
+Defending
+
+GK 1
+
+GK 2
+
+GK 3
+Attacking
+Offensive Awareness		87
+Ball Control	●	88
+Dribbling		92
+Tight Possession	●	91
+Low Pass	●	90
+Lofted Pass	●	84
+Finishing	●	90
+Heading		58
+Place Kicking		71
+Curl		81
+Defending
+Defensive Awareness	●	61
+Defensive Engagement		67
+Tackling		62
+Aggression		69
+Goalkeeping		41
+Gk Catching		41
+GK Parrying		41
+GK Reflexes		41
+GK Reach		41
+athleticism
+Speed		91
+Acceleration		90
+Kicking Power	●	94
+Jump		72
+Physical Contact	●	84
+Balance	●	90
+Stamina		87
+Weak Foot Usage		2
+Weak Foot Acc		2
+Form		2
+Injury Resistance		1
+Skills
+Scissors Feint
+Double Touch
+Sole Control
+Long Range Curler
+Long Range Shooting
+First Time Shot
+One Touch Pass
+Through Passing
+Low Screamer
+
+Body Measurements
+Leg Length
+11
+Arm Length
+7
+Waist Size
+6
+Chest
+6
+Shoulder Width
+7
+Neck Length
+5

@@ -1,0 +1,86 @@
+Name: Johan Cruyff
+Position: CF
+Style: Deep Lying Forward
+
+Training:
+SHO: 7
+PAS: 9
+DRI: 7
+DEX: 7
+LBS: 10
+AER: 3
+DEF: 0
+GK1: 0
+GK2: 0
+GK3: 0
+Lv: 66
+Manager: Fabio Capello
+
+Attributes:
+Offensive Awareness: 91
+Ball Control: 96
+Dribbling: 92
+Tight Possession: 93
+Low Pass: 91
+Lofted Pass: 88
+Finishing: 92
+Heading: 73
+Place Kicking: 82
+Curl: 87
+Defensive Awareness: 53
+Defensive Engagement: 53
+Tackling: 51
+Aggression: 54
+Goalkeeping: 41
+Gk Catching: 41
+GK Parrying: 41
+GK Reflexes: 41
+GK Reach: 41
+Speed: 93
+Acceleration: 95
+Kicking Power: 90
+Jump: 82
+Balance: 90
+Stamina: 88
+Physical Contact: 81
+
+Skills:
+Marseille Turn
+Cut Behind & Turn
+Long Range Curler
+Acrobatic Finishing
+Heel Trick
+First Time Shot
+One Touch Pass
+Outside Curler
+Momentum Dribbling
+Phenomenal Pass
+
+Biometrics:
+Height: 180
+Weight: 74
+Arm Length: 6
+Shoulder Width: 10
+Neck Length: 10
+Chest: 3
+Neck Size: 2
+Shoulder Height: 3
+Leg Length: 8
+Thigh Size: 8
+Waist Size: 2
+Arm Size: 3
+Calf Size: 8
+Leg Coverage Radius: 174.2
+Arm Coverage Radius: 163.0
+Jumping Height: 264.5
+Torso Collision: 50.7
+Leg Length Based Height: 181
+
+Com Skills:
+Mazing Run
+
+Other Stats:
+Weak Foot Usage: 1
+Weak Foot Accuracy: 3
+Form: 2
+Injury Resistance: 1

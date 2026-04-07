@@ -1,0 +1,113 @@
+Kobbie Mainoo
+Box To Box
+Height
+175cm
+Weight
+65kg
+Age
+20
+Foot
+
+C
+
+
+
+
+Ball Protection +3
+
+Off the Ball +1
+
+0
+Condition History
+Arrow Probabilities (%)
+49951021029910310410510110210210096
+
+CMF
+0/68
+Level Cap 
+35
+
+Shooting
+6
+
+Passing
+8
+
+Dribbling
+7
+
+Dexterity
+9
+
+Lower Body Strength
+9
+
+Aerial Strength
+4
+
+Defending
+4
+
+GK 1
+
+GK 2
+
+GK 3
+Attacking
+Offensive Awareness	●	80
+Ball Control	●	90
+Dribbling		87
+Tight Possession	●	92
+Low Pass		90
+Lofted Pass		87
+Finishing	●	75
+Heading		68
+Place Kicking		72
+Curl		79
+Defending
+Defensive Awareness	●	81
+Defensive Engagement		82
+Tackling		80
+Aggression		82
+Goalkeeping		41
+Gk Catching		41
+GK Parrying		41
+GK Reflexes		41
+GK Reach		41
+athleticism
+Speed	●	91
+Acceleration	●	91
+Kicking Power		87
+Jump		78
+Physical Contact	●	81
+Balance	●	93
+Stamina	●	95
+Weak Foot Usage		2
+Weak Foot Acc		2
+Form		1
+Injury Resistance		0
+Skills
+Double Touch
+Long Range Curler
+One Touch Pass
+Through Passing
+Outside Curler
+Low Lofted Pass
+Man Marking
+Interception
+Fighting Spirit
+Phenomenal Pass
+
+Body Measurements
+Leg Length
+12
+Arm Length
+11
+Waist Size
+5
+Chest
+7
+Shoulder Width
+7
+Neck Length
+7

@@ -1,0 +1,113 @@
+Andrew Robertson
+Offensive Wingback
+Height
+178cm
+Weight
+64kg
+Age
+31
+Foot
+
+C
+
+
+
+
+Crossing +3
+
+Ball-carrying +1
+
+0
+Condition History
+Arrow Probabilities (%)
+4894101101981001011019797979490
+
+LB
+0/68
+Level Cap 
+35
+
+Shooting
+8
+
+Passing
+7
+
+Dribbling
+8
+
+Dexterity
+8
+
+Lower Body Strength
+8
+
+Aerial Strength
+4
+
+Defending
+5
+
+GK 1
+
+GK 2
+
+GK 3
+Attacking
+Offensive Awareness		78
+Ball Control		84
+Dribbling	●	80
+Tight Possession	●	85
+Low Pass		87
+Lofted Pass	●	92
+Finishing	●	69
+Heading		66
+Place Kicking		75
+Curl	●	91
+Defending
+Defensive Awareness	●	80
+Defensive Engagement		87
+Tackling		81
+Aggression		89
+Goalkeeping		41
+Gk Catching		41
+GK Parrying		41
+GK Reflexes		41
+GK Reach		41
+athleticism
+Speed	●	91
+Acceleration		90
+Kicking Power		87
+Jump		70
+Physical Contact		76
+Balance	●	79
+Stamina	●	94
+Weak Foot Usage		0
+Weak Foot Acc		1
+Form		1
+Injury Resistance		0
+Skills
+One Touch Pass
+Through Passing
+Weighted Pass
+Pinpoint Crossing
+Man Marking
+Interception
+Captaincy
+Fighting Spirit
+Sliding Tackle
+Edged Crossing
+
+Body Measurements
+Leg Length
+7
+Arm Length
+7
+Waist Size
+4
+Chest
+7
+Shoulder Width
+7
+Neck Length
+6

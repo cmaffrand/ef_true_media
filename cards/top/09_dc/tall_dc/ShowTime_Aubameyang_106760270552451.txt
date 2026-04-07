@@ -1,0 +1,112 @@
+Pierre Aubameyang
+Goal Poacher
+Height
+187cm
+Weight
+80kg
+Age
+36
+Foot
+
+D
+
+
+
+
+Off the Ball +3
+
+Agility +1
+
+0
+Condition History
+Arrow Probabilities (%)
+49768989798794949410010099101
+
+CF
+0/62
+Level Cap 
+32
+
+Shooting
+8
+
+Passing
+2
+
+Dribbling
+8
+
+Dexterity
+10
+
+Lower Body Strength
+9
+
+Aerial Strength
+3
+
+Defending
+
+GK 1
+
+GK 2
+
+GK 3
+Attacking
+Offensive Awareness	●	95
+Ball Control		83
+Dribbling		87
+Tight Possession		80
+Low Pass		70
+Lofted Pass		65
+Finishing	●	91
+Heading		70
+Place Kicking		74
+Curl		81
+Defending
+Defensive Awareness	●	47
+Defensive Engagement		49
+Tackling		50
+Aggression		51
+Goalkeeping		41
+Gk Catching		41
+GK Parrying		41
+GK Reflexes		41
+GK Reach		41
+athleticism
+Speed	●	96
+Acceleration	●	94
+Kicking Power		84
+Jump		80
+Physical Contact		75
+Balance	●	81
+Stamina	●	87
+Weak Foot Usage		1
+Weak Foot Acc		2
+Form		0
+Injury Resistance		1
+Skills
+Scissors Feint
+Long Range Curler
+Chip Shot Control
+Knuckle Shot
+Dipping Shot
+Acrobatic Finishing
+Heel Trick
+First Time Shot
+Outside Curler
+Acceleration Burst
+
+Body Measurements
+Leg Length
+11
+Arm Length
+8
+Waist Size
+5
+Chest
+6
+Shoulder Width
+5
+Neck Length
+7

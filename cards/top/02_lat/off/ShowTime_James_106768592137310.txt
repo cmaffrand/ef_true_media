@@ -1,0 +1,112 @@
+Reece James
+Offensive Wingback
+Height
+182cm
+Weight
+82kg
+Age
+26
+Foot
+
+A
+
+
+
+
+Strength +3
+
+Crossing +1
+
+0
+Condition History
+Arrow Probabilities (%)
+511011041041011011021029898989594
+
+RB
+0/64
+Level Cap 
+33
+
+Shooting
+3
+
+Passing
+7
+
+Dribbling
+5
+
+Dexterity
+8
+
+Lower Body Strength
+9
+
+Aerial Strength
+5
+
+Defending
+8
+
+GK 1
+
+GK 2
+
+GK 3
+Attacking
+Offensive Awareness		80
+Ball Control		80
+Dribbling		80
+Tight Possession		81
+Low Pass		87
+Lofted Pass	●	91
+Finishing	●	70
+Heading		72
+Place Kicking		78
+Curl	●	93
+Defending
+Defensive Awareness	●	84
+Defensive Engagement		85
+Tackling		87
+Aggression		85
+Goalkeeping		41
+Gk Catching		41
+GK Parrying		41
+GK Reflexes		41
+GK Reach		41
+athleticism
+Speed	●	93
+Acceleration		87
+Kicking Power	●	95
+Jump	●	80
+Physical Contact	●	90
+Balance		83
+Stamina	●	94
+Weak Foot Usage		1
+Weak Foot Acc		1
+Form		1
+Injury Resistance		0
+Skills
+One Touch Pass
+Through Passing
+Pinpoint Crossing
+Outside Curler
+Low Lofted Pass
+Interception
+Captaincy
+Fighting Spirit
+Edged Crossing
+Attack Trigger
+
+Leg Length
+11
+Arm Length
+11
+Waist Size
+4
+Chest
+11
+Shoulder Width
+11
+Neck Length
+4

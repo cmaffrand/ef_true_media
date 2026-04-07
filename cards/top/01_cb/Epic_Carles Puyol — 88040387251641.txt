@@ -1,0 +1,87 @@
+Name: Carles Puyol
+Position: CB
+Style: Destroyer
+
+Training:
+SHO: 0
+PAS: 0
+DRI: 0
+DEX: 9
+LBS: 10
+AER: 8
+DEF: 9
+GK1: 0
+GK2: 0
+GK3: 0
+Lv: 60
+Manager: Fabio Capello
+
+Attributes:
+Offensive Awareness: 62
+Ball Control: 66
+Dribbling: 62
+Tight Possession: 64
+Low Pass: 72
+Lofted Pass: 70
+Finishing: 60
+Heading: 89
+Place Kicking: 53
+Curl: 60
+Defensive Awareness: 97
+Defensive Engagement: 97
+Tackling: 97
+Aggression: 96
+Goalkeeping: 41
+Gk Catching: 41
+GK Parrying: 41
+GK Reflexes: 41
+GK Reach: 41
+Speed: 90
+Acceleration: 88
+Kicking Power: 84
+Jump: 95
+Balance: 81
+Stamina: 88
+Physical Contact: 93
+
+Skills:
+Man Marking
+Interception
+Acrobatic Clearance
+Captaincy
+Fighting Spirit
+Blocker
+Aerial Superiority
+Sliding Tackle
+Fortress
+Aerial Fort
+
+Biometrics:
+Height: 178
+Weight: 80
+Arm Length: 5
+Shoulder Width: 7
+Neck Length: 6
+Chest: 12
+Neck Size: 12
+Shoulder Height: 6
+Leg Length: 8
+Thigh Size: 9
+Waist Size: 8
+Arm Size: 9
+Calf Size: 7
+Leg Coverage Radius: 172.3
+Arm Coverage Radius: 159.6
+Jumping Height: 270.0
+Torso Collision: 50.0
+Leg Length Based Height: 179
+
+Com Skills:
+Speeding Bullet
+Early Crosser
+
+Other Stats:
+Weak Foot Usage: 1
+Weak Foot Accuracy: 2
+Form: 2
+Injury Resistance: 1

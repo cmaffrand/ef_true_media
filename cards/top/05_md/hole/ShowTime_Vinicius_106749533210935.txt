@@ -1,0 +1,98 @@
+Vinícius Júnior
+Hole Player
+Height
+176cm
+Weight
+73kg
+Age
+25
+Foot
+
+C
+
+
+
+
+Agility +3
+
+Accuracy +1
+
+0
+Condition History
+Arrow Probabilities (%)
+467494948296105105103107107105101
+
+LMF
+0/70
+Level Cap 
+36
+
+Shooting
+4
+
+Passing
+6
+
+Dribbling
+10
+
+Dexterity
+10
+
+Lower Body Strength
+11
+
+Aerial Strength
+1
+
+Defending
+
+GK 1
+
+GK 2
+
+GK 3
+Attacking
+Offensive Awareness		90
+Ball Control		96
+Dribbling		96
+Tight Possession		95
+Low Pass	●	83
+Lofted Pass	●	81
+Finishing	●	85
+Heading		52
+Place Kicking		66
+Curl		80
+Defending
+Defensive Awareness	●	47
+Defensive Engagement		49
+Tackling		46
+Aggression		49
+Goalkeeping		41
+Gk Catching		41
+GK Parrying		41
+GK Reflexes		41
+GK Reach		41
+athleticism
+Speed	●	99
+Acceleration	●	99
+Kicking Power	●	93
+Jump		65
+Physical Contact		70
+Balance	●	97
+Stamina	●	91
+Weak Foot Usage		1
+Weak Foot Acc		2
+Form		2
+Injury Resistance		1
+Skills
+Double Touch
+Flip Flap
+Sole Control
+Long Range Curler
+Long Range Shooting
+Through Passing
+Pinpoint Crossing
+Outside Curler
+Momentum Dribbling
+Visionary Pass

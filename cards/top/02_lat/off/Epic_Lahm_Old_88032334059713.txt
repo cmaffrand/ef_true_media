@@ -1,0 +1,113 @@
+Philipp Lahm
+Offensive Wingback
+Height
+170cm
+Weight
+66kg
+Age
+31
+Foot
+
+B
+
+
+
+
+Crossing +2
+
+Crossing +1
+
+0
+Condition History
+Arrow Probabilities (%)
+469510410410010410610610099999588
+
+RB
+0/68
+Level Cap 
+35
+
+Shooting
+7
+
+Passing
+8
+
+Dribbling
+7
+
+Dexterity
+8
+
+Lower Body Strength
+8
+
+Aerial Strength
+0
+
+Defending
+8
+
+GK 1
+
+GK 2
+
+GK 3
+Attacking
+Offensive Awareness		73
+Ball Control		84
+Dribbling		87
+Tight Possession		91
+Low Pass		94
+Lofted Pass	●	96
+Finishing	●	70
+Heading		56
+Place Kicking		73
+Curl	●	95
+Defending
+Defensive Awareness	●	93
+Defensive Engagement		92
+Tackling		89
+Aggression		83
+Goalkeeping		41
+Gk Catching		41
+GK Parrying		41
+GK Reflexes		41
+GK Reach		41
+athleticism
+Speed	●	90
+Acceleration		94
+Kicking Power		80
+Jump		72
+Physical Contact		59
+Balance		93
+Stamina	●	97
+Weak Foot Usage		2
+Weak Foot Acc		3
+Form		2
+Injury Resistance		2
+Skills
+Long Range Curler
+Rising Shots
+One Touch Pass
+Through Passing
+Pinpoint Crossing
+Outside Curler
+Interception
+Captaincy
+Fighting Spirit
+Edged Crossing
+
+Body Measurements
+Leg Length
+8
+Arm Length
+6
+Waist Size
+4
+Chest
+7
+Shoulder Width
+8
+Neck Length
+6

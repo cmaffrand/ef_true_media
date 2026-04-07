@@ -1,0 +1,98 @@
+Giorgio Chiellini
+Destroyer
+Height
+187cm
+Weight
+85kg
+Age
+31
+Foot
+
+B
+
+
+
+
+Rebuilding +2
+
+Shutdown +1
+
+0
+Condition History
+Arrow Probabilities (%)
+521039393958581817779797478
+
+CB
+0/56
+Level Cap 
+29
+
+Shooting
+
+Passing
+3
+
+Dribbling
+
+Dexterity
+8
+
+Lower Body Strength
+9
+
+Aerial Strength
+8
+
+Defending
+8
+
+GK 1
+2
+
+GK 2
+
+GK 3
+Attacking
+Offensive Awareness		64
+Ball Control		62
+Dribbling		60
+Tight Possession		62
+Low Pass	●	72
+Lofted Pass		70
+Finishing	●	57
+Heading		83
+Place Kicking		52
+Curl		54
+Defending
+Defensive Awareness	●	96
+Defensive Engagement	●	95
+Tackling	●	94
+Aggression	●	95
+Goalkeeping		43
+Gk Catching		41
+GK Parrying		41
+GK Reflexes		41
+GK Reach		41
+athleticism
+Speed	●	88
+Acceleration		80
+Kicking Power		81
+Jump		93
+Physical Contact		94
+Balance		64
+Stamina		87
+Weak Foot Usage		1
+Weak Foot Acc		1
+Form		2
+Injury Resistance		2
+Skills
+Heading
+One Touch Pass
+Man Marking
+Interception
+Acrobatic Clearance
+Captaincy
+Fighting Spirit
+Aerial Superiority
+Blocker
+Sliding Tackle

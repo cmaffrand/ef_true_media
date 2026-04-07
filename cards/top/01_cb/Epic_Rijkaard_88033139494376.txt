@@ -1,0 +1,112 @@
+Frank Rijkaard
+Build Up
+Height
+190cm
+Weight
+80kg
+Age
+26
+Foot
+
+B
+
+
+
+
+Duelling +2
+
+Counter +1
+
+0
+Condition History
+Arrow Probabilities (%)
+541041001001019593938990908888
+
+CB
+0/56
+Level Cap 
+29
+
+Shooting
+
+Passing
+1
+
+Dribbling
+
+Dexterity
+8
+
+Lower Body Strength
+8
+
+Aerial Strength
+8
+
+Defending
+9
+
+GK 1
+4
+
+GK 2
+
+GK 3
+Attacking
+Offensive Awareness		72
+Ball Control		76
+Dribbling		71
+Tight Possession		77
+Low Pass	●	80
+Lofted Pass		77
+Finishing	●	65
+Heading		85
+Place Kicking		69
+Curl		66
+Defending
+Defensive Awareness	●	93
+Defensive Engagement	●	93
+Tackling	●	91
+Aggression		91
+Goalkeeping		45
+Gk Catching		41
+GK Parrying		41
+GK Reflexes		41
+GK Reach		41
+athleticism
+Speed	●	90
+Acceleration		78
+Kicking Power		88
+Jump		93
+Physical Contact	●	90
+Balance		78
+Stamina	●	95
+Weak Foot Usage		1
+Weak Foot Acc		3
+Form		2
+Injury Resistance		2
+Skills
+Long Range Shooting
+Rising Shots
+One Touch Pass
+Weighted Pass
+Man Marking
+Interception
+Acrobatic Clearance
+Fighting Spirit
+Blocker
+Sliding Tackle
+
+Body Measurements
+Leg Length
+11
+Arm Length
+7
+Waist Size
+7
+Chest
+7
+Shoulder Width
+7
+Neck Length
+7

@@ -1,0 +1,111 @@
+Denílson
+Prolific Winger
+Height
+178cm
+Weight
+68kg
+Age
+20
+Foot
+
+B
+
+
+
+
+Technique +3
+
+Off the Ball +1
+
+0
+Condition History
+Arrow Probabilities (%)
+4572898979929999981001009894
+
+LWF
+1/60
+Level Cap 
+31
+
+Shooting
+8
+
+Passing
+9
+
+Dribbling
+7
+
+Dexterity
+7
+
+Lower Body Strength
+8
+
+Aerial Strength
+
+Defending
+
+GK 1
+
+GK 2
+
+GK 3
+Attacking
+Offensive Awareness	●	80
+Ball Control	●	90
+Dribbling	●	94
+Tight Possession	●	93
+Low Pass	●	84
+Lofted Pass		87
+Finishing	●	80
+Heading		61
+Place Kicking		73
+Curl		72
+Defending
+Defensive Awareness	●	49
+Defensive Engagement		49
+Tackling		51
+Aggression		53
+Goalkeeping		41
+Gk Catching		41
+GK Parrying		41
+GK Reflexes		41
+GK Reach		41
+athleticism
+Speed	●	91
+Acceleration	●	93
+Kicking Power		88
+Jump		63
+Physical Contact		62
+Balance		91
+Stamina	●	83
+Weak Foot Usage		1
+Weak Foot Acc		2
+Form		2
+Injury Resistance		1
+Skills
+Scissors Feint
+Double Touch
+Flip Flap
+Chop Turn
+Sole Control
+Pinpoint Crossing
+Outside Curler
+Gamesmanship
+Super Sub
+Edged Crossing
+
+Body Measurements
+Leg Length
+7
+Arm Length
+7
+Waist Size
+5
+Chest
+5
+Shoulder Width
+8
+Neck Length
+7

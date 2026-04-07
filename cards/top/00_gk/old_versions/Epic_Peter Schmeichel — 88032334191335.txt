@@ -1,0 +1,80 @@
+Name: Peter Schmeichel
+Position: GK
+Style: Defensive Goalkeeper
+
+Training:
+SHO: 0
+PAS: 0
+DRI: 0
+DEX: 0
+LBS: 0
+AER: 0
+DEF: 0
+GK1: 8
+GK2: 11
+GK3: 11
+Lv: 54
+Manager: Fabio Capello
+
+Attributes:
+Offensive Awareness: 41
+Ball Control: 49
+Dribbling: 44
+Tight Possession: 48
+Low Pass: 54
+Lofted Pass: 54
+Finishing: 42
+Heading: 48
+Place Kicking: 42
+Curl: 44
+Defensive Awareness: 47
+Defensive Engagement: 43
+Tackling: 60
+Aggression: 48
+Goalkeeping: 96
+Gk Catching: 95
+GK Parrying: 95
+GK Reflexes: 99
+GK Reach: 97
+Speed: 52
+Acceleration: 53
+Kicking Power: 72
+Jump: 80
+Balance: 50
+Stamina: 54
+Physical Contact: 69
+
+Skills:
+Gk Low Punt
+GK Long Throw
+GK Penalty Saver
+Captaincy
+
+Biometrics:
+Height: 193
+Weight: 96
+Arm Length: 10
+Shoulder Width: 11
+Neck Length: 7
+Chest: 9
+Neck Size: 12
+Shoulder Height: 6
+Leg Length: 11
+Thigh Size: 8
+Waist Size: 9
+Arm Size: 9
+Calf Size: 8
+Leg Coverage Radius: 188.6
+Arm Coverage Radius: 179.3
+Jumping Height: 275.4
+Torso Collision: 55.3
+Leg Length Based Height: 197
+
+Com Skills:
+—
+
+Other Stats:
+Weak Foot Usage: 1
+Weak Foot Accuracy: 1
+Form: 2
+Injury Resistance: 2

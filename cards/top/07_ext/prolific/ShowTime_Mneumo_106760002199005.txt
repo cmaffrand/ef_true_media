@@ -1,0 +1,112 @@
+Bryan Mbeumo
+Prolific Winger
+Height
+173cm
+Weight
+65kg
+Age
+26
+Foot
+
+C
+
+
+
+
+Breakthrough +3
+
+Off the Ball +1
+
+0
+Condition History
+Arrow Probabilities (%)
+468095958796103103102105105104102
+
+RWF
+0/66
+Level Cap 
+34
+
+Shooting
+9
+
+Passing
+4
+
+Dribbling
+8
+
+Dexterity
+10
+
+Lower Body Strength
+9
+
+Aerial Strength
+2
+
+Defending
+
+GK 1
+
+GK 2
+
+GK 3
+Attacking
+Offensive Awareness	●	88
+Ball Control		91
+Dribbling	●	94
+Tight Possession		91
+Low Pass		80
+Lofted Pass		80
+Finishing	●	90
+Heading		62
+Place Kicking		80
+Curl		87
+Defending
+Defensive Awareness	●	53
+Defensive Engagement		59
+Tackling		54
+Aggression		77
+Goalkeeping		41
+Gk Catching		41
+GK Parrying		41
+GK Reflexes		41
+GK Reach		41
+athleticism
+Speed	●	96
+Acceleration	●	95
+Kicking Power	●	92
+Jump		61
+Physical Contact	●	80
+Balance		91
+Stamina	●	88
+Weak Foot Usage		1
+Weak Foot Acc		2
+Form		2
+Injury Resistance		1
+Skills
+Double Touch
+Sole Control
+Long Range Curler
+Long Range Shooting
+First Time Shot
+Through Passing
+Pinpoint Crossing
+Outside Curler
+Momentum Dribbling
+Low Screamer
+
+Body Measurements
+Leg Length
+12
+Arm Length
+7
+Waist Size
+7
+Chest
+9
+Shoulder Width
+11
+Neck Length
+5

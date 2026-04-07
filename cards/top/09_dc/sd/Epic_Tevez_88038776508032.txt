@@ -1,0 +1,112 @@
+Carlos Tévez
+Deep-Lying Forward
+Height
+171cm
+Weight
+77kg
+Age
+26
+Foot
+
+B
+
+
+
+
+Shooting +3
+
+Ball-carrying +1
+
+0
+Condition History
+Arrow Probabilities (%)
+488596969098102102102104104105104
+
+CF
+0/62
+Level Cap 
+32
+
+Shooting
+4
+
+Passing
+7
+
+Dribbling
+8
+
+Dexterity
+9
+
+Lower Body Strength
+10
+
+Aerial Strength
+3
+
+Defending
+
+GK 1
+
+GK 2
+
+GK 3
+Attacking
+Offensive Awareness		90
+Ball Control	●	92
+Dribbling	●	90
+Tight Possession	●	93
+Low Pass		80
+Lofted Pass		75
+Finishing	●	91
+Heading		71
+Place Kicking		79
+Curl		79
+Defending
+Defensive Awareness	●	61
+Defensive Engagement		68
+Tackling		63
+Aggression		72
+Goalkeeping		41
+Gk Catching		41
+GK Parrying		41
+GK Reflexes		41
+GK Reach		41
+athleticism
+Speed	●	91
+Acceleration		91
+Kicking Power	●	96
+Jump		77
+Physical Contact	●	85
+Balance	●	91
+Stamina		90
+Weak Foot Usage		2
+Weak Foot Acc		2
+Form		1
+Injury Resistance		1
+Skills
+Double Touch
+Long Range Curler
+Long Range Shooting
+Dipping Shot
+First Time Shot
+Outside Curler
+Track Back
+Fighting Spirit
+Phenomenal Pass
+Momentum Dribbling
+
+Body Measurements
+Leg Length
+7
+Arm Length
+7
+Waist Size
+8
+Chest
+12
+Shoulder Width
+11
+Neck Length
+4

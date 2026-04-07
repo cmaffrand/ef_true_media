@@ -1,0 +1,112 @@
+Mikaël Silvestre
+Offensive Wingback
+Height
+183cm
+Weight
+87kg
+Age
+25
+Foot
+
+B
+
+
+
+
+Crossing +3
+
+No Booster
+
+0
+Condition History
+Arrow Probabilities (%)
+5095100100981001001009796969492
+
+LB
+0/64
+Level Cap 
+33
+
+Shooting
+8
+
+Passing
+7
+
+Dribbling
+5
+
+Dexterity
+7
+
+Lower Body Strength
+10
+
+Aerial Strength
+4
+
+Defending
+4
+
+GK 1
+
+GK 2
+
+GK 3
+Attacking
+Offensive Awareness		80
+Ball Control		81
+Dribbling		80
+Tight Possession		76
+Low Pass		90
+Lofted Pass	●	93
+Finishing	●	75
+Heading		70
+Place Kicking		79
+Curl	●	85
+Defending
+Defensive Awareness	●	82
+Defensive Engagement		81
+Tackling		80
+Aggression		83
+Goalkeeping		41
+Gk Catching		41
+GK Parrying		41
+GK Reflexes		41
+GK Reach		41
+athleticism
+Speed	●	90
+Acceleration		83
+Kicking Power		84
+Jump		77
+Physical Contact		80
+Balance		77
+Stamina	●	95
+Weak Foot Usage		1
+Weak Foot Acc		1
+Form		2
+Injury Resistance		0
+Skills
+Scissors Feint
+Heading
+Through Passing
+Pinpoint Crossing
+Man Marking
+Interception
+Fighting Spirit
+Aerial Superiority
+Sliding Tackle
+
+Body Measurements
+Leg Length
+9
+Arm Length
+5
+Waist Size
+7
+Chest
+8
+Shoulder Width
+9
+Neck Length
+5

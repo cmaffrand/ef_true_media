@@ -1,0 +1,112 @@
+Gabriel Batistuta
+Goal Poacher
+Height
+185cm
+Weight
+73kg
+Age
+26
+Foot
+
+B
+
+
+
+
+Striker's Instinct +2
+
+Agility +1
+
+0
+Condition History
+Arrow Probabilities (%)
+507685857783898991989899104
+
+CF
+0/60
+Level Cap 
+31
+
+Shooting
+8
+
+Passing
+0
+
+Dribbling
+6
+
+Dexterity
+10
+
+Lower Body Strength
+8
+
+Aerial Strength
+7
+
+Defending
+
+GK 1
+
+GK 2
+
+GK 3
+Attacking
+Offensive Awareness	●	94
+Ball Control	●	84
+Dribbling		84
+Tight Possession		82
+Low Pass		60
+Lofted Pass		56
+Finishing	●	93
+Heading		90
+Place Kicking		70
+Curl		72
+Defending
+Defensive Awareness	●	42
+Defensive Engagement		48
+Tackling		45
+Aggression		48
+Goalkeeping		41
+Gk Catching		41
+GK Parrying		41
+GK Reflexes		41
+GK Reach		41
+athleticism
+Speed	●	91
+Acceleration	●	91
+Kicking Power		95
+Jump		87
+Physical Contact		90
+Balance	●	81
+Stamina	●	83
+Weak Foot Usage		2
+Weak Foot Acc		2
+Form		2
+Injury Resistance		1
+Skills
+Heading
+Long Range Curler
+Long Range Shooting
+Knuckle Shot
+Rising Shots
+Acrobatic Finishing
+First Time Shot
+Fighting Spirit
+Aerial Superiority
+Phenomenal Finishing
+
+Body Measurements
+Leg Length
+8
+Arm Length
+6
+Waist Size
+6
+Chest
+6
+Shoulder Width
+6
+Neck Length
+9

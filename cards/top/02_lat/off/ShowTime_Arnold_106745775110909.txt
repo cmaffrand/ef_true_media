@@ -1,0 +1,113 @@
+T. Alexander-Arnold
+Offensive Wingback
+Height
+180cm
+Weight
+69kg
+Age
+27
+Foot
+
+B
+
+
+
+
+Accuracy +2
+
+Agility +1
+
+0
+Condition History
+Arrow Probabilities (%)
+4994102102981021031041011001009894
+
+RB
+0/66
+Level Cap 
+34
+
+Shooting
+4
+
+Passing
+4
+
+Dribbling
+8
+
+Dexterity
+9
+
+Lower Body Strength
+9
+
+Aerial Strength
+6
+
+Defending
+6
+
+GK 1
+
+GK 2
+
+GK 3
+Attacking
+Offensive Awareness		80
+Ball Control		85
+Dribbling		83
+Tight Possession		87
+Low Pass	●	90
+Lofted Pass	●	92
+Finishing	●	76
+Heading		58
+Place Kicking		87
+Curl		94
+Defending
+Defensive Awareness	●	80
+Defensive Engagement		87
+Tackling		82
+Aggression		82
+Goalkeeping		41
+Gk Catching		41
+GK Parrying		41
+GK Reflexes		41
+GK Reach		41
+athleticism
+Speed	●	90
+Acceleration	●	90
+Kicking Power	●	92
+Jump		75
+Physical Contact		75
+Balance	●	85
+Stamina	●	93
+Weak Foot Usage		2
+Weak Foot Acc		2
+Form		2
+Injury Resistance		1
+Skills
+Sole Control
+Long Range Shooting
+Rising Shots
+One Touch Pass
+Through Passing
+Weighted Pass
+Pinpoint Crossing
+Outside Curler
+Low Lofted Pass
+Edged Crossing
+
+Body Measurements
+Leg Length
+8
+Arm Length
+10
+Waist Size
+5
+Chest
+10
+Shoulder Width
+13
+Neck Length
+6

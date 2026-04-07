@@ -1,0 +1,86 @@
+Name: Filippo Inzaghi
+Position: CF
+Style: Goal Poacher
+
+Training:
+SHO: 8
+PAS: 1
+DRI: 7
+DEX: 8
+LBS: 11
+AER: 4
+DEF: 0
+GK1: 0
+GK2: 0
+GK3: 0
+Lv: 60
+Manager: Fabio Capello
+
+Attributes:
+Offensive Awareness: 95
+Ball Control: 84
+Dribbling: 82
+Tight Possession: 80
+Low Pass: 63
+Lofted Pass: 60
+Finishing: 93
+Heading: 80
+Place Kicking: 71
+Curl: 78
+Defensive Awareness: 48
+Defensive Engagement: 53
+Tackling: 47
+Aggression: 59
+Goalkeeping: 41
+Gk Catching: 41
+GK Parrying: 41
+GK Reflexes: 41
+GK Reach: 41
+Speed: 92
+Acceleration: 93
+Kicking Power: 91
+Jump: 76
+Balance: 84
+Stamina: 89
+Physical Contact: 78
+
+Skills:
+Heading
+Long Range Curler
+Long Range Shooting
+Rising Shots
+Acrobatic Finishing
+First Time Shot
+One Touch Pass
+Penalty Specialist
+Fighting Spirit
+Phenomenal Finishing
+
+Biometrics:
+Height: 181
+Weight: 74
+Arm Length: 6
+Shoulder Width: 6
+Neck Length: 7
+Chest: 2
+Neck Size: 6
+Shoulder Height: 3
+Leg Length: 9
+Thigh Size: 4
+Waist Size: 0
+Arm Size: 6
+Calf Size: 4
+Leg Coverage Radius: 175.8
+Arm Coverage Radius: 163.1
+Jumping Height: 260.8
+Torso Collision: 49.6
+Leg Length Based Height: 183
+
+Com Skills:
+Early Crosser
+
+Other Stats:
+Weak Foot Usage: 3
+Weak Foot Accuracy: 2
+Form: 1
+Injury Resistance: 1

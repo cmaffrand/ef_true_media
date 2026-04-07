@@ -1,0 +1,113 @@
+Roberto Carlos
+Offensive Wingback
+Height
+168cm
+Weight
+73kg
+Age
+22
+Foot
+
+B
+
+
+
+
+Shooting +3
+
+Crossing +1
+
+0
+Condition History
+Arrow Probabilities (%)
+49981041049910110410410010210210099
+
+LB
+0/68
+Level Cap 
+35
+
+Shooting
+4
+
+Passing
+9
+
+Dribbling
+5
+
+Dexterity
+8
+
+Lower Body Strength
+8
+
+Aerial Strength
+4
+
+Defending
+9
+
+GK 1
+
+GK 2
+
+GK 3
+Attacking
+Offensive Awareness		75
+Ball Control	●	81
+Dribbling		83
+Tight Possession		82
+Low Pass		83
+Lofted Pass	●	88
+Finishing	●	85
+Heading		64
+Place Kicking		87
+Curl	●	93
+Defending
+Defensive Awareness	●	80
+Defensive Engagement		84
+Tackling		84
+Aggression		83
+Goalkeeping		41
+Gk Catching		41
+GK Parrying		41
+GK Reflexes		41
+GK Reach		41
+athleticism
+Speed	●	97
+Acceleration		94
+Kicking Power	●	99
+Jump		82
+Physical Contact	●	85
+Balance		91
+Stamina	●	94
+Weak Foot Usage		0
+Weak Foot Acc		1
+Form		2
+Injury Resistance		2
+Skills
+Long Range Shooting
+Rising Shots
+First Time Shot
+Through Passing
+Pinpoint Crossing
+Outside Curler
+Long Throw
+Man Marking
+Edged Crossing
+Low Screamer
+
+Body Measurements
+Leg Length
+12
+Arm Length
+5
+Waist Size
+9
+Chest
+8
+Shoulder Width
+9
+Neck Length
+3

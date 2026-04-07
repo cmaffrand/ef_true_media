@@ -1,0 +1,112 @@
+Diego Forlán
+Goal Poacher
+Height
+180cm
+Weight
+75kg
+Age
+31
+Foot
+
+B
+
+
+
+
+Shooting +2
+
+Agility +1
+
+0
+Condition History
+Arrow Probabilities (%)
+477589898192979899101101103103
+
+CF
+0/60
+Level Cap 
+31
+
+Shooting
+9
+
+Passing
+2
+
+Dribbling
+7
+
+Dexterity
+8
+
+Lower Body Strength
+10
+
+Aerial Strength
+3
+
+Defending
+
+GK 1
+
+GK 2
+
+GK 3
+Attacking
+Offensive Awareness		88
+Ball Control	●	90
+Dribbling		87
+Tight Possession		88
+Low Pass		76
+Lofted Pass		70
+Finishing	●	95
+Heading		73
+Place Kicking		93
+Curl		90
+Defending
+Defensive Awareness	●	47
+Defensive Engagement		46
+Tackling		46
+Aggression		59
+Goalkeeping		41
+Gk Catching		41
+GK Parrying		41
+GK Reflexes		41
+GK Reach		41
+athleticism
+Speed	●	90
+Acceleration	●	90
+Kicking Power	●	100
+Jump		68
+Physical Contact	●	75
+Balance	●	88
+Stamina	●	90
+Weak Foot Usage		2
+Weak Foot Acc		3
+Form		2
+Injury Resistance		1
+Skills
+Long Range Curler
+Long Range Shooting
+Knuckle Shot
+Dipping Shot
+Acrobatic Finishing
+First Time Shot
+One Touch Pass
+Through Passing
+Outside Curler
+Penalty Specialist
+
+Body Measurements
+Leg Length
+14
+Arm Length
+4
+Waist Size
+4
+Chest
+2
+Shoulder Width
+10
+Neck Length
+4

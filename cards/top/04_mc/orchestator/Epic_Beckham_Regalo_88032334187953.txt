@@ -1,0 +1,99 @@
+David Beckham
+Orchestrator
+Height
+183cm
+Weight
+76kg
+Age
+36
+Foot
+
+B
+
+
+
+
+Passing +2
+
+Agility +1
+
+0
+Condition History
+Arrow Probabilities (%)
+478294949210010110110097979894
+
+CMF
+1/66
+Level Cap 
+34
+
+Shooting
+4
+
+Passing
+4
+
+Dribbling
+9
+
+Dexterity
+10
+
+Lower Body Strength
+12
+
+Aerial Strength
+0
+
+Defending
+0
+
+GK 1
+
+GK 2
+
+GK 3
+Attacking
+Offensive Awareness		85
+Ball Control		87
+Dribbling		82
+Tight Possession		81
+Low Pass	●	92
+Lofted Pass	●	95
+Finishing	●	79
+Heading		62
+Place Kicking		97
+Curl	●	101
+Defending
+Defensive Awareness	●	63
+Defensive Engagement		73
+Tackling		68
+Aggression		72
+Goalkeeping		41
+Gk Catching		41
+GK Parrying		41
+GK Reflexes		41
+GK Reach		41
+athleticism
+Speed	●	80
+Acceleration	●	80
+Kicking Power	●	95
+Jump		63
+Physical Contact		68
+Balance	●	83
+Stamina	●	98
+Weak Foot Usage		0
+Weak Foot Acc		1
+Form		2
+Injury Resistance		1
+Skills
+Long Range Curler
+Long Range Shooting
+Dipping Shot
+Through Passing
+Weighted Pass
+Pinpoint Crossing
+Low Lofted Pass
+Penalty Specialist
+Captaincy
+Fighting Spirit

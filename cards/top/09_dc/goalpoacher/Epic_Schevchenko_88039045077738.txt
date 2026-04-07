@@ -1,0 +1,112 @@
+Andriy Shevchenko
+Goal Poacher
+Height
+183cm
+Weight
+73kg
+Age
+27
+Foot
+
+B
+
+
+
+
+Strength +3
+
+Off the Ball +1
+
+0
+Condition History
+Arrow Probabilities (%)
+518393938491989898103103103105
+
+CF
+0/62
+Level Cap 
+32
+
+Shooting
+8
+
+Passing
+5
+
+Dribbling
+8
+
+Dexterity
+8
+
+Lower Body Strength
+8
+
+Aerial Strength
+6
+
+Defending
+
+GK 1
+
+GK 2
+
+GK 3
+Attacking
+Offensive Awareness	●	92
+Ball Control		87
+Dribbling		88
+Tight Possession		85
+Low Pass		71
+Lofted Pass		68
+Finishing	●	92
+Heading		82
+Place Kicking		85
+Curl		82
+Defending
+Defensive Awareness	●	53
+Defensive Engagement		53
+Tackling		48
+Aggression		56
+Goalkeeping		41
+Gk Catching		41
+GK Parrying		41
+GK Reflexes		41
+GK Reach		41
+athleticism
+Speed	●	97
+Acceleration	●	93
+Kicking Power	●	94
+Jump	●	90
+Physical Contact	●	86
+Balance		80
+Stamina	●	88
+Weak Foot Usage		2
+Weak Foot Acc		3
+Form		2
+Injury Resistance		1
+Skills
+Scissors Feint
+Heading
+Long Range Curler
+Long Range Shooting
+Rising Shots
+Acrobatic Finishing
+First Time Shot
+Outside Curler
+Phenomenal Finishing
+Acceleration Burst
+
+Body Measurements
+Leg Length
+7
+Arm Length
+5
+Waist Size
+7
+Chest
+6
+Shoulder Width
+7
+Neck Length
+5

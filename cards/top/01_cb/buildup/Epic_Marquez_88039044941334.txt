@@ -1,0 +1,111 @@
+Rafael Márquez
+Build Up
+Height
+184cm
+Weight
+75kg
+Age
+35
+Foot
+
+B
+
+
+
+
+Rebuilding +3
+
+Agility +1
+
+0
+Condition History
+Arrow Probabilities (%)
+511009393958683837879797677
+
+CB
+0/52
+Level Cap 
+27
+
+Shooting
+
+Passing
+
+Dribbling
+
+Dexterity
+5
+
+Lower Body Strength
+8
+
+Aerial Strength
+10
+
+Defending
+9
+
+GK 1
+1
+
+GK 2
+
+GK 3
+Attacking
+Offensive Awareness		59
+Ball Control		69
+Dribbling		62
+Tight Possession		64
+Low Pass	●	73
+Lofted Pass		72
+Finishing	●	56
+Heading		87
+Place Kicking		72
+Curl		67
+Defending
+Defensive Awareness	●	93
+Defensive Engagement	●	96
+Tackling		90
+Aggression	●	94
+Goalkeeping		42
+Gk Catching		41
+GK Parrying		41
+GK Reflexes		41
+GK Reach		41
+athleticism
+Speed	●	85
+Acceleration	●	79
+Kicking Power		85
+Jump		88
+Physical Contact		87
+Balance	●	68
+Stamina	●	89
+Weak Foot Usage		2
+Weak Foot Acc		2
+Form		2
+Injury Resistance		1
+Skills
+Heading
+One Touch Pass
+Weighted Pass
+Man Marking
+Interception
+Captaincy
+Fighting Spirit
+Blocker
+Sliding Tackle
+Long Reach Tackle
+
+Body Measurements
+Leg Length
+7
+Arm Length
+6
+Waist Size
+5
+Chest
+5
+Shoulder Width
+5
+Neck Length
+8

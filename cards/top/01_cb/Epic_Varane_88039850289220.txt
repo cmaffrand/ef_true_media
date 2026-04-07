@@ -1,0 +1,116 @@
+Raphaël Varane
+Build Up
+Height
+191cm
+Weight
+81kg
+Age
+23
+Foot
+
+B
+
+
+
+
+Shutdown +3
+
+Stealing +1
+
+0
+Condition History
+Arrow Probabilities (%)
+521069898988988878185857980
+
+CB
+0/64
+Level Cap 
+33
+
+Shooting
+0
+
+Passing
+0
+
+Dribbling
+1
+
+Dexterity
+9
+
+Lower Body Strength
+8
+
+Aerial Strength
+8
+
+Defending
+12
+
+GK 1
+0
+
+GK 2
+0
+
+GK 3
+0
+Attacking
+Offensive Awareness		62
+Ball Control		70
+Dribbling		75
+Tight Possession		69
+Low Pass		72
+Lofted Pass		72
+Finishing	●	53
+Heading		87
+Place Kicking		56
+Curl		63
+Defending
+Defensive Awareness	●	98
+Defensive Engagement	●	97
+Tackling	●	97
+Aggression	●	92
+Goalkeeping		41
+Gk Catching		41
+GK Parrying		41
+GK Reflexes		41
+GK Reach		41
+athleticism
+Speed	●	92
+Acceleration	●	88
+Kicking Power		78
+Jump		91
+Physical Contact	●	90
+Balance		72
+Stamina		85
+Weak Foot Usage		1
+Weak Foot Acc		1
+Form		1
+Injury Resistance		1
+Skills
+Heading
+Weighted Pass
+Man Marking
+Interception
+Acrobatic Clearance
+Fighting Spirit
+Aerial Superiority
+Blocker
+Long Reach Tackle
+Aerial Fort
+
+Body Measurements
+Leg Length
+13
+Arm Length
+7
+Waist Size
+4
+Chest
+4
+Shoulder Width
+9
+Neck Length
+8

@@ -1,0 +1,98 @@
+Diego Forlán
+Deep-Lying Forward
+Height
+180cm
+Weight
+75kg
+Age
+31
+Foot
+
+B
+
+
+
+
+Striker's Instinct +2
+
+Off the Ball +1
+
+0
+Condition History
+Arrow Probabilities (%)
+457288888092979798100100102101
+
+CF
+0/60
+Level Cap 
+31
+
+Shooting
+4
+
+Passing
+4
+
+Dribbling
+8
+
+Dexterity
+9
+
+Lower Body Strength
+12
+
+Aerial Strength
+1
+
+Defending
+
+GK 1
+
+GK 2
+
+GK 3
+Attacking
+Offensive Awareness	●	90
+Ball Control	●	93
+Dribbling		80
+Tight Possession		90
+Low Pass		80
+Lofted Pass		67
+Finishing	●	94
+Heading		58
+Place Kicking		91
+Curl		67
+Defending
+Defensive Awareness	●	47
+Defensive Engagement		53
+Tackling		51
+Aggression		58
+Goalkeeping		41
+Gk Catching		41
+GK Parrying		41
+GK Reflexes		41
+GK Reach		41
+athleticism
+Speed	●	90
+Acceleration	●	92
+Kicking Power		99
+Jump		59
+Physical Contact		66
+Balance		88
+Stamina	●	92
+Weak Foot Usage		2
+Weak Foot Acc		3
+Form		2
+Injury Resistance		1
+Skills
+Long Range Curler
+Long Range Shooting
+Knuckle Shot
+Dipping Shot
+Rising Shots
+Acrobatic Finishing
+First Time Shot
+Through Passing
+Penalty Specialist
+Fighting Spirit

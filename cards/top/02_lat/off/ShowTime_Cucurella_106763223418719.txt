@@ -1,0 +1,113 @@
+Marc Cucurella
+Offensive Wingback
+Height
+174cm
+Weight
+69kg
+Age
+27
+Foot
+
+A
+
+
+
+
+Stealing +3
+
+Agility +1
+
+0
+Condition History
+Arrow Probabilities (%)
+4998102102100102102102991001009794
+
+LB
+0/64
+Level Cap 
+33
+
+Shooting
+6
+
+Passing
+8
+
+Dribbling
+7
+
+Dexterity
+4
+
+Lower Body Strength
+9
+
+Aerial Strength
+8
+
+Defending
+3
+
+GK 1
+
+GK 2
+
+GK 3
+Attacking
+Offensive Awareness		76
+Ball Control		87
+Dribbling		87
+Tight Possession		89
+Low Pass		87
+Lofted Pass		88
+Finishing	●	75
+Heading		68
+Place Kicking		64
+Curl		82
+Defending
+Defensive Awareness	●	82
+Defensive Engagement		81
+Tackling	●	86
+Aggression	●	87
+Goalkeeping		41
+Gk Catching		41
+GK Parrying		41
+GK Reflexes		41
+GK Reach		41
+athleticism
+Speed	●	90
+Acceleration	●	91
+Kicking Power		88
+Jump		81
+Physical Contact	●	86
+Balance	●	84
+Stamina	●	93
+Weak Foot Usage		0
+Weak Foot Acc		1
+Form		1
+Injury Resistance		1
+Skills
+Cut Behind & Turn
+First Time Shot
+One Touch Pass
+Through Passing
+Pinpoint Crossing
+Gamesmanship
+Man Marking
+Interception
+Sliding Tackle
+Long Reach Tackle
+
+Body Measurements
+Leg Length
+7
+Arm Length
+7
+Waist Size
+9
+Chest
+5
+Shoulder Width
+10
+Neck Length
+10

@@ -1,0 +1,98 @@
+João Pedro
+Deep-Lying Forward
+Height
+182cm
+Weight
+70kg
+Age
+24
+Foot
+
+B
+
+
+
+
+Shooting +2
+
+Technique +1
+
+0
+Condition History
+Arrow Probabilities (%)
+488093938696101101101103103104102
+
+CF
+0/66
+Level Cap 
+34
+
+Shooting
+6
+
+Passing
+7
+
+Dribbling
+8
+
+Dexterity
+9
+
+Lower Body Strength
+11
+
+Aerial Strength
+0
+
+Defending
+
+GK 1
+
+GK 2
+
+GK 3
+Attacking
+Offensive Awareness		87
+Ball Control	●	92
+Dribbling	●	90
+Tight Possession	●	92
+Low Pass	●	84
+Lofted Pass		79
+Finishing	●	90
+Heading		70
+Place Kicking		75
+Curl		78
+Defending
+Defensive Awareness	●	55
+Defensive Engagement		60
+Tackling		54
+Aggression		62
+Goalkeeping		41
+Gk Catching		41
+GK Parrying		41
+GK Reflexes		41
+GK Reach		41
+athleticism
+Speed		90
+Acceleration		93
+Kicking Power	●	94
+Jump		72
+Physical Contact	●	75
+Balance		88
+Stamina		87
+Weak Foot Usage		2
+Weak Foot Acc		2
+Form		1
+Injury Resistance		2
+Skills
+Double Touch
+Flip Flap
+Sole Control
+Long Range Curler
+Chip Shot Control
+Long Range Shooting
+First Time Shot
+Through Passing
+Gamesmanship
+Phenomenal Finishing

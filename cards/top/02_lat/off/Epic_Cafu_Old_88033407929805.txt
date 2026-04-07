@@ -1,0 +1,113 @@
+Cafu
+Offensive Wingback
+Height
+176cm
+Weight
+75kg
+Age
+31
+Foot
+
+B
+
+
+
+
+Agility +2
+
+Crossing +1
+
+0
+Condition History
+Arrow Probabilities (%)
+4895103103981011041031001011019896
+
+RB
+0/72
+Level Cap 
+37
+
+Shooting
+6
+
+Passing
+9
+
+Dribbling
+8
+
+Dexterity
+8
+
+Lower Body Strength
+8
+
+Aerial Strength
+1
+
+Defending
+8
+
+GK 1
+
+GK 2
+
+GK 3
+Attacking
+Offensive Awareness		82
+Ball Control		80
+Dribbling		88
+Tight Possession		85
+Low Pass		87
+Lofted Pass	●	86
+Finishing	●	79
+Heading		73
+Place Kicking		71
+Curl	●	83
+Defending
+Defensive Awareness	●	80
+Defensive Engagement		78
+Tackling		80
+Aggression		82
+Goalkeeping		41
+Gk Catching		41
+GK Parrying		41
+GK Reflexes		41
+GK Reach		41
+athleticism
+Speed	●	97
+Acceleration	●	95
+Kicking Power		89
+Jump		74
+Physical Contact		75
+Balance	●	82
+Stamina	●	96
+Weak Foot Usage		1
+Weak Foot Acc		2
+Form		2
+Injury Resistance		2
+Skills
+Double Touch
+Flip Flap
+Through Passing
+Weighted Pass
+Pinpoint Crossing
+Outside Curler
+Man Marking
+Acrobatic Clearance
+Blocker
+Sliding Tackle
+
+Body Measurements
+Leg Length
+7
+Arm Length
+4
+Waist Size
+7
+Chest
+7
+Shoulder Width
+5
+Neck Length
+5

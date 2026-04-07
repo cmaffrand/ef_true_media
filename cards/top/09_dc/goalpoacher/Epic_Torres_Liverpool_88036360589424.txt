@@ -1,0 +1,112 @@
+Fernando Torres
+Goal Poacher
+Height
+186cm
+Weight
+78kg
+Age
+23
+Foot
+
+B
+
+
+
+
+Strength +3
+
+Striker's Instinct +1
+
+0
+Condition History
+Arrow Probabilities (%)
+508190908289949495999999101
+
+CF
+0/62
+Level Cap 
+32
+
+Shooting
+9
+
+Passing
+4
+
+Dribbling
+7
+
+Dexterity
+9
+
+Lower Body Strength
+8
+
+Aerial Strength
+5
+
+Defending
+
+GK 1
+
+GK 2
+
+GK 3
+Attacking
+Offensive Awareness	●	90
+Ball Control	●	85
+Dribbling		87
+Tight Possession		81
+Low Pass		72
+Lofted Pass		70
+Finishing	●	90
+Heading		81
+Place Kicking		73
+Curl		78
+Defending
+Defensive Awareness	●	55
+Defensive Engagement		56
+Tackling		52
+Aggression		58
+Goalkeeping		41
+Gk Catching		41
+GK Parrying		41
+GK Reflexes		41
+GK Reach		41
+athleticism
+Speed	●	92
+Acceleration	●	91
+Kicking Power	●	88
+Jump	●	81
+Physical Contact	●	84
+Balance		82
+Stamina		81
+Weak Foot Usage		2
+Weak Foot Acc		1
+Form		2
+Injury Resistance		1
+Skills
+Double Touch
+Sole Control
+Heading
+Long Range Curler
+Long Range Shooting
+Acrobatic Finishing
+First Time Shot
+Fighting Spirit
+Aerial Superiority
+Acceleration Burst
+
+Body Measurements
+Leg Length
+6
+Arm Length
+4
+Waist Size
+2
+Chest
+2
+Shoulder Width
+8
+Neck Length
+7

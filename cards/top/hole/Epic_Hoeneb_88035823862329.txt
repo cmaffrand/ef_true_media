@@ -1,0 +1,113 @@
+Uli Hoeneß
+Hole Player
+Height
+181cm
+Weight
+76kg
+Age
+24
+Foot
+
+B
+
+
+
+
+Breakthrough +2
+
+Technique +1
+
+0
+Condition History
+Arrow Probabilities (%)
+518697979099104104104106106106104
+
+AMF
+0/68
+Level Cap 
+35
+
+Shooting
+8
+
+Passing
+9
+
+Dribbling
+8
+
+Dexterity
+8
+
+Lower Body Strength
+8
+
+Aerial Strength
+4
+
+Defending
+1
+
+GK 1
+
+GK 2
+
+GK 3
+Attacking
+Offensive Awareness		87
+Ball Control	●	92
+Dribbling	●	93
+Tight Possession	●	88
+Low Pass	●	88
+Lofted Pass		80
+Finishing	●	90
+Heading		69
+Place Kicking		74
+Curl		79
+Defending
+Defensive Awareness	●	59
+Defensive Engagement		66
+Tackling		53
+Aggression		64
+Goalkeeping		41
+Gk Catching		41
+GK Parrying		41
+GK Reflexes		41
+GK Reach		41
+athleticism
+Speed	●	95
+Acceleration		93
+Kicking Power	●	91
+Jump		81
+Physical Contact	●	90
+Balance		91
+Stamina		88
+Weak Foot Usage		2
+Weak Foot Acc		2
+Form		2
+Injury Resistance		1
+Skills
+Sole Control
+Long Range Curler
+Long Range Shooting
+Rising Shots
+First Time Shot
+Through Passing
+Pinpoint Crossing
+Track Back
+Fighting Spirit
+Momentum Dribbling
+
+Body Measurements
+Leg Length
+11
+Arm Length
+6
+Waist Size
+3
+Chest
+7
+Shoulder Width
+13
+Neck Length
+6

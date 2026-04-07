@@ -1,0 +1,112 @@
+Mikel Oyarzabal
+Deep-Lying Forward
+Height
+181cm
+Weight
+78kg
+Age
+28
+Foot
+
+A
+
+
+
+
+Offence Creator +3
+
+Agility +1
+
+0
+Condition History
+Arrow Probabilities (%)
+48829494889710110110110210210299
+
+CF
+0/52
+Level Cap 
+27
+
+Shooting
+4
+
+Passing
+3
+
+Dribbling
+7
+
+Dexterity
+9
+
+Lower Body Strength
+10
+
+Aerial Strength
+2
+
+Defending
+
+GK 1
+
+GK 2
+
+GK 3
+Attacking
+Offensive Awareness	●	90
+Ball Control	●	92
+Dribbling		87
+Tight Possession		91
+Low Pass	●	83
+Lofted Pass		80
+Finishing	●	83
+Heading		67
+Place Kicking		81
+Curl		83
+Defending
+Defensive Awareness	●	59
+Defensive Engagement		72
+Tackling		61
+Aggression		62
+Goalkeeping		41
+Gk Catching		41
+GK Parrying		41
+GK Reflexes		41
+GK Reach		41
+athleticism
+Speed	●	88
+Acceleration	●	89
+Kicking Power	●	93
+Jump		72
+Physical Contact		75
+Balance	●	88
+Stamina	●	92
+Weak Foot Usage		0
+Weak Foot Acc		2
+Form		2
+Injury Resistance		0
+Skills
+Marseille Turn
+Cut Behind & Turn
+Sole Control
+Acrobatic Finishing
+Heel Trick
+One Touch Pass
+Through Passing
+Pinpoint Crossing
+Captaincy
+Visionary Pass
+
+Body Measurements
+Leg Length
+9
+Arm Length
+5
+Waist Size
+4
+Chest
+4
+Shoulder Width
+9
+Neck Length
+4

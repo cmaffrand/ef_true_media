@@ -1,0 +1,113 @@
+Marcus Thuram
+Fox In The Box
+Height
+192cm
+Weight
+90kg
+Age
+28
+Foot
+
+D
+
+
+
+
+Aerial +2
+
+Off the Ball +1
+
+0
+Condition History
+Arrow Probabilities (%)
+528491918488939394100100100104
+
+CF
+0/66
+Level Cap 
+34
+
+Shooting
+8
+
+Passing
+0
+
+Dribbling
+6
+
+Dexterity
+11
+
+Lower Body Strength
+11
+
+Aerial Strength
+4
+
+Defending
+
+GK 1
+0
+
+GK 2
+
+GK 3
+Attacking
+Offensive Awareness	●	91
+Ball Control		83
+Dribbling		90
+Tight Possession		82
+Low Pass		64
+Lofted Pass		60
+Finishing	●	92
+Heading	●	86
+Place Kicking		71
+Curl		75
+Defending
+Defensive Awareness	●	53
+Defensive Engagement		58
+Tackling		54
+Aggression		61
+Goalkeeping		41
+Gk Catching		41
+GK Parrying		41
+GK Reflexes		41
+GK Reach		41
+athleticism
+Speed	●	96
+Acceleration	●	90
+Kicking Power		91
+Jump	●	87
+Physical Contact	●	90
+Balance		71
+Stamina	●	88
+Weak Foot Usage		1
+Weak Foot Acc		2
+Form		2
+Injury Resistance		1
+Skills
+Chop Turn
+Cut Behind & Turn
+Heading
+Long Range Curler
+Long Range Shooting
+Acrobatic Finishing
+Heel Trick
+First Time Shot
+Aerial Superiority
+Bullet Header
+
+Body Measurements
+Leg Length
+11
+Arm Length
+7
+Waist Size
+5
+Chest
+6
+Shoulder Width
+8
+Neck Length
+5

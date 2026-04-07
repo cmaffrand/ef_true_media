@@ -1,0 +1,111 @@
+Dirk Kuyt
+Prolific Winger
+Height
+184cm
+Weight
+77kg
+Age
+28
+Foot
+
+B
+
+
+
+
+Striker's Instinct +3
+
+Off the Ball +1
+
+0
+Condition History
+Arrow Probabilities (%)
+50859595899610099100103103102102
+
+RWF
+0/62
+Level Cap 
+32
+
+Shooting
+2
+
+Passing
+5
+
+Dribbling
+10
+
+Dexterity
+10
+
+Lower Body Strength
+10
+
+Aerial Strength
+
+Defending
+
+GK 1
+
+GK 2
+
+GK 3
+Attacking
+Offensive Awareness	●	94
+Ball Control	●	90
+Dribbling		91
+Tight Possession		88
+Low Pass		75
+Lofted Pass		75
+Finishing	●	85
+Heading		78
+Place Kicking		66
+Curl		74
+Defending
+Defensive Awareness	●	61
+Defensive Engagement		72
+Tackling		59
+Aggression		70
+Goalkeeping		41
+Gk Catching		41
+GK Parrying		41
+GK Reflexes		41
+GK Reach		41
+athleticism
+Speed	●	90
+Acceleration	●	91
+Kicking Power		94
+Jump		80
+Physical Contact		79
+Balance		84
+Stamina	●	92
+Weak Foot Usage		1
+Weak Foot Acc		1
+Form		2
+Injury Resistance		2
+Skills
+Heading
+Long Range Curler
+Long Range Shooting
+Acrobatic Finishing
+First Time Shot
+Pinpoint Crossing
+Outside Curler
+Track Back
+Aerial Superiority
+Will Power
+
+Body Measurements
+Leg Length
+6
+Arm Length
+5
+Waist Size
+9
+Chest
+7
+Shoulder Width
+7
+Neck Length
+10

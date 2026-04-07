@@ -1,0 +1,87 @@
+Name: Pavel Nedved
+Position: AMF
+Style: Hole Player
+
+Training:
+SHO: 9
+PAS: 8
+DRI: 8
+DEX: 8
+LBS: 8
+AER: 1
+DEF: 0
+GK1: 0
+GK2: 0
+GK3: 0
+Lv: 64
+Manager: Fabio Capello
+
+Attributes:
+Offensive Awareness: 84
+Ball Control: 93
+Dribbling: 93
+Tight Possession: 95
+Low Pass: 90
+Lofted Pass: 84
+Finishing: 91
+Heading: 62
+Place Kicking: 83
+Curl: 90
+Defensive Awareness: 60
+Defensive Engagement: 66
+Tackling: 56
+Aggression: 74
+Goalkeeping: 41
+Gk Catching: 41
+GK Parrying: 41
+GK Reflexes: 41
+GK Reach: 41
+Speed: 90
+Acceleration: 92
+Kicking Power: 96
+Jump: 66
+Balance: 95
+Stamina: 93
+Physical Contact: 81
+
+Skills:
+Long Range Curler
+Long Range Shooting
+Rising Shots
+Acrobatic Finishing
+One Touch Pass
+Through Passing
+Pinpoint Crossing
+Outside Curler
+Phenomenal Finishing
+Phenomenal Pass
+
+Biometrics:
+Height: 177
+Weight: 70
+Arm Length: 2
+Shoulder Width: 4
+Neck Length: 7
+Chest: 7
+Neck Size: 7
+Shoulder Height: 1
+Leg Length: 8
+Thigh Size: 9
+Waist Size: 5
+Arm Size: 8
+Calf Size: 10
+Leg Coverage Radius: 171.3
+Arm Coverage Radius: 155.1
+Jumping Height: 250.2
+Torso Collision: 48.5
+Leg Length Based Height: 178
+
+Com Skills:
+Mazing Run
+Incisive Run
+
+Other Stats:
+Weak Foot Usage: 3
+Weak Foot Accuracy: 3
+Form: 2
+Injury Resistance: 2

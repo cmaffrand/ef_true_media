@@ -1,0 +1,113 @@
+Javier Zanetti
+Offensive Wingback
+Height
+178cm
+Weight
+75kg
+Age
+37
+Foot
+
+B
+
+
+
+
+Duelling +2
+
+Accuracy +1
+
+0
+Condition History
+Arrow Probabilities (%)
+5098102102991011011019798989593
+
+LB
+0/64
+Level Cap 
+33
+
+Shooting
+5
+
+Passing
+7
+
+Dribbling
+8
+
+Dexterity
+8
+
+Lower Body Strength
+8
+
+Aerial Strength
+6
+
+Defending
+4
+
+GK 1
+
+GK 2
+
+GK 3
+Attacking
+Offensive Awareness		75
+Ball Control		80
+Dribbling		85
+Tight Possession		87
+Low Pass	●	89
+Lofted Pass	●	85
+Finishing	●	72
+Heading		73
+Place Kicking		65
+Curl		70
+Defending
+Defensive Awareness	●	83
+Defensive Engagement		85
+Tackling	●	85
+Aggression		87
+Goalkeeping		41
+Gk Catching		41
+GK Parrying		41
+GK Reflexes		41
+GK Reach		41
+athleticism
+Speed	●	91
+Acceleration		92
+Kicking Power	●	84
+Jump		82
+Physical Contact		80
+Balance		92
+Stamina	●	97
+Weak Foot Usage		2
+Weak Foot Acc		3
+Form		2
+Injury Resistance		1
+Skills
+Double Touch
+Weighted Pass
+Pinpoint Crossing
+Man Marking
+Interception
+Captaincy
+Fighting Spirit
+Blocker
+Sliding Tackle
+Fortress
+
+Body Measurements
+Leg Length
+11
+Arm Length
+3
+Waist Size
+4
+Chest
+4
+Shoulder Width
+8
+Neck Length
+6

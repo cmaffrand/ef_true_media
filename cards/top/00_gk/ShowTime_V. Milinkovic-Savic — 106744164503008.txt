@@ -1,0 +1,79 @@
+Name: V. Milinkovic Savic
+Position: GK
+Style: Offensive Goalkeeper
+
+Training:
+SHO: 0
+PAS: 0
+DRI: 0
+DEX: 0
+LBS: 0
+AER: 1
+DEF: 0
+GK1: 11
+GK2: 10
+GK3: 10
+Lv: 58
+Manager: Fabio Capello
+
+Attributes:
+Offensive Awareness: 41
+Ball Control: 47
+Dribbling: 44
+Tight Possession: 46
+Low Pass: 60
+Lofted Pass: 62
+Finishing: 42
+Heading: 49
+Place Kicking: 63
+Curl: 56
+Defensive Awareness: 45
+Defensive Engagement: 44
+Tackling: 62
+Aggression: 41
+Goalkeeping: 94
+Gk Catching: 94
+GK Parrying: 93
+GK Reflexes: 97
+GK Reach: 95
+Speed: 55
+Acceleration: 53
+Kicking Power: 71
+Jump: 76
+Balance: 48
+Stamina: 62
+Physical Contact: 64
+
+Skills:
+Gk Low Punt
+GK High Punt
+GK Long Throw
+
+Biometrics:
+Height: 202
+Weight: 90
+Arm Length: 8
+Shoulder Width: 11
+Neck Length: 8
+Chest: 6
+Neck Size: 8
+Shoulder Height: 10
+Leg Length: 13
+Thigh Size: 7
+Waist Size: 6
+Arm Size: 6
+Calf Size: 6
+Leg Coverage Radius: 198.6
+Arm Coverage Radius: 185.4
+Jumping Height: 282.0
+Torso Collision: 57.5
+Leg Length Based Height: 208
+
+Com Skills:
+—
+
+Other Stats:
+Weak Foot Usage: 0
+Weak Foot Accuracy: 0
+Form: 2
+Injury Resistance: 1

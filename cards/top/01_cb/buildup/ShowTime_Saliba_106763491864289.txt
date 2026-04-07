@@ -1,0 +1,99 @@
+William Saliba
+Build Up
+Height
+192cm
+Weight
+85kg
+Age
+24
+Foot
+
+A
+
+
+
+
+Defending +3
+
+Agility +1
+
+0
+Condition History
+Arrow Probabilities (%)
+531049797968786867983837778
+
+CB
+0/56
+Level Cap 
+29
+
+Shooting
+
+Passing
+1
+
+Dribbling
+
+Dexterity
+6
+
+Lower Body Strength
+7
+
+Aerial Strength
+7
+
+Defending
+12
+
+GK 1
+3
+
+GK 2
+
+GK 3
+0
+Attacking
+Offensive Awareness		58
+Ball Control		70
+Dribbling		66
+Tight Possession		72
+Low Pass		71
+Lofted Pass		70
+Finishing	●	55
+Heading		74
+Place Kicking		60
+Curl		62
+Defending
+Defensive Awareness	●	98
+Defensive Engagement		95
+Tackling	●	94
+Aggression		93
+Goalkeeping		44
+Gk Catching		41
+GK Parrying		41
+GK Reflexes		41
+GK Reach		41
+athleticism
+Speed	●	93
+Acceleration	●	86
+Kicking Power		71
+Jump	●	88
+Physical Contact		90
+Balance	●	72
+Stamina	●	89
+Weak Foot Usage		1
+Weak Foot Acc		1
+Form		2
+Injury Resistance		2
+Skills
+Heading
+Man Marking
+Interception
+Acrobatic Clearance
+Fighting Spirit
+Aerial Superiority
+Blocker
+Sliding Tackle
+Aerial Fort
+Long Reach Tackle

@@ -1,0 +1,103 @@
+Emiliano Martínez
+Offensive Goalkeeper
+Height
+195cm
+Weight
+90kg
+Age
+33
+Foot
+
+C
+
+
+
+
+No Booster
+
+No Booster
+
+0
+Condition History
+Arrow Probabilities (%)
+100545252525250504948484849
+
+GK
+0/56
+Level Cap 
+29
+
+Shooting
+
+Passing
+
+Dribbling
+
+Dexterity
+
+Lower Body Strength
+
+Aerial Strength
+2
+
+Defending
+
+GK 1
+9
+
+GK 2
+12
+
+GK 3
+9
+Attacking
+Offensive Awareness		41
+Ball Control		60
+Dribbling		46
+Tight Possession		45
+Low Pass		60
+Lofted Pass		61
+Finishing	●	42
+Heading		43
+Place Kicking		62
+Curl		44
+Defending
+Defensive Awareness	●	43
+Defensive Engagement		61
+Tackling		45
+Aggression		63
+Goalkeeping		91
+Gk Catching		91
+GK Parrying		90
+GK Reflexes		90
+GK Reach		96
+athleticism
+Speed		55
+Acceleration		53
+Kicking Power		71
+Jump		73
+Physical Contact		68
+Balance		51
+Stamina		61
+Weak Foot Usage		1
+Weak Foot Acc		1
+Form		1
+Injury Resistance		2
+Skills
+Gk Low Punt
+GK Long Throw
+GK Penalty Saver
+
+Body Measurements
+Leg Length
+7
+Arm Length
+6
+Waist Size
+5
+Chest
+5
+Shoulder Width
+8
+Neck Length
+8

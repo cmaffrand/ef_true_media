@@ -1,0 +1,81 @@
+Name: Gianluigi Buffon
+Position: GK
+Style: Defensive Goalkeeper
+
+Training:
+SHO: 0
+PAS: 0
+DRI: 0
+DEX: 0
+LBS: 0
+AER: 1
+DEF: 0
+GK1: 8
+GK2: 11
+GK3: 10
+Lv: 52
+Manager: Fabio Capello
+
+Attributes:
+Offensive Awareness: 43
+Ball Control: 47
+Dribbling: 46
+Tight Possession: 48
+Low Pass: 55
+Lofted Pass: 55
+Finishing: 45
+Heading: 50
+Place Kicking: 45
+Curl: 47
+Defensive Awareness: 47
+Defensive Engagement: 44
+Tackling: 60
+Aggression: 50
+Goalkeeping: 97
+Gk Catching: 95
+GK Parrying: 95
+GK Reflexes: 100
+GK Reach: 97
+Speed: 50
+Acceleration: 49
+Kicking Power: 67
+Jump: 81
+Balance: 47
+Stamina: 51
+Physical Contact: 68
+
+Skills:
+Gk Low Punt
+GK Long Throw
+GK Penalty Saver
+Captaincy
+Fighting Spirit
+
+Biometrics:
+Height: 192
+Weight: 92
+Arm Length: 7
+Shoulder Width: 11
+Neck Length: 5
+Chest: 7
+Neck Size: 9
+Shoulder Height: 5
+Leg Length: 8
+Thigh Size: 9
+Waist Size: 7
+Arm Size: 10
+Calf Size: 8
+Leg Coverage Radius: 185.9
+Arm Coverage Radius: 175.1
+Jumping Height: 274.5
+Torso Collision: 54.9
+Leg Length Based Height: 193
+
+Com Skills:
+Early Crosser
+
+Other Stats:
+Weak Foot Usage: 1
+Weak Foot Accuracy: 1
+Form: 2
+Injury Resistance: 1

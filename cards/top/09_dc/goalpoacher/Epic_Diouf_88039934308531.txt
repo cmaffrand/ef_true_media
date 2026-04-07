@@ -1,0 +1,111 @@
+El-Hadji Diouf
+Goal Poacher
+Height
+180cm
+Weight
+75kg
+Age
+21
+Foot
+
+B
+
+
+
+
+Agility +3
+
+Striker's Instinct +1
+
+0
+Condition History
+Arrow Probabilities (%)
+498192928491979796101101100102
+
+CF
+0/62
+Level Cap 
+32
+
+Shooting
+9
+
+Passing
+1
+
+Dribbling
+8
+
+Dexterity
+10
+
+Lower Body Strength
+8
+
+Aerial Strength
+4
+
+Defending
+
+GK 1
+
+GK 2
+
+GK 3
+Attacking
+Offensive Awareness	●	90
+Ball Control	●	85
+Dribbling		90
+Tight Possession		84
+Low Pass		70
+Lofted Pass		70
+Finishing	●	90
+Heading		80
+Place Kicking		73
+Curl		73
+Defending
+Defensive Awareness	●	53
+Defensive Engagement		56
+Tackling		55
+Aggression		59
+Goalkeeping		41
+Gk Catching		41
+GK Parrying		41
+GK Reflexes		41
+GK Reach		41
+athleticism
+Speed	●	92
+Acceleration	●	93
+Kicking Power		85
+Jump		82
+Physical Contact		83
+Balance	●	87
+Stamina	●	92
+Weak Foot Usage		2
+Weak Foot Acc		2
+Form		1
+Injury Resistance		1
+Skills
+Chop Turn
+Heading
+Long Range Curler
+Acrobatic Finishing
+First Time Shot
+Pinpoint Crossing
+Gamesmanship
+Fighting Spirit
+Aerial Superiority
+
+Body Measurements
+Leg Length
+9
+Arm Length
+7
+Waist Size
+7
+Chest
+7
+Shoulder Width
+7
+Neck Length
+7

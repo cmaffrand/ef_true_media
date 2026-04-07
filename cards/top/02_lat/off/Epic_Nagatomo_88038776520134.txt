@@ -1,0 +1,113 @@
+Yuto Nagatomo
+Offensive Wingback
+Height
+170cm
+Weight
+68kg
+Age
+24
+Foot
+
+B
+
+
+
+
+Agility +3
+
+Crossing +1
+
+0
+Condition History
+Arrow Probabilities (%)
+4794102102981001021029898989490
+
+LB
+0/64
+Level Cap 
+33
+
+Shooting
+7
+
+Passing
+8
+
+Dribbling
+8
+
+Dexterity
+8
+
+Lower Body Strength
+8
+
+Aerial Strength
+2
+
+Defending
+4
+
+GK 1
+
+GK 2
+
+GK 3
+Attacking
+Offensive Awareness		78
+Ball Control		82
+Dribbling		87
+Tight Possession		80
+Low Pass		89
+Lofted Pass	●	90
+Finishing	●	69
+Heading		67
+Place Kicking		76
+Curl	●	80
+Defending
+Defensive Awareness	●	82
+Defensive Engagement		84
+Tackling		83
+Aggression		83
+Goalkeeping		41
+Gk Catching		41
+GK Parrying		41
+GK Reflexes		41
+GK Reach		41
+athleticism
+Speed	●	93
+Acceleration	●	92
+Kicking Power		85
+Jump		74
+Physical Contact		76
+Balance	●	88
+Stamina	●	95
+Weak Foot Usage		2
+Weak Foot Acc		3
+Form		1
+Injury Resistance		2
+Skills
+One Touch Pass
+Through Passing
+Pinpoint Crossing
+Long Throw
+Man Marking
+Interception
+Acrobatic Clearance
+Fighting Spirit
+Sliding Tackle
+Edged Crossing
+
+Body Measurements
+Leg Length
+5
+Arm Length
+1
+Waist Size
+3
+Chest
+3
+Shoulder Width
+1
+Neck Length
+4

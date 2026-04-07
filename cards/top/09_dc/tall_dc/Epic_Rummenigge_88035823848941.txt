@@ -1,0 +1,112 @@
+K. Heinz Rummenigge
+Goal Poacher
+Height
+182cm
+Weight
+79kg
+Age
+25
+Foot
+
+B
+
+
+
+
+Agility +2
+
+Striker's Instinct +1
+
+0
+Condition History
+Arrow Probabilities (%)
+518896968893999998103103103105
+
+CF
+0/64
+Level Cap 
+33
+
+Shooting
+8
+
+Passing
+4
+
+Dribbling
+6
+
+Dexterity
+10
+
+Lower Body Strength
+8
+
+Aerial Strength
+7
+
+Defending
+
+GK 1
+
+GK 2
+
+GK 3
+Attacking
+Offensive Awareness	●	90
+Ball Control	●	83
+Dribbling		88
+Tight Possession		87
+Low Pass		76
+Lofted Pass		68
+Finishing	●	92
+Heading		80
+Place Kicking		70
+Curl		82
+Defending
+Defensive Awareness	●	64
+Defensive Engagement		64
+Tackling		59
+Aggression		65
+Goalkeeping		41
+Gk Catching		41
+GK Parrying		41
+GK Reflexes		41
+GK Reach		41
+athleticism
+Speed	●	98
+Acceleration	●	96
+Kicking Power		91
+Jump		87
+Physical Contact		87
+Balance	●	87
+Stamina	●	84
+Weak Foot Usage		2
+Weak Foot Acc		3
+Form		2
+Injury Resistance		0
+Skills
+Double Touch
+Cut Behind & Turn
+Heading
+Long Range Curler
+Long Range Shooting
+Rising Shots
+Acrobatic Finishing
+First Time Shot
+Outside Curler
+Phenomenal Finishing
+
+Body Measurements
+Leg Length
+7
+Arm Length
+6
+Waist Size
+8
+Chest
+5
+Shoulder Width
+8
+Neck Length
+4

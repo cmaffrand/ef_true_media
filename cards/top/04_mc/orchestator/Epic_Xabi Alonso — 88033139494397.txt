@@ -1,0 +1,87 @@
+Name: Xabi Alonso
+Position: CMF
+Style: Orchestrator
+
+Training:
+SHO: 4
+PAS: 6
+DRI: 9
+DEX: 8
+LBS: 10
+AER: 3
+DEF: 4
+GK1: 0
+GK2: 0
+GK3: 0
+Lv: 64
+Manager: Fabio Capello
+
+Attributes:
+Offensive Awareness: 75
+Ball Control: 90
+Dribbling: 82
+Tight Possession: 90
+Low Pass: 92
+Lofted Pass: 92
+Finishing: 76
+Heading: 71
+Place Kicking: 89
+Curl: 88
+Defensive Awareness: 86
+Defensive Engagement: 92
+Tackling: 82
+Aggression: 82
+Goalkeeping: 41
+Gk Catching: 41
+GK Parrying: 41
+GK Reflexes: 41
+GK Reach: 41
+Speed: 85
+Acceleration: 81
+Kicking Power: 96
+Jump: 75
+Balance: 75
+Stamina: 91
+Physical Contact: 80
+
+Skills:
+Long Range Shooting
+One Touch Pass
+Through Passing
+Weighted Pass
+Pinpoint Crossing
+Outside Curler
+Low Lofted Pass
+Penalty Specialist
+Interception
+Visionary Pass
+
+Biometrics:
+Height: 183
+Weight: 80
+Arm Length: 5
+Shoulder Width: 8
+Neck Length: 9
+Chest: 7
+Neck Size: 9
+Shoulder Height: 1
+Leg Length: 5
+Thigh Size: 10
+Waist Size: 8
+Arm Size: 7
+Calf Size: 10
+Leg Coverage Radius: 175.5
+Arm Coverage Radius: 164.3
+Jumping Height: 262.6
+Torso Collision: 51.5
+Leg Length Based Height: 181
+
+Com Skills:
+Mazing Run
+Incisive Run
+
+Other Stats:
+Weak Foot Usage: 1
+Weak Foot Accuracy: 2
+Form: 2
+Injury Resistance: 1

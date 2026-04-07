@@ -1,0 +1,86 @@
+Name: Andres Iniesta
+Position: CMF
+Style: Hole Player
+
+Training:
+SHO: 6
+PAS: 7
+DRI: 6
+DEX: 8
+LBS: 10
+AER: 6
+DEF: 0
+GK1: 0
+GK2: 0
+GK3: 0
+Lv: 64
+Manager: Fabio Capello
+
+Attributes:
+Offensive Awareness: 86
+Ball Control: 97
+Dribbling: 92
+Tight Possession: 95
+Low Pass: 98
+Lofted Pass: 95
+Finishing: 81
+Heading: 62
+Place Kicking: 80
+Curl: 87
+Defensive Awareness: 71
+Defensive Engagement: 70
+Tackling: 68
+Aggression: 65
+Goalkeeping: 41
+Gk Catching: 41
+GK Parrying: 41
+GK Reflexes: 41
+GK Reach: 41
+Speed: 88
+Acceleration: 90
+Kicking Power: 90
+Jump: 66
+Balance: 93
+Stamina: 91
+Physical Contact: 75
+
+Skills:
+Double Touch
+Cut Behind & Turn
+Sole Control
+First Time Shot
+One Touch Pass
+Through Passing
+Pinpoint Crossing
+Outside Curler
+Momentum Dribbling
+Phenomenal Pass
+
+Biometrics:
+Height: 171
+Weight: 68
+Arm Length: 5
+Shoulder Width: 5
+Neck Length: 4
+Chest: 2
+Neck Size: 10
+Shoulder Height: 10
+Leg Length: 9
+Thigh Size: 4
+Waist Size: 4
+Arm Size: 4
+Calf Size: 3
+Leg Coverage Radius: 166.0
+Arm Coverage Radius: 153.0
+Jumping Height: 243.4
+Torso Collision: 46.7
+Leg Length Based Height: 173
+
+Com Skills:
+Mazing Run
+
+Other Stats:
+Weak Foot Usage: 2
+Weak Foot Accuracy: 3
+Form: 2
+Injury Resistance: 1

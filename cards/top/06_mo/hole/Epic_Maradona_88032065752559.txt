@@ -1,0 +1,111 @@
+Diego Maradona
+Hole Player
+Height
+164cm
+Weight
+70kg
+Age
+26
+Foot
+
+B
+
+
+
+
+Ball-carrying +2
+
+Passing +1
+
+0
+Condition History
+Arrow Probabilities (%)
+447292928296104104104106106105101
+
+AMF
+0/64
+Level Cap 
+33
+
+Shooting
+8
+
+Passing
+8
+
+Dribbling
+4
+
+Dexterity
+10
+
+Lower Body Strength
+10
+
+Aerial Strength
+
+Defending
+
+GK 1
+
+GK 2
+
+GK 3
+Attacking
+Offensive Awareness		90
+Ball Control		92
+Dribbling	●	98
+Tight Possession	●	97
+Low Pass	●	90
+Lofted Pass	●	83
+Finishing	●	88
+Heading		70
+Place Kicking		91
+Curl	●	89
+Defending
+Defensive Awareness	●	44
+Defensive Engagement		46
+Tackling		47
+Aggression		61
+Goalkeeping		41
+Gk Catching		41
+GK Parrying		41
+GK Reflexes		41
+GK Reach		41
+athleticism
+Speed	●	93
+Acceleration		97
+Kicking Power	●	88
+Jump		71
+Physical Contact		63
+Balance	●	98
+Stamina		85
+Weak Foot Usage		1
+Weak Foot Acc		2
+Form		2
+Injury Resistance		1
+Skills
+Double Touch
+Marseille Turn
+Long Range Curler
+Long Range Shooting
+Acrobatic Finishing
+Through Passing
+Weighted Pass
+Outside Curler
+Low Lofted Pass
+Gamesmanship
+
+Body Measurements
+Leg Length
+10
+Arm Length
+7
+Waist Size
+7
+Chest
+10
+Shoulder Width
+12
+Neck Length
+4

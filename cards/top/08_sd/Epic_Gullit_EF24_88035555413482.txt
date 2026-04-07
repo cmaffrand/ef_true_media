@@ -1,0 +1,112 @@
+Ruud Gullit
+Deep-Lying Forward
+Height
+190cm
+Weight
+85kg
+Age
+26
+Foot
+
+B
+
+
+
+
+Striker's Instinct +2
+
+No Booster
+
+0
+Condition History
+Arrow Probabilities (%)
+549810210298101103103102104104104104
+
+SS
+0/68
+Level Cap 
+35
+
+Shooting
+8
+
+Passing
+8
+
+Dribbling
+8
+
+Dexterity
+8
+
+Lower Body Strength
+8
+
+Aerial Strength
+6
+
+Defending
+
+GK 1
+
+GK 2
+
+GK 3
+Attacking
+Offensive Awareness	●	82
+Ball Control	●	87
+Dribbling		88
+Tight Possession		85
+Low Pass		87
+Lofted Pass		81
+Finishing	●	87
+Heading		87
+Place Kicking		90
+Curl		90
+Defending
+Defensive Awareness	●	72
+Defensive Engagement		72
+Tackling		74
+Aggression		76
+Goalkeeping		41
+Gk Catching		41
+GK Parrying		41
+GK Reflexes		41
+GK Reach		41
+athleticism
+Speed		91
+Acceleration	●	92
+Kicking Power		93
+Jump		92
+Physical Contact		94
+Balance		84
+Stamina		88
+Weak Foot Usage		2
+Weak Foot Acc		3
+Form		2
+Injury Resistance		0
+Skills
+Heading
+Long Range Shooting
+Rising Shots
+Acrobatic Finishing
+Heel Trick
+First Time Shot
+Through Passing
+Outside Curler
+Fighting Spirit
+Phenomenal Finishing
+
+Body Measurements
+Leg Length
+9
+Arm Length
+7
+Waist Size
+2
+Chest
+6
+Shoulder Width
+6
+Neck Length
+7

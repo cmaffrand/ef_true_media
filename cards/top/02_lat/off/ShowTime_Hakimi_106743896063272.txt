@@ -1,0 +1,113 @@
+Achraf Hakimi
+Offensive Wingback
+Height
+181cm
+Weight
+73kg
+Age
+27
+Foot
+
+C
+
+
+
+
+Duelling +2
+
+Crossing +1
+
+0
+Condition History
+Arrow Probabilities (%)
+489610110197981001009598989493
+
+RB
+0/64
+Level Cap 
+33
+
+Shooting
+7
+
+Passing
+8
+
+Dribbling
+8
+
+Dexterity
+8
+
+Lower Body Strength
+8
+
+Aerial Strength
+2
+
+Defending
+4
+
+GK 1
+
+GK 2
+
+GK 3
+Attacking
+Offensive Awareness		76
+Ball Control		80
+Dribbling		83
+Tight Possession		82
+Low Pass		81
+Lofted Pass	●	80
+Finishing	●	77
+Heading		70
+Place Kicking		74
+Curl	●	80
+Defending
+Defensive Awareness	●	82
+Defensive Engagement		82
+Tackling	●	83
+Aggression		80
+Goalkeeping		41
+Gk Catching		41
+GK Parrying		41
+GK Reflexes		41
+GK Reach		41
+athleticism
+Speed	●	96
+Acceleration		92
+Kicking Power		84
+Jump		70
+Physical Contact		83
+Balance		81
+Stamina	●	96
+Weak Foot Usage		2
+Weak Foot Acc		2
+Form		2
+Injury Resistance		2
+Skills
+Chop Turn
+Cut Behind & Turn
+Through Passing
+Pinpoint Crossing
+Man Marking
+Interception
+Fighting Spirit
+Blocker
+Sliding Tackle
+Fortress
+
+Body Measurements
+Leg Length
+7
+Arm Length
+8
+Waist Size
+6
+Chest
+7
+Shoulder Width
+8
+Neck Length
+7

@@ -1,0 +1,112 @@
+Lionel Messi
+Deep-Lying Forward
+Height
+170cm
+Weight
+72kg
+Age
+35
+Foot
+
+B
+
+
+
+
+King of Football +4
+
+No Booster
+
+0
+Condition History
+Arrow Probabilities (%)
+477793938396104104104107107107104
+
+CF
+0/66
+Level Cap 
+34
+
+Shooting
+7
+
+Passing
+8
+
+Dribbling
+5
+
+Dexterity
+10
+
+Lower Body Strength
+10
+
+Aerial Strength
+2
+
+Defending
+
+GK 1
+
+GK 2
+
+GK 3
+Attacking
+Offensive Awareness		90
+Ball Control		90
+Dribbling	●	103
+Tight Possession	●	103
+Low Pass		87
+Lofted Pass		83
+Finishing	●	91
+Heading		69
+Place Kicking		93
+Curl		96
+Defending
+Defensive Awareness	●	48
+Defensive Engagement		49
+Tackling		44
+Aggression		53
+Goalkeeping		41
+Gk Catching		41
+GK Parrying		41
+GK Reflexes		41
+GK Reach		41
+athleticism
+Speed		87
+Acceleration		97
+Kicking Power		85
+Jump		67
+Physical Contact	●	91
+Balance	●	96
+Stamina		80
+Weak Foot Usage		0
+Weak Foot Acc		2
+Form		2
+Injury Resistance		1
+Skills
+Double Touch
+Long Range Curler
+Chip Shot Control
+Long Range Shooting
+Dipping Shot
+First Time Shot
+One Touch Pass
+Through Passing
+Penalty Specialist
+Captaincy
+
+Body Measurements
+Leg Length
+3
+Arm Length
+5
+Waist Size
+7
+Chest
+9
+Shoulder Width
+9
+Neck Length
+6

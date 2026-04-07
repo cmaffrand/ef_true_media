@@ -1,0 +1,112 @@
+Patrick Kluivert
+Deep-Lying Forward
+Height
+188cm
+Weight
+80kg
+Age
+26
+Foot
+
+B
+
+
+
+
+Technique +2
+
+Agility +1
+
+0
+Condition History
+Arrow Probabilities (%)
+5283909087929494979898100102
+
+CF
+0/62
+Level Cap 
+32
+
+Shooting
+6
+
+Passing
+4
+
+Dribbling
+5
+
+Dexterity
+10
+
+Lower Body Strength
+10
+
+Aerial Strength
+6
+
+Defending
+
+GK 1
+
+GK 2
+
+GK 3
+Attacking
+Offensive Awareness		90
+Ball Control	●	90
+Dribbling	●	81
+Tight Possession	●	84
+Low Pass	●	81
+Lofted Pass		69
+Finishing	●	90
+Heading		88
+Place Kicking		76
+Curl		72
+Defending
+Defensive Awareness	●	54
+Defensive Engagement		58
+Tackling		51
+Aggression		69
+Goalkeeping		41
+Gk Catching		41
+GK Parrying		41
+GK Reflexes		41
+GK Reach		41
+athleticism
+Speed	●	88
+Acceleration	●	81
+Kicking Power		88
+Jump		87
+Physical Contact		91
+Balance	●	71
+Stamina	●	88
+Weak Foot Usage		2
+Weak Foot Acc		3
+Form		2
+Injury Resistance		1
+Skills
+Marseille Turn
+Heading
+Chip Shot Control
+Long Range Shooting
+Knuckle Shot
+Rising Shots
+Acrobatic Finishing
+First Time Shot
+One Touch Pass
+Outside Curler
+
+Body Measurements
+Leg Length
+13
+Arm Length
+7
+Waist Size
+5
+Chest
+5
+Shoulder Width
+7
+Neck Length
+9

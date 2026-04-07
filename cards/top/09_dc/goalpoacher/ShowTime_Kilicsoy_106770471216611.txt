@@ -1,0 +1,113 @@
+Semih Kılıçsoy
+Goal Poacher
+Height
+178cm
+Weight
+70kg
+Age
+20
+Foot
+
+A
+
+
+
+
+Strength +3
+
+Off the Ball +1
+
+0
+Condition History
+Arrow Probabilities (%)
+487690908190979797102102102101
+
+CF
+0/52
+Level Cap 
+27
+
+Shooting
+5
+
+Passing
+5
+
+Dribbling
+7
+
+Dexterity
+9
+
+Lower Body Strength
+9
+
+Aerial Strength
+0
+
+Defending
+
+GK 1
+
+GK 2
+
+GK 3
+Attacking
+Offensive Awareness	●	90
+Ball Control		92
+Dribbling		92
+Tight Possession		90
+Low Pass		72
+Lofted Pass		70
+Finishing	●	90
+Heading		72
+Place Kicking		69
+Curl		72
+Defending
+Defensive Awareness	●	48
+Defensive Engagement		56
+Tackling		50
+Aggression		54
+Goalkeeping		41
+Gk Catching		41
+GK Parrying		41
+GK Reflexes		41
+GK Reach		41
+athleticism
+Speed	●	92
+Acceleration	●	94
+Kicking Power	●	83
+Jump	●	81
+Physical Contact	●	75
+Balance		87
+Stamina	●	88
+Weak Foot Usage		2
+Weak Foot Acc		3
+Form		1
+Injury Resistance		1
+Skills
+Scissors Feint
+Double Touch
+Cut Behind & Turn
+Sole Control
+Long Range Curler
+Dipping Shot
+Acrobatic Finishing
+First Time Shot
+Track Back
+Super Sub
+Phenomenal Finishing
+
+Body Measurements
+Leg Length
+7
+Arm Length
+6
+Waist Size
+8
+Chest
+7
+Shoulder Width
+8
+Neck Length
+7

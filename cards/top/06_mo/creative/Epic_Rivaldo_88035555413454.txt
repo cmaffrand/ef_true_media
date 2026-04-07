@@ -1,0 +1,111 @@
+Rivaldo
+Creative Playmaker
+Height
+186cm
+Weight
+75kg
+Age
+27
+Foot
+
+B
+
+
+
+
+Accuracy +2
+
+Agility +1
+
+0
+Condition History
+Arrow Probabilities (%)
+497792928597102102104104104106103
+
+AMF
+0/68
+Level Cap 
+35
+
+Shooting
+8
+
+Passing
+7
+
+Dribbling
+7
+
+Dexterity
+9
+
+Lower Body Strength
+11
+
+Aerial Strength
+0
+
+Defending
+
+GK 1
+
+GK 2
+
+GK 3
+Attacking
+Offensive Awareness		87
+Ball Control		93
+Dribbling		93
+Tight Possession		90
+Low Pass	●	91
+Lofted Pass	●	87
+Finishing	●	92
+Heading		68
+Place Kicking		91
+Curl		87
+Defending
+Defensive Awareness	●	48
+Defensive Engagement		48
+Tackling		52
+Aggression		53
+Goalkeeping		41
+Gk Catching		41
+GK Parrying		41
+GK Reflexes		41
+GK Reach		41
+athleticism
+Speed	●	88
+Acceleration	●	84
+Kicking Power	●	98
+Jump		69
+Physical Contact		80
+Balance	●	88
+Stamina	●	86
+Weak Foot Usage		1
+Weak Foot Acc		2
+Form		2
+Injury Resistance		1
+Skills
+Double Touch
+Flip Flap
+Marseille Turn
+Sole Control
+Long Range Curler
+Long Range Shooting
+Through Passing
+Outside Curler
+Rabona
+
+Body Measurements
+Leg Length
+14
+Arm Length
+7
+Waist Size
+2
+Chest
+5
+Shoulder Width
+8
+Neck Length
+7

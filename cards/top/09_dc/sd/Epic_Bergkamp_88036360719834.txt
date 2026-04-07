@@ -1,0 +1,111 @@
+Dennis Bergkamp
+Deep-Lying Forward
+Height
+183cm
+Weight
+79kg
+Age
+34
+Foot
+
+B
+
+
+
+
+Fantasista +3
+
+Agility +1
+
+0
+Condition History
+Arrow Probabilities (%)
+477491918497103103105104104106103
+
+CF
+0/66
+Level Cap 
+34
+
+Shooting
+7
+
+Passing
+8
+
+Dribbling
+6
+
+Dexterity
+10
+
+Lower Body Strength
+10
+
+Aerial Strength
+
+Defending
+
+GK 1
+
+GK 2
+
+GK 3
+Attacking
+Offensive Awareness		93
+Ball Control	●	97
+Dribbling	●	91
+Tight Possession		90
+Low Pass		92
+Lofted Pass		87
+Finishing	●	93
+Heading		67
+Place Kicking		80
+Curl		84
+Defending
+Defensive Awareness	●	47
+Defensive Engagement		47
+Tackling		45
+Aggression		51
+Goalkeeping		41
+Gk Catching		41
+GK Parrying		41
+GK Reflexes		41
+GK Reach		41
+athleticism
+Speed	●	88
+Acceleration	●	88
+Kicking Power		89
+Jump		63
+Physical Contact		75
+Balance	●	86
+Stamina	●	88
+Weak Foot Usage		1
+Weak Foot Acc		2
+Form		2
+Injury Resistance		1
+Skills
+Double Touch
+Sole Control
+Long Range Curler
+Long Range Shooting
+First Time Shot
+One Touch Pass
+Through Passing
+Outside Curler
+Fighting Spirit
+Visionary Pass
+
+Body Measurements
+Leg Length
+9
+Arm Length
+6
+Waist Size
+2
+Chest
+3
+Shoulder Width
+12
+Neck Length
+9

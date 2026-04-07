@@ -1,0 +1,113 @@
+Bixente Lizarazu
+Offensive Wingback
+Height
+169cm
+Weight
+73kg
+Age
+32
+Foot
+
+B
+
+
+
+
+Crossing +2
+
+Crossing +1
+
+0
+Condition History
+Arrow Probabilities (%)
+4794101101971001021029797979389
+
+LB
+0/64
+Level Cap 
+33
+
+Shooting
+8
+
+Passing
+8
+
+Dribbling
+5
+
+Dexterity
+7
+
+Lower Body Strength
+8
+
+Aerial Strength
+4
+
+Defending
+6
+
+GK 1
+
+GK 2
+
+GK 3
+Attacking
+Offensive Awareness		72
+Ball Control		81
+Dribbling		82
+Tight Possession		84
+Low Pass		90
+Lofted Pass	●	92
+Finishing	●	70
+Heading		66
+Place Kicking		73
+Curl	●	84
+Defending
+Defensive Awareness	●	82
+Defensive Engagement		82
+Tackling		80
+Aggression		81
+Goalkeeping		41
+Gk Catching		41
+GK Parrying		41
+GK Reflexes		41
+GK Reach		41
+athleticism
+Speed	●	92
+Acceleration		91
+Kicking Power		87
+Jump		76
+Physical Contact		76
+Balance		90
+Stamina	●	98
+Weak Foot Usage		0
+Weak Foot Acc		1
+Form		2
+Injury Resistance		2
+Skills
+Sole Control
+Long Range Shooting
+Weighted Pass
+Pinpoint Crossing
+Low Lofted Pass
+Man Marking
+Interception
+Blocker
+Sliding Tackle
+Edged Crossing
+
+Body Measurements
+Leg Length
+7
+Arm Length
+4
+Waist Size
+7
+Chest
+8
+Shoulder Width
+11
+Neck Length
+4

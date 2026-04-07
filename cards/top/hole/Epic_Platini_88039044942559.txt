@@ -1,0 +1,111 @@
+Michel Platini
+Hole Player
+Height
+179cm
+Weight
+73kg
+Age
+29
+Foot
+
+B
+
+
+
+
+Technique +3
+
+Off the Ball +1
+
+0
+Condition History
+Arrow Probabilities (%)
+497794948598106106106108108108105
+
+AMF
+0/62
+Level Cap 
+32
+
+Shooting
+7
+
+Passing
+7
+
+Dribbling
+8
+
+Dexterity
+9
+
+Lower Body Strength
+9
+
+Aerial Strength
+
+Defending
+
+GK 1
+
+GK 2
+
+GK 3
+Attacking
+Offensive Awareness	●	88
+Ball Control	●	95
+Dribbling	●	96
+Tight Possession	●	95
+Low Pass	●	92
+Lofted Pass		87
+Finishing	●	91
+Heading		76
+Place Kicking		88
+Curl		90
+Defending
+Defensive Awareness	●	47
+Defensive Engagement		49
+Tackling		43
+Aggression		50
+Goalkeeping		41
+Gk Catching		41
+GK Parrying		41
+GK Reflexes		41
+GK Reach		41
+athleticism
+Speed	●	93
+Acceleration	●	96
+Kicking Power		92
+Jump		75
+Physical Contact		76
+Balance		93
+Stamina	●	85
+Weak Foot Usage		3
+Weak Foot Acc		3
+Form		2
+Injury Resistance		1
+Skills
+Double Touch
+Sole Control
+Heading
+Long Range Curler
+First Time Shot
+One Touch Pass
+Through Passing
+Outside Curler
+Momentum Dribbling
+Visionary Pass
+
+Body Measurements
+Leg Length
+7
+Arm Length
+7
+Waist Size
+7
+Chest
+7
+Shoulder Width
+7
+Neck Length
+7

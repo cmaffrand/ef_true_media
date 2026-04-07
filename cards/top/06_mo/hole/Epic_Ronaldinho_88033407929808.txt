@@ -1,0 +1,112 @@
+Ronaldinho Gaúcho
+Hole Player
+Height
+182cm
+Weight
+80kg
+Age
+22
+Foot
+
+B
+
+
+
+
+Technique +2
+
+Accuracy +1
+
+0
+Condition History
+Arrow Probabilities (%)
+487693938496103103103104104105102
+
+AMF
+0/60
+Level Cap 
+31
+
+Shooting
+10
+
+Passing
+5
+
+Dribbling
+4
+
+Dexterity
+8
+
+Lower Body Strength
+10
+
+Aerial Strength
+2
+
+Defending
+
+GK 1
+
+GK 2
+
+GK 3
+Attacking
+Offensive Awareness		82
+Ball Control	●	92
+Dribbling	●	94
+Tight Possession	●	93
+Low Pass	●	91
+Lofted Pass	●	84
+Finishing	●	91
+Heading		60
+Place Kicking		95
+Curl		94
+Defending
+Defensive Awareness	●	46
+Defensive Engagement		53
+Tackling		47
+Aggression		56
+Goalkeeping		41
+Gk Catching		41
+GK Parrying		41
+GK Reflexes		41
+GK Reach		41
+athleticism
+Speed		90
+Acceleration		96
+Kicking Power	●	90
+Jump		64
+Physical Contact		80
+Balance		91
+Stamina		85
+Weak Foot Usage		1
+Weak Foot Acc		2
+Form		2
+Injury Resistance		1
+Skills
+Scissors Feint
+Double Touch
+Flip Flap
+Sole Control
+Long Range Curler
+One Touch Pass
+Through Passing
+Outside Curler
+No Look Pass
+Momentum Dribbling
+
+Body Measurements
+Leg Length
+11
+Arm Length
+7
+Waist Size
+7
+Chest
+8
+Shoulder Width
+7
+Neck Length
+9

@@ -1,0 +1,112 @@
+Lionel Messi
+Classic No. 10
+Height
+170cm
+Weight
+67kg
+Age
+37
+Foot
+
+B
+
+
+
+
+Offence Creator +3
+
+Agility +1
+
+0
+Condition History
+Arrow Probabilities (%)
+436987877992999910010010010298
+
+SS
+0/62
+Level Cap 
+32
+
+Shooting
+8
+
+Passing
+7
+
+Dribbling
+7
+
+Dexterity
+9
+
+Lower Body Strength
+8
+
+Aerial Strength
+3
+
+Defending
+
+GK 1
+
+GK 2
+
+GK 3
+Attacking
+Offensive Awareness	●	90
+Ball Control	●	91
+Dribbling		90
+Tight Possession		92
+Low Pass	●	90
+Lofted Pass		81
+Finishing	●	90
+Heading		55
+Place Kicking		89
+Curl		90
+Defending
+Defensive Awareness	●	46
+Defensive Engagement		47
+Tackling		47
+Aggression		48
+Goalkeeping		41
+Gk Catching		41
+GK Parrying		41
+GK Reflexes		41
+GK Reach		41
+athleticism
+Speed	●	84
+Acceleration	●	90
+Kicking Power	●	88
+Jump		53
+Physical Contact		75
+Balance	●	91
+Stamina	●	81
+Weak Foot Usage		0
+Weak Foot Acc		2
+Form		2
+Injury Resistance		1
+Skills
+Double Touch
+Long Range Curler
+Long Range Shooting
+Dipping Shot
+First Time Shot
+One Touch Pass
+Through Passing
+Penalty Specialist
+Captaincy
+Visionary Pass
+
+Body Measurements
+Leg Length
+3
+Arm Length
+5
+Waist Size
+7
+Chest
+9
+Shoulder Width
+9
+Neck Length
+6

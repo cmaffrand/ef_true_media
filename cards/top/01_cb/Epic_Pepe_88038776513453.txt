@@ -1,0 +1,113 @@
+Pepe
+Destroyer
+Height
+188cm
+Weight
+81kg
+Age
+32
+Foot
+
+B
+
+
+
+
+Shutdown +3
+
+Defending +1
+
+0
+Condition History
+Arrow Probabilities (%)
+531059494948381817478787377
+
+CB
+0/56
+Level Cap 
+29
+
+Shooting
+
+Passing
+1
+
+Dribbling
+1
+
+Dexterity
+8
+
+Lower Body Strength
+8
+
+Aerial Strength
+8
+
+Defending
+9
+
+GK 1
+3
+
+GK 2
+
+GK 3
+Attacking
+Offensive Awareness		60
+Ball Control		61
+Dribbling		60
+Tight Possession		60
+Low Pass		65
+Lofted Pass		66
+Finishing	●	52
+Heading		85
+Place Kicking		56
+Curl		58
+Defending
+Defensive Awareness	●	95
+Defensive Engagement	●	91
+Tackling	●	97
+Aggression		96
+Goalkeeping		44
+Gk Catching		41
+GK Parrying		41
+GK Reflexes		41
+GK Reach		41
+athleticism
+Speed	●	90
+Acceleration	●	88
+Kicking Power		82
+Jump	●	96
+Physical Contact		93
+Balance		70
+Stamina		87
+Weak Foot Usage		1
+Weak Foot Acc		1
+Form		2
+Injury Resistance		1
+Skills
+Heading
+Man Marking
+Interception
+Acrobatic Clearance
+Fighting Spirit
+Aerial Superiority
+Blocker
+Sliding Tackle
+Fortress
+Long Reach Tackle
+
+Body Measurements
+Leg Length
+8
+Arm Length
+7
+Waist Size
+5
+Chest
+5
+Shoulder Width
+7
+Neck Length
+7

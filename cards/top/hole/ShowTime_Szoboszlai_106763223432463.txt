@@ -1,0 +1,112 @@
+Dominik Szoboszlai
+Hole Player
+Height
+186cm
+Weight
+74kg
+Age
+25
+Foot
+
+A
+
+
+
+
+Accuracy +3
+
+Ball-carrying +1
+
+0
+Condition History
+Arrow Probabilities (%)
+509010010095102105105105105105106103
+
+AMF
+0/64
+Level Cap 
+33
+
+Shooting
+8
+
+Passing
+6
+
+Dribbling
+9
+
+Dexterity
+10
+
+Lower Body Strength
+7
+
+Aerial Strength
+1
+
+Defending
+
+GK 1
+
+GK 2
+
+GK 3
+Attacking
+Offensive Awareness		87
+Ball Control		90
+Dribbling	●	90
+Tight Possession	●	91
+Low Pass	●	90
+Lofted Pass	●	87
+Finishing	●	91
+Heading		61
+Place Kicking		88
+Curl		91
+Defending
+Defensive Awareness	●	71
+Defensive Engagement		73
+Tackling		69
+Aggression		70
+Goalkeeping		41
+Gk Catching		41
+GK Parrying		41
+GK Reflexes		41
+GK Reach		41
+athleticism
+Speed	●	92
+Acceleration		90
+Kicking Power	●	95
+Jump		73
+Physical Contact		77
+Balance	●	86
+Stamina		89
+Weak Foot Usage		2
+Weak Foot Acc		2
+Form		2
+Injury Resistance		0
+Skills
+Double Touch
+Long Range Curler
+Long Range Shooting
+Dipping Shot
+First Time Shot
+One Touch Pass
+Through Passing
+Outside Curler
+Phenomenal Pass
+Low Screamer
+
+Body Measurements
+Leg Length
+7
+Arm Length
+8
+Waist Size
+6
+Chest
+4
+Shoulder Width
+8
+Neck Length
+9

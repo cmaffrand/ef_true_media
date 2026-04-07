@@ -1,0 +1,112 @@
+Kalidou Koulibaly
+Destroyer
+Height
+187cm
+Weight
+89kg
+Age
+34
+Foot
+
+A
+
+
+
+
+Shutdown +3
+
+Aerial Block +1
+
+0
+Condition History
+Arrow Probabilities (%)
+511019292928279797377777175
+
+CB
+0/64
+Level Cap 
+33
+
+Shooting
+
+Passing
+0
+
+Dribbling
+
+Dexterity
+8
+
+Lower Body Strength
+11
+
+Aerial Strength
+8
+
+Defending
+10
+
+GK 1
+1
+
+GK 2
+
+GK 3
+Attacking
+Offensive Awareness		59
+Ball Control		62
+Dribbling		62
+Tight Possession		62
+Low Pass		66
+Lofted Pass		62
+Finishing	●	52
+Heading	●	85
+Place Kicking		55
+Curl		55
+Defending
+Defensive Awareness	●	93
+Defensive Engagement	●	95
+Tackling	●	93
+Aggression		95
+Goalkeeping		42
+Gk Catching		41
+GK Parrying		41
+GK Reflexes		41
+GK Reach		41
+athleticism
+Speed	●	90
+Acceleration		81
+Kicking Power		75
+Jump	●	90
+Physical Contact	●	94
+Balance		67
+Stamina		88
+Weak Foot Usage		2
+Weak Foot Acc		2
+Form		2
+Injury Resistance		2
+Skills
+Heading
+Man Marking
+Interception
+Acrobatic Clearance
+Captaincy
+Fighting Spirit
+Aerial Superiority
+Blocker
+Sliding Tackle
+Aerial Fort
+
+Body Measurements
+Leg Length
+11
+Arm Length
+5
+Waist Size
+3
+Chest
+5
+Shoulder Width
+10
+Neck Length
+5

@@ -1,0 +1,98 @@
+Kaoru Mitoma
+Cross Specialist
+Height
+178cm
+Weight
+71kg
+Age
+28
+Foot
+
+C
+
+
+
+
+Technique +3
+
+Agility +1
+
+0
+Condition History
+Arrow Probabilities (%)
+477994948798103103103104104104100
+
+LMF
+0/68
+Level Cap 
+35
+
+Shooting
+9
+
+Passing
+7
+
+Dribbling
+7
+
+Dexterity
+8
+
+Lower Body Strength
+9
+
+Aerial Strength
+5
+
+Defending
+
+GK 1
+
+GK 2
+
+GK 3
+Attacking
+Offensive Awareness		83
+Ball Control	●	93
+Dribbling	●	95
+Tight Possession	●	93
+Low Pass	●	90
+Lofted Pass		83
+Finishing	●	88
+Heading		63
+Place Kicking		72
+Curl		80
+Defending
+Defensive Awareness	●	54
+Defensive Engagement		62
+Tackling		56
+Aggression		68
+Goalkeeping		41
+Gk Catching		41
+GK Parrying		41
+GK Reflexes		41
+GK Reach		41
+athleticism
+Speed	●	91
+Acceleration	●	94
+Kicking Power		87
+Jump		64
+Physical Contact		75
+Balance	●	90
+Stamina	●	88
+Weak Foot Usage		1
+Weak Foot Acc		2
+Form		1
+Injury Resistance		1
+Skills
+Double Touch
+Flip Flap
+Sole Control
+Long Range Curler
+First Time Shot
+Through Passing
+Pinpoint Crossing
+Outside Curler
+Momentum Dribbling
+Acceleration Burst

@@ -1,0 +1,112 @@
+Eric Cantona
+Deep-Lying Forward
+Height
+188cm
+Weight
+88kg
+Age
+27
+Foot
+
+B
+
+
+
+
+Shooting +2
+
+Off the Ball +1
+
+0
+Condition History
+Arrow Probabilities (%)
+5087979793101103103105105105106103
+
+CF
+0/66
+Level Cap 
+34
+
+Shooting
+9
+
+Passing
+7
+
+Dribbling
+7
+
+Dexterity
+7
+
+Lower Body Strength
+11
+
+Aerial Strength
+
+Defending
+
+GK 1
+
+GK 2
+
+GK 3
+Attacking
+Offensive Awareness	●	83
+Ball Control	●	94
+Dribbling		95
+Tight Possession		97
+Low Pass		90
+Lofted Pass		79
+Finishing	●	90
+Heading		72
+Place Kicking		83
+Curl		87
+Defending
+Defensive Awareness	●	61
+Defensive Engagement		65
+Tackling		61
+Aggression		82
+Goalkeeping		41
+Gk Catching		41
+GK Parrying		41
+GK Reflexes		41
+GK Reach		41
+athleticism
+Speed	●	88
+Acceleration	●	91
+Kicking Power	●	97
+Jump		72
+Physical Contact	●	80
+Balance		80
+Stamina	●	90
+Weak Foot Usage		2
+Weak Foot Acc		2
+Form		2
+Injury Resistance		2
+Skills
+Double Touch
+Heading
+Long Range Curler
+Long Range Shooting
+Rising Shots
+Acrobatic Finishing
+First Time Shot
+One Touch Pass
+Outside Curler
+Phenomenal Finishing
+
+
+Body Measurements
+Leg Length
+11
+Arm Length
+7
+Waist Size
+7
+Chest
+8
+Shoulder Width
+10
+Neck Length
+7

@@ -1,0 +1,114 @@
+Jude Bellingham
+Box To Box
+Height
+186cm
+Weight
+75kg
+Age
+22
+Foot
+
+A
+
+
+
+
+Ball Protection +3
+
+No Booster
+
+0
+Condition History
+Arrow Probabilities (%)
+52100103103102104104104104104104103102
+
+CMF
+0/68
+Level Cap 
+35
+
+Shooting
+4
+
+Passing
+8
+
+Dribbling
+7
+
+Dexterity
+8
+
+Lower Body Strength
+8
+
+Aerial Strength
+8
+
+Defending
+5
+
+GK 1
+
+GK 2
+
+GK 3
+Attacking
+Offensive Awareness		85
+Ball Control	●	88
+Dribbling		87
+Tight Possession	●	91
+Low Pass		89
+Lofted Pass		87
+Finishing	●	85
+Heading		78
+Place Kicking		65
+Curl		70
+Defending
+Defensive Awareness	●	80
+Defensive Engagement		83
+Tackling		83
+Aggression		84
+Goalkeeping		41
+Gk Catching		41
+GK Parrying		41
+GK Reflexes		41
+GK Reach		41
+athleticism
+Speed		91
+Acceleration		88
+Kicking Power		90
+Jump		81
+Physical Contact	●	90
+Balance	●	85
+Stamina		93
+Weak Foot Usage		2
+Weak Foot Acc		3
+Form		2
+Injury Resistance		2
+Skills
+Double Touch
+Long Range Curler
+Long Range Shooting
+First Time Shot
+One Touch Pass
+Through Passing
+Outside Curler
+Blocker
+Magnetic Feet
+Visionary Pass
+
+
+Body Measurements
+Leg Length
+14
+Arm Length
+11
+Waist Size
+5
+Chest
+7
+Shoulder Width
+11
+Neck Length
+7

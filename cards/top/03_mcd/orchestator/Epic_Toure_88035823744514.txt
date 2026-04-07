@@ -1,0 +1,99 @@
+Yaya Touré
+Orchestrator
+Height
+189cm
+Weight
+90kg
+Age
+29
+Foot
+
+B
+
+
+
+
+Physicality +2
+
+Technique +1
+
+0
+Condition History
+Arrow Probabilities (%)
+52981011011011021011019998989795
+
+DMF
+0/68
+Level Cap 
+35
+
+Shooting
+5
+
+Passing
+9
+
+Dribbling
+8
+
+Dexterity
+8
+
+Lower Body Strength
+9
+
+Aerial Strength
+4
+
+Defending
+4
+
+GK 1
+
+GK 2
+
+GK 3
+Attacking
+Offensive Awareness		73
+Ball Control	●	88
+Dribbling	●	86
+Tight Possession	●	90
+Low Pass	●	91
+Lofted Pass		85
+Finishing	●	75
+Heading		76
+Place Kicking		80
+Curl		81
+Defending
+Defensive Awareness	●	82
+Defensive Engagement		81
+Tackling		82
+Aggression		83
+Goalkeeping		41
+Gk Catching		41
+GK Parrying		41
+GK Reflexes		41
+GK Reach		41
+athleticism
+Speed		87
+Acceleration		83
+Kicking Power		90
+Jump	●	77
+Physical Contact	●	89
+Balance	●	82
+Stamina	●	94
+Weak Foot Usage		2
+Weak Foot Acc		2
+Form		2
+Injury Resistance		1
+Skills
+Double Touch
+Long Range Shooting
+One Touch Pass
+Through Passing
+Outside Curler
+Low Lofted Pass
+Man Marking
+Interception
+Blocker
+Visionary Pass

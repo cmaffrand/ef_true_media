@@ -1,0 +1,111 @@
+Nwankwo Kanu
+Deep-Lying Forward
+Height
+196cm
+Weight
+80kg
+Age
+24
+Foot
+
+B
+
+
+
+
+Technique +3
+
+Agility +1
+
+0
+Condition History
+Arrow Probabilities (%)
+507586867988939495989810099
+
+CF
+0/60
+Level Cap 
+31
+
+Shooting
+8
+
+Passing
+5
+
+Dribbling
+7
+
+Dexterity
+10
+
+Lower Body Strength
+8
+
+Aerial Strength
+2
+
+Defending
+
+GK 1
+
+GK 2
+
+GK 3
+Attacking
+Offensive Awareness		85
+Ball Control	●	91
+Dribbling	●	90
+Tight Possession	●	94
+Low Pass	●	74
+Lofted Pass		70
+Finishing	●	88
+Heading		75
+Place Kicking		76
+Curl		77
+Defending
+Defensive Awareness	●	48
+Defensive Engagement		47
+Tackling		48
+Aggression		49
+Goalkeeping		41
+Gk Catching		41
+GK Parrying		41
+GK Reflexes		41
+GK Reach		41
+athleticism
+Speed	●	83
+Acceleration	●	88
+Kicking Power		83
+Jump		76
+Physical Contact		76
+Balance	●	90
+Stamina	●	81
+Weak Foot Usage		2
+Weak Foot Acc		2
+Form		1
+Injury Resistance		1
+Skills
+Double Touch
+Marseille Turn
+Sombrero
+Sole Control
+Heading
+Long Range Curler
+Heel Trick
+First Time Shot
+Super Sub
+
+Body Measurements
+Leg Length
+14
+Arm Length
+8
+Waist Size
+2
+Chest
+5
+Shoulder Width
+7
+Neck Length
+5

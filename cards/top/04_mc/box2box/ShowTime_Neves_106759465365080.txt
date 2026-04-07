@@ -1,0 +1,114 @@
+João Neves
+Box To Box
+Height
+174cm
+Weight
+71kg
+Age
+21
+Foot
+
+A
+
+
+
+
+Balancer +3
+
+Technique +1
+
+0
+Condition History
+Arrow Probabilities (%)
+49981021021011021031039999999692
+
+CMF
+0/70
+Level Cap 
+36
+
+Shooting
+3
+
+Passing
+4
+
+Dribbling
+4
+
+Dexterity
+8
+
+Lower Body Strength
+11
+
+Aerial Strength
+6
+
+Defending
+10
+
+GK 1
+
+GK 2
+
+GK 3
+Attacking
+Offensive Awareness	●	80
+Ball Control	●	88
+Dribbling	●	85
+Tight Possession	●	90
+Low Pass	●	89
+Lofted Pass		87
+Finishing	●	70
+Heading		64
+Place Kicking		65
+Curl		78
+Defending
+Defensive Awareness	●	87
+Defensive Engagement		89
+Tackling		89
+Aggression		87
+Goalkeeping		41
+Gk Catching		41
+GK Parrying		41
+GK Reflexes		41
+GK Reach		41
+athleticism
+Speed		88
+Acceleration	●	90
+Kicking Power		84
+Jump		85
+Physical Contact		75
+Balance		89
+Stamina	●	96
+Weak Foot Usage		2
+Weak Foot Acc		2
+Form		2
+Injury Resistance		1
+Skills
+Double Touch
+Sole Control
+One Touch Pass
+Through Passing
+Weighted Pass
+Outside Curler
+Track Back
+Interception
+Fighting Spirit
+Long Reach Tackle
+
+
+Body Measurements
+Leg Length
+8
+Arm Length
+6
+Waist Size
+7
+Chest
+7
+Shoulder Width
+8
+Neck Length
+5

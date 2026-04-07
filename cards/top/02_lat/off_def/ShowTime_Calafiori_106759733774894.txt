@@ -1,0 +1,113 @@
+Riccardo Calafiori
+Offensive Wingback
+Height
+188cm
+Weight
+86kg
+Age
+23
+Foot
+
+C
+
+
+
+
+Balancer +3
+
+Shutdown +1
+
+0
+Condition History
+Arrow Probabilities (%)
+531061031031039998989596969292
+
+LB
+0/68
+Level Cap 
+35
+
+Shooting
+
+Passing
+2
+
+Dribbling
+2
+
+Dexterity
+7
+
+Lower Body Strength
+10
+
+Aerial Strength
+10
+
+Defending
+10
+
+GK 1
+
+GK 2
+
+GK 3
+Attacking
+Offensive Awareness	●	82
+Ball Control		83
+Dribbling		80
+Tight Possession		83
+Low Pass		80
+Lofted Pass		80
+Finishing	●	65
+Heading		76
+Place Kicking		59
+Curl		69
+Defending
+Defensive Awareness	●	94
+Defensive Engagement	●	93
+Tackling	●	93
+Aggression		91
+Goalkeeping		41
+Gk Catching		41
+GK Parrying		41
+GK Reflexes		41
+GK Reach		41
+athleticism
+Speed	●	90
+Acceleration	●	87
+Kicking Power		85
+Jump		93
+Physical Contact		90
+Balance		76
+Stamina	●	94
+Weak Foot Usage		1
+Weak Foot Acc		2
+Form		2
+Injury Resistance		0
+Skills
+Double Touch
+One Touch Pass
+Through Passing
+Pinpoint Crossing
+Long Throw
+Man Marking
+Interception
+Aerial Superiority
+Blocker
+Sliding Tackle
+Phenomenal Pass
+
+Body Measurements
+Leg Length
+9
+Arm Length
+6
+Waist Size
+4
+Chest
+5
+Shoulder Width
+7
+Neck Length
+7

@@ -1,0 +1,99 @@
+Massimo Ambrosini
+Destroyer
+Height
+182cm
+Weight
+72kg
+Age
+29
+Foot
+
+B
+
+
+
+
+Defending +3
+
+Agility +1
+
+0
+Condition History
+Arrow Probabilities (%)
+5110410310310310199999696969392
+
+DMF
+0/64
+Level Cap 
+33
+
+Shooting
+
+Passing
+6
+
+Dribbling
+4
+
+Dexterity
+8
+
+Lower Body Strength
+9
+
+Aerial Strength
+7
+
+Defending
+9
+
+GK 1
+0
+
+GK 2
+
+GK 3
+Attacking
+Offensive Awareness		82
+Ball Control		82
+Dribbling		80
+Tight Possession		78
+Low Pass		87
+Lofted Pass		87
+Finishing	●	69
+Heading		81
+Place Kicking		65
+Curl		68
+Defending
+Defensive Awareness	●	93
+Defensive Engagement		93
+Tackling	●	92
+Aggression		91
+Goalkeeping		41
+Gk Catching		41
+GK Parrying		41
+GK Reflexes		41
+GK Reach		41
+athleticism
+Speed	●	88
+Acceleration	●	86
+Kicking Power		85
+Jump	●	87
+Physical Contact		88
+Balance	●	76
+Stamina	●	92
+Weak Foot Usage		1
+Weak Foot Acc		1
+Form		1
+Injury Resistance		0
+Skills
+One Touch Pass
+Through Passing
+Man Marking
+Interception
+Captaincy
+Fighting Spirit
+Aerial Superiority
+Blocker
+Sliding Tackle
+Fortress

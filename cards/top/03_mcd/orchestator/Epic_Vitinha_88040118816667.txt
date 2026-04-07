@@ -1,0 +1,99 @@
+Vitinha
+Orchestrator
+Height
+172cm
+Weight
+64kg
+Age
+25
+Foot
+
+B
+
+
+
+
+Ball Protection +3
+
+Off the Ball +1
+
+0
+Condition History
+Arrow Probabilities (%)
+489610410410210510610610310210210095
+
+DMF
+0/68
+Level Cap 
+35
+
+Shooting
+5
+
+Passing
+8
+
+Dribbling
+9
+
+Dexterity
+8
+
+Lower Body Strength
+9
+
+Aerial Strength
+4
+
+Defending
+4
+
+GK 1
+
+GK 2
+
+GK 3
+Attacking
+Offensive Awareness	●	77
+Ball Control	●	94
+Dribbling		90
+Tight Possession	●	96
+Low Pass		92
+Lofted Pass		92
+Finishing	●	75
+Heading		71
+Place Kicking		79
+Curl		83
+Defending
+Defensive Awareness	●	85
+Defensive Engagement		82
+Tackling		82
+Aggression		82
+Goalkeeping		41
+Gk Catching		41
+GK Parrying		41
+GK Reflexes		41
+GK Reach		41
+athleticism
+Speed	●	88
+Acceleration	●	89
+Kicking Power		87
+Jump		73
+Physical Contact	●	81
+Balance	●	90
+Stamina	●	96
+Weak Foot Usage		1
+Weak Foot Acc		2
+Form		2
+Injury Resistance		1
+Skills
+Double Touch
+Sole Control
+Long Range Curler
+Long Range Shooting
+One Touch Pass
+Through Passing
+Weighted Pass
+Outside Curler
+Interception
+Phenomenal Pass

@@ -1,0 +1,112 @@
+Son Heung-Min
+Prolific Winger
+Height
+183cm
+Weight
+79kg
+Age
+33
+Foot
+
+C
+
+
+
+
+Shooting +2
+
+Technique +1
+
+0
+Condition History
+Arrow Probabilities (%)
+4773898981929898100102102104104
+
+LWF
+0/70
+Level Cap 
+36
+
+Shooting
+8
+
+Passing
+6
+
+Dribbling
+10
+
+Dexterity
+10
+
+Lower Body Strength
+8
+
+Aerial Strength
+2
+
+Defending
+
+GK 1
+
+GK 2
+
+GK 3
+Attacking
+Offensive Awareness		90
+Ball Control	●	88
+Dribbling	●	89
+Tight Possession	●	85
+Low Pass	●	76
+Lofted Pass		72
+Finishing	●	99
+Heading		63
+Place Kicking		76
+Curl		98
+Defending
+Defensive Awareness	●	46
+Defensive Engagement		55
+Tackling		45
+Aggression		63
+Goalkeeping		41
+Gk Catching		41
+GK Parrying		41
+GK Reflexes		41
+GK Reach		41
+athleticism
+Speed		93
+Acceleration		91
+Kicking Power	●	99
+Jump		62
+Physical Contact	●	70
+Balance		80
+Stamina		90
+Weak Foot Usage		3
+Weak Foot Acc		3
+Form		1
+Injury Resistance		1
+Skills
+Double Touch
+Chop Turn
+Long Range Curler
+Long Range Shooting
+Acrobatic Finishing
+First Time Shot
+Gamesmanship
+Track Back
+Captaincy
+Blitz Curler
+
+Body Measurements
+Leg Length
+5
+Arm Length
+4
+Waist Size
+4
+Chest
+4
+Shoulder Width
+6
+Neck Length
+6

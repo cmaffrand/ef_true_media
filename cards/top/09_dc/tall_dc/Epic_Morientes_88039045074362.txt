@@ -1,0 +1,113 @@
+Fernando Morientes
+Fox In The Box
+Height
+186cm
+Weight
+79kg
+Age
+25
+Foot
+
+B
+
+
+
+
+Strength +3
+
+Aerial +1
+
+0
+Condition History
+Arrow Probabilities (%)
+548589898487919193979798103
+
+CF
+0/62
+Level Cap 
+32
+
+Shooting
+9
+
+Passing
+3
+
+Dribbling
+4
+
+Dexterity
+8
+
+Lower Body Strength
+8
+
+Aerial Strength
+8
+
+Defending
+
+GK 1
+4
+
+GK 2
+
+GK 3
+Attacking
+Offensive Awareness		92
+Ball Control		80
+Dribbling		80
+Tight Possession		83
+Low Pass		70
+Lofted Pass		66
+Finishing	●	92
+Heading	●	92
+Place Kicking		69
+Curl		75
+Defending
+Defensive Awareness	●	56
+Defensive Engagement		54
+Tackling		52
+Aggression		59
+Goalkeeping		45
+Gk Catching		41
+GK Parrying		41
+GK Reflexes		41
+GK Reach		41
+athleticism
+Speed	●	90
+Acceleration		84
+Kicking Power	●	94
+Jump	●	98
+Physical Contact	●	95
+Balance		71
+Stamina		82
+Weak Foot Usage		1
+Weak Foot Acc		3
+Form		2
+Injury Resistance		1
+Skills
+Heading
+Long Range Curler
+Long Range Shooting
+Dipping Shot
+Rising Shots
+Acrobatic Finishing
+Heel Trick
+First Time Shot
+Aerial Superiority
+Bullet Header
+
+Body Measurements
+Leg Length
+7
+Arm Length
+5
+Waist Size
+9
+Chest
+9
+Shoulder Width
+5
+Neck Length
+11

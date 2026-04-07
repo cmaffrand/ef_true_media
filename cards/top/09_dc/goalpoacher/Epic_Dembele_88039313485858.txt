@@ -1,0 +1,111 @@
+Ousmane Dembélé
+Goal Poacher
+Height
+178cm
+Weight
+67kg
+Age
+28
+Foot
+
+B
+
+
+
+
+Hard Worker +3
+
+Striker's Instinct +1
+
+0
+Condition History
+Arrow Probabilities (%)
+477894948596104104103107107107105
+
+CF
+0/66
+Level Cap 
+34
+
+Shooting
+8
+
+Passing
+3
+
+Dribbling
+9
+
+Dexterity
+11
+
+Lower Body Strength
+9
+
+Aerial Strength
+
+Defending
+
+GK 1
+
+GK 2
+
+GK 3
+Attacking
+Offensive Awareness	●	89
+Ball Control	●	93
+Dribbling		94
+Tight Possession		90
+Low Pass		80
+Lofted Pass		78
+Finishing	●	95
+Heading		68
+Place Kicking		83
+Curl		89
+Defending
+Defensive Awareness	●	49
+Defensive Engagement		65
+Tackling		50
+Aggression	●	70
+Goalkeeping		41
+Gk Catching		41
+GK Parrying		41
+GK Reflexes		41
+GK Reach		41
+athleticism
+Speed		95
+Acceleration	●	98
+Kicking Power		90
+Jump		72
+Physical Contact	●	70
+Balance		95
+Stamina	●	87
+Weak Foot Usage		3
+Weak Foot Acc		3
+Form		1
+Injury Resistance		1
+Skills
+Scissors Feint
+Double Touch
+Chop Turn
+Cut Behind & Turn
+Sole Control
+Long Range Curler
+First Time Shot
+Through Passing
+Momentum Dribbling
+Visionary Pass
+
+Body Measurements
+Leg Length
+13
+Arm Length
+8
+Waist Size
+3
+Chest
+3
+Shoulder Width
+9
+Neck Length
+6

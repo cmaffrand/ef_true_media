@@ -1,0 +1,99 @@
+Roberto Baggio
+Deep-Lying Forward
+Height
+174cm
+Weight
+73kg
+Age
+27
+Foot
+
+B
+
+
+
+
+Ball-carrying +2
+
+Passing +1
+
+0
+Condition History
+Arrow Probabilities (%)
+467491918395102102103105105105102
+
+CF
+0/62
+Level Cap 
+32
+
+Shooting
+5
+
+Passing
+8
+
+Dribbling
+8
+
+Dexterity
+9
+
+Lower Body Strength
+8
+
+Aerial Strength
+4
+
+Defending
+1
+
+GK 1
+
+GK 2
+
+GK 3
+Attacking
+Offensive Awareness		90
+Ball Control		93
+Dribbling	●	95
+Tight Possession	●	96
+Low Pass	●	88
+Lofted Pass	●	80
+Finishing	●	90
+Heading		71
+Place Kicking		82
+Curl	●	85
+Defending
+Defensive Awareness	●	53
+Defensive Engagement		51
+Tackling		46
+Aggression		52
+Goalkeeping		41
+Gk Catching		41
+GK Parrying		41
+GK Reflexes		41
+GK Reach		41
+athleticism
+Speed	●	90
+Acceleration		94
+Kicking Power	●	89
+Jump		66
+Physical Contact		70
+Balance	●	95
+Stamina		82
+Weak Foot Usage		2
+Weak Foot Acc		3
+Form		2
+Injury Resistance		1
+Skills
+Double Touch
+Marseille Turn
+Cut Behind & Turn
+Sole Control
+Long Range Curler
+Acrobatic Finishing
+First Time Shot
+One Touch Pass
+Through Passing
+Outside Curler

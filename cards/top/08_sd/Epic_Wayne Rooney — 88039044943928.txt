@@ -1,0 +1,87 @@
+Name: Wayne Rooney
+Position: SS
+Style: Hole Player
+
+Training:
+SHO: 8
+PAS: 4
+DRI: 7
+DEX: 9
+LBS: 10
+AER: 3
+DEF: 0
+GK1: 0
+GK2: 0
+GK3: 0
+Lv: 62
+Manager: Fabio Capello
+
+Attributes:
+Offensive Awareness: 96
+Ball Control: 91
+Dribbling: 90
+Tight Possession: 91
+Low Pass: 80
+Lofted Pass: 80
+Finishing: 91
+Heading: 83
+Place Kicking: 87
+Curl: 87
+Defensive Awareness: 56
+Defensive Engagement: 58
+Tackling: 56
+Aggression: 59
+Goalkeeping: 41
+Gk Catching: 41
+GK Parrying: 41
+GK Reflexes: 41
+GK Reach: 41
+Speed: 91
+Acceleration: 95
+Kicking Power: 95
+Jump: 82
+Balance: 88
+Stamina: 88
+Physical Contact: 80
+
+Skills:
+Heading
+Long Range Curler
+Long Range Shooting
+First Time Shot
+One Touch Pass
+Penalty Specialist
+Fighting Spirit
+Aerial Superiority
+Phenomenal Finishing
+Phenomenal Pass
+
+Biometrics:
+Height: 176
+Weight: 83
+Arm Length: 6
+Shoulder Width: 8
+Neck Length: 6
+Chest: 12
+Neck Size: 13
+Shoulder Height: 7
+Leg Length: 6
+Thigh Size: 13
+Waist Size: 13
+Arm Size: 8
+Calf Size: 13
+Leg Coverage Radius: 169.3
+Arm Coverage Radius: 159.0
+Jumping Height: 259.5
+Torso Collision: 50.0
+Leg Length Based Height: 175
+
+Com Skills:
+Incisive Run
+Early Crosser
+
+Other Stats:
+Weak Foot Usage: 2
+Weak Foot Accuracy: 2
+Form: 2
+Injury Resistance: 1

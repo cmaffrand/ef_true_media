@@ -1,0 +1,98 @@
+Rio Ferdinand
+Build Up
+Height
+196cm
+Weight
+86kg
+Age
+29
+Foot
+
+B
+
+
+
+
+Defending +3
+
+Agility +1
+
+0
+Condition History
+Arrow Probabilities (%)
+531069595968582827578787376
+
+CB
+0/56
+Level Cap 
+29
+
+Shooting
+
+Passing
+0
+
+Dribbling
+
+Dexterity
+6
+
+Lower Body Strength
+8
+
+Aerial Strength
+8
+
+Defending
+12
+
+GK 1
+0
+
+GK 2
+
+GK 3
+Attacking
+Offensive Awareness		54
+Ball Control		66
+Dribbling		58
+Tight Possession		65
+Low Pass		70
+Lofted Pass		69
+Finishing	●	52
+Heading		87
+Place Kicking		51
+Curl		55
+Defending
+Defensive Awareness	●	99
+Defensive Engagement		97
+Tackling	●	95
+Aggression		95
+Goalkeeping		41
+Gk Catching		41
+GK Parrying		41
+GK Reflexes		41
+GK Reach		41
+athleticism
+Speed	●	90
+Acceleration	●	83
+Kicking Power		76
+Jump	●	91
+Physical Contact		93
+Balance	●	70
+Stamina	●	88
+Weak Foot Usage		1
+Weak Foot Acc		1
+Form		2
+Injury Resistance		2
+Skills
+Low Lofted Pass
+Man Marking
+Interception
+Captaincy
+Fighting Spirit
+Aerial Superiority
+Blocker
+Sliding Tackle
+Fortress
+Aerial Fort

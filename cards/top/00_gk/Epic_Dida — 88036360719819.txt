@@ -1,0 +1,80 @@
+Name: Dida
+Position: GK
+Style: Offensive Goalkeeper
+
+Training:
+SHO: 0
+PAS: 0
+DRI: 0
+DEX: 0
+LBS: 0
+AER: 2
+DEF: 0
+GK1: 9
+GK2: 11
+GK3: 10
+Lv: 56
+Manager: Fabio Capello
+
+Attributes:
+Offensive Awareness: 41
+Ball Control: 46
+Dribbling: 46
+Tight Possession: 48
+Low Pass: 51
+Lofted Pass: 51
+Finishing: 42
+Heading: 51
+Place Kicking: 44
+Curl: 45
+Defensive Awareness: 49
+Defensive Engagement: 47
+Tackling: 50
+Aggression: 50
+Goalkeeping: 95
+Gk Catching: 94
+GK Parrying: 94
+GK Reflexes: 99
+GK Reach: 96
+Speed: 61
+Acceleration: 55
+Kicking Power: 72
+Jump: 83
+Balance: 53
+Stamina: 62
+Physical Contact: 72
+
+Skills:
+Gk Low Punt
+GK Long Throw
+GK Penalty Saver
+GK Direct Defending
+
+Biometrics:
+Height: 195
+Weight: 85
+Arm Length: 5
+Shoulder Width: 9
+Neck Length: 4
+Chest: 1
+Neck Size: 9
+Shoulder Height: 3
+Leg Length: 10
+Thigh Size: 3
+Waist Size: 5
+Arm Size: 5
+Calf Size: 2
+Leg Coverage Radius: 189.9
+Arm Coverage Radius: 175.2
+Jumping Height: 278.5
+Torso Collision: 54.5
+Leg Length Based Height: 198
+
+Com Skills:
+—
+
+Other Stats:
+Weak Foot Usage: 1
+Weak Foot Accuracy: 1
+Form: 2
+Injury Resistance: 1

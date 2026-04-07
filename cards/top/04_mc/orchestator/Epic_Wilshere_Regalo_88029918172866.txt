@@ -1,0 +1,97 @@
+Jack Wilshere
+Orchestrator
+Height
+172cm
+Weight
+68kg
+Age
+19
+Foot
+
+B
+
+
+
+
+Passing +2
+
+No Booster
+
+0
+Condition History
+Arrow Probabilities (%)
+45819393909910010010098989892
+
+CMF
+0/64
+Level Cap 
+33
+
+Shooting
+8
+
+Passing
+8
+
+Dribbling
+7
+
+Dexterity
+8
+
+Lower Body Strength
+10
+
+Aerial Strength
+
+Defending
+
+GK 1
+
+GK 2
+
+GK 3
+Attacking
+Offensive Awareness		76
+Ball Control		93
+Dribbling		92
+Tight Possession		91
+Low Pass	●	95
+Lofted Pass	●	90
+Finishing	●	80
+Heading		55
+Place Kicking		77
+Curl	●	86
+Defending
+Defensive Awareness	●	62
+Defensive Engagement		70
+Tackling		72
+Aggression		84
+Goalkeeping		41
+Gk Catching		41
+GK Parrying		41
+GK Reflexes		41
+GK Reach		41
+athleticism
+Speed		80
+Acceleration		83
+Kicking Power	●	85
+Jump		65
+Physical Contact		68
+Balance		90
+Stamina		88
+Weak Foot Usage		0
+Weak Foot Acc		1
+Form		2
+Injury Resistance		0
+Skills
+Double Touch
+Cut Behind & Turn
+Sole Control
+Heel Trick
+One Touch Pass
+Through Passing
+Weighted Pass
+Outside Curler
+No Look Pass
+Fighting Spirit

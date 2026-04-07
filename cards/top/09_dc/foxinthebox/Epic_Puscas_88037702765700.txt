@@ -1,0 +1,112 @@
+Ferenc Puskás
+Fox In The Box
+Height
+172cm
+Weight
+75kg
+Age
+27
+Foot
+
+B
+
+
+
+
+Shooting +2
+
+No Booster
+
+0
+Condition History
+Arrow Probabilities (%)
+477389898193100100102104104106104
+
+CF
+0/66
+Level Cap 
+34
+
+Shooting
+8
+
+Passing
+4
+
+Dribbling
+8
+
+Dexterity
+10
+
+Lower Body Strength
+10
+
+Aerial Strength
+2
+
+Defending
+
+GK 1
+
+GK 2
+
+GK 3
+Attacking
+Offensive Awareness		90
+Ball Control	●	94
+Dribbling		92
+Tight Possession		95
+Low Pass		83
+Lofted Pass		76
+Finishing	●	96
+Heading		75
+Place Kicking		80
+Curl		83
+Defending
+Defensive Awareness	●	46
+Defensive Engagement		44
+Tackling		45
+Aggression		46
+Goalkeeping		41
+Gk Catching		41
+GK Parrying		41
+GK Reflexes		41
+GK Reach		41
+athleticism
+Speed		90
+Acceleration		92
+Kicking Power	●	93
+Jump		73
+Physical Contact	●	76
+Balance		88
+Stamina		84
+Weak Foot Usage		1
+Weak Foot Acc		2
+Form		2
+Injury Resistance		2
+Skills
+Sole Control
+Heading
+Long Range Curler
+Long Range Shooting
+First Time Shot
+One Touch Pass
+Through Passing
+Outside Curler
+Captaincy
+Phenomenal Pass
+
+Body Measurements
+Leg Length
+5
+Arm Length
+6
+Waist Size
+7
+Chest
+7
+Shoulder Width
+8
+Neck Length
+5

@@ -1,0 +1,111 @@
+Mohamed Salah
+Prolific Winger
+Height
+175cm
+Weight
+71kg
+Age
+33
+Foot
+
+A
+
+
+
+
+Offence Creator +3
+
+Off the Ball +1
+
+0
+Condition History
+Arrow Probabilities (%)
+467291918196103103104105105106103
+
+RWF
+0/60
+Level Cap 
+31
+
+Shooting
+8
+
+Passing
+8
+
+Dribbling
+8
+
+Dexterity
+8
+
+Lower Body Strength
+8
+
+Aerial Strength
+
+Defending
+
+GK 1
+
+GK 2
+
+GK 3
+Attacking
+Offensive Awareness	●	92
+Ball Control	●	94
+Dribbling		91
+Tight Possession		92
+Low Pass	●	88
+Lofted Pass		85
+Finishing	●	93
+Heading		56
+Place Kicking		73
+Curl		92
+Defending
+Defensive Awareness	●	43
+Defensive Engagement		47
+Tackling		45
+Aggression		56
+Goalkeeping		41
+Gk Catching		41
+GK Parrying		41
+GK Reflexes		41
+GK Reach		41
+athleticism
+Speed	●	93
+Acceleration	●	95
+Kicking Power	●	92
+Jump		59
+Physical Contact		75
+Balance		93
+Stamina	●	85
+Weak Foot Usage		1
+Weak Foot Acc		1
+Form		2
+Injury Resistance		2
+Skills
+Double Touch
+Cut Behind & Turn
+Long Range Curler
+Long Range Shooting
+Rising Shots
+First Time Shot
+Outside Curler
+Penalty Specialist
+Blitz Curler
+Momentum Dribbling
+
+Body Measurements
+Leg Length
+9
+Arm Length
+6
+Waist Size
+8
+Chest
+9
+Shoulder Width
+10
+Neck Length
+4

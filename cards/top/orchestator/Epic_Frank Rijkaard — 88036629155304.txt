@@ -1,0 +1,88 @@
+Name: Frank Rijkaard
+Position: DMF
+Style: Orchestrator
+
+Training:
+SHO: 0
+PAS: 4
+DRI: 4
+DEX: 8
+LBS: 10
+AER: 7
+DEF: 9
+GK1: 1
+GK2: 0
+GK3: 0
+Lv: 64
+Manager: Fabio Capello
+
+Attributes:
+Offensive Awareness: 77
+Ball Control: 81
+Dribbling: 77
+Tight Possession: 85
+Low Pass: 90
+Lofted Pass: 87
+Finishing: 68
+Heading: 85
+Place Kicking: 67
+Curl: 64
+Defensive Awareness: 96
+Defensive Engagement: 93
+Tackling: 91
+Aggression: 90
+Goalkeeping: 42
+Gk Catching: 41
+GK Parrying: 41
+GK Reflexes: 41
+GK Reach: 41
+Speed: 90
+Acceleration: 80
+Kicking Power: 91
+Jump: 88
+Balance: 78
+Stamina: 95
+Physical Contact: 90
+
+Skills:
+One Touch Pass
+Through Passing
+Weighted Pass
+Low Lofted Pass
+Man Marking
+Interception
+Captaincy
+Fighting Spirit
+Visionary Pass
+Fortress
+
+Biometrics:
+Height: 190
+Weight: 87
+Arm Length: 7
+Shoulder Width: 7
+Neck Length: 8
+Chest: 8
+Neck Size: 9
+Shoulder Height: 2
+Leg Length: 8
+Thigh Size: 8
+Waist Size: 7
+Arm Size: 8
+Calf Size: 8
+Leg Coverage Radius: 183.9
+Arm Coverage Radius: 172.5
+Jumping Height: 278.0
+Torso Collision: 53.1
+Leg Length Based Height: 191
+
+Com Skills:
+Speeding Bullet
+Incisive Run
+Early Crosser
+
+Other Stats:
+Weak Foot Usage: 1
+Weak Foot Accuracy: 3
+Form: 2
+Injury Resistance: 2

@@ -1,0 +1,98 @@
+Aurélien Tchouaméni
+Anchor Man
+Height
+187cm
+Weight
+81kg
+Age
+25
+Foot
+
+A
+
+
+
+
+Shutdown +3
+
+Agility +1
+
+0
+Condition History
+Arrow Probabilities (%)
+531061011011039895959191918887
+
+DMF
+0/64
+Level Cap 
+33
+
+Shooting
+
+Passing
+4
+
+Dribbling
+4
+
+Dexterity
+8
+
+Lower Body Strength
+8
+
+Aerial Strength
+6
+
+Defending
+12
+
+GK 1
+
+GK 2
+
+GK 3
+Attacking
+Offensive Awareness		70
+Ball Control		80
+Dribbling		77
+Tight Possession		80
+Low Pass		83
+Lofted Pass		84
+Finishing	●	62
+Heading		83
+Place Kicking		61
+Curl		66
+Defending
+Defensive Awareness	●	95
+Defensive Engagement	●	97
+Tackling	●	96
+Aggression		97
+Goalkeeping		41
+Gk Catching		41
+GK Parrying		41
+GK Reflexes		41
+GK Reach		41
+athleticism
+Speed	●	87
+Acceleration	●	83
+Kicking Power		83
+Jump		92
+Physical Contact		90
+Balance	●	74
+Stamina	●	92
+Weak Foot Usage		1
+Weak Foot Acc		2
+Form		2
+Injury Resistance		1
+Skills
+Heading
+Rising Shots
+One Touch Pass
+Weighted Pass
+Man Marking
+Interception
+Aerial Superiority
+Blocker
+Sliding Tackle
+Long Reach Tackle

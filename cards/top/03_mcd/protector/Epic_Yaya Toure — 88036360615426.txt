@@ -1,0 +1,86 @@
+Name: Yaya Toure
+Position: DMF
+Style: Anchor Man
+
+Training:
+SHO: 0
+PAS: 4
+DRI: 4
+DEX: 8
+LBS: 9
+AER: 8
+DEF: 11
+GK1: 0
+GK2: 0
+GK3: 0
+Lv: 68
+Manager: Fabio Capello
+
+Attributes:
+Offensive Awareness: 75
+Ball Control: 82
+Dribbling: 80
+Tight Possession: 86
+Low Pass: 90
+Lofted Pass: 87
+Finishing: 70
+Heading: 79
+Place Kicking: 76
+Curl: 76
+Defensive Awareness: 95
+Defensive Engagement: 91
+Tackling: 93
+Aggression: 90
+Goalkeeping: 41
+Gk Catching: 41
+GK Parrying: 41
+GK Reflexes: 41
+GK Reach: 41
+Speed: 88
+Acceleration: 83
+Kicking Power: 89
+Jump: 82
+Balance: 81
+Stamina: 92
+Physical Contact: 91
+
+Skills:
+Double Touch
+Long Range Shooting
+One Touch Pass
+Through Passing
+Low Lofted Pass
+Man Marking
+Interception
+Blocker
+Phenomenal Pass
+Long Reach Tackle
+
+Biometrics:
+Height: 189
+Weight: 90
+Arm Length: 10
+Shoulder Width: 10
+Neck Length: 4
+Chest: 2
+Neck Size: 6
+Shoulder Height: 8
+Leg Length: 12
+Thigh Size: 6
+Waist Size: 3
+Arm Size: 7
+Calf Size: 3
+Leg Coverage Radius: 185.2
+Arm Coverage Radius: 175.4
+Jumping Height: 271.9
+Torso Collision: 53.2
+Leg Length Based Height: 194
+
+Com Skills:
+Incisive Run
+
+Other Stats:
+Weak Foot Usage: 2
+Weak Foot Accuracy: 2
+Form: 2
+Injury Resistance: 1

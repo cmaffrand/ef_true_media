@@ -1,0 +1,112 @@
+Neymar Jr
+Classic No. 10
+Height
+175cm
+Weight
+68kg
+Age
+33
+Foot
+
+C
+
+
+
+
+Total Package +1
+
+Off the Ball +1
+
+0
+Condition History
+Arrow Probabilities (%)
+45698989799410210210210310310397
+
+AMF
+0/62
+Level Cap 
+32
+
+Shooting
+9
+
+Passing
+5
+
+Dribbling
+6
+
+Dexterity
+9
+
+Lower Body Strength
+10
+
+Aerial Strength
+0
+
+Defending
+
+GK 1
+
+GK 2
+
+GK 3
+Attacking
+Offensive Awareness	●	82
+Ball Control	●	95
+Dribbling	●	95
+Tight Possession	●	96
+Low Pass	●	90
+Lofted Pass	●	88
+Finishing	●	89
+Heading	●	48
+Place Kicking	●	92
+Curl	●	96
+Defending
+Defensive Awareness	●	45
+Defensive Engagement	●	53
+Tackling	●	46
+Aggression	●	52
+Goalkeeping	●	42
+Gk Catching	●	42
+GK Parrying	●	42
+GK Reflexes	●	42
+GK Reach	●	42
+athleticism
+Speed	●	90
+Acceleration	●	90
+Kicking Power	●	85
+Jump	●	52
+Physical Contact	●	64
+Balance	●	94
+Stamina	●	83
+Weak Foot Usage		2
+Weak Foot Acc		3
+Form		1
+Injury Resistance		0
+Skills
+Double Touch
+Flip Flap
+Marseille Turn
+Cut Behind & Turn
+Long Range Curler
+First Time Shot
+One Touch Pass
+Through Passing
+Gamesmanship
+Phenomenal Pass
+
+Body Measurements
+Leg Length
+9
+Arm Length
+5
+Waist Size
+4
+Chest
+8
+Shoulder Width
+9
+Neck Length
+5

@@ -1,0 +1,97 @@
+Matheus Cunha
+Creative Playmaker
+Height
+184cm
+Weight
+75kg
+Age
+26
+Foot
+
+B
+
+
+
+
+Offence Creator +3
+
+Free-kick Taking +1
+
+0
+Condition History
+Arrow Probabilities (%)
+508296968899104104104105105105102
+
+AMF
+0/64
+Level Cap 
+33
+
+Shooting
+5
+
+Passing
+9
+
+Dribbling
+9
+
+Dexterity
+9
+
+Lower Body Strength
+8
+
+Aerial Strength
+1
+
+Defending
+
+GK 1
+
+GK 2
+
+GK 3
+Attacking
+Offensive Awareness	●	88
+Ball Control	●	93
+Dribbling		92
+Tight Possession		90
+Low Pass	●	90
+Lofted Pass		85
+Finishing	●	87
+Heading		64
+Place Kicking	●	75
+Curl	●	86
+Defending
+Defensive Awareness	●	54
+Defensive Engagement		59
+Tackling		59
+Aggression		62
+Goalkeeping		41
+Gk Catching		41
+GK Parrying		41
+GK Reflexes		41
+GK Reach		41
+athleticism
+Speed		94
+Acceleration		91
+Kicking Power	●	95
+Jump		77
+Physical Contact		75
+Balance		87
+Stamina		87
+Weak Foot Usage		1
+Weak Foot Acc		3
+Form		2
+Injury Resistance		0
+Skills
+Double Touch
+Marseille Turn
+Sole Control
+Long Range Curler
+Long Range Shooting
+Dipping Shot
+First Time Shot
+Through Passing
+Blitz Curler

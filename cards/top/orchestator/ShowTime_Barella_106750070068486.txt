@@ -1,0 +1,113 @@
+Nicolò Barella
+Orchestrator
+Height
+172cm
+Weight
+68kg
+Age
+28
+Foot
+
+D
+
+
+
+
+Passing +3
+
+Off the Ball +1
+
+0
+Condition History
+Arrow Probabilities (%)
+48951031031011041061061031021029995
+
+DMF
+0/68
+Level Cap 
+35
+
+Shooting
+7
+
+Passing
+8
+
+Dribbling
+8
+
+Dexterity
+8
+
+Lower Body Strength
+8
+
+Aerial Strength
+4
+
+Defending
+5
+
+GK 1
+
+GK 2
+
+GK 3
+Attacking
+Offensive Awareness	●	83
+Ball Control		88
+Dribbling		84
+Tight Possession		87
+Low Pass	●	94
+Lofted Pass	●	94
+Finishing	●	75
+Heading		72
+Place Kicking		83
+Curl	●	87
+Defending
+Defensive Awareness	●	82
+Defensive Engagement		80
+Tackling		80
+Aggression		84
+Goalkeeping		41
+Gk Catching		41
+GK Parrying		41
+GK Reflexes		41
+GK Reach		41
+athleticism
+Speed	●	90
+Acceleration	●	90
+Kicking Power	●	88
+Jump		76
+Physical Contact		78
+Balance		90
+Stamina	●	96
+Weak Foot Usage		2
+Weak Foot Acc		2
+Form		2
+Injury Resistance		2
+Skills
+Sole Control
+Long Range Shooting
+One Touch Pass
+Through Passing
+Weighted Pass
+Outside Curler
+Track Back
+Interception
+Blocker
+Phenomenal Pass
+
+Body Measurements
+Leg Length
+9
+Arm Length
+5
+Waist Size
+5
+Chest
+3
+Shoulder Width
+9
+Neck Length
+4

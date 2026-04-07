@@ -1,0 +1,114 @@
+Jan Koller
+Target Man
+Height
+202cm
+Weight
+99kg
+Age
+31
+Foot
+
+B
+
+
+
+
+Aerial +2
+
+Aerial +1
+
+0
+Condition History
+Arrow Probabilities (%)
+568485858485868690919195102
+
+CF
+0/60
+Level Cap 
+31
+
+Shooting
+8
+
+Passing
+4
+
+Dribbling
+1
+
+Dexterity
+8
+
+Lower Body Strength
+8
+
+Aerial Strength
+9
+
+Defending
+0
+
+GK 1
+4
+
+GK 2
+
+GK 3
+Attacking
+Offensive Awareness		91
+Ball Control		70
+Dribbling		71
+Tight Possession		70
+Low Pass		70
+Lofted Pass		70
+Finishing	●	96
+Heading	●	101
+Place Kicking		78
+Curl		71
+Defending
+Defensive Awareness		53
+Defensive Engagement		55
+Tackling		52
+Aggression		60
+Goalkeeping		45
+Gk Catching		41
+GK Parrying		41
+GK Reflexes		41
+GK Reach		41
+athleticism
+Speed		80
+Acceleration		74
+Kicking Power		92
+Jump	●	92
+Physical Contact	●	101
+Balance		73
+Stamina		87
+Weak Foot Usage		1
+Weak Foot Acc		2
+Form		2
+Injury Resistance		0
+Skills
+Sole Control
+Heading
+Long Range Shooting
+Rising Shots
+Acrobatic Finishing
+Heel Trick
+First Time Shot
+Fighting Spirit
+Aerial Superiority
+Bullet Header
+
+Body Measurements
+Leg Length
+7
+Arm Length
+7
+Waist Size
+6
+Chest
+0
+Shoulder Width
+4
+Neck Length
+7

@@ -1,0 +1,112 @@
+Nicolò Barella
+Hole Player
+Height
+172cm
+Weight
+68kg
+Age
+28
+Foot
+
+D
+
+
+
+
+Balancer +2
+
+Technique +1
+
+0
+Condition History
+Arrow Probabilities (%)
+478899999610210410410210110110096
+
+AMF
+0/62
+Level Cap 
+32
+
+Shooting
+7
+
+Passing
+9
+
+Dribbling
+7
+
+Dexterity
+8
+
+Lower Body Strength
+9
+
+Aerial Strength
+0
+
+Defending
+
+GK 1
+
+GK 2
+
+GK 3
+Attacking
+Offensive Awareness	●	84
+Ball Control	●	90
+Dribbling	●	85
+Tight Possession	●	89
+Low Pass	●	92
+Lofted Pass		90
+Finishing	●	80
+Heading		65
+Place Kicking		80
+Curl		82
+Defending
+Defensive Awareness	●	75
+Defensive Engagement		76
+Tackling		73
+Aggression		77
+Goalkeeping		41
+Gk Catching		41
+GK Parrying		41
+GK Reflexes		41
+GK Reach		41
+athleticism
+Speed		88
+Acceleration	●	90
+Kicking Power		88
+Jump		71
+Physical Contact		70
+Balance		90
+Stamina	●	96
+Weak Foot Usage		2
+Weak Foot Acc		2
+Form		2
+Injury Resistance		2
+Skills
+Long Range Curler
+Long Range Shooting
+First Time Shot
+One Touch Pass
+Through Passing
+Pinpoint Crossing
+Track Back
+Interception
+Blocker
+Phenomenal Pass
+
+Body Measurements
+Leg Length
+9
+Arm Length
+5
+Waist Size
+5
+Chest
+3
+Shoulder Width
+9
+Neck Length
+4

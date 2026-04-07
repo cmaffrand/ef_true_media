@@ -1,0 +1,113 @@
+Nuno Mendes
+Offensive Wingback
+Height
+180cm
+Weight
+70kg
+Age
+23
+Foot
+
+C
+
+
+
+
+Duelling +2
+
+Passing +1
+
+0
+Condition History
+Arrow Probabilities (%)
+499610210297991011019799999592
+
+LB
+0/68
+Level Cap 
+35
+
+Shooting
+3
+
+Passing
+8
+
+Dribbling
+7
+
+Dexterity
+9
+
+Lower Body Strength
+8
+
+Aerial Strength
+4
+
+Defending
+8
+
+GK 1
+
+GK 2
+
+GK 3
+Attacking
+Offensive Awareness		75
+Ball Control		84
+Dribbling		88
+Tight Possession		83
+Low Pass	●	85
+Lofted Pass	●	81
+Finishing	●	70
+Heading		65
+Place Kicking		61
+Curl	●	73
+Defending
+Defensive Awareness	●	82
+Defensive Engagement		82
+Tackling	●	84
+Aggression		83
+Goalkeeping		41
+Gk Catching		41
+GK Parrying		41
+GK Reflexes		41
+GK Reach		41
+athleticism
+Speed	●	96
+Acceleration		96
+Kicking Power	●	88
+Jump		71
+Physical Contact		80
+Balance		87
+Stamina	●	95
+Weak Foot Usage		1
+Weak Foot Acc		1
+Form		2
+Injury Resistance		0
+Skills
+Double Touch
+Chop Turn
+Cut Behind & Turn
+Sole Control
+Long Range Shooting
+One Touch Pass
+Pinpoint Crossing
+Interception
+Sliding Tackle
+Acceleration Burst
+
+Body Measurements
+Leg Length
+9
+Arm Length
+7
+Waist Size
+4
+Chest
+7
+Shoulder Width
+5
+Neck Length
+5

@@ -1,0 +1,98 @@
+Alex Iwobi
+Creative Playmaker
+Height
+180cm
+Weight
+75kg
+Age
+29
+Foot
+
+A
+
+
+
+
+Accuracy +3
+
+Technique +1
+
+0
+Condition History
+Arrow Probabilities (%)
+48809494879810310310210310310399
+
+AMF
+0/62
+Level Cap 
+32
+
+Shooting
+8
+
+Passing
+8
+
+Dribbling
+8
+
+Dexterity
+8
+
+Lower Body Strength
+8
+
+Aerial Strength
+2
+
+Defending
+
+GK 1
+
+GK 2
+
+GK 3
+Attacking
+Offensive Awareness		84
+Ball Control	●	90
+Dribbling	●	92
+Tight Possession	●	91
+Low Pass	●	91
+Lofted Pass	●	90
+Finishing	●	86
+Heading		60
+Place Kicking		68
+Curl		80
+Defending
+Defensive Awareness	●	55
+Defensive Engagement		58
+Tackling		55
+Aggression		60
+Goalkeeping		41
+Gk Catching		41
+GK Parrying		41
+GK Reflexes		41
+GK Reach		41
+athleticism
+Speed		90
+Acceleration		90
+Kicking Power	●	90
+Jump		64
+Physical Contact		82
+Balance		90
+Stamina		88
+Weak Foot Usage		1
+Weak Foot Acc		2
+Form		2
+Injury Resistance		1
+Skills
+Double Touch
+Marseille Turn
+Long Range Curler
+One Touch Pass
+Through Passing
+Pinpoint Crossing
+Outside Curler
+Fighting Spirit
+Game Changing Pass
+Acceleration Burst

@@ -1,0 +1,112 @@
+Nick Woltemade
+Deep-Lying Forward
+Height
+198cm
+Weight
+90kg
+Age
+23
+Foot
+
+A
+
+
+
+
+Shooting +3
+
+Off the Ball +1
+
+0
+Condition History
+Arrow Probabilities (%)
+5282919187959898101102102103103
+
+CF
+0/60
+Level Cap 
+31
+
+Shooting
+8
+
+Passing
+6
+
+Dribbling
+8
+
+Dexterity
+8
+
+Lower Body Strength
+8
+
+Aerial Strength
+4
+
+Defending
+
+GK 1
+
+GK 2
+
+GK 3
+Attacking
+Offensive Awareness	●	91
+Ball Control	●	90
+Dribbling		90
+Tight Possession		94
+Low Pass		87
+Lofted Pass		78
+Finishing	●	91
+Heading		88
+Place Kicking		65
+Curl		66
+Defending
+Defensive Awareness	●	53
+Defensive Engagement		51
+Tackling		49
+Aggression		62
+Goalkeeping		41
+Gk Catching		41
+GK Parrying		41
+GK Reflexes		41
+GK Reach		41
+athleticism
+Speed	●	89
+Acceleration	●	82
+Kicking Power	●	87
+Jump		74
+Physical Contact	●	90
+Balance		72
+Stamina	●	84
+Weak Foot Usage		2
+Weak Foot Acc		2
+Form		1
+Injury Resistance		0
+Skills
+Marseille Turn
+Heading
+Long Range Curler
+Heel Trick
+First Time Shot
+One Touch Pass
+Through Passing
+Aerial Superiority
+Phenomenal Pass
+Bullet Header
+
+Body Measurements
+Leg Length
+11
+Arm Length
+7
+Waist Size
+5
+Chest
+5
+Shoulder Width
+7
+Neck Length
+7

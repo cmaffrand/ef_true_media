@@ -1,0 +1,99 @@
+Edgar Davids
+Destroyer
+Height
+168cm
+Weight
+69kg
+Age
+30
+Foot
+
+B
+
+
+
+
+Balancer +2
+
+Breakthrough +1
+
+0
+Condition History
+Arrow Probabilities (%)
+491041041041031011001009697979493
+
+DMF
+0/70
+Level Cap 
+36
+
+Shooting
+1
+
+Passing
+5
+
+Dribbling
+3
+
+Dexterity
+8
+
+Lower Body Strength
+8
+
+Aerial Strength
+8
+
+Defending
+12
+
+GK 1
+
+GK 2
+
+GK 3
+Attacking
+Offensive Awareness	●	77
+Ball Control		80
+Dribbling	●	80
+Tight Possession		81
+Low Pass		88
+Lofted Pass		80
+Finishing	●	70
+Heading		72
+Place Kicking		71
+Curl		76
+Defending
+Defensive Awareness	●	92
+Defensive Engagement		97
+Tackling		93
+Aggression		94
+Goalkeeping		41
+Gk Catching		41
+GK Parrying		41
+GK Reflexes		41
+GK Reach		41
+athleticism
+Speed	●	90
+Acceleration	●	94
+Kicking Power	●	93
+Jump		85
+Physical Contact	●	92
+Balance		84
+Stamina	●	94
+Weak Foot Usage		1
+Weak Foot Acc		2
+Form		2
+Injury Resistance		1
+Skills
+One Touch Pass
+Weighted Pass
+Man Marking
+Track Back
+Interception
+Acrobatic Clearance
+Fighting Spirit
+Blocker
+Sliding Tackle
+Long Reach Tackle

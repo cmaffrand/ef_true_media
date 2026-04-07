@@ -1,0 +1,98 @@
+Phillip Cocu
+Anchor Man
+Height
+182cm
+Weight
+74kg
+Age
+28
+Foot
+
+B
+
+
+
+
+Balancer +3
+
+Shutdown +1
+
+0
+Condition History
+Arrow Probabilities (%)
+511031031031031021001009897979594
+
+DMF
+0/68
+Level Cap 
+35
+
+Shooting
+
+Passing
+4
+
+Dribbling
+4
+
+Dexterity
+8
+
+Lower Body Strength
+8
+
+Aerial Strength
+8
+
+Defending
+12
+
+GK 1
+
+GK 2
+
+GK 3
+Attacking
+Offensive Awareness	●	83
+Ball Control		83
+Dribbling		79
+Tight Possession		83
+Low Pass		87
+Lofted Pass		85
+Finishing	●	71
+Heading		83
+Place Kicking		72
+Curl		78
+Defending
+Defensive Awareness	●	94
+Defensive Engagement	●	93
+Tackling	●	89
+Aggression		89
+Goalkeeping		41
+Gk Catching		41
+GK Parrying		41
+GK Reflexes		41
+GK Reach		41
+athleticism
+Speed	●	86
+Acceleration	●	88
+Kicking Power		88
+Jump		83
+Physical Contact		84
+Balance		83
+Stamina	●	94
+Weak Foot Usage		1
+Weak Foot Acc		2
+Form		2
+Injury Resistance		1
+Skills
+One Touch Pass
+Through Passing
+Weighted Pass
+Pinpoint Crossing
+Outside Curler
+Low Lofted Pass
+Man Marking
+Interception
+Fighting Spirit
+Fortress

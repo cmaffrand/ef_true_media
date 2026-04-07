@@ -1,0 +1,98 @@
+Riqui Puig
+Orchestrator
+Height
+169cm
+Weight
+56kg
+Age
+21
+Foot
+
+B
+
+
+
+
+Passing +2
+
+Off the Ball +1
+
+0
+Condition History
+Arrow Probabilities (%)
+4482959590981011019897979589
+
+CMF
+0/64
+Level Cap 
+33
+
+Shooting
+3
+
+Passing
+5
+
+Dribbling
+9
+
+Dexterity
+9
+
+Lower Body Strength
+12
+
+Aerial Strength
+
+Defending
+1
+
+GK 1
+
+GK 2
+
+GK 3
+Attacking
+Offensive Awareness	●	79
+Ball Control		90
+Dribbling		88
+Tight Possession		90
+Low Pass	●	90
+Lofted Pass	●	87
+Finishing	●	70
+Heading		54
+Place Kicking		71
+Curl	●	77
+Defending
+Defensive Awareness	●	70
+Defensive Engagement		71
+Tackling		70
+Aggression		72
+Goalkeeping		41
+Gk Catching		41
+GK Parrying		41
+GK Reflexes		41
+GK Reach		41
+athleticism
+Speed	●	88
+Acceleration	●	88
+Kicking Power	●	90
+Jump		60
+Physical Contact		64
+Balance		87
+Stamina	●	97
+Weak Foot Usage		2
+Weak Foot Acc		2
+Form		2
+Injury Resistance		1
+Skills
+Double Touch
+Cut Behind & Turn
+Sole Control
+One Touch Pass
+Through Passing
+Outside Curler
+Gamesmanship
+Man Marking
+Track Back
+Phenomenal Pass

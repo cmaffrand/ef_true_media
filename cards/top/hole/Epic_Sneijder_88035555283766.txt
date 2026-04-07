@@ -1,0 +1,112 @@
+Wesley Sneijder
+Hole Player
+Height
+170cm
+Weight
+72kg
+Age
+26
+Foot
+
+B
+
+
+
+
+Technique +2
+
+Agility +1
+
+0
+Condition History
+Arrow Probabilities (%)
+45759292859810310310310310310399
+
+AMF
+0/62
+Level Cap 
+32
+
+Shooting
+7
+
+Passing
+6
+
+Dribbling
+7
+
+Dexterity
+8
+
+Lower Body Strength
+11
+
+Aerial Strength
+1
+
+Defending
+
+GK 1
+
+GK 2
+
+GK 3
+Attacking
+Offensive Awareness		83
+Ball Control	●	93
+Dribbling	●	90
+Tight Possession	●	96
+Low Pass	●	92
+Lofted Pass		87
+Finishing	●	88
+Heading		63
+Place Kicking		95
+Curl		95
+Defending
+Defensive Awareness	●	54
+Defensive Engagement		55
+Tackling		52
+Aggression		60
+Goalkeeping		41
+Gk Catching		41
+GK Parrying		41
+GK Reflexes		41
+GK Reach		41
+athleticism
+Speed	●	89
+Acceleration	●	88
+Kicking Power		97
+Jump		60
+Physical Contact		69
+Balance	●	90
+Stamina	●	88
+Weak Foot Usage		3
+Weak Foot Acc		3
+Form		2
+Injury Resistance		1
+Skills
+Double Touch
+Long Range Curler
+Long Range Shooting
+Dipping Shot
+First Time Shot
+One Touch Pass
+Through Passing
+Outside Curler
+Gamesmanship
+Phenomenal Pass
+
+Body Measurements
+Leg Length
+7
+Arm Length
+2
+Waist Size
+2
+Chest
+4
+Shoulder Width
+9
+Neck Length
+5

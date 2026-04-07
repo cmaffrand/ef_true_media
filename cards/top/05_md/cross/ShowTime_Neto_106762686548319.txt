@@ -1,0 +1,111 @@
+Pedro Neto
+Cross Specialist
+Height
+174cm
+Weight
+62kg
+Age
+25
+Foot
+
+A
+
+
+
+
+Agility +3
+
+Accuracy +1
+
+0
+Condition History
+Arrow Probabilities (%)
+478197978899105105104105105104101
+
+LMF
+0/68
+Level Cap 
+35
+
+Shooting
+8
+
+Passing
+8
+
+Dribbling
+8
+
+Dexterity
+8
+
+Lower Body Strength
+10
+
+Aerial Strength
+2
+
+Defending
+
+GK 1
+
+GK 2
+
+GK 3
+Attacking
+Offensive Awareness		82
+Ball Control		90
+Dribbling		94
+Tight Possession		92
+Low Pass	●	88
+Lofted Pass	●	89
+Finishing	●	90
+Heading		59
+Place Kicking		75
+Curl		85
+Defending
+Defensive Awareness	●	55
+Defensive Engagement		55
+Tackling		55
+Aggression		66
+Goalkeeping		41
+Gk Catching		41
+GK Parrying		41
+GK Reflexes		41
+GK Reach		41
+athleticism
+Speed	●	96
+Acceleration	●	94
+Kicking Power	●	92
+Jump		65
+Physical Contact		79
+Balance	●	91
+Stamina	●	91
+Weak Foot Usage		1
+Weak Foot Acc		2
+Form		2
+Injury Resistance		0
+Skills
+Scissors Feint
+Double Touch
+Cut Behind & Turn
+Sole Control
+Long Range Curler
+Through Passing
+Pinpoint Crossing
+Track Back
+Edged Crossing
+
+Body Measurements
+Leg Length
+7
+Arm Length
+8
+Waist Size
+11
+Chest
+9
+Shoulder Width
+9
+Neck Length
+5

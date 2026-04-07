@@ -1,0 +1,115 @@
+Guti
+Box To Box
+Height
+182cm
+Weight
+78kg
+Age
+30
+Foot
+
+B
+
+
+
+
+Accuracy +3
+
+Off the Ball +1
+
+0
+Condition History
+Arrow Probabilities (%)
+499010010096103106106106105105105101
+
+CMF
+0/64
+Level Cap 
+33
+
+Shooting
+6
+
+Passing
+6
+
+Dribbling
+8
+
+Dexterity
+8
+
+Lower Body Strength
+10
+
+Aerial Strength
+2
+
+Defending
+4
+
+GK 1
+
+GK 2
+
+GK 3
+Attacking
+Offensive Awareness	●	84
+Ball Control		92
+Dribbling		92
+Tight Possession		95
+Low Pass	●	94
+Lofted Pass	●	92
+Finishing	●	85
+Heading		73
+Place Kicking		87
+Curl		92
+Defending
+Defensive Awareness	●	73
+Defensive Engagement		72
+Tackling		71
+Aggression		70
+Goalkeeping		41
+Gk Catching		41
+GK Parrying		41
+GK Reflexes		41
+GK Reach		41
+athleticism
+Speed	●	88
+Acceleration	●	89
+Kicking Power	●	92
+Jump		72
+Physical Contact		75
+Balance		88
+Stamina	●	88
+Weak Foot Usage		2
+Weak Foot Acc		3
+Form		1
+Injury Resistance		1
+Skills
+Double Touch
+Long Range Curler
+Chip Shot Control
+Heel Trick
+One Touch Pass
+Through Passing
+Weighted Pass
+Pinpoint Crossing
+Outside Curler
+Visionary Pass
+
+
+
+Body Measurements
+Leg Length
+5
+Arm Length
+8
+Waist Size
+3
+Chest
+4
+Shoulder Width
+4
+Neck Length
+11

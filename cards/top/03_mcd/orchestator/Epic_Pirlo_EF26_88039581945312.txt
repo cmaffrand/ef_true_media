@@ -1,0 +1,99 @@
+Andrea Pirlo
+Orchestrator
+Height
+177cm
+Weight
+68kg
+Age
+23
+Foot
+
+B
+
+
+
+
+Offence Creator +3
+
+Agility +1
+
+0
+Condition History
+Arrow Probabilities (%)
+489810410410410810710710510210210295
+
+DMF
+0/68
+Level Cap 
+35
+
+Shooting
+1
+
+Passing
+7
+
+Dribbling
+9
+
+Dexterity
+8
+
+Lower Body Strength
+8
+
+Aerial Strength
+6
+
+Defending
+7
+
+GK 1
+
+GK 2
+
+GK 3
+Attacking
+Offensive Awareness	●	80
+Ball Control	●	95
+Dribbling		90
+Tight Possession		96
+Low Pass	●	98
+Lofted Pass		95
+Finishing	●	75
+Heading		66
+Place Kicking		90
+Curl		90
+Defending
+Defensive Awareness	●	90
+Defensive Engagement		88
+Tackling		87
+Aggression		87
+Goalkeeping		41
+Gk Catching		41
+GK Parrying		41
+GK Reflexes		41
+GK Reach		41
+athleticism
+Speed	●	83
+Acceleration	●	86
+Kicking Power	●	92
+Jump		66
+Physical Contact		80
+Balance	●	86
+Stamina	●	91
+Weak Foot Usage		2
+Weak Foot Acc		3
+Form		2
+Injury Resistance		1
+Skills
+One Touch Pass
+Through Passing
+Weighted Pass
+Pinpoint Crossing
+Outside Curler
+Low Lofted Pass
+Interception
+Blocker
+Phenomenal Pass
+Visionary Pass

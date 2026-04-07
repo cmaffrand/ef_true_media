@@ -1,0 +1,112 @@
+Gianfranco Zola
+Creative Playmaker
+Height
+168cm
+Weight
+67kg
+Age
+31
+Foot
+
+B
+
+
+
+
+Fantasista +3
+
+Accuracy +1
+
+0
+Condition History
+Arrow Probabilities (%)
+457393938397105105104105105106101
+
+SS
+0/68
+Level Cap 
+35
+
+Shooting
+8
+
+Passing
+7
+
+Dribbling
+6
+
+Dexterity
+8
+
+Lower Body Strength
+10
+
+Aerial Strength
+6
+
+Defending
+
+GK 1
+
+GK 2
+
+GK 3
+Attacking
+Offensive Awareness		84
+Ball Control	●	96
+Dribbling	●	95
+Tight Possession		96
+Low Pass	●	90
+Lofted Pass	●	90
+Finishing	●	90
+Heading		68
+Place Kicking		99
+Curl		97
+Defending
+Defensive Awareness	●	46
+Defensive Engagement		47
+Tackling		42
+Aggression		49
+Goalkeeping		41
+Gk Catching		41
+GK Parrying		41
+GK Reflexes		41
+GK Reach		41
+athleticism
+Speed		92
+Acceleration		91
+Kicking Power	●	92
+Jump		66
+Physical Contact		75
+Balance	●	92
+Stamina		87
+Weak Foot Usage		1
+Weak Foot Acc		2
+Form		1
+Injury Resistance		2
+Skills
+Double Touch
+Flip Flap
+Sole Control
+Long Range Curler
+Long Range Shooting
+One Touch Pass
+Through Passing
+Gamesmanship
+Momentum Dribbling
+Blitz Curler
+
+Body Measurements
+Leg Length
+6
+Arm Length
+2
+Waist Size
+7
+Chest
+7
+Shoulder Width
+8
+Neck Length
+2

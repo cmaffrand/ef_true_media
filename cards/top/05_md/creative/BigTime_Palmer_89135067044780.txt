@@ -1,0 +1,111 @@
+Cole Palmer
+Creative Playmaker
+Height
+189cm
+Weight
+74kg
+Age
+23
+Foot
+
+B
+
+
+
+
+Ball-carrying +3
+
+Accuracy +1
+
+0
+Condition History
+Arrow Probabilities (%)
+4984979791101105105105106106106102
+
+RMF
+0/64
+Level Cap 
+33
+
+Shooting
+4
+
+Passing
+8
+
+Dribbling
+8
+
+Dexterity
+10
+
+Lower Body Strength
+10
+
+Aerial Strength
+
+Defending
+
+GK 1
+
+GK 2
+
+GK 3
+Attacking
+Offensive Awareness		91
+Ball Control		94
+Dribbling	●	94
+Tight Possession	●	97
+Low Pass	●	90
+Lofted Pass	●	86
+Finishing	●	86
+Heading		64
+Place Kicking		76
+Curl		89
+Defending
+Defensive Awareness	●	62
+Defensive Engagement		70
+Tackling		64
+Aggression		67
+Goalkeeping		41
+Gk Catching		41
+GK Parrying		41
+GK Reflexes		41
+GK Reach		41
+athleticism
+Speed	●	90
+Acceleration		90
+Kicking Power	●	91
+Jump		64
+Physical Contact		70
+Balance	●	88
+Stamina		90
+Weak Foot Usage		1
+Weak Foot Acc		1
+Form		2
+Injury Resistance		1
+Skills
+Double Touch
+Cut Behind & Turn
+Sole Control
+Long Range Curler
+Long Range Shooting
+First Time Shot
+One Touch Pass
+Through Passing
+Track Back
+Momentum Dribbling
+
+Body Measurements
+Leg Length
+11
+Arm Length
+10
+Waist Size
+5
+Chest
+2
+Shoulder Width
+7
+Neck Length
+7

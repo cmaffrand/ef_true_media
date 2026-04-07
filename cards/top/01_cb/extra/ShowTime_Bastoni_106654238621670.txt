@@ -1,0 +1,94 @@
+Alessandro Bastoni
+Extra Frontman
+Height
+190cm
+Weight
+75kg
+Age
+26
+Foot
+
+A
+
+
+
+
+No Booster
+
+Agility +1
+
+0
+Condition History
+Arrow Probabilities (%)
+511009494969087878484848282
+
+CB
+0/56
+Level Cap 
+29
+
+Shooting
+
+Passing
+1
+
+Dribbling
+1
+
+Dexterity
+8
+
+Lower Body Strength
+8
+
+Aerial Strength
+8
+
+Defending
+10
+
+GK 1
+
+GK 2
+
+GK 3
+Attacking
+Offensive Awareness		71
+Ball Control		76
+Dribbling		68
+Tight Possession		70
+Low Pass		77
+Lofted Pass		76
+Finishing	●	60
+Heading		85
+Place Kicking		60
+Curl		67
+Defending
+Defensive Awareness	●	94
+Defensive Engagement		90
+Tackling		93
+Aggression		88
+Goalkeeping		41
+Gk Catching		41
+GK Parrying		41
+GK Reflexes		41
+GK Reach		41
+athleticism
+Speed	●	82
+Acceleration	●	80
+Kicking Power		77
+Jump		85
+Physical Contact		87
+Balance	●	75
+Stamina	●	84
+Weak Foot Usage		1
+Weak Foot Acc		1
+Form		2
+Injury Resistance		2
+Skills
+Heading
+Weighted Pass
+Man Marking
+Interception
+Aerial Superiority
+Sliding Tackle

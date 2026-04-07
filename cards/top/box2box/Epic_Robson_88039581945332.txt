@@ -1,0 +1,113 @@
+Bryan Robson
+Box To Box
+Height
+175cm
+Weight
+79kg
+Age
+30
+Foot
+
+B
+
+
+
+
+Accuracy +3
+
+Agility +1
+
+0
+Condition History
+Arrow Probabilities (%)
+499910310310210410410410210210210198
+
+CMF
+0/68
+Level Cap 
+35
+
+Shooting
+4
+
+Passing
+8
+
+Dribbling
+8
+
+Dexterity
+8
+
+Lower Body Strength
+8
+
+Aerial Strength
+4
+
+Defending
+8
+
+GK 1
+
+GK 2
+
+GK 3
+Attacking
+Offensive Awareness		83
+Ball Control		87
+Dribbling		90
+Tight Possession		88
+Low Pass	●	90
+Lofted Pass	●	87
+Finishing	●	80
+Heading		76
+Place Kicking		75
+Curl		78
+Defending
+Defensive Awareness	●	86
+Defensive Engagement		87
+Tackling		87
+Aggression		89
+Goalkeeping		41
+Gk Catching		41
+GK Parrying		41
+GK Reflexes		41
+GK Reach		41
+athleticism
+Speed	●	89
+Acceleration	●	89
+Kicking Power	●	90
+Jump		80
+Physical Contact		81
+Balance	●	86
+Stamina	●	92
+Weak Foot Usage		3
+Weak Foot Acc		3
+Form		2
+Injury Resistance		2
+Skills
+Long Range Curler
+Long Range Shooting
+Rising Shots
+First Time Shot
+Through Passing
+Track Back
+Fighting Spirit
+Blocker
+Visionary Pass
+Blitz Curler
+
+Body Measurements
+Leg Length
+8
+Arm Length
+5
+Waist Size
+6
+Chest
+5
+Shoulder Width
+6
+Neck Length
+8

@@ -1,0 +1,112 @@
+Jude Bellingham
+Hole Player
+Height
+186cm
+Weight
+75kg
+Age
+22
+Foot
+
+D
+
+
+
+
+Offence Creator +2
+
+Agility +1
+
+0
+Condition History
+Arrow Probabilities (%)
+509210110197103105105106106106106104
+
+AMF
+0/70
+Level Cap 
+36
+
+Shooting
+7
+
+Passing
+8
+
+Dribbling
+9
+
+Dexterity
+10
+
+Lower Body Strength
+9
+
+Aerial Strength
+0
+
+Defending
+
+GK 1
+
+GK 2
+
+GK 3
+Attacking
+Offensive Awareness	●	92
+Ball Control	●	93
+Dribbling		90
+Tight Possession		90
+Low Pass	●	90
+Lofted Pass		84
+Finishing	●	90
+Heading		70
+Place Kicking		68
+Curl		75
+Defending
+Defensive Awareness	●	74
+Defensive Engagement		77
+Tackling		74
+Aggression		77
+Goalkeeping		41
+Gk Catching		41
+GK Parrying		41
+GK Reflexes		41
+GK Reach		41
+athleticism
+Speed	●	90
+Acceleration	●	90
+Kicking Power	●	92
+Jump		70
+Physical Contact		80
+Balance	●	88
+Stamina	●	91
+Weak Foot Usage		2
+Weak Foot Acc		3
+Form		2
+Injury Resistance		2
+Skills
+Double Touch
+Sole Control
+Long Range Shooting
+Rising Shots
+First Time Shot
+One Touch Pass
+Through Passing
+Outside Curler
+Fighting Spirit
+Phenomenal Pass
+
+Body Measurements
+Leg Length
+14
+Arm Length
+11
+Waist Size
+5
+Chest
+7
+Shoulder Width
+11
+Neck Length
+7

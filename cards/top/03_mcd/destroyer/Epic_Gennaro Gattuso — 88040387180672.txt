@@ -1,0 +1,86 @@
+Name: Gennaro Gattuso
+Position: DMF
+Style: Destroyer
+
+Training:
+SHO: 0
+PAS: 8
+DRI: 8
+DEX: 8
+LBS: 8
+AER: 4
+DEF: 8
+GK1: 0
+GK2: 0
+GK3: 0
+Lv: 64
+Manager: Fabio Capello
+
+Attributes:
+Offensive Awareness: 76
+Ball Control: 84
+Dribbling: 87
+Tight Possession: 88
+Low Pass: 88
+Lofted Pass: 77
+Finishing: 60
+Heading: 71
+Place Kicking: 54
+Curl: 61
+Defensive Awareness: 95
+Defensive Engagement: 95
+Tackling: 98
+Aggression: 95
+Goalkeeping: 41
+Gk Catching: 41
+GK Parrying: 41
+GK Reflexes: 41
+GK Reach: 41
+Speed: 92
+Acceleration: 93
+Kicking Power: 88
+Jump: 83
+Balance: 81
+Stamina: 94
+Physical Contact: 91
+
+Skills:
+Man Marking
+Interception
+Acrobatic Clearance
+Fighting Spirit
+Blocker
+Aerial Superiority
+Sliding Tackle
+Fortress
+Long Reach Tackle
+
+Biometrics:
+Height: 177
+Weight: 77
+Arm Length: 4
+Shoulder Width: 7
+Neck Length: 5
+Chest: 8
+Neck Size: 12
+Shoulder Height: 5
+Leg Length: 7
+Thigh Size: 7
+Waist Size: 8
+Arm Size: 7
+Calf Size: 7
+Leg Coverage Radius: 170.8
+Arm Coverage Radius: 157.7
+Jumping Height: 260.9
+Torso Collision: 49.4
+Leg Length Based Height: 177
+
+Com Skills:
+Speeding Bullet
+Early Crosser
+
+Other Stats:
+Weak Foot Usage: 1
+Weak Foot Accuracy: 1
+Form: 2
+Injury Resistance: 2

@@ -1,0 +1,98 @@
+John OShea
+Destroyer
+Height
+191cm
+Weight
+84kg
+Age
+25
+Foot
+
+B
+
+
+
+
+Defending +3
+
+Shutdown +1
+
+0
+Condition History
+Arrow Probabilities (%)
+5310510210210410098989595959393
+
+DMF
+0/68
+Level Cap 
+35
+
+Shooting
+
+Passing
+4
+
+Dribbling
+4
+
+Dexterity
+5
+
+Lower Body Strength
+9
+
+Aerial Strength
+9
+
+Defending
+12
+
+GK 1
+
+GK 2
+
+GK 3
+Attacking
+Offensive Awareness		78
+Ball Control		82
+Dribbling		79
+Tight Possession		79
+Low Pass		83
+Lofted Pass		84
+Finishing	●	73
+Heading		87
+Place Kicking		59
+Curl		67
+Defending
+Defensive Awareness	●	95
+Defensive Engagement	●	91
+Tackling	●	93
+Aggression		88
+Goalkeeping		41
+Gk Catching		41
+GK Parrying		41
+GK Reflexes		41
+GK Reach		41
+athleticism
+Speed	●	88
+Acceleration	●	83
+Kicking Power		81
+Jump	●	91
+Physical Contact		87
+Balance		75
+Stamina		95
+Weak Foot Usage		2
+Weak Foot Acc		2
+Form		2
+Injury Resistance		2
+Skills
+Heading
+One Touch Pass
+Man Marking
+Interception
+Acrobatic Clearance
+Super Sub
+Fighting Spirit
+Aerial Superiority
+Blocker
+Long Reach Tackle

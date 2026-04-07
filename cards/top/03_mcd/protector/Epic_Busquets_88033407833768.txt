@@ -1,0 +1,98 @@
+Sergio Busquets
+Anchor Man
+Height
+189cm
+Weight
+76kg
+Age
+23
+Foot
+
+B
+
+
+
+
+Regista +2
+
+Agility +1
+
+0
+Condition History
+Arrow Probabilities (%)
+5210210110110410299999795959389
+
+DMF
+0/68
+Level Cap 
+35
+
+Shooting
+
+Passing
+4
+
+Dribbling
+4
+
+Dexterity
+8
+
+Lower Body Strength
+11
+
+Aerial Strength
+9
+
+Defending
+8
+
+GK 1
+
+GK 2
+
+GK 3
+Attacking
+Offensive Awareness		75
+Ball Control		88
+Dribbling		80
+Tight Possession	●	93
+Low Pass	●	93
+Lofted Pass		87
+Finishing	●	63
+Heading		78
+Place Kicking		65
+Curl		71
+Defending
+Defensive Awareness	●	94
+Defensive Engagement		92
+Tackling	●	92
+Aggression		85
+Goalkeeping		41
+Gk Catching		41
+GK Parrying		41
+GK Reflexes		41
+GK Reach		41
+athleticism
+Speed	●	81
+Acceleration	●	81
+Kicking Power		88
+Jump		77
+Physical Contact		87
+Balance	●	83
+Stamina	●	93
+Weak Foot Usage		2
+Weak Foot Acc		2
+Form		2
+Injury Resistance		1
+Skills
+Double Touch
+Marseille Turn
+Cut Behind & Turn
+One Touch Pass
+Through Passing
+Low Lofted Pass
+Interception
+Blocker
+Sliding Tackle
+Visionary Pass

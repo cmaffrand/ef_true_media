@@ -1,0 +1,98 @@
+Daniel Van Buyten
+Destroyer
+Height
+197cm
+Weight
+95kg
+Age
+32
+Foot
+
+B
+
+
+
+
+Shutdown +2
+
+Aerial Block +1
+
+0
+Condition History
+Arrow Probabilities (%)
+551028888917975757376767481
+
+CB
+0/52
+Level Cap 
+27
+
+Shooting
+
+Passing
+
+Dribbling
+
+Dexterity
+5
+
+Lower Body Strength
+8
+
+Aerial Strength
+8
+
+Defending
+10
+
+GK 1
+4
+
+GK 2
+
+GK 3
+Attacking
+Offensive Awareness		60
+Ball Control		59
+Dribbling		55
+Tight Possession		56
+Low Pass		63
+Lofted Pass		60
+Finishing	●	71
+Heading	●	92
+Place Kicking		56
+Curl		51
+Defending
+Defensive Awareness	●	94
+Defensive Engagement	●	93
+Tackling	●	94
+Aggression		88
+Goalkeeping		45
+Gk Catching		41
+GK Parrying		41
+GK Reflexes		41
+GK Reach		41
+athleticism
+Speed	●	80
+Acceleration		80
+Kicking Power		82
+Jump	●	99
+Physical Contact	●	95
+Balance		62
+Stamina		81
+Weak Foot Usage		1
+Weak Foot Acc		1
+Form		2
+Injury Resistance		0
+Skills
+Double Touch
+Heading
+Rising Shots
+Long Throw
+Man Marking
+Interception
+Acrobatic Clearance
+Fighting Spirit
+Aerial Superiority
+Blocker
+Sliding Tackle

@@ -1,0 +1,112 @@
+K. Kvaratskhelia
+Prolific Winger
+Height
+183cm
+Weight
+70kg
+Age
+24
+Foot
+
+B
+
+
+
+
+Shooting +3
+
+Free-kick Taking +1
+
+0
+Condition History
+Arrow Probabilities (%)
+488194948696102101101104104104102
+
+LWF
+0/66
+Level Cap 
+34
+
+Shooting
+8
+
+Passing
+5
+
+Dribbling
+8
+
+Dexterity
+9
+
+Lower Body Strength
+10
+
+Aerial Strength
+3
+
+Defending
+
+GK 1
+
+GK 2
+
+GK 3
+Attacking
+Offensive Awareness		85
+Ball Control	●	93
+Dribbling		93
+Tight Possession		92
+Low Pass		81
+Lofted Pass		77
+Finishing	●	90
+Heading		62
+Place Kicking	●	79
+Curl	●	90
+Defending
+Defensive Awareness	●	54
+Defensive Engagement		60
+Tackling		56
+Aggression		66
+Goalkeeping		41
+Gk Catching		41
+GK Parrying		41
+GK Reflexes		41
+GK Reach		41
+athleticism
+Speed		93
+Acceleration		93
+Kicking Power	●	93
+Jump		65
+Physical Contact	●	80
+Balance		87
+Stamina		88
+Weak Foot Usage		3
+Weak Foot Acc		3
+Form		2
+Injury Resistance		1
+Skills
+Double Touch
+Marseille Turn
+Cut Behind & Turn
+Sole Control
+Long Range Curler
+Long Range Shooting
+Dipping Shot
+First Time Shot
+Gamesmanship
+Blitz Curler
+
+Body Measurements
+Leg Length
+11
+Arm Length
+10
+Waist Size
+10
+Chest
+9
+Shoulder Width
+10
+Neck Length
+5

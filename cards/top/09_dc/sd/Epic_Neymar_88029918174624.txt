@@ -1,0 +1,112 @@
+Neymar Jr
+Deep-Lying Forward
+Height
+175cm
+Weight
+68kg
+Age
+19
+Foot
+
+B
+
+
+
+
+Technique +2
+
+Technique +1
+
+0
+Condition History
+Arrow Probabilities (%)
+44698686768997979710210210299
+
+CF
+0/70
+Level Cap 
+36
+
+Shooting
+8
+
+Passing
+8
+
+Dribbling
+10
+
+Dexterity
+8
+
+Lower Body Strength
+9
+
+Aerial Strength
+1
+
+Defending
+
+GK 1
+
+GK 2
+
+GK 3
+Attacking
+Offensive Awareness		94
+Ball Control	●	91
+Dribbling	●	100
+Tight Possession	●	86
+Low Pass	●	76
+Lofted Pass		67
+Finishing	●	90
+Heading		63
+Place Kicking		79
+Curl		84
+Defending
+Defensive Awareness	●	49
+Defensive Engagement		50
+Tackling		46
+Aggression		55
+Goalkeeping		41
+Gk Catching		41
+GK Parrying		41
+GK Reflexes		41
+GK Reach		41
+athleticism
+Speed		91
+Acceleration		95
+Kicking Power		80
+Jump		74
+Physical Contact		52
+Balance		96
+Stamina		81
+Weak Foot Usage		1
+Weak Foot Acc		2
+Form		1
+Injury Resistance		1
+Skills
+Scissors Feint
+Double Touch
+Flip Flap
+Marseille Turn
+Sombrero
+Chop Turn
+Cut Behind & Turn
+Scotch Move
+Sole Control
+Gamesmanship
+
+Body Measurements
+Leg Length
+9
+Arm Length
+9
+Waist Size
+8
+Chest
+3
+Shoulder Width
+7
+Neck Length
+7

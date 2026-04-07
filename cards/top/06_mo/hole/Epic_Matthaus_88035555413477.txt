@@ -1,0 +1,111 @@
+Lothar Matthäus
+Hole Player
+Height
+173cm
+Weight
+72kg
+Age
+28
+Foot
+
+B
+
+
+
+
+Balancer +2
+
+Agility +1
+
+0
+Condition History
+Arrow Probabilities (%)
+489410210299104106106104104104104102
+
+AMF
+0/62
+Level Cap 
+32
+
+Shooting
+6
+
+Passing
+8
+
+Dribbling
+8
+
+Dexterity
+8
+
+Lower Body Strength
+10
+
+Aerial Strength
+
+Defending
+
+GK 1
+
+GK 2
+
+GK 3
+Attacking
+Offensive Awareness	●	84
+Ball Control		87
+Dribbling		84
+Tight Possession		93
+Low Pass		89
+Lofted Pass		87
+Finishing	●	90
+Heading		74
+Place Kicking		92
+Curl		82
+Defending
+Defensive Awareness	●	80
+Defensive Engagement		81
+Tackling		76
+Aggression		78
+Goalkeeping		41
+Gk Catching		41
+GK Parrying		41
+GK Reflexes		41
+GK Reach		41
+athleticism
+Speed	●	89
+Acceleration	●	92
+Kicking Power		93
+Jump		70
+Physical Contact		80
+Balance	●	90
+Stamina	●	97
+Weak Foot Usage		1
+Weak Foot Acc		3
+Form		2
+Injury Resistance		1
+Skills
+Long Range Curler
+Long Range Shooting
+Rising Shots
+First Time Shot
+One Touch Pass
+Through Passing
+Track Back
+Interception
+Fighting Spirit
+Phenomenal Pass
+
+Body Measurements
+Leg Length
+10
+Arm Length
+5
+Waist Size
+5
+Chest
+5
+Shoulder Width
+3
+Neck Length
+6

@@ -1,0 +1,112 @@
+Johan Cruyff
+Hole Player
+Height
+180cm
+Weight
+74kg
+Age
+27
+Foot
+
+B
+
+
+
+
+Ball-carrying +2
+
+Accuracy +1
+
+0
+Condition History
+Arrow Probabilities (%)
+508294948796102102102104104104101
+
+SS
+0/60
+Level Cap 
+31
+
+Shooting
+7
+
+Passing
+7
+
+Dribbling
+8
+
+Dexterity
+8
+
+Lower Body Strength
+8
+
+Aerial Strength
+4
+
+Defending
+
+GK 1
+
+GK 2
+
+GK 3
+Attacking
+Offensive Awareness		87
+Ball Control		92
+Dribbling	●	95
+Tight Possession	●	95
+Low Pass	●	82
+Lofted Pass	●	84
+Finishing	●	86
+Heading		74
+Place Kicking		84
+Curl		87
+Defending
+Defensive Awareness	●	57
+Defensive Engagement		52
+Tackling		51
+Aggression		62
+Goalkeeping		41
+Gk Catching		41
+GK Parrying		41
+GK Reflexes		41
+GK Reach		41
+athleticism
+Speed	●	92
+Acceleration		92
+Kicking Power	●	86
+Jump		83
+Physical Contact		77
+Balance	●	91
+Stamina		84
+Weak Foot Usage		1
+Weak Foot Acc		3
+Form		2
+Injury Resistance		1
+Skills
+Flip Flap
+Marseille Turn
+Cut Behind & Turn
+Acrobatic Finishing
+Heel Trick
+One Touch Pass
+Weighted Pass
+Outside Curler
+Low Lofted Pass
+Captaincy
+
+Body Measurements
+Leg Length
+8
+Arm Length
+6
+Waist Size
+2
+Chest
+3
+Shoulder Width
+10
+Neck Length
+10

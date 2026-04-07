@@ -1,0 +1,92 @@
+Moisés Caicedo
+Box To Box
+Height
+178cm
+Weight
+73kg
+Age
+24
+Foot
+
+C
+
+
+
+
+Shooting +3
+
+No Booster
+
+0
+Condition History
+Arrow Probabilities (%)
+49981011011001011001009897979692
+
+DMF
+2/2
+Level Cap 
+2
+
+Shooting
+
+Passing
+
+Dribbling
+
+Dexterity
+
+Lower Body Strength
+
+Aerial Strength
+
+Defending
+
+GK 1
+
+GK 2
+
+GK 3
+Attacking
+Offensive Awareness		72
+Ball Control	●	87
+Dribbling		87
+Tight Possession		84
+Low Pass		88
+Lofted Pass		84
+Finishing	●	76
+Heading		58
+Place Kicking		63
+Curl		69
+Defending
+Defensive Awareness	●	86
+Defensive Engagement		89
+Tackling		87
+Aggression		90
+Goalkeeping		41
+Gk Catching		41
+GK Parrying		41
+GK Reflexes		41
+GK Reach		41
+athleticism
+Speed		87
+Acceleration		88
+Kicking Power	●	91
+Jump		78
+Physical Contact	●	83
+Balance		85
+Stamina		95
+Weak Foot Usage		1
+Weak Foot Acc		1
+Form		2
+Injury Resistance		1
+Skills
+Long Range Shooting
+Rising Shots
+One Touch Pass
+Through Passing
+Outside Curler
+Man Marking
+Interception
+Fighting Spirit
+Blocker
+Sliding Tackle

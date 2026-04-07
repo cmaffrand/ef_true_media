@@ -1,0 +1,82 @@
+Name: Christian Abbiati
+Position: GK
+Style: Offensive Goalkeeper
+
+Training:
+SHO: 0
+PAS: 0
+DRI: 0
+DEX: 0
+LBS: 0
+AER: 1
+DEF: 0
+GK1: 9
+GK2: 10
+GK3: 12
+Lv: 58
+Manager: Fabio Capello
+
+Attributes:
+Offensive Awareness: 42
+Ball Control: 58
+Dribbling: 51
+Tight Possession: 49
+Low Pass: 62
+Lofted Pass: 59
+Finishing: 51
+Heading: 65
+Place Kicking: 58
+Curl: 50
+Defensive Awareness: 56
+Defensive Engagement: 52
+Tackling: 62
+Aggression: 51
+Goalkeeping: 95
+Gk Catching: 94
+GK Parrying: 95
+GK Reflexes: 96
+GK Reach: 96
+Speed: 59
+Acceleration: 65
+Kicking Power: 73
+Jump: 80
+Balance: 61
+Stamina: 60
+Physical Contact: 71
+
+Skills:
+Gk Low Punt
+GK High Punt
+GK Long Throw
+Captaincy
+Fighting Spirit
+GK Direct Defending
+
+Biometrics:
+Height: 191
+Weight: 92
+Arm Length: 4
+Shoulder Width: 9
+Neck Length: 4
+Chest: 7
+Neck Size: 10
+Shoulder Height: 5
+Leg Length: 4
+Thigh Size: 8
+Waist Size: 7
+Arm Size: 10
+Calf Size: 8
+Leg Coverage Radius: 182.6
+Arm Coverage Radius: 170.5
+Jumping Height: 272.6
+Torso Collision: 53.9
+Leg Length Based Height: 188
+
+Com Skills:
+Early Crosser
+
+Other Stats:
+Weak Foot Usage: 1
+Weak Foot Accuracy: 1
+Form: 2
+Injury Resistance: 2

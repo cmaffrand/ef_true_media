@@ -1,0 +1,98 @@
+Darren Fletcher
+Destroyer
+Height
+183cm
+Weight
+83kg
+Age
+23
+Foot
+
+B
+
+
+
+
+Duelling +3
+
+Ball-carrying +1
+
+0
+Condition History
+Arrow Probabilities (%)
+511041031031029998989496969292
+
+DMF
+0/64
+Level Cap 
+33
+
+Shooting
+
+Passing
+1
+
+Dribbling
+4
+
+Dexterity
+10
+
+Lower Body Strength
+9
+
+Aerial Strength
+6
+
+Defending
+10
+
+GK 1
+
+GK 2
+
+GK 3
+Attacking
+Offensive Awareness		80
+Ball Control		81
+Dribbling	●	80
+Tight Possession	●	80
+Low Pass		80
+Lofted Pass		80
+Finishing	●	66
+Heading		83
+Place Kicking		65
+Curl		66
+Defending
+Defensive Awareness	●	92
+Defensive Engagement		90
+Tackling	●	92
+Aggression		92
+Goalkeeping		41
+Gk Catching		41
+GK Parrying		41
+GK Reflexes		41
+GK Reach		41
+athleticism
+Speed	●	91
+Acceleration		90
+Kicking Power		85
+Jump		83
+Physical Contact		87
+Balance	●	84
+Stamina	●	96
+Weak Foot Usage		1
+Weak Foot Acc		1
+Form		1
+Injury Resistance		0
+Skills
+One Touch Pass
+Weighted Pass
+Man Marking
+Track Back
+Interception
+Super Sub
+Aerial Superiority
+Blocker
+Sliding Tackle
+Phenomenal Pass

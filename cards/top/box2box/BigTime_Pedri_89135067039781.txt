@@ -1,0 +1,113 @@
+Pedri
+Box To Box
+Height
+174cm
+Weight
+60kg
+Age
+22
+Foot
+
+B
+
+
+
+
+Ball Protection +3
+
+Off the Ball +1
+
+0
+Condition History
+Arrow Probabilities (%)
+4690101101971031051051011011019993
+
+CMF
+0/64
+Level Cap 
+33
+
+Shooting
+4
+
+Passing
+5
+
+Dribbling
+6
+
+Dexterity
+8
+
+Lower Body Strength
+11
+
+Aerial Strength
+3
+
+Defending
+7
+
+GK 1
+
+GK 2
+
+GK 3
+Attacking
+Offensive Awareness	●	78
+Ball Control	●	94
+Dribbling		89
+Tight Possession	●	95
+Low Pass		91
+Lofted Pass		87
+Finishing	●	75
+Heading		52
+Place Kicking		66
+Curl		81
+Defending
+Defensive Awareness	●	80
+Defensive Engagement		85
+Tackling		80
+Aggression		83
+Goalkeeping		41
+Gk Catching		41
+GK Parrying		41
+GK Reflexes		41
+GK Reach		41
+athleticism
+Speed	●	90
+Acceleration	●	90
+Kicking Power		87
+Jump		65
+Physical Contact	●	70
+Balance	●	93
+Stamina	●	95
+Weak Foot Usage		3
+Weak Foot Acc		3
+Form		2
+Injury Resistance		1
+Skills
+Double Touch
+Cut Behind & Turn
+Sole Control
+One Touch Pass
+Through Passing
+Pinpoint Crossing
+Outside Curler
+Track Back
+Interception
+Phenomenal Pass
+
+Body Measurements
+Leg Length
+8
+Arm Length
+5
+Waist Size
+4
+Chest
+3
+Shoulder Width
+8
+Neck Length
+5

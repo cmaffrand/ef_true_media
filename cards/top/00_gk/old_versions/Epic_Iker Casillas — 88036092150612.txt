@@ -1,0 +1,80 @@
+Name: Iker Casillas
+Position: GK
+Style: Offensive Goalkeeper
+
+Training:
+SHO: 0
+PAS: 0
+DRI: 0
+DEX: 0
+LBS: 0
+AER: 2
+DEF: 0
+GK1: 8
+GK2: 11
+GK3: 11
+Lv: 56
+Manager: Fabio Capello
+
+Attributes:
+Offensive Awareness: 46
+Ball Control: 53
+Dribbling: 51
+Tight Possession: 49
+Low Pass: 60
+Lofted Pass: 59
+Finishing: 43
+Heading: 54
+Place Kicking: 52
+Curl: 51
+Defensive Awareness: 53
+Defensive Engagement: 54
+Tackling: 62
+Aggression: 43
+Goalkeeping: 93
+Gk Catching: 92
+GK Parrying: 93
+GK Reflexes: 96
+GK Reach: 93
+Speed: 53
+Acceleration: 52
+Kicking Power: 73
+Jump: 89
+Balance: 55
+Stamina: 62
+Physical Contact: 74
+
+Skills:
+GK High Punt
+GK Long Throw
+GK Penalty Saver
+Captaincy
+
+Biometrics:
+Height: 185
+Weight: 84
+Arm Length: 4
+Shoulder Width: 9
+Neck Length: 6
+Chest: 7
+Neck Size: 7
+Shoulder Height: 9
+Leg Length: 9
+Thigh Size: 7
+Waist Size: 7
+Arm Size: 6
+Calf Size: 8
+Leg Coverage Radius: 179.6
+Arm Coverage Radius: 165.2
+Jumping Height: 273.1
+Torso Collision: 52.2
+Leg Length Based Height: 187
+
+Com Skills:
+—
+
+Other Stats:
+Weak Foot Usage: 0
+Weak Foot Accuracy: 1
+Form: 2
+Injury Resistance: 1

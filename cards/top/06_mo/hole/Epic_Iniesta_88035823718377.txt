@@ -1,0 +1,111 @@
+Andrés Iniesta
+Hole Player
+Height
+171cm
+Weight
+68kg
+Age
+24
+Foot
+
+B
+
+
+
+
+Ball Protection +2
+
+Off the Ball +1
+
+0
+Condition History
+Arrow Probabilities (%)
+458096968910010510510410410410397
+
+AMF
+0/66
+Level Cap 
+34
+
+Shooting
+6
+
+Passing
+7
+
+Dribbling
+8
+
+Dexterity
+9
+
+Lower Body Strength
+11
+
+Aerial Strength
+
+Defending
+
+GK 1
+
+GK 2
+
+GK 3
+Attacking
+Offensive Awareness	●	84
+Ball Control	●	95
+Dribbling		93
+Tight Possession	●	97
+Low Pass		93
+Lofted Pass		90
+Finishing	●	84
+Heading		55
+Place Kicking		78
+Curl		83
+Defending
+Defensive Awareness	●	64
+Defensive Engagement		64
+Tackling		62
+Aggression		63
+Goalkeeping		41
+Gk Catching		41
+GK Parrying		41
+GK Reflexes		41
+GK Reach		41
+athleticism
+Speed	●	89
+Acceleration	●	91
+Kicking Power		91
+Jump		60
+Physical Contact	●	70
+Balance	●	92
+Stamina	●	89
+Weak Foot Usage		2
+Weak Foot Acc		3
+Form		2
+Injury Resistance		1
+Skills
+Double Touch
+Flip Flap
+Cut Behind & Turn
+Sole Control
+One Touch Pass
+Through Passing
+Pinpoint Crossing
+Outside Curler
+Track Back
+Momentum Dribbling
+
+Body Measurements
+Leg Length
+9
+Arm Length
+5
+Waist Size
+4
+Chest
+2
+Shoulder Width
+5
+Neck Length
+4

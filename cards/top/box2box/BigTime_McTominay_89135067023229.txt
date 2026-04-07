@@ -1,0 +1,113 @@
+Scott McTominay
+Box To Box
+Height
+193cm
+Weight
+88kg
+Age
+28
+Foot
+
+B
+
+
+
+
+Strength +3
+
+Stealing +1
+
+0
+Condition History
+Arrow Probabilities (%)
+54104103103103101100100100100100100101
+
+CMF
+0/66
+Level Cap 
+34
+
+Shooting
+4
+
+Passing
+4
+
+Dribbling
+4
+
+Dexterity
+8
+
+Lower Body Strength
+9
+
+Aerial Strength
+8
+
+Defending
+9
+
+GK 1
+
+GK 2
+
+GK 3
+Attacking
+Offensive Awareness		88
+Ball Control		82
+Dribbling		83
+Tight Possession		82
+Low Pass		81
+Lofted Pass		80
+Finishing	●	84
+Heading		83
+Place Kicking		64
+Curl		70
+Defending
+Defensive Awareness	●	88
+Defensive Engagement		88
+Tackling	●	88
+Aggression	●	91
+Goalkeeping		41
+Gk Catching		41
+GK Parrying		41
+GK Reflexes		41
+GK Reach		41
+athleticism
+Speed	●	91
+Acceleration	●	85
+Kicking Power	●	92
+Jump	●	88
+Physical Contact	●	91
+Balance		73
+Stamina		92
+Weak Foot Usage		2
+Weak Foot Acc		2
+Form		2
+Injury Resistance		1
+Skills
+Sole Control
+Heading
+Long Range Curler
+Long Range Shooting
+First Time Shot
+Through Passing
+Track Back
+Interception
+Aerial Superiority
+Phenomenal Pass
+
+Body Measurements
+Leg Length
+7
+Arm Length
+6
+Waist Size
+4
+Chest
+6
+Shoulder Width
+7
+Neck Length
+7

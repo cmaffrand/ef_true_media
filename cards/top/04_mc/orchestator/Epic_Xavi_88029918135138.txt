@@ -1,0 +1,98 @@
+Xavi
+Orchestrator
+Height
+170cm
+Weight
+67kg
+Age
+29
+Foot
+
+B
+
+
+
+
+Passing +2
+
+Agility +1
+
+0
+Condition History
+Arrow Probabilities (%)
+458497979410310510510410110110295
+
+CMF
+0/68
+Level Cap 
+35
+
+Shooting
+2
+
+Passing
+6
+
+Dribbling
+8
+
+Dexterity
+10
+
+Lower Body Strength
+12
+
+Aerial Strength
+
+Defending
+4
+
+GK 1
+
+GK 2
+
+GK 3
+Attacking
+Offensive Awareness		85
+Ball Control		95
+Dribbling		88
+Tight Possession		91
+Low Pass	●	98
+Lofted Pass	●	90
+Finishing	●	81
+Heading		60
+Place Kicking		78
+Curl	●	84
+Defending
+Defensive Awareness	●	74
+Defensive Engagement		77
+Tackling		69
+Aggression		79
+Goalkeeping		41
+Gk Catching		41
+GK Parrying		41
+GK Reflexes		41
+GK Reach		41
+athleticism
+Speed	●	83
+Acceleration	●	88
+Kicking Power	●	92
+Jump		65
+Physical Contact		59
+Balance	●	90
+Stamina	●	96
+Weak Foot Usage		0
+Weak Foot Acc		1
+Form		2
+Injury Resistance		2
+Skills
+Double Touch
+Cut Behind & Turn
+Sole Control
+Heel Trick
+One Touch Pass
+Through Passing
+Weighted Pass
+Outside Curler
+Gamesmanship
+Captaincy

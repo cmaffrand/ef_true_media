@@ -1,0 +1,99 @@
+Thiago Alcantara
+Orchestrator
+Height
+174cm
+Weight
+70kg
+Age
+21
+Foot
+
+B
+
+
+
+
+Technique +3
+
+Balancer +1
+
+0
+Condition History
+Arrow Probabilities (%)
+47891001009610310510510410310310297
+
+CMF
+0/64
+Level Cap 
+33
+
+Shooting
+6
+
+Passing
+5
+
+Dribbling
+5
+
+Dexterity
+8
+
+Lower Body Strength
+12
+
+Aerial Strength
+4
+
+Defending
+4
+
+GK 1
+
+GK 2
+
+GK 3
+Attacking
+Offensive Awareness	●	79
+Ball Control	●	94
+Dribbling	●	90
+Tight Possession	●	95
+Low Pass	●	94
+Lofted Pass		90
+Finishing	●	80
+Heading		68
+Place Kicking		81
+Curl		89
+Defending
+Defensive Awareness	●	74
+Defensive Engagement		76
+Tackling		74
+Aggression		75
+Goalkeeping		41
+Gk Catching		41
+GK Parrying		41
+GK Reflexes		41
+GK Reach		41
+athleticism
+Speed		88
+Acceleration	●	90
+Kicking Power		90
+Jump		68
+Physical Contact		75
+Balance		94
+Stamina	●	91
+Weak Foot Usage		2
+Weak Foot Acc		2
+Form		1
+Injury Resistance		0
+Skills
+Double Touch
+Flip Flap
+Marseille Turn
+Sole Control
+One Touch Pass
+Through Passing
+Outside Curler
+No Look Pass
+Low Lofted Pass
+Visionary Pass

@@ -1,0 +1,111 @@
+Federico Chiesa
+Prolific Winger
+Height
+175cm
+Weight
+70kg
+Age
+28
+Foot
+
+B
+
+
+
+
+Shooting +2
+
+Free-kick Taking +1
+
+0
+Condition History
+Arrow Probabilities (%)
+457590908292989899102102103103
+
+LWF
+0/52
+Level Cap 
+27
+
+Shooting
+6
+
+Passing
+6
+
+Dribbling
+8
+
+Dexterity
+8
+
+Lower Body Strength
+8
+
+Aerial Strength
+
+Defending
+
+GK 1
+
+GK 2
+
+GK 3
+Attacking
+Offensive Awareness		89
+Ball Control	●	87
+Dribbling		91
+Tight Possession		83
+Low Pass		76
+Lofted Pass		73
+Finishing	●	99
+Heading		62
+Place Kicking	●	68
+Curl	●	95
+Defending
+Defensive Awareness	●	54
+Defensive Engagement		71
+Tackling		53
+Aggression		65
+Goalkeeping		41
+Gk Catching		41
+GK Parrying		41
+GK Reflexes		41
+GK Reach		41
+athleticism
+Speed		90
+Acceleration		93
+Kicking Power	●	98
+Jump		62
+Physical Contact	●	67
+Balance		88
+Stamina		85
+Weak Foot Usage		3
+Weak Foot Acc		2
+Form		2
+Injury Resistance		0
+Skills
+Double Touch
+Chop Turn
+Long Range Curler
+Rising Shots
+Pinpoint Crossing
+Gamesmanship
+Track Back
+Super Sub
+Fighting Spirit
+Blitz Curler
+
+Body Measurements
+Leg Length
+10
+Arm Length
+7
+Waist Size
+9
+Chest
+5
+Shoulder Width
+5
+Neck Length
+7
