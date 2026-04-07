@@ -60,7 +60,7 @@ def cast_players(src_folder, profile_folder):
 if __name__ == "__main__":
     import sys
     if len(sys.argv) != 3:
-        print("Usage: python cast.py <src_folder> <profile_folder>")
+        print("Usage: python3 cast.py <src_folder> <profile_folder>")
         sys.exit(1)
     
     src_folder = sys.argv[1]

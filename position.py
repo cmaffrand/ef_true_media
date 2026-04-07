@@ -8,7 +8,7 @@ from rate_player import rate_player
 def show_help():
     """Display help information"""
     help_text = """
-Usage: python position.py [folder_path] [card_txt_filename]
+Usage: python3 position.py [folder_path] [card_txt_filename]
 
     """
     print(help_text)

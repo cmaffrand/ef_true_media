@@ -8,7 +8,7 @@ from rate_player import rate_player
 def show_help():
     """Display help information"""
     help_text = """
-Usage: python Compare.py [folder_path] [csv_path] [options]
+Usage: python3 compare.py [folder_path] [csv_path] [options]
 
 Arguments:
     folder_path    Path to folder containing player files (optional - GUI will open if not provided)
@@ -18,10 +18,10 @@ Options:
     -h, --help     Show this help message and exit
 
 Examples:
-    python Compare.py
-    python Compare.py /path/to/players
-    python Compare.py /path/to/players custom_profiles.csv
-    python Compare.py --help
+    python3 compare.py
+    python3 compare.py /path/to/players
+    python3 compare.py /path/to/players custom_profiles.csv
+    python3 compare.py --help
     """
     print(help_text)
 

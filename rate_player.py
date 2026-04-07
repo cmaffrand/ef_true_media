@@ -3,14 +3,6 @@ import sys
 import re
 from pathlib import Path
 
-from matplotlib import lines
-
-# Parse_player.py
-# Usage: python Parse_player.py path/to/player.txt
-# Reads a text file, strips all non-alphanumeric characters (preserving whitespace/newlines),
-# extracts specific lines for Name/Style/Height/Position and finds numeric attributes by label.
-
-
 STATS_LABELS = [
     "Offensive Awareness", "Ball Control", "Dribbling", "Tight Possession",
     "Low Pass", "Lofted Pass", "Finishing", "Heading", "Place Kicking", "Curl",
@@ -596,12 +588,44 @@ def rate_player(file_path, csv_path=Path("player_profiles.csv")):
 
 def main():
     if len(sys.argv) < 2:
-        print("Usage: python rate_player.py path/to/player.txt")
+        print("Usage: python3 rate_player.py [-h|--help] <player_file> [csv_profile]")
         sys.exit(1)
+    
+    # Check for help flags
+    if sys.argv[1] in ['-h', '--h', '-help', '--help']:
+        print_help()
+        sys.exit(0)
+    
     file_path = sys.argv[1]
-    name, score, base_attr_score, card_bonus, skills_bonus, added_skills, biometrics_bonus = rate_player(file_path, csv_path=Path("player_profiles.csv"))
+    csv_path = Path("player_profiles.csv")
+    
+    # Optional CSV profile argument
+    if len(sys.argv) > 2:
+        csv_path = Path(sys.argv[2])
+    
+    name, score, base_attr_score, card_bonus, skills_bonus, added_skills, biometrics_bonus = rate_player(file_path, csv_path=csv_path)
     if name:
-        print(f"Player {name} rated with score: {score:.1f} (Base: {base_attr_score:.1f}, Card Bonus: {card_bonus:.1f}, Skills Bonus: {skills_bonus:.1f}, Biometrics Bonus: {biometrics_bonus:.1f})")
+        print(f"Player {name} rated with score: {score:.1f} (Base: {base_attr_score:.1f}, Card Bonus: {card_bonus:.1f}, Skills Bonus: {skills_bonus:.1f}, Added Skills Bonus: {added_skills:.1f}, Biometrics Bonus: {biometrics_bonus:.1f})")
+
+def print_help():
+    help_text = """
+    Player Rating System
+    
+    Usage: python3 rate_player.py [OPTIONS] <player_file> [csv_profile]
+    
+    Arguments:
+        player_file       Path to the player text file to rate
+        csv_profile       Path to CSV profile (default: player_profiles.csv)
+    
+    Options:
+        -h, --h, -help, --help    Show this help message and exit
+    
+    Examples:
+        python3 rate_player.py player.txt
+        python3 rate_player.py player.txt custom_profile.csv
+        python3 rate_player.py -h
+    """
+    print(help_text)
 
 if __name__ == "__main__":
     main()

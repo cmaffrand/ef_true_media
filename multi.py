@@ -23,12 +23,12 @@ def multi(players_folder, profile_folder):
 def show_help():
     """Display help information for multi.py"""
     help_text = """
-    Usage: python multi.py [players_folder] [profile_folder]
+    Usage: python3 multi.py [players_folder] [profile_folder]
     Arguments:
         players_folder    Path to folder containing player files
         profile_folder    Path to folder containing profile folders
     Examples:
-        python multi.py /path/to/players /path/to/profiles
+        python3 multi.py /path/to/players /path/to/profiles
     """
     print(help_text)    
                     
