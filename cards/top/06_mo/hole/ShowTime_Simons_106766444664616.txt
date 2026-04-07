@@ -1,0 +1,112 @@
+Xavi Simons
+Hole Player
+Height
+179cm
+Weight
+58kg
+Age
+22
+Foot
+
+A
+
+
+
+
+Technique +3
+
+Off the Ball +1
+
+0
+Condition History
+Arrow Probabilities (%)
+47819595899910310310210310310297
+
+AMF
+0/58
+Level Cap 
+30
+
+Shooting
+5
+
+Passing
+9
+
+Dribbling
+7
+
+Dexterity
+8
+
+Lower Body Strength
+9
+
+Aerial Strength
+0
+
+Defending
+
+GK 1
+
+GK 2
+
+GK 3
+Attacking
+Offensive Awareness	●	85
+Ball Control	●	92
+Dribbling	●	93
+Tight Possession	●	93
+Low Pass	●	90
+Lofted Pass		87
+Finishing	●	80
+Heading		60
+Place Kicking		75
+Curl		83
+Defending
+Defensive Awareness	●	55
+Defensive Engagement		62
+Tackling		66
+Aggression		74
+Goalkeeping		41
+Gk Catching		41
+GK Parrying		41
+GK Reflexes		41
+GK Reach		41
+athleticism
+Speed	●	90
+Acceleration	●	93
+Kicking Power		90
+Jump		68
+Physical Contact		67
+Balance		91
+Stamina	●	90
+Weak Foot Usage		1
+Weak Foot Acc		2
+Form		2
+Injury Resistance		1
+Skills
+Double Touch
+Marseille Turn
+Cut Behind & Turn
+Sole Control
+Long Range Curler
+First Time Shot
+One Touch Pass
+Through Passing
+Outside Curler
+Momentum Dribbling
+
+Body Measurements
+Leg Length
+11
+Arm Length
+8
+Waist Size
+5
+Chest
+6
+Shoulder Width
+10
+Neck Length
+5

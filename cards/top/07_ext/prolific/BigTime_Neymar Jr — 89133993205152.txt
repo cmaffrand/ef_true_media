@@ -1,0 +1,86 @@
+Name: Neymar Jr
+Position: LWF
+Style: Prolific Winger
+
+Training:
+SHO: 6
+PAS: 8
+DRI: 5
+DEX: 9
+LBS: 9
+AER: 5
+DEF: 0
+GK1: 0
+GK2: 0
+GK3: 0
+Lv: 62
+Manager: Fabio Capello
+
+Attributes:
+Offensive Awareness: 83
+Ball Control: 97
+Dribbling: 97
+Tight Possession: 95
+Low Pass: 90
+Lofted Pass: 87
+Finishing: 90
+Heading: 52
+Place Kicking: 88
+Curl: 90
+Defensive Awareness: 44
+Defensive Engagement: 47
+Tackling: 45
+Aggression: 46
+Goalkeeping: 41
+Gk Catching: 41
+GK Parrying: 41
+GK Reflexes: 41
+GK Reach: 41
+Speed: 96
+Acceleration: 95
+Kicking Power: 85
+Jump: 56
+Balance: 96
+Stamina: 83
+Physical Contact: 75
+
+Skills:
+Scissors Feint
+Double Touch
+Flip Flap
+Cut Behind & Turn
+Sole Control
+Long Range Curler
+First Time Shot
+Through Passing
+Gamesmanship
+Acceleration Burst
+
+Biometrics:
+Height: 175
+Weight: 68
+Arm Length: 9
+Shoulder Width: 7
+Neck Length: 7
+Chest: 3
+Neck Size: 6
+Shoulder Height: 7
+Leg Length: 9
+Thigh Size: 5
+Waist Size: 6
+Arm Size: 3
+Calf Size: 7
+Leg Coverage Radius: 169.9
+Arm Coverage Radius: 160.9
+Jumping Height: 241.6
+Torso Collision: 48.5
+Leg Length Based Height: 177
+
+Com Skills:
+Long Ball Expert
+
+Other Stats:
+Weak Foot Usage: 3
+Weak Foot Accuracy: 3
+Form: 2
+Injury Resistance: 1

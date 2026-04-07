@@ -1,0 +1,112 @@
+Marco van Basten
+Goal Poacher
+Height
+188cm
+Weight
+80kg
+Age
+27
+Foot
+
+B
+
+
+
+
+Shooting +3
+
+Agility +1
+
+0
+Condition History
+Arrow Probabilities (%)
+518090908290959598102102103105
+
+CF
+0/66
+Level Cap 
+34
+
+Shooting
+8
+
+Passing
+4
+
+Dribbling
+8
+
+Dexterity
+10
+
+Lower Body Strength
+8
+
+Aerial Strength
+6
+
+Defending
+
+GK 1
+
+GK 2
+
+GK 3
+Attacking
+Offensive Awareness		94
+Ball Control	●	91
+Dribbling		87
+Tight Possession		89
+Low Pass		70
+Lofted Pass		67
+Finishing	●	95
+Heading		82
+Place Kicking		78
+Curl		80
+Defending
+Defensive Awareness	●	50
+Defensive Engagement		49
+Tackling		51
+Aggression		53
+Goalkeeping		41
+Gk Catching		41
+GK Parrying		41
+GK Reflexes		41
+GK Reach		41
+athleticism
+Speed	●	91
+Acceleration	●	91
+Kicking Power	●	93
+Jump		83
+Physical Contact	●	85
+Balance	●	73
+Stamina	●	83
+Weak Foot Usage		2
+Weak Foot Acc		3
+Form		2
+Injury Resistance		1
+Skills
+Heading
+Long Range Curler
+Long Range Shooting
+Rising Shots
+Heel Trick
+First Time Shot
+Fighting Spirit
+Aerial Superiority
+Phenomenal Finishing
+Momentum Dribbling
+
+Body Measurements
+Leg Length
+8
+Arm Length
+6
+Waist Size
+7
+Chest
+6
+Shoulder Width
+9
+Neck Length
+9

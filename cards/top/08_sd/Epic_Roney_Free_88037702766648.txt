@@ -1,0 +1,110 @@
+Wayne Rooney
+Hole Player
+Height
+176cm
+Weight
+83kg
+Age
+19
+Foot
+
+B
+
+
+
+
+Accuracy +2
+
+Off the Ball +1
+
+0
+Condition History
+Arrow Probabilities (%)
+478595959096100100100100100101100
+
+SS
+0/62
+Level Cap 
+32
+
+Shooting
+9
+
+Passing
+4
+
+Dribbling
+7
+
+Dexterity
+9
+
+Lower Body Strength
+10
+
+Aerial Strength
+
+Defending
+
+GK 1
+
+GK 2
+
+GK 3
+Attacking
+Offensive Awareness	●	85
+Ball Control		85
+Dribbling		84
+Tight Possession		87
+Low Pass	●	83
+Lofted Pass	●	82
+Finishing	●	90
+Heading		72
+Place Kicking		84
+Curl		87
+Defending
+Defensive Awareness	●	66
+Defensive Engagement		69
+Tackling		66
+Aggression		67
+Goalkeeping		41
+Gk Catching		41
+GK Parrying		41
+GK Reflexes		41
+GK Reach		41
+athleticism
+Speed	●	90
+Acceleration	●	90
+Kicking Power	●	93
+Jump		70
+Physical Contact		75
+Balance		85
+Stamina	●	89
+Weak Foot Usage		2
+Weak Foot Acc		2
+Form		2
+Injury Resistance		1
+Skills
+Long Range Curler
+Long Range Shooting
+Knuckle Shot
+Rising Shots
+Acrobatic Finishing
+First Time Shot
+One Touch Pass
+Fighting Spirit
+Phenomenal Finishing
+
+Body Measurements
+Leg Length
+6
+Arm Length
+6
+Waist Size
+13
+Chest
+12
+Shoulder Width
+8
+Neck Length
+6

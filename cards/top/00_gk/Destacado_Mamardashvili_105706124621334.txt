@@ -1,0 +1,103 @@
+Giorgi Mamardashvili
+Defensive Goalkeeper
+Height
+197cm
+Weight
+87kg
+Age
+25
+Foot
+
+C
+
+
+
+
+No Booster
+
+No Booster
+
+0
+Condition History
+Arrow Probabilities (%)
+99555252525249494947474849
+
+GK
+0/38
+Level Cap 
+20
+
+Shooting
+
+Passing
+
+Dribbling
+
+Dexterity
+
+Lower Body Strength
+
+Aerial Strength
+2
+
+Defending
+
+GK 1
+8
+
+GK 2
+8
+
+GK 3
+8
+Attacking
+Offensive Awareness		41
+Ball Control		62
+Dribbling		42
+Tight Possession		44
+Low Pass		62
+Lofted Pass		61
+Finishing		41
+Heading		47
+Place Kicking		59
+Curl		43
+Defending
+Defensive Awareness		43
+Defensive Engagement		62
+Tackling		44
+Aggression		44
+Goalkeeping		90
+Gk Catching		90
+GK Parrying		81
+GK Reflexes		95
+GK Reach		90
+athleticism
+Speed		51
+Acceleration		54
+Kicking Power		69
+Jump		74
+Physical Contact		78
+Balance		51
+Stamina		62
+Weak Foot Usage		1
+Weak Foot Acc		1
+Form		2
+Injury Resistance		1
+Skills
+GK High Punt
+GK Long Throw
+GK Penalty Saver
+
+Body Measurements
+Leg Length
+7
+Arm Length
+7
+Waist Size
+6
+Chest
+6
+Shoulder Width
+11
+Neck Length
+4

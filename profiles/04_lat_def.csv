@@ -1,0 +1,89 @@
+attribute,min,ok,top,ponderation
+Height,175,180,187,8
+Offensive Awareness,40,70,100,0
+Ball Control,75,80,85,3
+Dribbling,75,80,85,3
+Tight Possession,75,80,85,3
+Low Pass,75,80,85,5
+Lofted Pass,75,80,87,5
+Finishing,40,70,100,0
+Heading,70,75,87,5
+Place Kicking,40,70,100,0
+Curl,70,75,80,3
+Defensive Awareness,85,90,95,13
+Defensive Engagement,85,90,95,13
+Tackling,85,90,95,10
+Aggression,85,90,95,10
+Speed,85,90,95,17
+Acceleration,80,85,90,10
+Kicking Power,60,70,80,1
+Jump,75,80,90,8
+Physical Contact,80,87,95,8
+Balance,75,80,88,5
+Stamina,85,90,95,10
+
+epic_dif,0,0,0,0
+weak_foot_usage,0,0,0,600
+weak_foot_acc,0,0,0,1000
+player_form,0,0,0,3000
+injury_resistance,0,0,0,0
+
+Skills,0,0,0,0
+Long Reach Tackle,0,0,0,2100
+Fortress,0,0,0,1700
+Aerial Fort,0,0,0,800
+Edged Crossing,0,0,0,500
+Visionary Pass,0,0,0,500
+Phenomenal Pass,0,0,0,500
+Game Changing Pass,0,0,0,300
+Acceleration Burst,0,0,0,300
+Blitz Curler,0,0,0,200
+Low Screamer,0,0,0,200
+Through Passing,0,0,0,800
+One Touch Pass,0,0,0,800
+Interception,0,0,0,800
+Man Marking,0,0,0,800
+Blocker,0,0,0,800
+Acrobatic Clearance,0,0,0,800
+Sliding Tackle,0,0,0,800
+Fighting Spirit,0,0,0,800
+Long Throw,0,0,0,800
+Low Lofted Pass,0,0,0,500
+Pinpoint Crossing,0,0,0,500
+Aerial Superiority,0,0,0,500
+Heading,0,0,0,500
+First Time Shot,0,0,0,300
+Outside Curler,0,0,0,300
+Gamesmanship,0,0,0,300
+Weighted Pass,0,0,0,300
+Super Sub,0,0,0,300
+Track Back,0,0,0,300
+Long Range Curler,0,0,0,200
+Double Touch,0,0,0,200
+Long Range Shooting,0,0,0,200
+Marseille Turn,0,0,0,200
+Captaincy,0,0,0,200
+Sole Control,0,0,0,100
+Flip Flap,0,0,0,100
+Cut Behind & Turn,0,0,0,100
+Dipping Shot,0,0,0,100
+Rising Shots,0,0,0,100
+Heel Trick,0,0,0,100
+Scissors Feint,0,0,0,100
+Knuckle Shot,0,0,0,100
+Rabona,0,0,0,100
+Acrobatic Finishing,0,0,0,100
+Penalty Specialist,0,0,0,100
+Scotch Move,0,0,0,100
+Chop Turn,0,0,0,100
+Sombrero,0,0,0,100
+
+Bio,0,0,0,0
+Leg Length,0,0,0,200
+Arm Length,0,0,0,50
+Waist Size,0,0,0,0
+Chest,0,0,0,25
+Shoulder Width,0,0,0,25
+Neck Length,0,0,0,0
+Quick Bio,0,0,0,0
+Strong Bio,0,0,0,5

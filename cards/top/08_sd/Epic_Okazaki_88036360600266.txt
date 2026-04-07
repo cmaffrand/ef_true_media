@@ -1,0 +1,112 @@
+Shinji Okazaki
+Dummy Runner
+Height
+173cm
+Weight
+70kg
+Age
+29
+Foot
+
+B
+
+
+
+
+Aerial +3
+
+Ball-carrying +1
+
+0
+Condition History
+Arrow Probabilities (%)
+4890949492949696979999100101
+
+SS
+0/62
+Level Cap 
+32
+
+Shooting
+6
+
+Passing
+5
+
+Dribbling
+9
+
+Dexterity
+9
+
+Lower Body Strength
+9
+
+Aerial Strength
+3
+
+Defending
+
+GK 1
+
+GK 2
+
+GK 3
+Attacking
+Offensive Awareness		92
+Ball Control		87
+Dribbling	●	85
+Tight Possession	●	85
+Low Pass		72
+Lofted Pass		70
+Finishing	●	92
+Heading	●	85
+Place Kicking		64
+Curl		71
+Defending
+Defensive Awareness	●	76
+Defensive Engagement		76
+Tackling		72
+Aggression		76
+Goalkeeping		41
+Gk Catching		41
+GK Parrying		41
+GK Reflexes		41
+GK Reach		41
+athleticism
+Speed	●	85
+Acceleration		87
+Kicking Power		84
+Jump	●	84
+Physical Contact	●	80
+Balance	●	84
+Stamina		90
+Weak Foot Usage		1
+Weak Foot Acc		2
+Form		2
+Injury Resistance		2
+Skills
+Heading
+Long Range Curler
+Acrobatic Finishing
+First Time Shot
+Track Back
+Fighting Spirit
+Aerial Superiority
+Blocker
+Sliding Tackle
+Long Reach Tackle
+
+Body Measurements
+Leg Length
+5
+Arm Length
+5
+Waist Size
+4
+Chest
+5
+Shoulder Width
+8
+Neck Length
+6

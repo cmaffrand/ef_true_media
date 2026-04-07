@@ -1,0 +1,81 @@
+Name: Hugo Lloris
+Position: GK
+Style: Offensive Goalkeeper
+
+Training:
+SHO: 0
+PAS: 0
+DRI: 0
+DEX: 0
+LBS: 0
+AER: 1
+DEF: 0
+GK1: 8
+GK2: 10
+GK3: 11
+Lv: 52
+Manager: Fabio Capello
+
+Attributes:
+Offensive Awareness: 42
+Ball Control: 55
+Dribbling: 45
+Tight Possession: 44
+Low Pass: 70
+Lofted Pass: 69
+Finishing: 43
+Heading: 43
+Place Kicking: 67
+Curl: 46
+Defensive Awareness: 45
+Defensive Engagement: 47
+Tackling: 62
+Aggression: 52
+Goalkeeping: 95
+Gk Catching: 95
+GK Parrying: 97
+GK Reflexes: 98
+GK Reach: 95
+Speed: 60
+Acceleration: 59
+Kicking Power: 75
+Jump: 76
+Balance: 56
+Stamina: 60
+Physical Contact: 63
+
+Skills:
+Gk Low Punt
+GK High Punt
+GK Long Throw
+GK Penalty Saver
+Captaincy
+
+Biometrics:
+Height: 188
+Weight: 82
+Arm Length: 5
+Shoulder Width: 7
+Neck Length: 7
+Chest: 2
+Neck Size: 5
+Shoulder Height: 4
+Leg Length: 7
+Thigh Size: 8
+Waist Size: 5
+Arm Size: 6
+Calf Size: 8
+Leg Coverage Radius: 181.4
+Arm Coverage Radius: 168.6
+Jumping Height: 267.8
+Torso Collision: 52.2
+Leg Length Based Height: 188
+
+Com Skills:
+—
+
+Other Stats:
+Weak Foot Usage: 1
+Weak Foot Accuracy: 1
+Form: 2
+Injury Resistance: 2

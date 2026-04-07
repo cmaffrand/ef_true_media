@@ -1,0 +1,113 @@
+Enzo Fernández
+Box To Box
+Height
+178cm
+Weight
+77kg
+Age
+24
+Foot
+
+A
+
+
+
+
+Offence Creator +3
+
+Agility +1
+
+0
+Condition History
+Arrow Probabilities (%)
+49931021029910410510610410310310298
+
+CMF
+0/68
+Level Cap 
+35
+
+Shooting
+6
+
+Passing
+4
+
+Dribbling
+8
+
+Dexterity
+8
+
+Lower Body Strength
+11
+
+Aerial Strength
+3
+
+Defending
+6
+
+GK 1
+
+GK 2
+
+GK 3
+Attacking
+Offensive Awareness	●	83
+Ball Control	●	92
+Dribbling		87
+Tight Possession		95
+Low Pass	●	91
+Lofted Pass		91
+Finishing	●	80
+Heading		65
+Place Kicking		78
+Curl		80
+Defending
+Defensive Awareness	●	76
+Defensive Engagement		81
+Tackling		75
+Aggression		89
+Goalkeeping		41
+Gk Catching		41
+GK Parrying		41
+GK Reflexes		41
+GK Reach		41
+athleticism
+Speed	●	88
+Acceleration	●	90
+Kicking Power	●	94
+Jump		71
+Physical Contact		80
+Balance	●	88
+Stamina	●	95
+Weak Foot Usage		1
+Weak Foot Acc		2
+Form		2
+Injury Resistance		2
+Skills
+Sole Control
+Long Range Curler
+First Time Shot
+One Touch Pass
+Through Passing
+Weighted Pass
+Outside Curler
+Low Lofted Pass
+Fighting Spirit
+Phenomenal Pass
+
+Body Measurements
+Leg Length
+8
+Arm Length
+5
+Waist Size
+9
+Chest
+9
+Shoulder Width
+7
+Neck Length
+4

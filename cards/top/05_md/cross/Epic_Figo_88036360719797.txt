@@ -1,0 +1,99 @@
+Luís Figo
+Cross Specialist
+Height
+180cm
+Weight
+75kg
+Age
+29
+Foot
+
+B
+
+
+
+
+Shooting +3
+
+Agility +1
+
+0
+Condition History
+Arrow Probabilities (%)
+4981979789100106106105106106105101
+
+RMF
+0/68
+Level Cap 
+35
+
+Shooting
+5
+
+Passing
+8
+
+Dribbling
+7
+
+Dexterity
+8
+
+Lower Body Strength
+12
+
+Aerial Strength
+4
+
+Defending
+0
+
+GK 1
+
+GK 2
+
+GK 3
+Attacking
+Offensive Awareness		87
+Ball Control	●	92
+Dribbling		93
+Tight Possession		93
+Low Pass		91
+Lofted Pass		90
+Finishing	●	86
+Heading		61
+Place Kicking		84
+Curl		90
+Defending
+Defensive Awareness	●	55
+Defensive Engagement		58
+Tackling		51
+Aggression		59
+Goalkeeping		41
+Gk Catching		41
+GK Parrying		41
+GK Reflexes		41
+GK Reach		41
+athleticism
+Speed	●	94
+Acceleration	●	92
+Kicking Power	●	96
+Jump		67
+Physical Contact	●	80
+Balance	●	88
+Stamina	●	92
+Weak Foot Usage		1
+Weak Foot Acc		2
+Form		2
+Injury Resistance		1
+Skills
+Double Touch
+Cut Behind & Turn
+Sole Control
+Long Range Curler
+First Time Shot
+Through Passing
+Pinpoint Crossing
+Outside Curler
+Momentum Dribbling
+Edged Crossing

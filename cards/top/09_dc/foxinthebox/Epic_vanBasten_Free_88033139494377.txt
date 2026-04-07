@@ -1,0 +1,113 @@
+Marco van Basten
+Fox In The Box
+Height
+188cm
+Weight
+80kg
+Age
+24
+Foot
+
+B
+
+
+
+
+Aerial +2
+
+Technique +1
+
+0
+Condition History
+Arrow Probabilities (%)
+518090908392979799101101103104
+
+CF
+0/62
+Level Cap 
+32
+
+Shooting
+8
+
+Passing
+4
+
+Dribbling
+8
+
+Dexterity
+9
+
+Lower Body Strength
+8
+
+Aerial Strength
+5
+
+Defending
+
+GK 1
+1
+
+GK 2
+
+GK 3
+Attacking
+Offensive Awareness		92
+Ball Control	●	90
+Dribbling	●	85
+Tight Possession	●	90
+Low Pass	●	82
+Lofted Pass		71
+Finishing	●	95
+Heading	●	90
+Place Kicking		80
+Curl		80
+Defending
+Defensive Awareness	●	50
+Defensive Engagement		49
+Tackling		51
+Aggression		53
+Goalkeeping		42
+Gk Catching		41
+GK Parrying		41
+GK Reflexes		41
+GK Reach		41
+athleticism
+Speed		91
+Acceleration		90
+Kicking Power		88
+Jump	●	82
+Physical Contact	●	80
+Balance		71
+Stamina		81
+Weak Foot Usage		2
+Weak Foot Acc		3
+Form		2
+Injury Resistance		0
+Skills
+Heading
+Long Range Curler
+Long Range Shooting
+Rising Shots
+Acrobatic Finishing
+First Time Shot
+One Touch Pass
+Through Passing
+Aerial Superiority
+Phenomenal Finishing
+
+Body Measurements
+Leg Length
+8
+Arm Length
+6
+Waist Size
+7
+Chest
+6
+Shoulder Width
+9
+Neck Length
+9

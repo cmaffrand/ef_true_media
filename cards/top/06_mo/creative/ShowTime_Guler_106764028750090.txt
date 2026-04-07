@@ -1,0 +1,112 @@
+Arda Güler
+Creative Playmaker
+Height
+176cm
+Weight
+67kg
+Age
+20
+Foot
+
+A
+
+
+
+
+Offence Creator +3
+
+Technique +1
+
+0
+Condition History
+Arrow Probabilities (%)
+458498989310210610610510410410398
+
+AMF
+0/62
+Level Cap 
+32
+
+Shooting
+8
+
+Passing
+6
+
+Dribbling
+8
+
+Dexterity
+8
+
+Lower Body Strength
+10
+
+Aerial Strength
+0
+
+Defending
+
+GK 1
+
+GK 2
+
+GK 3
+Attacking
+Offensive Awareness	●	83
+Ball Control	●	94
+Dribbling	●	92
+Tight Possession	●	94
+Low Pass	●	94
+Lofted Pass		91
+Finishing	●	85
+Heading		52
+Place Kicking		82
+Curl		90
+Defending
+Defensive Awareness	●	70
+Defensive Engagement		73
+Tackling		71
+Aggression		68
+Goalkeeping		41
+Gk Catching		41
+GK Parrying		41
+GK Reflexes		41
+GK Reach		41
+athleticism
+Speed		91
+Acceleration		91
+Kicking Power	●	93
+Jump		54
+Physical Contact		69
+Balance		90
+Stamina		90
+Weak Foot Usage		1
+Weak Foot Acc		1
+Form		1
+Injury Resistance		1
+Skills
+Double Touch
+Marseille Turn
+Cut Behind & Turn
+Sole Control
+Long Range Curler
+One Touch Pass
+Through Passing
+Pinpoint Crossing
+Outside Curler
+Visionary Pass
+
+Body Measurements
+Leg Length
+11
+Arm Length
+7
+Waist Size
+6
+Chest
+6
+Shoulder Width
+9
+Neck Length
+6

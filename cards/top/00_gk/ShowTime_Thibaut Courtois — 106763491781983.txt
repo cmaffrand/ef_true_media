@@ -1,0 +1,80 @@
+Name: Thibaut Courtois
+Position: GK
+Style: Defensive Goalkeeper
+
+Training:
+SHO: 0
+PAS: 0
+DRI: 0
+DEX: 0
+LBS: 0
+AER: 1
+DEF: 0
+GK1: 11
+GK2: 10
+GK3: 10
+Lv: 58
+Manager: Fabio Capello
+
+Attributes:
+Offensive Awareness: 41
+Ball Control: 60
+Dribbling: 41
+Tight Possession: 44
+Low Pass: 60
+Lofted Pass: 62
+Finishing: 42
+Heading: 44
+Place Kicking: 60
+Curl: 48
+Defensive Awareness: 43
+Defensive Engagement: 45
+Tackling: 61
+Aggression: 48
+Goalkeeping: 96
+Gk Catching: 95
+GK Parrying: 98
+GK Reflexes: 99
+GK Reach: 95
+Speed: 56
+Acceleration: 49
+Kicking Power: 67
+Jump: 71
+Balance: 53
+Stamina: 61
+Physical Contact: 66
+
+Skills:
+Gk Low Punt
+GK High Punt
+GK Long Throw
+GK Penalty Saver
+
+Biometrics:
+Height: 200
+Weight: 96
+Arm Length: 8
+Shoulder Width: 6
+Neck Length: 11
+Chest: 1
+Neck Size: 7
+Shoulder Height: 6
+Leg Length: 12
+Thigh Size: 5
+Waist Size: 3
+Arm Size: 6
+Calf Size: 7
+Leg Coverage Radius: 196.0
+Arm Coverage Radius: 182.5
+Jumping Height: 277.6
+Torso Collision: 54.9
+Leg Length Based Height: 205
+
+Com Skills:
+—
+
+Other Stats:
+Weak Foot Usage: 1
+Weak Foot Accuracy: 1
+Form: 2
+Injury Resistance: 0

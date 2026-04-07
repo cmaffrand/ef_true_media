@@ -1,0 +1,112 @@
+Jérémy Doku
+Prolific Winger
+Height
+173cm
+Weight
+77kg
+Age
+23
+Foot
+
+A
+
+
+
+
+Agility +3
+
+Technique +1
+
+0
+Condition History
+Arrow Probabilities (%)
+46779292839410110110010410410299
+
+LWF
+0/62
+Level Cap 
+32
+
+Shooting
+8
+
+Passing
+7
+
+Dribbling
+8
+
+Dexterity
+8
+
+Lower Body Strength
+8
+
+Aerial Strength
+4
+
+Defending
+
+GK 1
+
+GK 2
+
+GK 3
+Attacking
+Offensive Awareness		84
+Ball Control	●	91
+Dribbling	●	95
+Tight Possession	●	95
+Low Pass	●	82
+Lofted Pass		77
+Finishing	●	86
+Heading		58
+Place Kicking		66
+Curl		76
+Defending
+Defensive Awareness	●	51
+Defensive Engagement		55
+Tackling		54
+Aggression		59
+Goalkeeping		41
+Gk Catching		41
+GK Parrying		41
+GK Reflexes		41
+GK Reach		41
+athleticism
+Speed	●	95
+Acceleration	●	97
+Kicking Power		88
+Jump		69
+Physical Contact		75
+Balance	●	98
+Stamina	●	86
+Weak Foot Usage		2
+Weak Foot Acc		1
+Form		1
+Injury Resistance		0
+Skills
+Double Touch
+Flip Flap
+Marseille Turn
+Chop Turn
+Cut Behind & Turn
+Sole Control
+Long Range Curler
+Pinpoint Crossing
+Gamesmanship
+Momentum Dribbling
+
+Body Measurements
+Leg Length
+10
+Arm Length
+7
+Waist Size
+7
+Chest
+9
+Shoulder Width
+9
+Neck Length
+4

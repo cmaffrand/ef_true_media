@@ -1,0 +1,88 @@
+Name: K. Heinz Rummenigge
+Position: CF
+Style: Goal Poacher
+
+Training:
+SHO: 7
+PAS: 3
+DRI: 10
+DEX: 9
+LBS: 8
+AER: 4
+DEF: 0
+GK1: 0
+GK2: 0
+GK3: 0
+Lv: 62
+Manager: Fabio Capello
+
+Attributes:
+Offensive Awareness: 92
+Ball Control: 90
+Dribbling: 92
+Tight Possession: 92
+Low Pass: 75
+Lofted Pass: 67
+Finishing: 92
+Heading: 78
+Place Kicking: 74
+Curl: 82
+Defensive Awareness: 61
+Defensive Engagement: 60
+Tackling: 58
+Aggression: 62
+Goalkeeping: 41
+Gk Catching: 41
+GK Parrying: 41
+GK Reflexes: 41
+GK Reach: 41
+Speed: 97
+Acceleration: 97
+Kicking Power: 92
+Jump: 84
+Balance: 88
+Stamina: 85
+Physical Contact: 87
+
+Skills:
+Double Touch
+Heading
+Long Range Curler
+Long Range Shooting
+Rising Shots
+Acrobatic Finishing
+First Time Shot
+Fighting Spirit
+Phenomenal Finishing
+Blitz Curler
+
+Biometrics:
+Height: 182
+Weight: 79
+Arm Length: 6
+Shoulder Width: 8
+Neck Length: 4
+Chest: 5
+Neck Size: 9
+Shoulder Height: 6
+Leg Length: 7
+Thigh Size: 7
+Waist Size: 8
+Arm Size: 7
+Calf Size: 7
+Leg Coverage Radius: 175.6
+Arm Coverage Radius: 164.4
+Jumping Height: 266.3
+Torso Collision: 51.0
+Leg Length Based Height: 182
+
+Com Skills:
+Incisive Run
+Long Ball Expert
+Early Crosser
+
+Other Stats:
+Weak Foot Usage: 2
+Weak Foot Accuracy: 3
+Form: 2
+Injury Resistance: 1

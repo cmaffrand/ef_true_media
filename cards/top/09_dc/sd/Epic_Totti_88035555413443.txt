@@ -1,0 +1,98 @@
+Francesco Totti
+Deep-Lying Forward
+Height
+180cm
+Weight
+82kg
+Age
+30
+Foot
+
+B
+
+
+
+
+Fantasista +2
+
+Off the Ball +1
+
+0
+Condition History
+Arrow Probabilities (%)
+488095958799105105105106106106103
+
+CF
+0/66
+Level Cap 
+34
+
+Shooting
+5
+
+Passing
+7
+
+Dribbling
+6
+
+Dexterity
+10
+
+Lower Body Strength
+11
+
+Aerial Strength
+3
+
+Defending
+
+GK 1
+
+GK 2
+
+GK 3
+Attacking
+Offensive Awareness	●	91
+Ball Control	●	90
+Dribbling	●	93
+Tight Possession		92
+Low Pass		91
+Lofted Pass		90
+Finishing	●	90
+Heading		68
+Place Kicking		81
+Curl		84
+Defending
+Defensive Awareness	●	52
+Defensive Engagement		53
+Tackling		52
+Aggression		56
+Goalkeeping		41
+Gk Catching		41
+GK Parrying		41
+GK Reflexes		41
+GK Reach		41
+athleticism
+Speed	●	91
+Acceleration	●	93
+Kicking Power		91
+Jump		68
+Physical Contact		81
+Balance	●	93
+Stamina	●	86
+Weak Foot Usage		2
+Weak Foot Acc		2
+Form		2
+Injury Resistance		1
+Skills
+Double Touch
+Long Range Curler
+Chip Shot Control
+Long Range Shooting
+Heel Trick
+First Time Shot
+One Touch Pass
+Through Passing
+Outside Curler
+Phenomenal Pass

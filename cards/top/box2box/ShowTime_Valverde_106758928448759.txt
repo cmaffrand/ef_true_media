@@ -1,0 +1,113 @@
+Federico Valverde
+Box To Box
+Height
+182cm
+Weight
+78kg
+Age
+27
+Foot
+
+B
+
+
+
+
+Physicality +3
+
+Passing +1
+
+0
+Condition History
+Arrow Probabilities (%)
+5199103103101104105105103103103103101
+
+CMF
+0/68
+Level Cap 
+35
+
+Shooting
+8
+
+Passing
+8
+
+Dribbling
+8
+
+Dexterity
+8
+
+Lower Body Strength
+8
+
+Aerial Strength
+4
+
+Defending
+4
+
+GK 1
+
+GK 2
+
+GK 3
+Attacking
+Offensive Awareness		78
+Ball Control		88
+Dribbling		90
+Tight Possession		87
+Low Pass	●	86
+Lofted Pass	●	89
+Finishing	●	90
+Heading		68
+Place Kicking		78
+Curl	●	81
+Defending
+Defensive Awareness	●	83
+Defensive Engagement		82
+Tackling		83
+Aggression		85
+Goalkeeping		41
+Gk Catching		41
+GK Parrying		41
+GK Reflexes		41
+GK Reach		41
+athleticism
+Speed		90
+Acceleration		91
+Kicking Power	●	95
+Jump	●	80
+Physical Contact	●	83
+Balance	●	82
+Stamina	●	92
+Weak Foot Usage		1
+Weak Foot Acc		2
+Form		2
+Injury Resistance		1
+Skills
+Long Range Curler
+Long Range Shooting
+Rising Shots
+One Touch Pass
+Through Passing
+Interception
+Fighting Spirit
+Blocker
+Visionary Pass
+Low Screamer
+
+Body Measurements
+Leg Length
+8
+Arm Length
+5
+Waist Size
+4
+Chest
+4
+Shoulder Width
+7
+Neck Length
+7

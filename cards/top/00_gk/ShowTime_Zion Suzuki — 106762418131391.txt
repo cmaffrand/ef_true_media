@@ -1,0 +1,84 @@
+Name: Zion Suzuki
+Position: GK
+Style: Offensive Goalkeeper
+
+Training:
+SHO: 0
+PAS: 0
+DRI: 0
+DEX: 0
+LBS: 0
+AER: 2
+DEF: 0
+GK1: 9
+GK2: 11
+GK3: 12
+Lv: 62
+Manager: Fabio Capello
+
+Attributes:
+Offensive Awareness: 43
+Ball Control: 50
+Dribbling: 44
+Tight Possession: 47
+Low Pass: 72
+Lofted Pass: 82
+Finishing: 47
+Heading: 47
+Place Kicking: 54
+Curl: 63
+Defensive Awareness: 46
+Defensive Engagement: 49
+Tackling: 62
+Aggression: 54
+Goalkeeping: 92
+Gk Catching: 91
+GK Parrying: 92
+GK Reflexes: 97
+GK Reach: 94
+Speed: 61
+Acceleration: 56
+Kicking Power: 91
+Jump: 80
+Balance: 55
+Stamina: 58
+Physical Contact: 77
+
+Skills:
+Through Passing
+Weighted Pass
+Low Lofted Pass
+Gk Low Punt
+GK High Punt
+GK Long Throw
+GK Penalty Saver
+Visionary Pass
+
+Biometrics:
+Height: 190
+Weight: 91
+Arm Length: 6
+Shoulder Width: 9
+Neck Length: 4
+Chest: 7
+Neck Size: 8
+Shoulder Height: 5
+Leg Length: 10
+Thigh Size: 12
+Waist Size: 6
+Arm Size: 7
+Calf Size: 11
+Leg Coverage Radius: 185.1
+Arm Coverage Radius: 171.8
+Jumping Height: 271.6
+Torso Collision: 53.8
+Leg Length Based Height: 193
+
+Com Skills:
+—
+
+Other Stats:
+Weak Foot Usage: 1
+Weak Foot Accuracy: 1
+Form: 2
+Injury Resistance: 1

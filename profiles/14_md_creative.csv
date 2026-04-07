@@ -1,0 +1,93 @@
+attribute,min,ok,top,ponderation
+Height,165,175,185,2
+Offensive Awareness,75,80,87,5
+Ball Control,80,87,90,10
+Dribbling,80,87,90,10
+Tight Possession,80,87,90,10
+Low Pass,80,87,90,13
+Lofted Pass,80,87,90,13
+Finishing,75,80,85,5
+Heading,70,75,80,1
+Place Kicking,75,80,90,8
+Curl,75,80,90,8
+Defensive Awareness,60,70,80,3
+Defensive Engagement,60,70,80,3
+Tackling,60,70,80,3
+Aggression,60,70,80,3
+Speed,80,87,90,10
+Acceleration,80,87,90,10
+Kicking Power,75,80,87,8
+Jump,40,70,100,0
+Physical Contact,75,80,87,3
+Balance,80,87,90,10
+Stamina,80,85,90,8
+
+epic_dif,0,0,0,0
+weak_foot_usage,0,0,0,1000
+weak_foot_acc,0,0,0,1000
+player_form,0,0,0,3000
+injury_resistance,0,0,0,0
+
+Skills,0,0,0,0
+Phenomenal Pass,0,0,0,2100
+Visionary Pass,0,0,0,2100
+Blitz Curler,0,0,0,1300
+Momentum Dribbling,0,0,0,1300
+Low Screamer,0,0,0,1000
+Magnetic Feet,0,0,0,800
+Acceleration Burst,0,0,0,800
+Edged Crossing,0,0,0,800
+Game Changing Pass,0,0,0,500
+Phenomenal Finishing,0,0,0,500
+Will Power, 0,0,0,300
+Long Reach Tackle,0,0,0,200
+Bullet Header,0,0,0,200
+Through Passing,0,0,0,800
+One Touch Pass,0,0,0,800
+First Time Shot,0,0,0,800
+Pinpoint Crossing,0,0,0,800
+Double Touch,0,0,0,500
+Marseille Turn,0,0,0,500
+Long Range Curler,0,0,0,500
+Fighting Spirit,0,0,0,500
+Low Lofted Pass,0,0,0,500
+Weighted Pass,0,0,0,500
+Long Range Shooting,0,0,0,500
+Long Throw,0,0,0,500
+Super Sub,0,0,0,300
+Interception,0,0,0,300
+Cut Behind & Turn,0,0,0,300
+Outside Curler,0,0,0,300
+Sole Control,0,0,0,300
+Flip Flap,0,0,0,300
+Heel Trick,0,0,0,300
+Scissors Feint,0,0,0,300
+Heading,0,0,0,300
+Chop Turn,0,0,0,300
+Scotch Move,0,0,0,300
+Gamesmanship,0,0,0,300
+Sliding Tackle,0,0,0,200
+Dipping Shot,0,0,0,200
+Rising Shots,0,0,0,200
+Knuckle Shot,0,0,0,200
+Track Back,0,0,0,200
+Rabona,0,0,0,200
+Penalty Specialist,0,0,0,200
+Captaincy,0,0,0,200
+Sombrero,0,0,0,200
+Blocker,0,0,0,200
+Man Marking,0,0,0,100
+Chip Shot Control,0,0,0,100
+Acrobatic Finishing,0,0,0,100
+Acrobatic Clearance,0,0,0,100
+No Look Pass,0,0,0,100
+
+Bio,0,0,0,0
+Leg Length,0,0,0,150
+Arm Length,0,0,0,25
+Waist Size,0,0,0,0
+Chest,0,0,0,0
+Shoulder Width,0,0,0,25
+Neck Length,0,0,0,0
+Quick Bio,0,0,0,5
+Strong Bio,0,0,0,5

@@ -1,0 +1,99 @@
+Pep Guardiola
+Orchestrator
+Height
+181cm
+Weight
+76kg
+Age
+20
+Foot
+
+B
+
+
+
+
+Regista +3
+
+Agility +1
+
+0
+Condition History
+Arrow Probabilities (%)
+509710210210210510410410399999893
+
+DMF
+0/64
+Level Cap 
+33
+
+Shooting
+1
+
+Passing
+8
+
+Dribbling
+8
+
+Dexterity
+8
+
+Lower Body Strength
+9
+
+Aerial Strength
+5
+
+Defending
+5
+
+GK 1
+
+GK 2
+
+GK 3
+Attacking
+Offensive Awareness		81
+Ball Control		93
+Dribbling		85
+Tight Possession	●	94
+Low Pass	●	98
+Lofted Pass		95
+Finishing	●	70
+Heading		67
+Place Kicking		82
+Curl		85
+Defending
+Defensive Awareness	●	86
+Defensive Engagement		81
+Tackling	●	83
+Aggression		80
+Goalkeeping		41
+Gk Catching		41
+GK Parrying		41
+GK Reflexes		41
+GK Reach		41
+athleticism
+Speed	●	84
+Acceleration	●	83
+Kicking Power		88
+Jump		77
+Physical Contact		82
+Balance	●	78
+Stamina	●	92
+Weak Foot Usage		2
+Weak Foot Acc		2
+Form		2
+Injury Resistance		1
+Skills
+Double Touch
+Cut Behind & Turn
+One Touch Pass
+Through Passing
+Weighted Pass
+Outside Curler
+Low Lofted Pass
+Interception
+Blocker
+Visionary Pass

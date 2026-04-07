@@ -1,0 +1,112 @@
+Kevin De Bruyne
+Creative Playmaker
+Height
+181cm
+Weight
+75kg
+Age
+34
+Foot
+
+A
+
+
+
+
+Passing +3
+
+Agility +1
+
+0
+Condition History
+Arrow Probabilities (%)
+47779393869810210210210110110196
+
+AMF
+0/60
+Level Cap 
+31
+
+Shooting
+7
+
+Passing
+4
+
+Dribbling
+9
+
+Dexterity
+9
+
+Lower Body Strength
+9
+
+Aerial Strength
+1
+
+Defending
+
+GK 1
+
+GK 2
+
+GK 3
+Attacking
+Offensive Awareness		82
+Ball Control		92
+Dribbling		87
+Tight Possession		89
+Low Pass	●	93
+Lofted Pass	●	94
+Finishing	●	83
+Heading		55
+Place Kicking		84
+Curl	●	94
+Defending
+Defensive Awareness	●	54
+Defensive Engagement		54
+Tackling		56
+Aggression		53
+Goalkeeping		41
+Gk Catching		41
+GK Parrying		41
+GK Reflexes		41
+GK Reach		41
+athleticism
+Speed	●	88
+Acceleration	●	88
+Kicking Power	●	93
+Jump		59
+Physical Contact		75
+Balance	●	85
+Stamina	●	88
+Weak Foot Usage		2
+Weak Foot Acc		3
+Form		2
+Injury Resistance		0
+Skills
+Sole Control
+Long Range Curler
+Long Range Shooting
+One Touch Pass
+Through Passing
+Weighted Pass
+Pinpoint Crossing
+Outside Curler
+Low Lofted Pass
+Phenomenal Pass
+
+Body Measurements
+Leg Length
+8
+Arm Length
+7
+Waist Size
+8
+Chest
+8
+Shoulder Width
+8
+Neck Length
+4

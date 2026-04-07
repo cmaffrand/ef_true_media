@@ -1,0 +1,113 @@
+Massimo Oddo
+Offensive Wingback
+Height
+182cm
+Weight
+76kg
+Age
+32
+Foot
+
+B
+
+
+
+
+Duelling +2
+
+Crossing +1
+
+0
+Condition History
+Arrow Probabilities (%)
+4995101101981001011019898989695
+
+RB
+0/64
+Level Cap 
+33
+
+Shooting
+8
+
+Passing
+6
+
+Dribbling
+8
+
+Dexterity
+8
+
+Lower Body Strength
+9
+
+Aerial Strength
+1
+
+Defending
+4
+
+GK 1
+
+GK 2
+
+GK 3
+Attacking
+Offensive Awareness		84
+Ball Control		84
+Dribbling		81
+Tight Possession		80
+Low Pass		82
+Lofted Pass	●	90
+Finishing	●	79
+Heading		73
+Place Kicking		85
+Curl	●	90
+Defending
+Defensive Awareness	●	82
+Defensive Engagement		82
+Tackling	●	85
+Aggression		78
+Goalkeeping		41
+Gk Catching		41
+GK Parrying		41
+GK Reflexes		41
+GK Reach		41
+athleticism
+Speed	●	90
+Acceleration		84
+Kicking Power		84
+Jump		73
+Physical Contact		78
+Balance		79
+Stamina	●	97
+Weak Foot Usage		3
+Weak Foot Acc		3
+Form		1
+Injury Resistance		1
+Skills
+Chop Turn
+One Touch Pass
+Through Passing
+Pinpoint Crossing
+Low Lofted Pass
+Man Marking
+Interception
+Fighting Spirit
+Sliding Tackle
+Edged Crossing
+
+Body Measurements
+Leg Length
+7
+Arm Length
+6
+Waist Size
+7
+Chest
+6
+Shoulder Width
+7
+Neck Length
+5

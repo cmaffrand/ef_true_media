@@ -1,0 +1,111 @@
+Christian Vieri
+Goal Poacher
+Height
+186cm
+Weight
+82kg
+Age
+25
+Foot
+
+B
+
+
+
+
+Breakthrough +3
+
+Striker's Instinct +1
+
+0
+Condition History
+Arrow Probabilities (%)
+528089898087949394101101101105
+
+CF
+0/62
+Level Cap 
+32
+
+Shooting
+7
+
+Passing
+
+Dribbling
+4
+
+Dexterity
+12
+
+Lower Body Strength
+8
+
+Aerial Strength
+8
+
+Defending
+
+GK 1
+
+GK 2
+
+GK 3
+Attacking
+Offensive Awareness	●	91
+Ball Control	●	83
+Dribbling	●	91
+Tight Possession		87
+Low Pass		64
+Lofted Pass		63
+Finishing	●	92
+Heading		87
+Place Kicking		77
+Curl		83
+Defending
+Defensive Awareness	●	47
+Defensive Engagement		45
+Tackling		44
+Aggression		46
+Goalkeeping		41
+Gk Catching		41
+GK Parrying		41
+GK Reflexes		41
+GK Reach		41
+athleticism
+Speed	●	94
+Acceleration	●	94
+Kicking Power	●	95
+Jump		88
+Physical Contact	●	98
+Balance		80
+Stamina		82
+Weak Foot Usage		1
+Weak Foot Acc		1
+Form		2
+Injury Resistance		1
+Skills
+Heading
+Long Range Curler
+Long Range Shooting
+Rising Shots
+Acrobatic Finishing
+First Time Shot
+Outside Curler
+Aerial Superiority
+Phenomenal Finishing
+Blitz Curler
+
+Body Measurements
+Leg Length
+10
+Arm Length
+7
+Waist Size
+9
+Chest
+9
+Shoulder Width
+10
+Neck Length
+6

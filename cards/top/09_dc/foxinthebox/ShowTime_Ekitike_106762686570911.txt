@@ -1,0 +1,112 @@
+Hugo Ekitike
+Fox In The Box
+Height
+190cm
+Weight
+76kg
+Age
+23
+Foot
+
+A
+
+
+
+
+Off the Ball +3
+
+Striker's Instinct +1
+
+0
+Condition History
+Arrow Probabilities (%)
+507991918291979798103103104105
+
+CF
+0/68
+Level Cap 
+35
+
+Shooting
+10
+
+Passing
+4
+
+Dribbling
+8
+
+Dexterity
+9
+
+Lower Body Strength
+9
+
+Aerial Strength
+4
+
+Defending
+
+GK 1
+
+GK 2
+
+GK 3
+Attacking
+Offensive Awareness	●	92
+Ball Control	●	90
+Dribbling		91
+Tight Possession		92
+Low Pass		70
+Lofted Pass		67
+Finishing	●	93
+Heading		79
+Place Kicking		75
+Curl		80
+Defending
+Defensive Awareness	●	50
+Defensive Engagement		53
+Tackling		46
+Aggression		58
+Goalkeeping		41
+Gk Catching		41
+GK Parrying		41
+GK Reflexes		41
+GK Reach		41
+athleticism
+Speed	●	94
+Acceleration	●	92
+Kicking Power		90
+Jump		79
+Physical Contact		81
+Balance		87
+Stamina	●	86
+Weak Foot Usage		2
+Weak Foot Acc		2
+Form		1
+Injury Resistance		1
+Skills
+Double Touch
+Flip Flap
+Sole Control
+Heading
+Long Range Curler
+Long Range Shooting
+First Time Shot
+Outside Curler
+Aerial Superiority
+Momentum Dribbling
+
+Body Measurements
+Leg Length
+10
+Arm Length
+8
+Waist Size
+5
+Chest
+5
+Shoulder Width
+9
+Neck Length
+8

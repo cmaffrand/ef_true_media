@@ -1,0 +1,96 @@
+Kim Min-Jae
+Destroyer
+Height
+190cm
+Weight
+81kg
+Age
+29
+Foot
+
+A
+
+
+
+
+Duelling +2
+
+Defending +1
+
+0
+Condition History
+Arrow Probabilities (%)
+511009191938280807476767275
+
+CB
+0/48
+Level Cap 
+25
+
+Shooting
+
+Passing
+0
+
+Dribbling
+
+Dexterity
+8
+
+Lower Body Strength
+8
+
+Aerial Strength
+8
+
+Defending
+8
+
+GK 1
+
+GK 2
+
+GK 3
+Attacking
+Offensive Awareness		63
+Ball Control		65
+Dribbling		59
+Tight Possession		61
+Low Pass		68
+Lofted Pass		70
+Finishing	●	52
+Heading		93
+Place Kicking		62
+Curl		63
+Defending
+Defensive Awareness	●	91
+Defensive Engagement		87
+Tackling	●	93
+Aggression		91
+Goalkeeping		41
+Gk Catching		41
+GK Parrying		41
+GK Reflexes		41
+GK Reach		41
+athleticism
+Speed	●	86
+Acceleration	●	76
+Kicking Power		70
+Jump	●	90
+Physical Contact		92
+Balance		66
+Stamina	●	87
+Weak Foot Usage		1
+Weak Foot Acc		1
+Form		2
+Injury Resistance		1
+Skills
+Low Lofted Pass
+Man Marking
+Interception
+Acrobatic Clearance
+Fighting Spirit
+Aerial Superiority
+Blocker
+Sliding Tackle
+Game Changing Pass

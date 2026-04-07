@@ -1,0 +1,111 @@
+Antoine Griezmann
+Hole Player
+Height
+176cm
+Weight
+73kg
+Age
+27
+Foot
+
+B
+
+
+
+
+Le Petit Prince +3
+
+Agility +1
+
+0
+Condition History
+Arrow Probabilities (%)
+4781959590100104104105104104105101
+
+SS
+0/62
+Level Cap 
+32
+
+Shooting
+6
+
+Passing
+8
+
+Dribbling
+9
+
+Dexterity
+8
+
+Lower Body Strength
+9
+
+Aerial Strength
+
+Defending
+
+GK 1
+
+GK 2
+
+GK 3
+Attacking
+Offensive Awareness	●	90
+Ball Control		94
+Dribbling		90
+Tight Possession		92
+Low Pass	●	91
+Lofted Pass		87
+Finishing	●	91
+Heading		70
+Place Kicking		91
+Curl		93
+Defending
+Defensive Awareness	●	60
+Defensive Engagement		76
+Tackling		63
+Aggression		71
+Goalkeeping		41
+Gk Catching		41
+GK Parrying		41
+GK Reflexes		41
+GK Reach		41
+athleticism
+Speed	●	88
+Acceleration	●	89
+Kicking Power	●	86
+Jump		77
+Physical Contact		62
+Balance	●	84
+Stamina	●	89
+Weak Foot Usage		1
+Weak Foot Acc		1
+Form		2
+Injury Resistance		1
+Skills
+Double Touch
+Sombrero
+Acrobatic Finishing
+Heel Trick
+First Time Shot
+One Touch Pass
+Through Passing
+Pinpoint Crossing
+Outside Curler
+Penalty Specialist
+
+Body Measurements
+Leg Length
+9
+Arm Length
+5
+Waist Size
+4
+Chest
+5
+Shoulder Width
+6
+Neck Length
+5

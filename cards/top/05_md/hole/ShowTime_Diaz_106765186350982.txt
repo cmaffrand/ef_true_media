@@ -1,0 +1,97 @@
+Brahim Díaz
+Hole Player
+Height
+170cm
+Weight
+68kg
+Age
+26
+Foot
+
+A
+
+
+
+
+Technique +3
+
+Agility +1
+
+0
+Condition History
+Arrow Probabilities (%)
+45759191849610210210210310310398
+
+RMF
+0/64
+Level Cap 
+33
+
+Shooting
+10
+
+Passing
+7
+
+Dribbling
+8
+
+Dexterity
+8
+
+Lower Body Strength
+8
+
+Aerial Strength
+
+Defending
+
+GK 1
+
+GK 2
+
+GK 3
+Attacking
+Offensive Awareness		83
+Ball Control	●	93
+Dribbling	●	93
+Tight Possession	●	94
+Low Pass	●	90
+Lofted Pass		85
+Finishing	●	90
+Heading		56
+Place Kicking		72
+Curl		80
+Defending
+Defensive Awareness	●	54
+Defensive Engagement		60
+Tackling		53
+Aggression		66
+Goalkeeping		41
+Gk Catching		41
+GK Parrying		41
+GK Reflexes		41
+GK Reach		41
+athleticism
+Speed	●	90
+Acceleration	●	92
+Kicking Power		89
+Jump		62
+Physical Contact		68
+Balance	●	95
+Stamina	●	83
+Weak Foot Usage		3
+Weak Foot Acc		3
+Form		1
+Injury Resistance		0
+Skills
+Double Touch
+Cut Behind & Turn
+Sole Control
+Long Range Curler
+Heel Trick
+First Time Shot
+One Touch Pass
+Through Passing
+Gamesmanship
+Momentum Dribbling

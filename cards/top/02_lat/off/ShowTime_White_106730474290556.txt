@@ -1,0 +1,110 @@
+Ben White
+Offensive Wingback
+Height
+186cm
+Weight
+76kg
+Age
+28
+Foot
+
+B
+
+
+
+
+Crossing +2
+
+Accuracy +1
+
+0
+Condition History
+Arrow Probabilities (%)
+5197100100100100100999795959289
+
+RB
+0/50
+Level Cap 
+26
+
+Shooting
+4
+
+Passing
+4
+
+Dribbling
+6
+
+Dexterity
+8
+
+Lower Body Strength
+8
+
+Aerial Strength
+4
+
+Defending
+5
+
+GK 1
+
+GK 2
+
+GK 3
+Attacking
+Offensive Awareness		76
+Ball Control		84
+Dribbling		81
+Tight Possession		80
+Low Pass	●	90
+Lofted Pass	●	94
+Finishing	●	68
+Heading		76
+Place Kicking		76
+Curl	●	80
+Defending
+Defensive Awareness	●	84
+Defensive Engagement		80
+Tackling		83
+Aggression		80
+Goalkeeping		41
+Gk Catching		41
+GK Parrying		41
+GK Reflexes		41
+GK Reach		41
+athleticism
+Speed	●	87
+Acceleration		82
+Kicking Power	●	83
+Jump		80
+Physical Contact		82
+Balance		73
+Stamina	●	96
+Weak Foot Usage		2
+Weak Foot Acc		2
+Form		2
+Injury Resistance		2
+Skills
+Heading
+Weighted Pass
+Man Marking
+Interception
+Acrobatic Clearance
+Fighting Spirit
+Edged Crossing
+
+Body Measurements
+Leg Length
+9
+Arm Length
+5
+Waist Size
+9
+Chest
+9
+Shoulder Width
+4
+Neck Length
+4

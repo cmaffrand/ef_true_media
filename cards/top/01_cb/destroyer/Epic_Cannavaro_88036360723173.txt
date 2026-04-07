@@ -1,0 +1,97 @@
+Fabio Cannavaro
+Destroyer
+Height
+176cm
+Weight
+75kg
+Age
+33
+Foot
+
+B
+
+
+
+
+Defending +3
+
+Agility +1
+
+0
+Condition History
+Arrow Probabilities (%)
+511069797978887878084847982
+
+CB
+0/52
+Level Cap 
+27
+
+Shooting
+
+Passing
+2
+
+Dribbling
+
+Dexterity
+6
+
+Lower Body Strength
+8
+
+Aerial Strength
+8
+
+Defending
+10
+
+GK 1
+
+GK 2
+
+GK 3
+Attacking
+Offensive Awareness		62
+Ball Control		62
+Dribbling		63
+Tight Possession		64
+Low Pass		74
+Lofted Pass		71
+Finishing	●	61
+Heading		80
+Place Kicking		53
+Curl		54
+Defending
+Defensive Awareness	●	99
+Defensive Engagement		97
+Tackling	●	99
+Aggression		95
+Goalkeeping		41
+Gk Catching		41
+GK Parrying		41
+GK Reflexes		41
+GK Reach		41
+athleticism
+Speed	●	90
+Acceleration	●	91
+Kicking Power		82
+Jump	●	100
+Physical Contact		94
+Balance	●	93
+Stamina	●	85
+Weak Foot Usage		1
+Weak Foot Acc		2
+Form		2
+Injury Resistance		2
+Skills
+One Touch Pass
+Man Marking
+Interception
+Acrobatic Clearance
+Captaincy
+Fighting Spirit
+Aerial Superiority
+Blocker
+Sliding Tackle
+Fortress

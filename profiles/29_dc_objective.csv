@@ -1,0 +1,86 @@
+attribute,min,ok,top,ponderation
+Height,190,195,200,17
+Offensive Awareness,80,85,95,13
+Ball Control,75,80,90,5
+Dribbling,75,80,90,3
+Tight Possession,75,80,90,5
+Low Pass,70,75,80,8
+Lofted Pass,70,75,80,3
+Finishing,85,90,95,13
+Heading,82,90,95,17
+Place Kicking,40,70,100,0
+Curl,70,78,85,3
+Defensive Awareness,40,70,100,0
+Defensive Engagement,40,70,100,0
+Tackling,40,70,100,0
+Aggression,40,70,100,0
+Speed,70,80,88,5
+Acceleration,70,80,88,5
+Kicking Power,84,90,95,13
+Jump,75,80,90,13
+Physical Contact,75,85,90,13
+Balance,75,80,87,5
+Stamina,75,85,90,1
+
+epic_dif,0,0,0,0
+weak_foot_usage,0,0,0,600
+weak_foot_acc,0,0,0,600
+player_form,0,0,0,3000
+injury_resistance,0,0,0,0
+
+Skills,0,0,0,0
+Bullet Header,0,0,0,3400
+Phenomenal Finishing,0,0,0,2100
+Will Power,0,0,0,1000
+Low Screamer,0,0,0,1000
+Phenomenal Pass,0,0,0,500
+Visionary Pass,0,0,0,500
+Blitz Curler,0,0,0,300
+Momentum Dribbling,0,0,0,300
+Game Changing Pass,0,0,0,300
+Magnetic Feet,0,0,0,300
+Acceleration Burst,0,0,0,200
+Aerial Superiority,0,0,0,1000
+Heading,0,0,0,1000
+Acrobatic Finishing,0,0,0,1000
+Long Range Curler,0,0,0,1000
+Super Sub,0,0,0,1000
+First Time Shot,0,0,0,1000
+Through Passing,0,0,0,800
+One Touch Pass,0,0,0,800
+Long Range Shooting,0,0,0,800
+Fighting Spirit,0,0,0,580
+Outside Curler,0,0,0,500
+Heel Trick,0,0,0,500
+Chip Shot Control,0,0,0,300
+Gamesmanship,0,0,0,300
+Rising Shots,0,0,0,300
+Dipping Shot,0,0,0,300
+Knuckle Shot,0,0,0,300
+Flip Flap,0,0,0,300
+Double Touch,0,0,0,200
+Marseille Turn,0,0,0,200
+Weighted Pass,0,0,0,200
+Cut Behind & Turn,0,0,0,200
+Low Lofted Pass,0,0,0,200
+Pinpoint Crossing,0,0,0,200
+Sole Control,0,0,0,200
+Scissors Feint,0,0,0,200
+Track Back,0,0,0,200
+Rabona,0,0,0,200
+Captaincy,0,0,0,200
+Penalty Specialist,0,0,0,200
+Scotch Move,0,0,0,200
+Sombrero,0,0,0,200
+Chop Turn,0,0,0,200
+No Look Pass,0,0,0,100
+
+Bio,0,0,0,0
+Leg Length,0,0,0,150
+Arm Length,0,0,0,25
+Waist Size,0,0,0,0
+Chest,0,0,0,25
+Shoulder Width,0,0,0,25
+Neck Length,0,0,0,0
+Quick Bio,0,0,0,0
+Strong Bio,0,0,0,5

@@ -1,0 +1,111 @@
+Raúl
+Hole Player
+Height
+178cm
+Weight
+74kg
+Age
+24
+Foot
+
+B
+
+
+
+
+Off the Ball +2
+
+Accuracy +1
+
+0
+Condition History
+Arrow Probabilities (%)
+477893938698103103104104104105102
+
+AMF
+0/66
+Level Cap 
+34
+
+Shooting
+8
+
+Passing
+8
+
+Dribbling
+8
+
+Dexterity
+8
+
+Lower Body Strength
+10
+
+Aerial Strength
+
+Defending
+
+GK 1
+
+GK 2
+
+GK 3
+Attacking
+Offensive Awareness	●	95
+Ball Control		91
+Dribbling		92
+Tight Possession		91
+Low Pass	●	90
+Lofted Pass	●	83
+Finishing	●	90
+Heading		65
+Place Kicking		70
+Curl		72
+Defending
+Defensive Awareness	●	55
+Defensive Engagement		61
+Tackling		52
+Aggression		62
+Goalkeeping		41
+Gk Catching		41
+GK Parrying		41
+GK Reflexes		41
+GK Reach		41
+athleticism
+Speed	●	90
+Acceleration	●	91
+Kicking Power	●	89
+Jump		67
+Physical Contact		72
+Balance		89
+Stamina	●	89
+Weak Foot Usage		1
+Weak Foot Acc		2
+Form		2
+Injury Resistance		1
+Skills
+Double Touch
+Heading
+Long Range Curler
+Long Range Shooting
+Acrobatic Finishing
+First Time Shot
+One Touch Pass
+Through Passing
+Outside Curler
+Track Back
+
+Body Measurements
+Leg Length
+7
+Arm Length
+6
+Waist Size
+4
+Chest
+5
+Shoulder Width
+7
+Neck Length
+9

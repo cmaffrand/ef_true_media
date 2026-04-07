@@ -1,0 +1,98 @@
+Roberto Donadoni
+Hole Player
+Height
+173cm
+Weight
+68kg
+Age
+31
+Foot
+
+B
+
+
+
+
+Ball-carrying +2
+
+Technique +1
+
+0
+Condition History
+Arrow Probabilities (%)
+488597979098103103102103103102100
+
+LMF
+0/64
+Level Cap 
+33
+
+Shooting
+7
+
+Passing
+7
+
+Dribbling
+6
+
+Dexterity
+9
+
+Lower Body Strength
+10
+
+Aerial Strength
+3
+
+Defending
+
+GK 1
+
+GK 2
+
+GK 3
+Attacking
+Offensive Awareness		85
+Ball Control	●	88
+Dribbling	●	91
+Tight Possession	●	91
+Low Pass	●	88
+Lofted Pass		83
+Finishing	●	85
+Heading		70
+Place Kicking		81
+Curl		82
+Defending
+Defensive Awareness	●	65
+Defensive Engagement		65
+Tackling		62
+Aggression		65
+Goalkeeping		41
+Gk Catching		41
+GK Parrying		41
+GK Reflexes		41
+GK Reach		41
+athleticism
+Speed	●	94
+Acceleration		92
+Kicking Power		92
+Jump		75
+Physical Contact		80
+Balance	●	90
+Stamina		87
+Weak Foot Usage		2
+Weak Foot Acc		2
+Form		2
+Injury Resistance		1
+Skills
+Double Touch
+Long Range Curler
+Long Range Shooting
+Dipping Shot
+One Touch Pass
+Through Passing
+Pinpoint Crossing
+Outside Curler
+Gamesmanship
+Track Back

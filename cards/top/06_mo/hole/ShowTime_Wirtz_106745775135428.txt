@@ -1,0 +1,112 @@
+Florian Wirtz
+Hole Player
+Height
+177cm
+Weight
+71kg
+Age
+22
+Foot
+
+B
+
+
+
+
+Striker's Instinct +2
+
+Offence Creator +1
+
+0
+Condition History
+Arrow Probabilities (%)
+467692928497103103103104104105101
+
+AMF
+0/64
+Level Cap 
+33
+
+Shooting
+9
+
+Passing
+6
+
+Dribbling
+8
+
+Dexterity
+8
+
+Lower Body Strength
+9
+
+Aerial Strength
+2
+
+Defending
+
+GK 1
+
+GK 2
+
+GK 3
+Attacking
+Offensive Awareness	●	87
+Ball Control	●	94
+Dribbling		93
+Tight Possession		94
+Low Pass	●	90
+Lofted Pass		83
+Finishing	●	90
+Heading		60
+Place Kicking		76
+Curl		82
+Defending
+Defensive Awareness	●	53
+Defensive Engagement		62
+Tackling		51
+Aggression		56
+Goalkeeping		41
+Gk Catching		41
+GK Parrying		41
+GK Reflexes		41
+GK Reach		41
+athleticism
+Speed		90
+Acceleration	●	96
+Kicking Power	●	90
+Jump		64
+Physical Contact		70
+Balance		91
+Stamina		84
+Weak Foot Usage		2
+Weak Foot Acc		2
+Form		2
+Injury Resistance		0
+Skills
+Double Touch
+Chop Turn
+Cut Behind & Turn
+Sole Control
+Long Range Curler
+First Time Shot
+One Touch Pass
+Through Passing
+Pinpoint Crossing
+Momentum Dribbling
+
+Body Measurements
+Leg Length
+8
+Arm Length
+6
+Waist Size
+9
+Chest
+6
+Shoulder Width
+7
+Neck Length
+6

@@ -1,0 +1,98 @@
+Frank Rijkaard
+Orchestrator
+Height
+190cm
+Weight
+80kg
+Age
+28
+Foot
+
+B
+
+
+
+
+No Booster
+
+Shutdown +1
+
+0
+Condition History
+Arrow Probabilities (%)
+5210010010010110198989897979795
+
+DMF
+0/68
+Level Cap 
+35
+
+Shooting
+
+Passing
+6
+
+Dribbling
+8
+
+Dexterity
+8
+
+Lower Body Strength
+8
+
+Aerial Strength
+8
+
+Defending
+8
+
+GK 1
+
+GK 2
+
+GK 3
+Attacking
+Offensive Awareness		81
+Ball Control		89
+Dribbling		80
+Tight Possession		87
+Low Pass		87
+Lofted Pass		84
+Finishing	●	76
+Heading		84
+Place Kicking		62
+Curl		65
+Defending
+Defensive Awareness	●	84
+Defensive Engagement	●	89
+Tackling	●	90
+Aggression		87
+Goalkeeping		41
+Gk Catching		41
+GK Parrying		41
+GK Reflexes		41
+GK Reach		41
+athleticism
+Speed	●	85
+Acceleration		80
+Kicking Power		90
+Jump		84
+Physical Contact		87
+Balance		74
+Stamina		90
+Weak Foot Usage		1
+Weak Foot Acc		2
+Form		2
+Injury Resistance		2
+Skills
+Cut Behind & Turn
+Long Range Shooting
+Rising Shots
+One Touch Pass
+Weighted Pass
+Man Marking
+Interception
+Fighting Spirit
+Blocker
+Sliding Tackle

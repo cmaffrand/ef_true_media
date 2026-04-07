@@ -1,0 +1,96 @@
+Marquinhos
+Build Up
+Height
+183cm
+Weight
+75kg
+Age
+31
+Foot
+
+A
+
+
+
+
+Rebuilding +2
+
+Stealing +1
+
+0
+Condition History
+Arrow Probabilities (%)
+511039595989087878384848183
+
+CB
+0/54
+Level Cap 
+28
+
+Shooting
+
+Passing
+
+Dribbling
+
+Dexterity
+6
+
+Lower Body Strength
+7
+
+Aerial Strength
+9
+
+Defending
+11
+
+GK 1
+
+GK 2
+
+GK 3
+Attacking
+Offensive Awareness		67
+Ball Control		72
+Dribbling		67
+Tight Possession		72
+Low Pass	●	75
+Lofted Pass		72
+Finishing	●	61
+Heading		87
+Place Kicking		62
+Curl		69
+Defending
+Defensive Awareness	●	96
+Defensive Engagement	●	98
+Tackling	●	95
+Aggression	●	96
+Goalkeeping		41
+Gk Catching		41
+GK Parrying		41
+GK Reflexes		41
+GK Reach		41
+athleticism
+Speed		84
+Acceleration	●	81
+Kicking Power		79
+Jump		94
+Physical Contact	●	90
+Balance		80
+Stamina		87
+Weak Foot Usage		1
+Weak Foot Acc		1
+Form		2
+Injury Resistance		0
+Skills
+Heading
+Low Lofted Pass
+Man Marking
+Interception
+Acrobatic Clearance
+Captaincy
+Fighting Spirit
+Aerial Superiority
+Blocker
+Fortress

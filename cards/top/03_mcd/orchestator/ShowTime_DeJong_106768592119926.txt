@@ -1,0 +1,96 @@
+Frenkie de Jong
+Orchestrator
+Height
+181cm
+Weight
+74kg
+Age
+28
+Foot
+
+A
+
+
+
+
+Offence Creator +3
+
+Agility +1
+
+0
+Condition History
+Arrow Probabilities (%)
+491001051051041051051051021011019893
+
+DMF
+0/64
+Level Cap 
+33
+
+Shooting
+
+Passing
+6
+
+Dribbling
+5
+
+Dexterity
+9
+
+Lower Body Strength
+6
+
+Aerial Strength
+5
+
+Defending
+11
+
+GK 1
+
+GK 2
+
+GK 3
+Attacking
+Offensive Awareness	●	80
+Ball Control	●	91
+Dribbling		90
+Tight Possession		90
+Low Pass	●	93
+Lofted Pass		90
+Finishing	●	68
+Heading		68
+Place Kicking		62
+Curl		80
+Defending
+Defensive Awareness	●	92
+Defensive Engagement		91
+Tackling		89
+Aggression		87
+Goalkeeping		41
+Gk Catching		41
+GK Parrying		41
+GK Reflexes		41
+GK Reach		41
+athleticism
+Speed	●	90
+Acceleration	●	90
+Kicking Power	●	84
+Jump		72
+Physical Contact		80
+Balance	●	91
+Stamina	●	94
+Weak Foot Usage		2
+Weak Foot Acc		2
+Form		2
+Injury Resistance		0
+Skills
+Double Touch
+Sole Control
+One Touch Pass
+Through Passing
+Outside Curler
+Low Lofted Pass
+Interception
+Sliding Tackle

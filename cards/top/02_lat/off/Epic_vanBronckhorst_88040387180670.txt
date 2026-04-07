@@ -1,0 +1,116 @@
+G. van Bronckhorst
+Offensive Wingback
+Height
+177cm
+Weight
+73kg
+Age
+30
+Foot
+
+B
+
+
+
+
+Hard Worker +3
+
+Crossing +1
+
+0
+Condition History
+Arrow Probabilities (%)
+511001041041011011021029898989593
+
+LB
+0/68
+Level Cap 
+35
+
+Shooting
+4
+
+Passing
+8
+
+Dribbling
+4
+
+Dexterity
+7
+
+Lower Body Strength
+10
+
+Aerial Strength
+7
+
+Defending
+7
+
+GK 1
+0
+
+GK 2
+0
+
+GK 3
+0
+Attacking
+Offensive Awareness		76
+Ball Control		81
+Dribbling		80
+Tight Possession		82
+Low Pass		89
+Lofted Pass	●	90
+Finishing	●	71
+Heading		77
+Place Kicking		78
+Curl	●	82
+Defending
+Defensive Awareness	●	86
+Defensive Engagement		85
+Tackling		82
+Aggression	●	82
+Goalkeeping		41
+Gk Catching		41
+GK Parrying		41
+GK Reflexes		41
+GK Reach		41
+athleticism
+Speed	●	93
+Acceleration	●	90
+Kicking Power		91
+Jump		82
+Physical Contact	●	90
+Balance		81
+Stamina	●	96
+Weak Foot Usage		1
+Weak Foot Acc		1
+Form		2
+Injury Resistance		2
+Skills
+One Touch Pass
+Through Passing
+Weighted Pass
+Pinpoint Crossing
+Man Marking
+Interception
+Aerial Superiority
+Blocker
+Long Reach Tackle
+Phenomenal Pass
+
+Body Measurements
+Leg Length
+10
+Arm Length
+7
+Waist Size
+5
+Chest
+5
+Shoulder Width
+8
+Neck Length
+5

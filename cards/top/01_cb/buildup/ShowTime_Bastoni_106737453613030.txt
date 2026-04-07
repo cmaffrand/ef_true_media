@@ -1,0 +1,96 @@
+Alessandro Bastoni
+Build Up
+Height
+190cm
+Weight
+75kg
+Age
+26
+Foot
+
+A
+
+
+
+
+Duelling +2
+
+Agility +1
+
+0
+Condition History
+Arrow Probabilities (%)
+511009494958886868183837980
+
+CB
+0/44
+Level Cap 
+23
+
+Shooting
+
+Passing
+
+Dribbling
+
+Dexterity
+5
+
+Lower Body Strength
+7
+
+Aerial Strength
+7
+
+Defending
+10
+
+GK 1
+
+GK 2
+
+GK 3
+Attacking
+Offensive Awareness		66
+Ball Control		73
+Dribbling		64
+Tight Possession		72
+Low Pass		75
+Lofted Pass		73
+Finishing	●	57
+Heading		82
+Place Kicking		62
+Curl		67
+Defending
+Defensive Awareness	●	93
+Defensive Engagement		90
+Tackling	●	91
+Aggression		90
+Goalkeeping		41
+Gk Catching		41
+GK Parrying		41
+GK Reflexes		41
+GK Reach		41
+athleticism
+Speed	●	88
+Acceleration	●	80
+Kicking Power		79
+Jump		83
+Physical Contact		87
+Balance	●	71
+Stamina	●	86
+Weak Foot Usage		1
+Weak Foot Acc		1
+Form		2
+Injury Resistance		2
+Skills
+Heading
+One Touch Pass
+Weighted Pass
+Low Lofted Pass
+Man Marking
+Interception
+Fighting Spirit
+Blocker
+Sliding Tackle
+Fortress

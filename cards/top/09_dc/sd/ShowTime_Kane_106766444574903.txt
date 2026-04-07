@@ -1,0 +1,98 @@
+Harry Kane
+Deep-Lying Forward
+Height
+188cm
+Weight
+86kg
+Age
+32
+Foot
+
+A
+
+
+
+
+Accuracy +3
+
+Agility +1
+
+0
+Condition History
+Arrow Probabilities (%)
+51778989849497981019999102101
+
+CF
+0/56
+Level Cap 
+29
+
+Shooting
+6
+
+Passing
+7
+
+Dribbling
+7
+
+Dexterity
+8
+
+Lower Body Strength
+8
+
+Aerial Strength
+4
+
+Defending
+
+GK 1
+
+GK 2
+
+GK 3
+Attacking
+Offensive Awareness		91
+Ball Control		88
+Dribbling		82
+Tight Possession		87
+Low Pass	●	90
+Lofted Pass	●	87
+Finishing	●	91
+Heading		87
+Place Kicking		81
+Curl		80
+Defending
+Defensive Awareness	●	45
+Defensive Engagement		53
+Tackling		45
+Aggression		61
+Goalkeeping		41
+Gk Catching		41
+GK Parrying		41
+GK Reflexes		41
+GK Reach		41
+athleticism
+Speed	●	83
+Acceleration	●	84
+Kicking Power	●	92
+Jump		77
+Physical Contact		82
+Balance	●	73
+Stamina	●	85
+Weak Foot Usage		2
+Weak Foot Acc		2
+Form		2
+Injury Resistance		1
+Skills
+Cut Behind & Turn
+Heading
+Long Range Curler
+Chip Shot Control
+Dipping Shot
+First Time Shot
+Penalty Specialist
+Captaincy
+Aerial Superiority
+Bullet Header

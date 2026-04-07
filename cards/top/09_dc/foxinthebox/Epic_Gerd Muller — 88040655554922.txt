@@ -1,0 +1,88 @@
+Name: Gerd Muller
+Position: CF
+Style: Fox In The Box
+
+Training:
+SHO: 8
+PAS: 4
+DRI: 9
+DEX: 7
+LBS: 9
+AER: 5
+DEF: 0
+GK1: 0
+GK2: 0
+GK3: 0
+Lv: 62
+Manager: Fabio Capello
+
+Attributes:
+Offensive Awareness: 95
+Ball Control: 92
+Dribbling: 90
+Tight Possession: 90
+Low Pass: 66
+Lofted Pass: 62
+Finishing: 96
+Heading: 85
+Place Kicking: 64
+Curl: 76
+Defensive Awareness: 44
+Defensive Engagement: 43
+Tackling: 43
+Aggression: 44
+Goalkeeping: 41
+Gk Catching: 41
+GK Parrying: 41
+GK Reflexes: 41
+GK Reach: 41
+Speed: 91
+Acceleration: 95
+Kicking Power: 92
+Jump: 83
+Balance: 88
+Stamina: 85
+Physical Contact: 87
+
+Skills:
+Heading
+Long Range Curler
+Dipping Shot
+Acrobatic Finishing
+First Time Shot
+Outside Curler
+Fighting Spirit
+Aerial Superiority
+Phenomenal Finishing
+Will Power
+
+Biometrics:
+Height: 176
+Weight: 74
+Arm Length: 6
+Shoulder Width: 8
+Neck Length: 9
+Chest: 11
+Neck Size: 8
+Shoulder Height: 7
+Leg Length: 5
+Thigh Size: 11
+Waist Size: 4
+Arm Size: 8
+Calf Size: 7
+Leg Coverage Radius: 168.8
+Arm Coverage Radius: 159.0
+Jumping Height: 260.9
+Torso Collision: 49.6
+Leg Length Based Height: 174
+
+Com Skills:
+Mazing Run
+Long Ball Expert
+Early Crosser
+
+Other Stats:
+Weak Foot Usage: 2
+Weak Foot Accuracy: 2
+Form: 2
+Injury Resistance: 2

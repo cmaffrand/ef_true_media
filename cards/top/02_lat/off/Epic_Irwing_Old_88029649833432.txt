@@ -1,0 +1,109 @@
+Denis Irwin
+Offensive Wingback
+Height
+173cm
+Weight
+73kg
+Age
+29
+Foot
+
+B
+
+
+
+
+Passing +2
+
+Crossing +1
+
+0
+Condition History
+Arrow Probabilities (%)
+4895100100991001001009897979695
+
+LB
+0/66
+Level Cap 
+34
+
+Shooting
+6
+
+Passing
+4
+
+Dribbling
+6
+
+Dexterity
+8
+
+Lower Body Strength
+8
+
+Aerial Strength
+7
+
+Defending
+8
+
+GK 1
+
+GK 2
+
+GK 3
+Attacking
+Offensive Awareness		80
+Ball Control		82
+Dribbling		81
+Tight Possession		82
+Low Pass	●	81
+Lofted Pass	●	90
+Finishing	●	80
+Heading		80
+Place Kicking		92
+Curl	●	93
+Defending
+Defensive Awareness	●	82
+Defensive Engagement		85
+Tackling		87
+Aggression		85
+Goalkeeping		41
+Gk Catching		41
+GK Parrying		41
+GK Reflexes		41
+GK Reach		41
+athleticism
+Speed	●	86
+Acceleration		84
+Kicking Power	●	93
+Jump		79
+Physical Contact		75
+Balance		84
+Stamina	●	95
+Weak Foot Usage		3
+Weak Foot Acc		2
+Form		2
+Injury Resistance		2
+Skills
+Pinpoint Crossing
+Penalty Specialist
+Interception
+Acrobatic Clearance
+Fighting Spirit
+Sliding Tackle
+
+Body Measurements
+Leg Length
+9
+Arm Length
+2
+Waist Size
+1
+Chest
+4
+Shoulder Width
+3
+Neck Length
+4

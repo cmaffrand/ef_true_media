@@ -1,0 +1,97 @@
+Frank Rijkaard
+Destroyer
+Height
+190cm
+Weight
+80kg
+Age
+28
+Foot
+
+B
+
+
+
+
+Shutdown +2
+
+Shutdown +1
+
+0
+Condition History
+Arrow Probabilities (%)
+5310510210210410097979494949291
+
+DMF
+0/64
+Level Cap 
+33
+
+Shooting
+
+Passing
+5
+
+Dribbling
+4
+
+Dexterity
+8
+
+Lower Body Strength
+8
+
+Aerial Strength
+8
+
+Defending
+10
+
+GK 1
+
+GK 2
+
+GK 3
+Attacking
+Offensive Awareness		75
+Ball Control		81
+Dribbling		78
+Tight Possession		82
+Low Pass		85
+Lofted Pass		85
+Finishing	●	66
+Heading		85
+Place Kicking		67
+Curl		66
+Defending
+Defensive Awareness	●	95
+Defensive Engagement	●	95
+Tackling	●	92
+Aggression		90
+Goalkeeping		41
+Gk Catching		41
+GK Parrying		41
+GK Reflexes		41
+GK Reach		41
+athleticism
+Speed	●	88
+Acceleration		80
+Kicking Power		89
+Jump		87
+Physical Contact		90
+Balance		78
+Stamina		93
+Weak Foot Usage		1
+Weak Foot Acc		3
+Form		2
+Injury Resistance		2
+Skills
+Long Range Shooting
+Rising Shots
+One Touch Pass
+Through Passing
+Man Marking
+Interception
+Fighting Spirit
+Aerial Superiority
+Blocker

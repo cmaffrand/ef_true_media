@@ -1,0 +1,98 @@
+Moisés Caicedo
+Destroyer
+Height
+178cm
+Weight
+73kg
+Age
+24
+Foot
+
+C
+
+
+
+
+Physicality +3
+
+Shutdown +1
+
+0
+Condition History
+Arrow Probabilities (%)
+501031051051031021021029799999491
+
+DMF
+0/64
+Level Cap 
+33
+
+Shooting
+
+Passing
+4
+
+Dribbling
+6
+
+Dexterity
+8
+
+Lower Body Strength
+9
+
+Aerial Strength
+4
+
+Defending
+11
+
+GK 1
+
+GK 2
+
+GK 3
+Attacking
+Offensive Awareness		78
+Ball Control		87
+Dribbling		87
+Tight Possession		88
+Low Pass		83
+Lofted Pass		81
+Finishing	●	64
+Heading		56
+Place Kicking		59
+Curl		64
+Defending
+Defensive Awareness	●	93
+Defensive Engagement	●	94
+Tackling	●	95
+Aggression		95
+Goalkeeping		41
+Gk Catching		41
+GK Parrying		41
+GK Reflexes		41
+GK Reach		41
+athleticism
+Speed	●	93
+Acceleration		91
+Kicking Power		87
+Jump	●	82
+Physical Contact	●	87
+Balance	●	90
+Stamina	●	97
+Weak Foot Usage		1
+Weak Foot Acc		1
+Form		2
+Injury Resistance		1
+Skills
+Long Range Shooting
+One Touch Pass
+Through Passing
+Outside Curler
+Man Marking
+Interception
+Fighting Spirit
+Blocker
+Sliding Tackle
+Long Reach Tackle

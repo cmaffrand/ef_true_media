@@ -1,0 +1,116 @@
+Jaap Stam
+Build Up
+Height
+191cm
+Weight
+91kg
+Age
+26
+Foot
+
+B
+
+
+
+
+Stealing +3
+
+Stealing +1
+
+0
+Condition History
+Arrow Probabilities (%)
+531069696978784847881817578
+
+CB
+0/56
+Level Cap 
+29
+
+Shooting
+0
+
+Passing
+0
+
+Dribbling
+0
+
+Dexterity
+8
+
+Lower Body Strength
+8
+
+Aerial Strength
+8
+
+Defending
+10
+
+GK 1
+2
+
+GK 2
+0
+
+GK 3
+0
+Attacking
+Offensive Awareness		63
+Ball Control		67
+Dribbling		63
+Tight Possession		65
+Low Pass		71
+Lofted Pass		73
+Finishing	●	52
+Heading		84
+Place Kicking		54
+Curl		65
+Defending
+Defensive Awareness	●	97
+Defensive Engagement		96
+Tackling	●	96
+Aggression	●	94
+Goalkeeping		43
+Gk Catching		41
+GK Parrying		41
+GK Reflexes		41
+GK Reach		41
+athleticism
+Speed		90
+Acceleration	●	85
+Kicking Power		80
+Jump		90
+Physical Contact	●	97
+Balance		63
+Stamina		85
+Weak Foot Usage		1
+Weak Foot Acc		1
+Form		2
+Injury Resistance		2
+Skills
+Heading
+Weighted Pass
+Man Marking
+Interception
+Fighting Spirit
+Aerial Superiority
+Blocker
+Sliding Tackle
+Fortress
+Aerial Fort
+
+Body Measurements
+Leg Length
+9
+Arm Length
+4
+Waist Size
+7
+Chest
+12
+Shoulder Width
+10
+Neck Length
+7

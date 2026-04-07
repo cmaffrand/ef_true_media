@@ -1,0 +1,113 @@
+Gabriel Batistuta
+Fox In The Box
+Height
+185cm
+Weight
+73kg
+Age
+31
+Foot
+
+B
+
+
+
+
+Strength +3
+
+Accuracy +1
+
+0
+Condition History
+Arrow Probabilities (%)
+5279888880879393949999100104
+
+CF
+0/62
+Level Cap 
+32
+
+Shooting
+8
+
+Passing
+5
+
+Dribbling
+4
+
+Dexterity
+9
+
+Lower Body Strength
+8
+
+Aerial Strength
+8
+
+Defending
+
+GK 1
+1
+
+GK 2
+
+GK 3
+Attacking
+Offensive Awareness		92
+Ball Control		81
+Dribbling		82
+Tight Possession		80
+Low Pass	●	70
+Lofted Pass	●	68
+Finishing	●	93
+Heading		85
+Place Kicking		76
+Curl		77
+Defending
+Defensive Awareness	●	45
+Defensive Engagement		43
+Tackling		45
+Aggression		49
+Goalkeeping		42
+Gk Catching		41
+GK Parrying		41
+GK Reflexes		41
+GK Reach		41
+athleticism
+Speed	●	92
+Acceleration		90
+Kicking Power	●	97
+Jump	●	90
+Physical Contact	●	91
+Balance		80
+Stamina		84
+Weak Foot Usage		2
+Weak Foot Acc		2
+Form		2
+Injury Resistance		1
+Skills
+Heading
+Long Range Curler
+Long Range Shooting
+Rising Shots
+Acrobatic Finishing
+First Time Shot
+Fighting Spirit
+Aerial Superiority
+Phenomenal Finishing
+Low Screamer
+
+Body Measurements
+Leg Length
+8
+Arm Length
+6
+Waist Size
+6
+Chest
+6
+Shoulder Width
+6
+Neck Length
+9

@@ -1,0 +1,113 @@
+Luka Modrić
+Orchestrator
+Height
+172cm
+Weight
+66kg
+Age
+40
+Foot
+
+B
+
+
+
+
+Passing +2
+
+Technique +1
+
+0
+Condition History
+Arrow Probabilities (%)
+46879797951021031031021001009993
+
+CMF
+0/68
+Level Cap 
+35
+
+Shooting
+5
+
+Passing
+7
+
+Dribbling
+7
+
+Dexterity
+8
+
+Lower Body Strength
+12
+
+Aerial Strength
+4
+
+Defending
+2
+
+GK 1
+
+GK 2
+
+GK 3
+Attacking
+Offensive Awareness		81
+Ball Control	●	93
+Dribbling	●	91
+Tight Possession	●	94
+Low Pass	●	96
+Lofted Pass	●	91
+Finishing	●	75
+Heading		61
+Place Kicking		77
+Curl	●	85
+Defending
+Defensive Awareness	●	77
+Defensive Engagement		77
+Tackling		71
+Aggression		70
+Goalkeeping		41
+Gk Catching		41
+GK Parrying		41
+GK Reflexes		41
+GK Reach		41
+athleticism
+Speed		85
+Acceleration		84
+Kicking Power	●	90
+Jump		66
+Physical Contact		75
+Balance		91
+Stamina		90
+Weak Foot Usage		1
+Weak Foot Acc		2
+Form		2
+Injury Resistance		1
+Skills
+Double Touch
+Sole Control
+Long Range Shooting
+One Touch Pass
+Through Passing
+Outside Curler
+Low Lofted Pass
+Interception
+Captaincy
+Phenomenal Pass
+
+Body Measurements
+Leg Length
+9
+Arm Length
+7
+Waist Size
+5
+Chest
+5
+Shoulder Width
+7
+Neck Length
+6

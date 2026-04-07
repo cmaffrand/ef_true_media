@@ -1,0 +1,112 @@
+Samuel Etoo
+Goal Poacher
+Height
+180cm
+Weight
+75kg
+Age
+28
+Foot
+
+B
+
+
+
+
+Striker's Instinct +2
+
+Agility +1
+
+0
+Condition History
+Arrow Probabilities (%)
+487893938292999999104104104104
+
+CF
+0/60
+Level Cap 
+31
+
+Shooting
+8
+
+Passing
+2
+
+Dribbling
+11
+
+Dexterity
+7
+
+Lower Body Strength
+8
+
+Aerial Strength
+3
+
+Defending
+
+GK 1
+
+GK 2
+
+GK 3
+Attacking
+Offensive Awareness	●	91
+Ball Control	●	92
+Dribbling		91
+Tight Possession		87
+Low Pass		71
+Lofted Pass		65
+Finishing	●	95
+Heading		68
+Place Kicking		70
+Curl		80
+Defending
+Defensive Awareness	●	49
+Defensive Engagement		62
+Tackling		49
+Aggression		60
+Goalkeeping		41
+Gk Catching		41
+GK Parrying		41
+GK Reflexes		41
+GK Reach		41
+athleticism
+Speed	●	99
+Acceleration	●	99
+Kicking Power		88
+Jump		78
+Physical Contact		75
+Balance	●	80
+Stamina	●	92
+Weak Foot Usage		1
+Weak Foot Acc		2
+Form		2
+Injury Resistance		1
+Skills
+Double Touch
+Sole Control
+Long Range Curler
+Rising Shots
+Acrobatic Finishing
+Heel Trick
+First Time Shot
+Outside Curler
+Penalty Specialist
+Phenomenal Finishing
+
+Body Measurements
+Leg Length
+12
+Arm Length
+6
+Waist Size
+2
+Chest
+4
+Shoulder Width
+9
+Neck Length
+6

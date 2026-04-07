@@ -1,0 +1,113 @@
+Julián Alvarez
+Goal Poacher
+Height
+170cm
+Weight
+71kg
+Age
+25
+Foot
+
+A
+
+
+
+
+Accuracy +3
+
+Striker's Instinct +1
+
+0
+Condition History
+Arrow Probabilities (%)
+468195958898103103103106106106105
+
+CF
+0/66
+Level Cap 
+34
+
+Shooting
+8
+
+Passing
+4
+
+Dribbling
+7
+
+Dexterity
+8
+
+Lower Body Strength
+12
+
+Aerial Strength
+4
+
+Defending
+0
+
+GK 1
+
+GK 2
+
+GK 3
+Attacking
+Offensive Awareness	●	92
+Ball Control	●	90
+Dribbling		90
+Tight Possession		90
+Low Pass	●	85
+Lofted Pass	●	76
+Finishing	●	95
+Heading		66
+Place Kicking		88
+Curl		91
+Defending
+Defensive Awareness	●	52
+Defensive Engagement		65
+Tackling		56
+Aggression		74
+Goalkeeping		41
+Gk Catching		41
+GK Parrying		41
+GK Reflexes		41
+GK Reach		41
+athleticism
+Speed		93
+Acceleration	●	94
+Kicking Power	●	95
+Jump		68
+Physical Contact		82
+Balance		91
+Stamina		90
+Weak Foot Usage		2
+Weak Foot Acc		3
+Form		2
+Injury Resistance		2
+Skills
+Double Touch
+Cut Behind & Turn
+Sole Control
+Long Range Curler
+Long Range Shooting
+First Time Shot
+One Touch Pass
+Through Passing
+Acceleration Burst
+Low Screamer
+
+Body Measurements
+Leg Length
+10
+Arm Length
+7
+Waist Size
+10
+Chest
+11
+Shoulder Width
+12
+Neck Length
+4

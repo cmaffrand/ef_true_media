@@ -1,0 +1,81 @@
+Name: Diogo Costa
+Position: GK
+Style: Offensive Goalkeeper
+
+Training:
+SHO: 0
+PAS: 0
+DRI: 0
+DEX: 0
+LBS: 0
+AER: 1
+DEF: 0
+GK1: 9
+GK2: 10
+GK3: 13
+Lv: 62
+Manager: Fabio Capello
+
+Attributes:
+Offensive Awareness: 42
+Ball Control: 58
+Dribbling: 43
+Tight Possession: 47
+Low Pass: 66
+Lofted Pass: 70
+Finishing: 43
+Heading: 47
+Place Kicking: 58
+Curl: 48
+Defensive Awareness: 52
+Defensive Engagement: 49
+Tackling: 62
+Aggression: 47
+Goalkeeping: 92
+Gk Catching: 90
+GK Parrying: 90
+GK Reflexes: 99
+GK Reach: 90
+Speed: 58
+Acceleration: 62
+Kicking Power: 77
+Jump: 81
+Balance: 53
+Stamina: 61
+Physical Contact: 70
+
+Skills:
+Gk Low Punt
+GK High Punt
+GK Penalty Saver
+Captaincy
+GK Direct Defending
+
+Biometrics:
+Height: 186
+Weight: 80
+Arm Length: 10
+Shoulder Width: 10
+Neck Length: 8
+Chest: 6
+Neck Size: 7
+Shoulder Height: 7
+Leg Length: 10
+Thigh Size: 7
+Waist Size: 7
+Arm Size: 7
+Calf Size: 7
+Leg Coverage Radius: 181.2
+Arm Coverage Radius: 172.6
+Jumping Height: 269.3
+Torso Collision: 52.7
+Leg Length Based Height: 189
+
+Com Skills:
+—
+
+Other Stats:
+Weak Foot Usage: 1
+Weak Foot Accuracy: 1
+Form: 1
+Injury Resistance: 1

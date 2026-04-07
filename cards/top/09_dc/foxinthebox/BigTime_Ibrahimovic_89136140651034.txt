@@ -1,0 +1,112 @@
+Zlatan Ibrahimović
+Fox In The Box
+Height
+195cm
+Weight
+95kg
+Age
+28
+Foot
+
+B
+
+
+
+
+Shooting +5
+
+Aerial +1
+
+0
+Condition History
+Arrow Probabilities (%)
+558290908390959598102102104108
+
+CF
+1/66
+Level Cap 
+34
+
+Shooting
+6
+
+Passing
+5
+
+Dribbling
+5
+
+Dexterity
+10
+
+Lower Body Strength
+9
+
+Aerial Strength
+8
+
+Defending
+
+GK 1
+
+GK 2
+
+GK 3
+Attacking
+Offensive Awareness		95
+Ball Control	●	85
+Dribbling		85
+Tight Possession		83
+Low Pass		76
+Lofted Pass		70
+Finishing	●	95
+Heading	●	90
+Place Kicking		77
+Curl		78
+Defending
+Defensive Awareness	●	44
+Defensive Engagement		46
+Tackling		43
+Aggression		49
+Goalkeeping		41
+Gk Catching		41
+GK Parrying		41
+GK Reflexes		41
+GK Reach		41
+athleticism
+Speed		90
+Acceleration		90
+Kicking Power	●	96
+Jump	●	94
+Physical Contact	●	100
+Balance		80
+Stamina		83
+Weak Foot Usage		2
+Weak Foot Acc		2
+Form		2
+Injury Resistance		1
+Skills
+Heading
+Long Range Curler
+Long Range Shooting
+Acrobatic Finishing
+First Time Shot
+One Touch Pass
+Fighting Spirit
+Aerial Superiority
+Phenomenal Finishing
+Will Power
+
+Body Measurements
+Leg Length
+9
+Arm Length
+10
+Waist Size
+5
+Chest
+4
+Shoulder Width
+8
+Neck Length
+7

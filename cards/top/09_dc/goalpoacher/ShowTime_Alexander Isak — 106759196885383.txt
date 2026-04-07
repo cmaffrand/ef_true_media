@@ -1,0 +1,87 @@
+Name: Alexander Isak
+Position: CF
+Style: Goal Poacher
+
+Training:
+SHO: 9
+PAS: 3
+DRI: 7
+DEX: 9
+LBS: 9
+AER: 6
+DEF: 0
+GK1: 0
+GK2: 0
+GK3: 0
+Lv: 66
+Manager: Fabio Capello
+
+Attributes:
+Offensive Awareness: 94
+Ball Control: 87
+Dribbling: 90
+Tight Possession: 87
+Low Pass: 70
+Lofted Pass: 66
+Finishing: 93
+Heading: 76
+Place Kicking: 73
+Curl: 79
+Defensive Awareness: 46
+Defensive Engagement: 47
+Tackling: 47
+Aggression: 49
+Goalkeeping: 41
+Gk Catching: 41
+GK Parrying: 41
+GK Reflexes: 41
+GK Reach: 41
+Speed: 93
+Acceleration: 93
+Kicking Power: 92
+Jump: 81
+Balance: 81
+Stamina: 88
+Physical Contact: 80
+
+Skills:
+Scissors Feint
+Cut Behind & Turn
+Sole Control
+Heading
+Long Range Curler
+Acrobatic Finishing
+First Time Shot
+Outside Curler
+Momentum Dribbling
+Bullet Header
+
+Biometrics:
+Height: 192
+Weight: 77
+Arm Length: 4
+Shoulder Width: 9
+Neck Length: 4
+Chest: 1
+Neck Size: 5
+Shoulder Height: 10
+Leg Length: 12
+Thigh Size: 1
+Waist Size: 2
+Arm Size: 2
+Calf Size: 1
+Leg Coverage Radius: 188.2
+Arm Coverage Radius: 171.4
+Jumping Height: 274.2
+Torso Collision: 53.4
+Leg Length Based Height: 197
+
+Com Skills:
+Mazing Run
+Long Ball Expert
+
+Other Stats:
+Weak Foot Usage: 2
+Weak Foot Accuracy: 2
+Form: 2
+Injury Resistance: 1

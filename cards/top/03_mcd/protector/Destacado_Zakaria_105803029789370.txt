@@ -1,0 +1,98 @@
+Denis Zakaria
+Anchor Man
+Height
+191cm
+Weight
+81kg
+Age
+29
+Foot
+
+C
+
+
+
+
+No Booster
+
+No Booster
+
+0
+Condition History
+Arrow Probabilities (%)
+511009696989491918888888582
+
+DMF
+0/58
+Level Cap 
+30
+
+Shooting
+
+Passing
+5
+
+Dribbling
+5
+
+Dexterity
+4
+
+Lower Body Strength
+7
+
+Aerial Strength
+6
+
+Defending
+12
+
+GK 1
+
+GK 2
+
+GK 3
+Attacking
+Offensive Awareness		63
+Ball Control		81
+Dribbling		80
+Tight Possession		80
+Low Pass		83
+Lofted Pass		78
+Finishing	●	61
+Heading		70
+Place Kicking		55
+Curl		63
+Defending
+Defensive Awareness	●	88
+Defensive Engagement		96
+Tackling		91
+Aggression		99
+Goalkeeping		41
+Gk Catching		41
+GK Parrying		41
+GK Reflexes		41
+GK Reach		41
+athleticism
+Speed		87
+Acceleration		81
+Kicking Power		83
+Jump		76
+Physical Contact		88
+Balance		68
+Stamina		88
+Weak Foot Usage		1
+Weak Foot Acc		1
+Form		1
+Injury Resistance		0
+Skills
+Long Range Shooting
+First Time Shot
+One Touch Pass
+Through Passing
+Weighted Pass
+Man Marking
+Interception
+Captaincy
+Fighting Spirit
+Blocker

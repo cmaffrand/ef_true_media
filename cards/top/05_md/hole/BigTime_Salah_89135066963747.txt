@@ -1,0 +1,98 @@
+Mohamed Salah
+Hole Player
+Height
+175cm
+Weight
+71kg
+Age
+32
+Foot
+
+B
+
+
+
+
+Technique +3
+
+Off the Ball +1
+
+0
+Condition History
+Arrow Probabilities (%)
+467594948498105105105106106106102
+
+RMF
+0/62
+Level Cap 
+32
+
+Shooting
+8
+
+Passing
+8
+
+Dribbling
+8
+
+Dexterity
+8
+
+Lower Body Strength
+8
+
+Aerial Strength
+2
+
+Defending
+
+GK 1
+
+GK 2
+
+GK 3
+Attacking
+Offensive Awareness	●	89
+Ball Control	●	94
+Dribbling	●	96
+Tight Possession	●	94
+Low Pass	●	91
+Lofted Pass		87
+Finishing	●	90
+Heading		61
+Place Kicking		75
+Curl		88
+Defending
+Defensive Awareness	●	45
+Defensive Engagement		51
+Tackling		47
+Aggression		61
+Goalkeeping		41
+Gk Catching		41
+GK Parrying		41
+GK Reflexes		41
+GK Reach		41
+athleticism
+Speed	●	93
+Acceleration	●	94
+Kicking Power		91
+Jump		63
+Physical Contact		75
+Balance		94
+Stamina	●	89
+Weak Foot Usage		1
+Weak Foot Acc		2
+Form		2
+Injury Resistance		2
+Skills
+Double Touch
+Cut Behind & Turn
+Long Range Curler
+Long Range Shooting
+First Time Shot
+Through Passing
+Pinpoint Crossing
+Outside Curler
+Penalty Specialist
+Momentum Dribbling

@@ -1,0 +1,80 @@
+Name: David de Gea
+Position: GK
+Style: Offensive Goalkeeper
+
+Training:
+SHO: 0
+PAS: 0
+DRI: 0
+DEX: 0
+LBS: 0
+AER: 1
+DEF: 0
+GK1: 8
+GK2: 10
+GK3: 11
+Lv: 52
+Manager: Fabio Capello
+
+Attributes:
+Offensive Awareness: 41
+Ball Control: 56
+Dribbling: 43
+Tight Possession: 48
+Low Pass: 59
+Lofted Pass: 60
+Finishing: 42
+Heading: 42
+Place Kicking: 56
+Curl: 44
+Defensive Awareness: 47
+Defensive Engagement: 44
+Tackling: 62
+Aggression: 49
+Goalkeeping: 95
+Gk Catching: 92
+GK Parrying: 94
+GK Reflexes: 98
+GK Reach: 92
+Speed: 58
+Acceleration: 54
+Kicking Power: 70
+Jump: 77
+Balance: 54
+Stamina: 62
+Physical Contact: 72
+
+Skills:
+Gk Low Punt
+GK Long Throw
+GK Penalty Saver
+GK Direct Defending
+
+Biometrics:
+Height: 192
+Weight: 76
+Arm Length: 10
+Shoulder Width: 4
+Neck Length: 10
+Chest: 3
+Neck Size: 5
+Shoulder Height: 1
+Leg Length: 8
+Thigh Size: 3
+Waist Size: 3
+Arm Size: 5
+Calf Size: 6
+Leg Coverage Radius: 185.9
+Arm Coverage Radius: 177.1
+Jumping Height: 273.2
+Torso Collision: 52.1
+Leg Length Based Height: 193
+
+Com Skills:
+—
+
+Other Stats:
+Weak Foot Usage: 1
+Weak Foot Accuracy: 2
+Form: 2
+Injury Resistance: 2

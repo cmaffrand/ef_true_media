@@ -1,0 +1,81 @@
+Name: Alisson Becker
+Position: GK
+Style: Offensive Goalkeeper
+
+Training:
+SHO: 0
+PAS: 0
+DRI: 0
+DEX: 0
+LBS: 0
+AER: 2
+DEF: 0
+GK1: 10
+GK2: 12
+GK3: 10
+Lv: 62
+Manager: Fabio Capello
+
+Attributes:
+Offensive Awareness: 41
+Ball Control: 61
+Dribbling: 50
+Tight Possession: 60
+Low Pass: 72
+Lofted Pass: 72
+Finishing: 42
+Heading: 52
+Place Kicking: 61
+Curl: 63
+Defensive Awareness: 47
+Defensive Engagement: 45
+Tackling: 61
+Aggression: 50
+Goalkeeping: 96
+Gk Catching: 95
+GK Parrying: 95
+GK Reflexes: 96
+GK Reach: 96
+Speed: 59
+Acceleration: 61
+Kicking Power: 72
+Jump: 80
+Balance: 59
+Stamina: 61
+Physical Contact: 64
+
+Skills:
+Weighted Pass
+Gk Low Punt
+GK Long Throw
+Visionary Pass
+GK Direct Defending
+
+Biometrics:
+Height: 191
+Weight: 91
+Arm Length: 7
+Shoulder Width: 8
+Neck Length: 7
+Chest: 7
+Neck Size: 10
+Shoulder Height: 6
+Leg Length: 8
+Thigh Size: 7
+Waist Size: 4
+Arm Size: 6
+Calf Size: 6
+Leg Coverage Radius: 184.9
+Arm Coverage Radius: 173.6
+Jumping Height: 273.4
+Torso Collision: 53.4
+Leg Length Based Height: 192
+
+Com Skills:
+—
+
+Other Stats:
+Weak Foot Usage: 1
+Weak Foot Accuracy: 1
+Form: 1
+Injury Resistance: 0

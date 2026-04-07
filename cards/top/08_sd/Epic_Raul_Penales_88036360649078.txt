@@ -1,0 +1,111 @@
+Raúl
+Dummy Runner
+Height
+178cm
+Weight
+74kg
+Age
+33
+Foot
+
+B
+
+
+
+
+Striker's Instinct +3
+
+Accuracy +1
+
+0
+Condition History
+Arrow Probabilities (%)
+4779929285949999100101101102101
+
+SS
+1/64
+Level Cap 
+33
+
+Shooting
+9
+
+Passing
+4
+
+Dribbling
+7
+
+Dexterity
+7
+
+Lower Body Strength
+11
+
+Aerial Strength
+3
+
+Defending
+
+GK 1
+
+GK 2
+
+GK 3
+Attacking
+Offensive Awareness	●	91
+Ball Control	●	90
+Dribbling		87
+Tight Possession		84
+Low Pass	●	82
+Lofted Pass	●	81
+Finishing	●	92
+Heading		70
+Place Kicking		71
+Curl		79
+Defending
+Defensive Awareness	●	55
+Defensive Engagement		60
+Tackling		53
+Aggression		63
+Goalkeeping		41
+Gk Catching		41
+GK Parrying		41
+GK Reflexes		41
+GK Reach		41
+athleticism
+Speed		90
+Acceleration	●	90
+Kicking Power	●	88
+Jump		71
+Physical Contact		75
+Balance		82
+Stamina		87
+Weak Foot Usage		1
+Weak Foot Acc		2
+Form		2
+Injury Resistance		1
+Skills
+Double Touch
+Heading
+Long Range Curler
+Long Range Shooting
+First Time Shot
+One Touch Pass
+Through Passing
+Outside Curler
+Phenomenal Finishing
+
+Body Measurements
+Leg Length
+7
+Arm Length
+6
+Waist Size
+4
+Chest
+5
+Shoulder Width
+7
+Neck Length
+9

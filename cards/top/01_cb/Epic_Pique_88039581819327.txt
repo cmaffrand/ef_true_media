@@ -1,0 +1,111 @@
+Gerard Piqué
+Build Up
+Height
+194cm
+Weight
+85kg
+Age
+27
+Foot
+
+B
+
+
+
+
+Defending +3
+
+Shutdown +1
+
+0
+Condition History
+Arrow Probabilities (%)
+5410499991009592928990908786
+
+CB
+0/56
+Level Cap 
+29
+
+Shooting
+
+Passing
+
+Dribbling
+
+Dexterity
+8
+
+Lower Body Strength
+11
+
+Aerial Strength
+6
+
+Defending
+9
+
+GK 1
+0
+
+GK 2
+
+GK 3
+Attacking
+Offensive Awareness		69
+Ball Control		80
+Dribbling		74
+Tight Possession		80
+Low Pass		80
+Lofted Pass		77
+Finishing	●	60
+Heading		80
+Place Kicking		56
+Curl		63
+Defending
+Defensive Awareness	●	96
+Defensive Engagement	●	94
+Tackling	●	92
+Aggression		87
+Goalkeeping		41
+Gk Catching		41
+GK Parrying		41
+GK Reflexes		41
+GK Reach		41
+athleticism
+Speed	●	88
+Acceleration	●	80
+Kicking Power		90
+Jump	●	90
+Physical Contact		91
+Balance		75
+Stamina		89
+Weak Foot Usage		2
+Weak Foot Acc		2
+Form		2
+Injury Resistance		2
+Skills
+Double Touch
+Through Passing
+Low Lofted Pass
+Man Marking
+Interception
+Aerial Superiority
+Blocker
+Sliding Tackle
+Aerial Fort
+Long Reach Tackle
+
+Body Measurements
+Leg Length
+9
+Arm Length
+7
+Waist Size
+6
+Chest
+4
+Shoulder Width
+6
+Neck Length
+5

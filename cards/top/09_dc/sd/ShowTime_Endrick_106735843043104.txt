@@ -1,0 +1,112 @@
+Endrick
+Deep-Lying Forward
+Height
+173cm
+Weight
+65kg
+Age
+19
+Foot
+
+C
+
+
+
+
+Shooting +2
+
+Agility +1
+
+0
+Condition History
+Arrow Probabilities (%)
+4679909084919696969999100100
+
+CF
+0/60
+Level Cap 
+31
+
+Shooting
+6
+
+Passing
+5
+
+Dribbling
+8
+
+Dexterity
+9
+
+Lower Body Strength
+9
+
+Aerial Strength
+4
+
+Defending
+
+GK 1
+
+GK 2
+
+GK 3
+Attacking
+Offensive Awareness		87
+Ball Control	●	90
+Dribbling		87
+Tight Possession		83
+Low Pass		71
+Lofted Pass		70
+Finishing	●	90
+Heading		74
+Place Kicking		71
+Curl		78
+Defending
+Defensive Awareness	●	57
+Defensive Engagement		62
+Tackling		58
+Aggression		64
+Goalkeeping		41
+Gk Catching		41
+GK Parrying		41
+GK Reflexes		41
+GK Reach		41
+athleticism
+Speed	●	89
+Acceleration	●	91
+Kicking Power	●	94
+Jump		75
+Physical Contact	●	76
+Balance	●	88
+Stamina	●	89
+Weak Foot Usage		1
+Weak Foot Acc		1
+Form		1
+Injury Resistance		1
+Skills
+Chop Turn
+Cut Behind & Turn
+Sole Control
+Heading
+Long Range Shooting
+Dipping Shot
+Acrobatic Finishing
+First Time Shot
+Rabona
+Phenomenal Finishing
+
+Body Measurements
+Leg Length
+11
+Arm Length
+9
+Waist Size
+10
+Chest
+9
+Shoulder Width
+10
+Neck Length
+5

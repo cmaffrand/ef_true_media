@@ -1,0 +1,87 @@
+Rodri
+Orchestrator
+Height
+190cm
+Weight
+82kg
+Age
+29
+Foot
+
+C
+
+
+
+
+Accuracy +3
+
+Shutdown +1
+
+0
+Condition History
+Arrow Probabilities (%)
+531061031031061031001009896969593
+
+CMF
+2/70
+Level Cap 
+36
+
+Shooting
+
+Passing
+4
+
+Dribbling
+4
+
+Dexterity
+8
+
+Lower Body Strength
+9
+
+Aerial Strength
+8
+
+Defending
+11
+
+GK 1
+
+GK 2
+
+GK 3
+Attacking
+Offensive Awareness		73
+Ball Control		83
+Dribbling		78
+Tight Possession		85
+Low Pass	●	90
+Lofted Pass	●	90
+Finishing	●	73
+Heading		80
+Place Kicking		62
+Curl		74
+Defending
+Defensive Awareness	●	95
+Defensive Engagement	●	98
+Tackling	●	93
+Aggression		92
+Goalkeeping		41
+Gk Catching		41
+GK Parrying		41
+GK Reflexes		41
+GK Reach		41
+athleticism
+Speed	●	86
+Acceleration		84
+Kicking Power	●	93
+Jump		82
+Physical Contact		90
+Balance		70
+Stamina		93
+Weak Foot Usage		2
+Weak Foot Acc		2
+Form		2
+Injury Resistance		1

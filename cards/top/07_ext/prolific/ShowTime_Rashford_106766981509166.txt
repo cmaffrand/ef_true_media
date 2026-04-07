@@ -1,0 +1,110 @@
+Marcus Rashford
+Prolific Winger
+Height
+188cm
+Weight
+80kg
+Age
+28
+Foot
+
+A
+
+
+
+
+Agility +3
+
+Technique +1
+
+0
+Condition History
+Arrow Probabilities (%)
+49789393839310010098102102101100
+
+LWF
+0/62
+Level Cap 
+32
+
+Shooting
+7
+
+Passing
+7
+
+Dribbling
+8
+
+Dexterity
+10
+
+Lower Body Strength
+8
+
+Aerial Strength
+
+Defending
+
+GK 1
+
+GK 2
+
+GK 3
+Attacking
+Offensive Awareness		84
+Ball Control	●	88
+Dribbling	●	90
+Tight Possession	●	83
+Low Pass	●	75
+Lofted Pass		85
+Finishing	●	85
+Heading		70
+Place Kicking		80
+Curl		83
+Defending
+Defensive Awareness	●	50
+Defensive Engagement		51
+Tackling		52
+Aggression		51
+Goalkeeping		41
+Gk Catching		41
+GK Parrying		41
+GK Reflexes		41
+GK Reach		41
+athleticism
+Speed	●	94
+Acceleration	●	94
+Kicking Power		94
+Jump		70
+Physical Contact		75
+Balance	●	91
+Stamina	●	88
+Weak Foot Usage		1
+Weak Foot Acc		2
+Form		1
+Injury Resistance		0
+Skills
+Double Touch
+Flip Flap
+Chop Turn
+Sole Control
+Long Range Shooting
+Knuckle Shot
+Dipping Shot
+First Time Shot
+Pinpoint Crossing
+
+Body Measurements
+Leg Length
+12
+Arm Length
+7
+Waist Size
+4
+Chest
+4
+Shoulder Width
+9
+Neck Length
+7

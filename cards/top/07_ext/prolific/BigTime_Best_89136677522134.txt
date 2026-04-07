@@ -1,0 +1,112 @@
+George Best
+Prolific Winger
+Height
+175cm
+Weight
+64kg
+Age
+22
+Foot
+
+B
+
+
+
+
+Ball-carrying +5
+
+Offence Creator +1
+
+0
+Condition History
+Arrow Probabilities (%)
+477393938196105105104108108107104
+
+RWF
+0/66
+Level Cap 
+34
+
+Shooting
+6
+
+Passing
+4
+
+Dribbling
+10
+
+Dexterity
+10
+
+Lower Body Strength
+9
+
+Aerial Strength
+3
+
+Defending
+
+GK 1
+
+GK 2
+
+GK 3
+Attacking
+Offensive Awareness	●	90
+Ball Control	●	98
+Dribbling	●	99
+Tight Possession	●	97
+Low Pass	●	82
+Lofted Pass		81
+Finishing	●	90
+Heading		60
+Place Kicking		71
+Curl		81
+Defending
+Defensive Awareness	●	43
+Defensive Engagement		44
+Tackling		42
+Aggression		44
+Goalkeeping		41
+Gk Catching		41
+GK Parrying		41
+GK Reflexes		41
+GK Reach		41
+athleticism
+Speed	●	99
+Acceleration		99
+Kicking Power	●	90
+Jump		69
+Physical Contact		74
+Balance	●	94
+Stamina		88
+Weak Foot Usage		2
+Weak Foot Acc		3
+Form		1
+Injury Resistance		1
+Skills
+Double Touch
+Flip Flap
+Marseille Turn
+Cut Behind & Turn
+Sole Control
+Long Range Curler
+Long Range Shooting
+Outside Curler
+Phenomenal Pass
+Momentum Dribbling
+
+Body Measurements
+Leg Length
+7
+Arm Length
+5
+Waist Size
+7
+Chest
+7
+Shoulder Width
+7
+Neck Length
+7

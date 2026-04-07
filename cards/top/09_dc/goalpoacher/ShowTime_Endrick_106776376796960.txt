@@ -1,0 +1,116 @@
+Endrick
+Goal Poacher
+Height
+173cm
+Weight
+65kg
+Age
+19
+Foot
+
+A
+
+
+
+
+Strength +3
+
+Offence Creator +1
+
+0
+Condition History
+Arrow Probabilities (%)
+477991918391979797102102103104
+
+CF
+0/62
+Level Cap 
+32
+
+Shooting
+9
+
+Passing
+2
+
+Dribbling
+8
+
+Dexterity
+8
+
+Lower Body Strength
+9
+
+Aerial Strength
+5
+
+Defending
+0
+
+GK 1
+0
+
+GK 2
+0
+
+GK 3
+0
+Attacking
+Offensive Awareness	●	90
+Ball Control	●	90
+Dribbling		91
+Tight Possession		91
+Low Pass	●	70
+Lofted Pass		65
+Finishing	●	91
+Heading		70
+Place Kicking		72
+Curl		80
+Defending
+Defensive Awareness	●	52
+Defensive Engagement		59
+Tackling		55
+Aggression		62
+Goalkeeping		41
+Gk Catching		41
+GK Parrying		41
+GK Reflexes		41
+GK Reach		41
+athleticism
+Speed	●	93
+Acceleration		93
+Kicking Power	●	98
+Jump	●	76
+Physical Contact	●	85
+Balance		94
+Stamina		87
+Weak Foot Usage		1
+Weak Foot Acc		1
+Form		1
+Injury Resistance		1
+Skills
+Double Touch
+Long Range Curler
+Long Range Shooting
+Knuckle Shot
+Dipping Shot
+Acrobatic Finishing
+First Time Shot
+Fighting Spirit
+Low screamer
+Will Power
+
+Body Measurements
+Leg Length
+11
+Arm Length
+9
+Waist Size
+10
+Chest
+9
+Shoulder Width
+10
+Neck Length
+5

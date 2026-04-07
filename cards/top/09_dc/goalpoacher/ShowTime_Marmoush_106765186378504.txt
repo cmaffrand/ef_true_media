@@ -1,0 +1,112 @@
+Omar Marmoush
+Goal Poacher
+Height
+183cm
+Weight
+81kg
+Age
+26
+Foot
+
+A
+
+
+
+
+Breakthrough +3
+
+No Booster
+
+0
+Condition History
+Arrow Probabilities (%)
+47809393859310010099103103103102
+
+CF
+0/60
+Level Cap 
+31
+
+Shooting
+9
+
+Passing
+2
+
+Dribbling
+8
+
+Dexterity
+10
+
+Lower Body Strength
+8
+
+Aerial Strength
+1
+
+Defending
+
+GK 1
+
+GK 2
+
+GK 3
+Attacking
+Offensive Awareness		90
+Ball Control		88
+Dribbling	●	92
+Tight Possession		88
+Low Pass		75
+Lofted Pass		72
+Finishing	●	90
+Heading		63
+Place Kicking		92
+Curl		90
+Defending
+Defensive Awareness	●	55
+Defensive Engagement		58
+Tackling		56
+Aggression		71
+Goalkeeping		41
+Gk Catching		41
+GK Parrying		41
+GK Reflexes		41
+GK Reach		41
+athleticism
+Speed	●	94
+Acceleration		94
+Kicking Power	●	95
+Jump		66
+Physical Contact	●	75
+Balance		89
+Stamina		87
+Weak Foot Usage		1
+Weak Foot Acc		2
+Form		2
+Injury Resistance		2
+Skills
+Double Touch
+Cut Behind & Turn
+Long Range Curler
+Long Range Shooting
+Rising Shots
+Acrobatic Finishing
+First Time Shot
+Outside Curler
+Fighting Spirit
+Phenomenal Finishing
+
+Body Measurements
+Leg Length
+11
+Arm Length
+8
+Waist Size
+8
+Chest
+9
+Shoulder Width
+11
+Neck Length
+9

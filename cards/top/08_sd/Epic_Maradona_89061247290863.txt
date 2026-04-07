@@ -1,0 +1,112 @@
+Diego Maradona
+Deep-Lying Forward
+Height
+164cm
+Weight
+70kg
+Age
+25
+Foot
+
+B
+
+
+
+
+No Booster
+
+No Booster
+
+0
+Condition History
+Arrow Probabilities (%)
+44708989799210110110010310310298
+
+SS
+0/68
+Level Cap 
+35
+
+Shooting
+8
+
+Passing
+7
+
+Dribbling
+8
+
+Dexterity
+8
+
+Lower Body Strength
+11
+
+Aerial Strength
+1
+
+Defending
+
+GK 1
+
+GK 2
+
+GK 3
+Attacking
+Offensive Awareness		87
+Ball Control		93
+Dribbling		97
+Tight Possession		95
+Low Pass		84
+Lofted Pass		80
+Finishing	●	86
+Heading		70
+Place Kicking		91
+Curl		87
+Defending
+Defensive Awareness	●	43
+Defensive Engagement		44
+Tackling		45
+Aggression		59
+Goalkeeping		41
+Gk Catching		41
+GK Parrying		41
+GK Reflexes		41
+GK Reach		41
+athleticism
+Speed		92
+Acceleration		93
+Kicking Power		85
+Jump		71
+Physical Contact		64
+Balance		95
+Stamina		83
+Weak Foot Usage		1
+Weak Foot Acc		2
+Form		2
+Injury Resistance		1
+Skills
+Double Touch
+Marseille Turn
+Long Range Curler
+Long Range Shooting
+Acrobatic Finishing
+Through Passing
+Weighted Pass
+Outside Curler
+Low Lofted Pass
+Gamesmanship
+
+Body Measurements
+Leg Length
+10
+Arm Length
+7
+Waist Size
+7
+Chest
+10
+Shoulder Width
+12
+Neck Length
+4

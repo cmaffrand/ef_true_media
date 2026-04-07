@@ -1,0 +1,113 @@
+Lilian Thuram
+Defensive Full-back
+Height
+182cm
+Weight
+70kg
+Age
+26
+Foot
+
+B
+
+
+
+
+Shutdown +2
+
+Shutdown +1
+
+0
+Condition History
+Arrow Probabilities (%)
+521071041041039897979193938887
+
+RB
+0/68
+Level Cap 
+35
+
+Shooting
+
+Passing
+5
+
+Dribbling
+2
+
+Dexterity
+8
+
+Lower Body Strength
+8
+
+Aerial Strength
+8
+
+Defending
+12
+
+GK 1
+
+GK 2
+
+GK 3
+Attacking
+Offensive Awareness		75
+Ball Control		78
+Dribbling		82
+Tight Possession		70
+Low Pass		80
+Lofted Pass		80
+Finishing	●	57
+Heading		89
+Place Kicking		55
+Curl		66
+Defending
+Defensive Awareness	●	95
+Defensive Engagement	●	95
+Tackling	●	98
+Aggression		93
+Goalkeeping		41
+Gk Catching		41
+GK Parrying		41
+GK Reflexes		41
+GK Reach		41
+athleticism
+Speed	●	94
+Acceleration		90
+Kicking Power		83
+Jump		95
+Physical Contact		87
+Balance		79
+Stamina		95
+Weak Foot Usage		1
+Weak Foot Acc		2
+Form		2
+Injury Resistance		2
+Skills
+Double Touch
+Pinpoint Crossing
+Long Throw
+Man Marking
+Interception
+Acrobatic Clearance
+Captaincy
+Fighting Spirit
+Blocker
+Sliding Tackle
+Fortress
+
+Body Measurements
+Leg Length
+12
+Arm Length
+6
+Waist Size
+6
+Chest
+6
+Shoulder Width
+6
+Neck Length
+7

@@ -1,0 +1,98 @@
+Ryan Gravenberch
+Orchestrator
+Height
+190cm
+Weight
+77kg
+Age
+23
+Foot
+
+B
+
+
+
+
+Regista +2
+
+Off the Ball +1
+
+0
+Condition History
+Arrow Probabilities (%)
+51961021021001031041041011001009894
+
+DMF
+3/60
+Level Cap 
+31
+
+Shooting
+
+Passing
+8
+
+Dribbling
+6
+
+Dexterity
+9
+
+Lower Body Strength
+9
+
+Aerial Strength
+3
+
+Defending
+4
+
+GK 1
+
+GK 2
+
+GK 3
+Attacking
+Offensive Awareness	●	80
+Ball Control		93
+Dribbling		89
+Tight Possession	●	89
+Low Pass	●	89
+Lofted Pass		89
+Finishing	●	69
+Heading		65
+Place Kicking		70
+Curl		75
+Defending
+Defensive Awareness	●	81
+Defensive Engagement		80
+Tackling	●	81
+Aggression		78
+Goalkeeping		41
+Gk Catching		41
+GK Parrying		41
+GK Reflexes		41
+GK Reach		41
+athleticism
+Speed	●	88
+Acceleration	●	88
+Kicking Power		87
+Jump		75
+Physical Contact		80
+Balance		88
+Stamina	●	97
+Weak Foot Usage		2
+Weak Foot Acc		2
+Form		1
+Injury Resistance		1
+Skills
+Double Touch
+Flip Flap
+Cut Behind & Turn
+Sole Control
+Long Range Shooting
+One Touch Pass
+Through Passing
+Interception
+Blocker
+Long Reach Tackle

@@ -1,0 +1,102 @@
+Thibaut Courtois
+Defensive Goalkeeper
+Height
+200cm
+Weight
+96kg
+Age
+33
+Foot
+
+B
+
+
+
+
+No Booster
+
+Goalkeeping +1
+
+0
+Condition History
+Arrow Probabilities (%)
+100515050495048484746464747
+
+GK
+0/46
+Level Cap 
+24
+
+Shooting
+
+Passing
+
+Dribbling
+
+Dexterity
+
+Lower Body Strength
+
+Aerial Strength
+1
+
+Defending
+
+GK 1
+10
+
+GK 2
+8
+
+GK 3
+9
+Attacking
+Offensive Awareness		41
+Ball Control		60
+Dribbling		41
+Tight Possession		45
+Low Pass		60
+Lofted Pass		62
+Finishing		41
+Heading		45
+Place Kicking		61
+Curl		48
+Defending
+Defensive Awareness		41
+Defensive Engagement		60
+Tackling		45
+Aggression		48
+Goalkeeping	●	92
+Gk Catching	●	91
+GK Parrying	●	94
+GK Reflexes	●	95
+GK Reach		92
+athleticism
+Speed		56
+Acceleration		49
+Kicking Power		64
+Jump		70
+Physical Contact		63
+Balance		53
+Stamina		60
+Weak Foot Usage		1
+Weak Foot Acc		1
+Form		2
+Injury Resistance		0
+Skills
+GK High Punt
+GK Long Throw
+
+Body Measurements
+Leg Length
+12
+Arm Length
+8
+Waist Size
+3
+Chest
+1
+Shoulder Width
+6
+Neck Length
+11

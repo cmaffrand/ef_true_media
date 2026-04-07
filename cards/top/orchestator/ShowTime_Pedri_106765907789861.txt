@@ -1,0 +1,113 @@
+Pedri
+Orchestrator
+Height
+174cm
+Weight
+60kg
+Age
+23
+Foot
+
+A
+
+
+
+
+Ball Protection +3
+
+Agility +1
+
+0
+Condition History
+Arrow Probabilities (%)
+46881001009610310610610410310310195
+
+CMF
+0/64
+Level Cap 
+33
+
+Shooting
+8
+
+Passing
+7
+
+Dribbling
+6
+
+Dexterity
+7
+
+Lower Body Strength
+10
+
+Aerial Strength
+0
+
+Defending
+5
+
+GK 1
+
+GK 2
+
+GK 3
+Attacking
+Offensive Awareness		77
+Ball Control	●	94
+Dribbling		92
+Tight Possession	●	95
+Low Pass		93
+Lofted Pass		92
+Finishing	●	80
+Heading		50
+Place Kicking		70
+Curl		84
+Defending
+Defensive Awareness	●	76
+Defensive Engagement		82
+Tackling		75
+Aggression		80
+Goalkeeping		41
+Gk Catching		41
+GK Parrying		41
+GK Reflexes		41
+GK Reach		41
+athleticism
+Speed	●	90
+Acceleration	●	91
+Kicking Power		88
+Jump		61
+Physical Contact	●	69
+Balance	●	94
+Stamina	●	94
+Weak Foot Usage		3
+Weak Foot Acc		3
+Form		2
+Injury Resistance		1
+Skills
+Double Touch
+Cut Behind & Turn
+Sole Control
+One Touch Pass
+Through Passing
+Outside Curler
+Track Back
+Interception
+Magnetic Feet
+Phenomenal Pass
+
+Body Measurements
+Leg Length
+8
+Arm Length
+5
+Waist Size
+4
+Chest
+3
+Shoulder Width
+8
+Neck Length
+5

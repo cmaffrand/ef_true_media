@@ -1,0 +1,111 @@
+Eden Hazard
+Prolific Winger
+Height
+173cm
+Weight
+76kg
+Age
+28
+Foot
+
+B
+
+
+
+
+Offence Creator +3
+
+Off the Ball +1
+
+0
+Condition History
+Arrow Probabilities (%)
+45698888799310010010110210210298
+
+LWF
+0/62
+Level Cap 
+32
+
+Shooting
+8
+
+Passing
+4
+
+Dribbling
+7
+
+Dexterity
+9
+
+Lower Body Strength
+11
+
+Aerial Strength
+
+Defending
+
+GK 1
+
+GK 2
+
+GK 3
+Attacking
+Offensive Awareness	●	91
+Ball Control	●	93
+Dribbling		92
+Tight Possession		90
+Low Pass	●	86
+Lofted Pass		83
+Finishing	●	88
+Heading		54
+Place Kicking		79
+Curl		84
+Defending
+Defensive Awareness	●	45
+Defensive Engagement		54
+Tackling		45
+Aggression		51
+Goalkeeping		41
+Gk Catching		41
+GK Parrying		41
+GK Reflexes		41
+GK Reach		41
+athleticism
+Speed	●	88
+Acceleration	●	88
+Kicking Power	●	92
+Jump		61
+Physical Contact		67
+Balance		92
+Stamina	●	86
+Weak Foot Usage		2
+Weak Foot Acc		3
+Form		0
+Injury Resistance		0
+Skills
+Double Touch
+Flip Flap
+Cut Behind & Turn
+Sole Control
+Heel Trick
+One Touch Pass
+Through Passing
+Outside Curler
+Penalty Specialist
+Phenomenal Pass
+
+Body Measurements
+Leg Length
+6
+Arm Length
+8
+Waist Size
+8
+Chest
+8
+Shoulder Width
+7
+Neck Length
+6

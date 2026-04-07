@@ -1,0 +1,98 @@
+Jordan Henderson
+Anchor Man
+Height
+182cm
+Weight
+80kg
+Age
+35
+Foot
+
+B
+
+
+
+
+Duelling +3
+
+Defending +1
+
+0
+Condition History
+Arrow Probabilities (%)
+511021011011029997979392928987
+
+DMF
+0/68
+Level Cap 
+35
+
+Shooting
+
+Passing
+4
+
+Dribbling
+4
+
+Dexterity
+8
+
+Lower Body Strength
+8
+
+Aerial Strength
+9
+
+Defending
+11
+
+GK 1
+
+GK 2
+
+GK 3
+Attacking
+Offensive Awareness		72
+Ball Control		81
+Dribbling		77
+Tight Possession		80
+Low Pass		87
+Lofted Pass		87
+Finishing	●	62
+Heading		75
+Place Kicking		70
+Curl		77
+Defending
+Defensive Awareness	●	92
+Defensive Engagement		92
+Tackling	●	92
+Aggression		92
+Goalkeeping		41
+Gk Catching		41
+GK Parrying		41
+GK Reflexes		41
+GK Reach		41
+athleticism
+Speed	●	86
+Acceleration	●	85
+Kicking Power		85
+Jump	●	84
+Physical Contact		87
+Balance		78
+Stamina	●	93
+Weak Foot Usage		1
+Weak Foot Acc		2
+Form		2
+Injury Resistance		0
+Skills
+One Touch Pass
+Through Passing
+Pinpoint Crossing
+Outside Curler
+Low Lofted Pass
+Interception
+Captaincy
+Fighting Spirit
+Blocker
+Long Reach Tackle

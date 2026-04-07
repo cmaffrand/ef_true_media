@@ -1,0 +1,113 @@
+Christian Panucci
+Offensive Wingback
+Height
+184cm
+Weight
+75kg
+Age
+20
+Foot
+
+B
+
+
+
+
+Duelling +3
+
+Crossing +1
+
+0
+Condition History
+Arrow Probabilities (%)
+521021041041021011011019898989594
+
+RB
+0/68
+Level Cap 
+35
+
+Shooting
+4
+
+Passing
+8
+
+Dribbling
+6
+
+Dexterity
+9
+
+Lower Body Strength
+9
+
+Aerial Strength
+7
+
+Defending
+4
+
+GK 1
+
+GK 2
+
+GK 3
+Attacking
+Offensive Awareness		79
+Ball Control		82
+Dribbling		80
+Tight Possession		81
+Low Pass		87
+Lofted Pass	●	88
+Finishing	●	71
+Heading		85
+Place Kicking		74
+Curl	●	80
+Defending
+Defensive Awareness	●	85
+Defensive Engagement		83
+Tackling	●	85
+Aggression		82
+Goalkeeping		41
+Gk Catching		41
+GK Parrying		41
+GK Reflexes		41
+GK Reach		41
+athleticism
+Speed	●	93
+Acceleration		90
+Kicking Power		87
+Jump		87
+Physical Contact		88
+Balance		78
+Stamina	●	95
+Weak Foot Usage		2
+Weak Foot Acc		2
+Form		1
+Injury Resistance		1
+Skills
+Through Passing
+Pinpoint Crossing
+Man Marking
+Interception
+Fighting Spirit
+Aerial Superiority
+Blocker
+Sliding Tackle
+Visionary Pass
+Long Reach Tackle
+
+Body Measurements
+Leg Length
+7
+Arm Length
+7
+Waist Size
+7
+Chest
+7
+Shoulder Width
+7
+Neck Length
+7

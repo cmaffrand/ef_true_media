@@ -1,0 +1,86 @@
+Name: David Beckham
+Position: RMF
+Style: Cross Specialist
+
+Training:
+SHO: 6
+PAS: 8
+DRI: 8
+DEX: 9
+LBS: 8
+AER: 3
+DEF: 0
+GK1: 0
+GK2: 0
+GK3: 0
+Lv: 62
+Manager: Fabio Capello
+
+Attributes:
+Offensive Awareness: 85
+Ball Control: 88
+Dribbling: 90
+Tight Possession: 89
+Low Pass: 94
+Lofted Pass: 99
+Finishing: 88
+Heading: 65
+Place Kicking: 95
+Curl: 100
+Defensive Awareness: 59
+Defensive Engagement: 61
+Tackling: 60
+Aggression: 61
+Goalkeeping: 41
+Gk Catching: 41
+GK Parrying: 41
+GK Reflexes: 41
+GK Reach: 41
+Speed: 91
+Acceleration: 88
+Kicking Power: 91
+Jump: 65
+Balance: 81
+Stamina: 91
+Physical Contact: 75
+
+Skills:
+Long Range Curler
+Long Range Shooting
+First Time Shot
+One Touch Pass
+Through Passing
+Weighted Pass
+Pinpoint Crossing
+Low Lofted Pass
+Edged Crossing
+Visionary Pass
+
+Biometrics:
+Height: 183
+Weight: 76
+Arm Length: 7
+Shoulder Width: 10
+Neck Length: 5
+Chest: 4
+Neck Size: 8
+Shoulder Height: 7
+Leg Length: 7
+Thigh Size: 6
+Waist Size: 4
+Arm Size: 6
+Calf Size: 6
+Leg Coverage Radius: 176.6
+Arm Coverage Radius: 166.7
+Jumping Height: 255.0
+Torso Collision: 51.6
+Leg Length Based Height: 183
+
+Com Skills:
+Trickster
+
+Other Stats:
+Weak Foot Usage: 0
+Weak Foot Accuracy: 1
+Form: 2
+Injury Resistance: 1

@@ -1,0 +1,114 @@
+Didier Drogba
+Fox In The Box
+Height
+189cm
+Weight
+91kg
+Age
+31
+Foot
+
+B
+
+
+
+
+Strength +3
+
+No Booster
+
+0
+Condition History
+Arrow Probabilities (%)
+5586909084899393959898100104
+
+CF
+0/66
+Level Cap 
+34
+
+Shooting
+8
+
+Passing
+4
+
+Dribbling
+4
+
+Dexterity
+10
+
+Lower Body Strength
+8
+
+Aerial Strength
+8
+
+Defending
+0
+
+GK 1
+4
+
+GK 2
+
+GK 3
+Attacking
+Offensive Awareness		92
+Ball Control		80
+Dribbling		84
+Tight Possession		80
+Low Pass		76
+Lofted Pass		67
+Finishing	●	92
+Heading		90
+Place Kicking		82
+Curl		80
+Defending
+Defensive Awareness	●	56
+Defensive Engagement		54
+Tackling		53
+Aggression		49
+Goalkeeping		45
+Gk Catching		41
+GK Parrying		41
+GK Reflexes		41
+GK Reach		41
+athleticism
+Speed	●	90
+Acceleration		87
+Kicking Power	●	94
+Jump	●	98
+Physical Contact	●	98
+Balance		69
+Stamina		80
+Weak Foot Usage		2
+Weak Foot Acc		2
+Form		2
+Injury Resistance		1
+Skills
+Heading
+Long Range Curler
+Long Range Shooting
+Rising Shots
+Acrobatic Finishing
+First Time Shot
+Through Passing
+Fighting Spirit
+Phenomenal Finishing
+Visionary Pass
+
+Body Measurements
+Leg Length
+9
+Arm Length
+7
+Waist Size
+5
+Chest
+9
+Shoulder Width
+13
+Neck Length
+7

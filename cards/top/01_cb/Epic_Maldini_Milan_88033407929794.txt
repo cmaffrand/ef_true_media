@@ -1,0 +1,112 @@
+Paolo Maldini
+Defensive Full-back
+Height
+186cm
+Weight
+85kg
+Age
+24
+Foot
+
+B
+
+
+
+
+Shutdown +2
+
+Aerial Block +1
+
+0
+Condition History
+Arrow Probabilities (%)
+531081031031049996969393939090
+
+LB
+0/64
+Level Cap 
+33
+
+Shooting
+
+Passing
+1
+
+Dribbling
+0
+
+Dexterity
+8
+
+Lower Body Strength
+10
+
+Aerial Strength
+10
+
+Defending
+9
+
+GK 1
+
+GK 2
+
+GK 3
+Attacking
+Offensive Awareness		78
+Ball Control		78
+Dribbling		78
+Tight Possession		73
+Low Pass		81
+Lofted Pass		82
+Finishing	●	63
+Heading	●	94
+Place Kicking		63
+Curl		71
+Defending
+Defensive Awareness	●	98
+Defensive Engagement	●	97
+Tackling	●	95
+Aggression		90
+Goalkeeping		41
+Gk Catching		41
+GK Parrying		41
+GK Reflexes		41
+GK Reach		41
+athleticism
+Speed	●	90
+Acceleration		82
+Kicking Power		87
+Jump	●	96
+Physical Contact	●	90
+Balance		76
+Stamina		94
+Weak Foot Usage		3
+Weak Foot Acc		3
+Form		2
+Injury Resistance		0
+Skills
+Weighted Pass
+Pinpoint Crossing
+Man Marking
+Interception
+Acrobatic Clearance
+Captaincy
+Fighting Spirit
+Blocker
+Sliding Tackle
+Fortress
+
+Body Measurements
+Leg Length
+11
+Arm Length
+6
+Waist Size
+6
+Chest
+6
+Shoulder Width
+7
+Neck Length
+7

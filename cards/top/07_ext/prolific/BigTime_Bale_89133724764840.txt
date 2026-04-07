@@ -1,0 +1,113 @@
+Gareth Bale
+Prolific Winger
+Height
+185cm
+Weight
+82kg
+Age
+28
+Foot
+
+B
+
+
+
+
+Strength +4
+
+Technique +1
+
+0
+Condition History
+Arrow Probabilities (%)
+528496968796102102102106106106106
+
+RWF
+0/60
+Level Cap 
+31
+
+Shooting
+6
+
+Passing
+7
+
+Dribbling
+6
+
+Dexterity
+9
+
+Lower Body Strength
+9
+
+Aerial Strength
+4
+
+Defending
+
+GK 1
+
+GK 2
+
+GK 3
+Attacking
+Offensive Awareness		82
+Ball Control	●	91
+Dribbling	●	95
+Tight Possession	●	90
+Low Pass	●	80
+Lofted Pass		77
+Finishing	●	92
+Heading		74
+Place Kicking		85
+Curl		88
+Defending
+Defensive Awareness	●	51
+Defensive Engagement		51
+Tackling		51
+Aggression		54
+Goalkeeping		41
+Gk Catching		41
+GK Parrying		41
+GK Reflexes		41
+GK Reach		41
+athleticism
+Speed	●	99
+Acceleration		94
+Kicking Power	●	97
+Jump	●	85
+Physical Contact	●	91
+Balance		89
+Stamina		87
+Weak Foot Usage		1
+Weak Foot Acc		2
+Form		0
+Injury Resistance		0
+Skills
+Scissors Feint
+Long Range Shooting
+Knuckle Shot
+Dipping Shot
+Acrobatic Finishing
+First Time Shot
+Pinpoint Crossing
+Outside Curler
+Super Sub
+Phenomenal Finishing
+
+
+Body Measurements
+Leg Length
+7
+Arm Length
+4
+Waist Size
+2
+Chest
+7
+Shoulder Width
+8
+Neck Length
+5

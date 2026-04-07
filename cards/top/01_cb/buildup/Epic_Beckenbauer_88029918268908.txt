@@ -1,0 +1,96 @@
+Franz Beckenbauer
+Build Up
+Height
+181cm
+Weight
+77kg
+Age
+29
+Foot
+
+B
+
+
+
+
+Defending +2
+
+Shutdown +1
+
+0
+Condition History
+Arrow Probabilities (%)
+5210399991019794949291919089
+
+CB
+0/56
+Level Cap 
+29
+
+Shooting
+
+Passing
+
+Dribbling
+
+Dexterity
+4
+
+Lower Body Strength
+9
+
+Aerial Strength
+6
+
+Defending
+13
+
+GK 1
+1
+
+GK 2
+
+GK 3
+Attacking
+Offensive Awareness		66
+Ball Control		80
+Dribbling		72
+Tight Possession		79
+Low Pass		83
+Lofted Pass		84
+Finishing	●	72
+Heading		88
+Place Kicking		79
+Curl		77
+Defending
+Defensive Awareness	●	96
+Defensive Engagement	●	88
+Tackling	●	93
+Aggression		88
+Goalkeeping		42
+Gk Catching		41
+GK Parrying		41
+GK Reflexes		41
+GK Reach		41
+athleticism
+Speed	●	88
+Acceleration	●	78
+Kicking Power		91
+Jump	●	96
+Physical Contact		81
+Balance		76
+Stamina		89
+Weak Foot Usage		1
+Weak Foot Acc		2
+Form		2
+Injury Resistance		2
+Skills
+Long Range Shooting
+Outside Curler
+Low Lofted Pass
+Man Marking
+Interception
+Acrobatic Clearance
+Captaincy
+Fighting Spirit
+Blocker

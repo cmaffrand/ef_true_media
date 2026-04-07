@@ -1,0 +1,111 @@
+Cole Palmer
+Hole Player
+Height
+189cm
+Weight
+74kg
+Age
+23
+Foot
+
+B
+
+
+
+
+Striker's Instinct +2
+
+Agility +1
+
+0
+Condition History
+Arrow Probabilities (%)
+488294948898102102103103103104101
+
+AMF
+1/58
+Level Cap 
+30
+
+Shooting
+6
+
+Passing
+7
+
+Dribbling
+5
+
+Dexterity
+10
+
+Lower Body Strength
+9
+
+Aerial Strength
+
+Defending
+
+GK 1
+
+GK 2
+
+GK 3
+Attacking
+Offensive Awareness	●	90
+Ball Control	●	91
+Dribbling		90
+Tight Possession		91
+Low Pass		90
+Lofted Pass		82
+Finishing	●	90
+Heading		60
+Place Kicking		81
+Curl		84
+Defending
+Defensive Awareness	●	61
+Defensive Engagement		60
+Tackling		62
+Aggression		63
+Goalkeeping		41
+Gk Catching		41
+GK Parrying		41
+GK Reflexes		41
+GK Reach		41
+athleticism
+Speed	●	88
+Acceleration	●	91
+Kicking Power		88
+Jump		63
+Physical Contact		70
+Balance	●	89
+Stamina	●	88
+Weak Foot Usage		0
+Weak Foot Acc		1
+Form		2
+Injury Resistance		1
+Skills
+Double Touch
+Cut Behind & Turn
+Sole Control
+Long Range Curler
+Long Range Shooting
+First Time Shot
+One Touch Pass
+Through Passing
+Penalty Specialist
+Phenomenal Pass
+
+Body Measurements
+Leg Length
+11
+Arm Length
+10
+Waist Size
+5
+Chest
+2
+Shoulder Width
+7
+Neck Length
+7

@@ -1,0 +1,80 @@
+Name: Dominik Livakovic
+Position: GK
+Style: Defensive Goalkeeper
+
+Training:
+SHO: 0
+PAS: 0
+DRI: 0
+DEX: 0
+LBS: 0
+AER: 1
+DEF: 0
+GK1: 11
+GK2: 8
+GK3: 13
+Lv: 62
+Manager: Fabio Capello
+
+Attributes:
+Offensive Awareness: 43
+Ball Control: 59
+Dribbling: 47
+Tight Possession: 51
+Low Pass: 56
+Lofted Pass: 58
+Finishing: 43
+Heading: 55
+Place Kicking: 58
+Curl: 46
+Defensive Awareness: 52
+Defensive Engagement: 51
+Tackling: 63
+Aggression: 50
+Goalkeeping: 92
+Gk Catching: 90
+GK Parrying: 92
+GK Reflexes: 95
+GK Reach: 92
+Speed: 56
+Acceleration: 51
+Kicking Power: 79
+Jump: 84
+Balance: 59
+Stamina: 60
+Physical Contact: 73
+
+Skills:
+GK High Punt
+GK Long Throw
+GK Penalty Saver
+GK Direct Defending
+
+Biometrics:
+Height: 187
+Weight: 79
+Arm Length: 6
+Shoulder Width: 10
+Neck Length: 7
+Chest: 4
+Neck Size: 7
+Shoulder Height: 5
+Leg Length: 7
+Thigh Size: 7
+Waist Size: 5
+Arm Size: 8
+Calf Size: 6
+Leg Coverage Radius: 180.5
+Arm Coverage Radius: 169.3
+Jumping Height: 272.0
+Torso Collision: 52.8
+Leg Length Based Height: 187
+
+Com Skills:
+—
+
+Other Stats:
+Weak Foot Usage: 0
+Weak Foot Accuracy: 1
+Form: 2
+Injury Resistance: 2

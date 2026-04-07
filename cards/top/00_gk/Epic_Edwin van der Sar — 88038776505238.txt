@@ -1,0 +1,80 @@
+Name: Edwin van der Sar
+Position: GK
+Style: Offensive Goalkeeper
+
+Training:
+SHO: 0
+PAS: 0
+DRI: 0
+DEX: 0
+LBS: 0
+AER: 1
+DEF: 0
+GK1: 10
+GK2: 10
+GK3: 11
+Lv: 58
+Manager: Fabio Capello
+
+Attributes:
+Offensive Awareness: 41
+Ball Control: 59
+Dribbling: 51
+Tight Possession: 59
+Low Pass: 60
+Lofted Pass: 62
+Finishing: 42
+Heading: 46
+Place Kicking: 47
+Curl: 50
+Defensive Awareness: 47
+Defensive Engagement: 45
+Tackling: 51
+Aggression: 51
+Goalkeeping: 97
+Gk Catching: 96
+GK Parrying: 99
+GK Reflexes: 98
+GK Reach: 96
+Speed: 51
+Acceleration: 48
+Kicking Power: 68
+Jump: 80
+Balance: 49
+Stamina: 56
+Physical Contact: 73
+
+Skills:
+Gk Low Punt
+GK High Punt
+GK Long Throw
+GK Penalty Saver
+
+Biometrics:
+Height: 197
+Weight: 84
+Arm Length: 7
+Shoulder Width: 7
+Neck Length: 8
+Chest: 7
+Neck Size: 6
+Shoulder Height: 4
+Leg Length: 11
+Thigh Size: 7
+Waist Size: 4
+Arm Size: 7
+Calf Size: 7
+Leg Coverage Radius: 192.5
+Arm Coverage Radius: 178.9
+Jumping Height: 279.7
+Torso Collision: 54.8
+Leg Length Based Height: 201
+
+Com Skills:
+—
+
+Other Stats:
+Weak Foot Usage: 1
+Weak Foot Accuracy: 1
+Form: 2
+Injury Resistance: 1

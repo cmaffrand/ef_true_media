@@ -1,0 +1,110 @@
+Dean Huijsen
+Build Up
+Height
+195cm
+Weight
+87kg
+Age
+20
+Foot
+
+A
+
+
+
+
+Rebuilding +3
+
+Agility +1
+
+0
+Condition History
+Arrow Probabilities (%)
+521029696979188888585858283
+
+CB
+0/52
+Level Cap 
+27
+
+Shooting
+
+Passing
+
+Dribbling
+
+Dexterity
+8
+
+Lower Body Strength
+8
+
+Aerial Strength
+7
+
+Defending
+10
+
+GK 1
+
+GK 2
+
+GK 3
+Attacking
+Offensive Awareness		70
+Ball Control		72
+Dribbling		69
+Tight Possession		72
+Low Pass	●	80
+Lofted Pass		75
+Finishing	●	60
+Heading		84
+Place Kicking		59
+Curl		65
+Defending
+Defensive Awareness	●	95
+Defensive Engagement	●	93
+Tackling		90
+Aggression	●	88
+Goalkeeping		41
+Gk Catching		41
+GK Parrying		41
+GK Reflexes		41
+GK Reach		41
+athleticism
+Speed	●	88
+Acceleration	●	80
+Kicking Power		81
+Jump		80
+Physical Contact		87
+Balance	●	67
+Stamina	●	89
+Weak Foot Usage		3
+Weak Foot Acc		3
+Form		2
+Injury Resistance		1
+Skills
+Heading
+One Touch Pass
+Through Passing
+Weighted Pass
+Man Marking
+Interception
+Fighting Spirit
+Aerial Superiority
+Blocker
+Visionary Pass
+
+Body Measurements
+Leg Length
+8
+Arm Length
+8
+Waist Size
+5
+Chest
+5
+Shoulder Width
+9
+Neck Length
+8

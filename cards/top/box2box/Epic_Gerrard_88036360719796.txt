@@ -1,0 +1,113 @@
+Steven Gerrard
+Box To Box
+Height
+183cm
+Weight
+83kg
+Age
+24
+Foot
+
+B
+
+
+
+
+Shooting +3
+
+Off the Ball +1
+
+0
+Condition History
+Arrow Probabilities (%)
+51100104104102104104104103103103102101
+
+CMF
+0/68
+Level Cap 
+35
+
+Shooting
+5
+
+Passing
+6
+
+Dribbling
+8
+
+Dexterity
+9
+
+Lower Body Strength
+9
+
+Aerial Strength
+5
+
+Defending
+5
+
+GK 1
+
+GK 2
+
+GK 3
+Attacking
+Offensive Awareness	●	82
+Ball Control	●	86
+Dribbling		87
+Tight Possession		90
+Low Pass		88
+Lofted Pass		84
+Finishing	●	85
+Heading		74
+Place Kicking		81
+Curl		80
+Defending
+Defensive Awareness	●	84
+Defensive Engagement		88
+Tackling		83
+Aggression		84
+Goalkeeping		41
+Gk Catching		41
+GK Parrying		41
+GK Reflexes		41
+GK Reach		41
+athleticism
+Speed	●	90
+Acceleration	●	90
+Kicking Power	●	94
+Jump		77
+Physical Contact	●	90
+Balance		81
+Stamina	●	94
+Weak Foot Usage		1
+Weak Foot Acc		2
+Form		2
+Injury Resistance		2
+Skills
+Double Touch
+Long Range Curler
+Long Range Shooting
+Rising Shots
+First Time Shot
+Outside Curler
+Captaincy
+Fighting Spirit
+Phenomenal Pass
+Low Screamer
+
+Body Measurements
+Leg Length
+10
+Arm Length
+4
+Waist Size
+7
+Chest
+6
+Shoulder Width
+7
+Neck Length
+6

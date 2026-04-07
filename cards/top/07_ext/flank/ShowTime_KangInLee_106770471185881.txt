@@ -1,0 +1,111 @@
+Lee Kang-In
+Roaming Flank
+Height
+173cm
+Weight
+68kg
+Age
+24
+Foot
+
+A
+
+
+
+
+Offence Creator +3
+
+Agility +1
+
+0
+Condition History
+Arrow Probabilities (%)
+44769393869810310310310310310397
+
+RWF
+0/60
+Level Cap 
+31
+
+Shooting
+9
+
+Passing
+5
+
+Dribbling
+8
+
+Dexterity
+8
+
+Lower Body Strength
+9
+
+Aerial Strength
+
+Defending
+
+GK 1
+
+GK 2
+
+GK 3
+Attacking
+Offensive Awareness	●	87
+Ball Control	●	94
+Dribbling		91
+Tight Possession		94
+Low Pass	●	92
+Lofted Pass		87
+Finishing	●	85
+Heading		62
+Place Kicking		87
+Curl		92
+Defending
+Defensive Awareness	●	55
+Defensive Engagement		62
+Tackling		56
+Aggression		64
+Goalkeeping		41
+Gk Catching		41
+GK Parrying		41
+GK Reflexes		41
+GK Reach		41
+athleticism
+Speed	●	88
+Acceleration	●	92
+Kicking Power	●	91
+Jump		54
+Physical Contact		66
+Balance	●	88
+Stamina	●	88
+Weak Foot Usage		1
+Weak Foot Acc		1
+Form		2
+Injury Resistance		2
+Skills
+Double Touch
+Marseille Turn
+Sole Control
+One Touch Pass
+Through Passing
+Pinpoint Crossing
+Outside Curler
+Low Lofted Pass
+Gamesmanship
+Phenomenal Pass
+
+Body Measurements
+Leg Length
+6
+Arm Length
+7
+Waist Size
+7
+Chest
+7
+Shoulder Width
+9
+Neck Length
+5

@@ -1,0 +1,99 @@
+Rúben Neves
+Orchestrator
+Height
+180cm
+Weight
+75kg
+Age
+28
+Foot
+
+C
+
+
+
+
+Duelling +2
+
+Agility +1
+
+0
+Condition History
+Arrow Probabilities (%)
+499398989910199999895959591
+
+DMF
+0/60
+Level Cap 
+31
+
+Shooting
+0
+
+Passing
+4
+
+Dribbling
+7
+
+Dexterity
+8
+
+Lower Body Strength
+8
+
+Aerial Strength
+7
+
+Defending
+8
+
+GK 1
+
+GK 2
+
+GK 3
+Attacking
+Offensive Awareness		80
+Ball Control		90
+Dribbling		80
+Tight Possession		92
+Low Pass		90
+Lofted Pass		91
+Finishing	●	71
+Heading		69
+Place Kicking		83
+Curl		84
+Defending
+Defensive Awareness	●	84
+Defensive Engagement		90
+Tackling	●	84
+Aggression		87
+Goalkeeping		41
+Gk Catching		41
+GK Parrying		41
+GK Reflexes		41
+GK Reach		41
+athleticism
+Speed	●	77
+Acceleration	●	77
+Kicking Power		92
+Jump		74
+Physical Contact		76
+Balance	●	83
+Stamina	●	94
+Weak Foot Usage		2
+Weak Foot Acc		2
+Form		2
+Injury Resistance		2
+Skills
+Cut Behind & Turn
+Long Range Curler
+Long Range Shooting
+Knuckle Shot
+Dipping Shot
+Weighted Pass
+Outside Curler
+Low Lofted Pass
+Penalty Specialist
+Game Changing Pass

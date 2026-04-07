@@ -1,0 +1,112 @@
+Eberechi Eze
+Hole Player
+Height
+178cm
+Weight
+67kg
+Age
+27
+Foot
+
+A
+
+
+
+
+Ball Protection +3
+
+Off the Ball +1
+
+0
+Condition History
+Arrow Probabilities (%)
+4783969689100104105104105105105101
+
+AMF
+0/62
+Level Cap 
+32
+
+Shooting
+7
+
+Passing
+8
+
+Dribbling
+8
+
+Dexterity
+8
+
+Lower Body Strength
+8
+
+Aerial Strength
+4
+
+Defending
+
+GK 1
+
+GK 2
+
+GK 3
+Attacking
+Offensive Awareness	●	86
+Ball Control	●	94
+Dribbling		93
+Tight Possession	●	94
+Low Pass		90
+Lofted Pass		87
+Finishing	●	88
+Heading		64
+Place Kicking		84
+Curl		87
+Defending
+Defensive Awareness	●	57
+Defensive Engagement		64
+Tackling		62
+Aggression		67
+Goalkeeping		41
+Gk Catching		41
+GK Parrying		41
+GK Reflexes		41
+GK Reach		41
+athleticism
+Speed	●	91
+Acceleration	●	93
+Kicking Power		91
+Jump		62
+Physical Contact	●	80
+Balance	●	90
+Stamina	●	85
+Weak Foot Usage		2
+Weak Foot Acc		2
+Form		2
+Injury Resistance		0
+Skills
+Double Touch
+Cut Behind & Turn
+Sole Control
+Long Range Curler
+Long Range Shooting
+One Touch Pass
+Through Passing
+Fighting Spirit
+Blitz Curler
+Magnetic Feet
+
+Body Measurements
+Leg Length
+11
+Arm Length
+9
+Waist Size
+5
+Chest
+9
+Shoulder Width
+7
+Neck Length
+7

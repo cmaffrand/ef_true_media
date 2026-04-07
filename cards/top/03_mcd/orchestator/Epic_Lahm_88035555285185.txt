@@ -1,0 +1,98 @@
+Philipp Lahm
+Orchestrator
+Height
+170cm
+Weight
+66kg
+Age
+31
+Foot
+
+B
+
+
+
+
+Regista +2
+
+Technique +1
+
+0
+Condition History
+Arrow Probabilities (%)
+48981051051021041061061011011019690
+
+DMF
+0/64
+Level Cap 
+33
+
+Shooting
+
+Passing
+7
+
+Dribbling
+9
+
+Dexterity
+9
+
+Lower Body Strength
+9
+
+Aerial Strength
+5
+
+Defending
+3
+
+GK 1
+
+GK 2
+
+GK 3
+Attacking
+Offensive Awareness		77
+Ball Control	●	88
+Dribbling	●	90
+Tight Possession	●	95
+Low Pass	●	94
+Lofted Pass		92
+Finishing	●	63
+Heading		68
+Place Kicking		66
+Curl		80
+Defending
+Defensive Awareness	●	90
+Defensive Engagement		90
+Tackling	●	86
+Aggression		80
+Goalkeeping		41
+Gk Catching		41
+GK Parrying		41
+GK Reflexes		41
+GK Reach		41
+athleticism
+Speed		90
+Acceleration		95
+Kicking Power		81
+Jump		77
+Physical Contact		75
+Balance		92
+Stamina		97
+Weak Foot Usage		2
+Weak Foot Acc		3
+Form		2
+Injury Resistance		2
+Skills
+One Touch Pass
+Through Passing
+Weighted Pass
+Outside Curler
+Low Lofted Pass
+Interception
+Captaincy
+Fighting Spirit
+Blocker
+Fortress

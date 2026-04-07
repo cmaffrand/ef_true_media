@@ -1,0 +1,87 @@
+Name: Carlos Tevez
+Position: CF
+Style: Goal Poacher
+
+Training:
+SHO: 7
+PAS: 4
+DRI: 8
+DEX: 10
+LBS: 10
+AER: 4
+DEF: 0
+GK1: 0
+GK2: 0
+GK3: 0
+Lv: 66
+Manager: Fabio Capello
+
+Attributes:
+Offensive Awareness: 93
+Ball Control: 94
+Dribbling: 92
+Tight Possession: 92
+Low Pass: 75
+Lofted Pass: 71
+Finishing: 92
+Heading: 74
+Place Kicking: 80
+Curl: 82
+Defensive Awareness: 57
+Defensive Engagement: 58
+Tackling: 66
+Aggression: 67
+Goalkeeping: 41
+Gk Catching: 41
+GK Parrying: 41
+GK Reflexes: 41
+GK Reach: 41
+Speed: 91
+Acceleration: 94
+Kicking Power: 95
+Jump: 79
+Balance: 90
+Stamina: 90
+Physical Contact: 87
+
+Skills:
+Double Touch
+Long Range Curler
+Long Range Shooting
+Dipping Shot
+First Time Shot
+Outside Curler
+Fighting Spirit
+Momentum Dribbling
+Will Power
+
+Biometrics:
+Height: 171
+Weight: 77
+Arm Length: 7
+Shoulder Width: 11
+Neck Length: 4
+Chest: 12
+Neck Size: 13
+Shoulder Height: 3
+Leg Length: 7
+Thigh Size: 12
+Waist Size: 8
+Arm Size: 11
+Calf Size: 9
+Leg Coverage Radius: 165.0
+Arm Coverage Radius: 156.0
+Jumping Height: 252.0
+Torso Collision: 49.2
+Leg Length Based Height: 171
+
+Com Skills:
+Mazing Run
+Incisive Run
+Early Crosser
+
+Other Stats:
+Weak Foot Usage: 2
+Weak Foot Accuracy: 2
+Form: 1
+Injury Resistance: 1

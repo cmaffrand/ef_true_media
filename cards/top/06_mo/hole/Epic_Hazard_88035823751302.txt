@@ -1,0 +1,110 @@
+Eden Hazard
+Hole Player
+Height
+173cm
+Weight
+76kg
+Age
+27
+Foot
+
+B
+
+
+
+
+Ball-carrying +2
+
+Technique +1
+
+0
+Condition History
+Arrow Probabilities (%)
+457292928196104104104106106106102
+
+AMF
+0/68
+Level Cap 
+35
+
+Shooting
+7
+
+Passing
+9
+
+Dribbling
+7
+
+Dexterity
+10
+
+Lower Body Strength
+9
+
+Aerial Strength
+
+Defending
+
+GK 1
+
+GK 2
+
+GK 3
+Attacking
+Offensive Awareness		87
+Ball Control	●	95
+Dribbling	●	98
+Tight Possession	●	95
+Low Pass	●	90
+Lofted Pass		83
+Finishing	●	91
+Heading		54
+Place Kicking		78
+Curl		87
+Defending
+Defensive Awareness	●	45
+Defensive Engagement		54
+Tackling		45
+Aggression		51
+Goalkeeping		41
+Gk Catching		41
+GK Parrying		41
+GK Reflexes		41
+GK Reach		41
+athleticism
+Speed	●	93
+Acceleration		96
+Kicking Power		91
+Jump		53
+Physical Contact		75
+Balance	●	98
+Stamina		84
+Weak Foot Usage		2
+Weak Foot Acc		3
+Form		2
+Injury Resistance		1
+Skills
+Double Touch
+Cut Behind & Turn
+Sole Control
+Long Range Curler
+Long Range Shooting
+First Time Shot
+Outside Curler
+Gamesmanship
+Captaincy
+
+Body Measurements
+Leg Length
+6
+Arm Length
+8
+Waist Size
+8
+Chest
+8
+Shoulder Width
+7
+Neck Length
+6

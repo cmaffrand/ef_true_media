@@ -1,0 +1,87 @@
+Name: Rui Costa
+Position: CMF
+Style: Hole Player
+
+Training:
+SHO: 9
+PAS: 4
+DRI: 8
+DEX: 10
+LBS: 11
+AER: 0
+DEF: 0
+GK1: 0
+GK2: 0
+GK3: 0
+Lv: 70
+Manager: Fabio Capello
+
+Attributes:
+Offensive Awareness: 82
+Ball Control: 95
+Dribbling: 95
+Tight Possession: 96
+Low Pass: 96
+Lofted Pass: 86
+Finishing: 90
+Heading: 65
+Place Kicking: 90
+Curl: 94
+Defensive Awareness: 59
+Defensive Engagement: 61
+Tackling: 58
+Aggression: 66
+Goalkeeping: 41
+Gk Catching: 41
+GK Parrying: 41
+GK Reflexes: 41
+GK Reach: 41
+Speed: 88
+Acceleration: 92
+Kicking Power: 90
+Jump: 65
+Balance: 91
+Stamina: 90
+Physical Contact: 71
+
+Skills:
+Double Touch
+Sole Control
+Long Range Curler
+Heel Trick
+One Touch Pass
+Through Passing
+Pinpoint Crossing
+Outside Curler
+Rabona
+Captaincy
+
+Biometrics:
+Height: 180
+Weight: 80
+Arm Length: 7
+Shoulder Width: 8
+Neck Length: 6
+Chest: 7
+Neck Size: 7
+Shoulder Height: 7
+Leg Length: 9
+Thigh Size: 9
+Waist Size: 10
+Arm Size: 7
+Calf Size: 9
+Leg Coverage Radius: 174.8
+Arm Coverage Radius: 163.6
+Jumping Height: 252.2
+Torso Collision: 50.7
+Leg Length Based Height: 182
+
+Com Skills:
+Mazing Run
+Incisive Run
+
+Other Stats:
+Weak Foot Usage: 1
+Weak Foot Accuracy: 2
+Form: 2
+Injury Resistance: 1

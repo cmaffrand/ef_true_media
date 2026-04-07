@@ -1,0 +1,86 @@
+attribute,min,ok,top,ponderation
+Height,165,175,185,10
+Offensive Awareness,80,85,90,17
+Ball Control,82,87,90,10
+Dribbling,82,87,90,10
+Tight Possession,82,87,90,10
+Low Pass,80,85,90,10
+Lofted Pass,80,85,90,8
+Finishing,85,90,95,17
+Heading,70,80,90,10
+Place Kicking,75,80,90,5
+Curl,75,82,90,8
+Defensive Awareness,60,70,75,0
+Defensive Engagement,60,70,75,0
+Tackling,60,70,75,0
+Aggression,60,70,75,0
+Speed,84,90,95,13
+Acceleration,84,90,95,13
+Kicking Power,84,90,95,13
+Jump,75,80,90,5
+Physical Contact,75,80,90,10
+Balance,80,85,90,10
+Stamina,80,85,90,3
+
+epic_dif,0,0,0,0
+weak_foot_usage,0,0,0,1000
+weak_foot_acc,0,0,0,1300
+player_form,0,0,0,3000
+injury_resistance,0,0,0,0
+
+Skills,0,0,0,0
+Phenomenal Finishing,0,0,0,2100
+Momentum Dribbling,0,0,0,1700
+Blitz Curler,0,0,0,1700
+Low Screamer,0,0,0,1300
+Bullet Header,0,0,0,1300
+Visionary Pass,0,0,0,1000
+Will Power,0,0,0,1000
+Phenomenal Pass,0,0,0,1000
+Acceleration Burst,0,0,0,800
+Magnetic Feet,0,0,0,800
+Game Changing Pass,0,0,0,500
+Edged Crossing,0,0,0,200
+Long Range Curler,0,0,0,1000
+First Time Shot,0,0,0,1000
+Long Range Shooting,0,0,0,1000
+Through Passing,0,0,0,800
+One Touch Pass,0,0,0,800
+Double Touch,0,0,0,800
+Super Sub,0,0,0,800
+Marseille Turn,0,0,0,800
+Flip Flap,0,0,0,500
+Fighting Spirit,0,0,0,800
+Acrobatic Finishing,0,0,0,800
+Sole Control,0,0,0,500 
+Aerial Superiority,0,0,0,500
+Heading,0,0,0,500
+Heel Trick,0,0,0,500
+Weighted Pass,0,0,0,300
+Gamesmanship,0,0,0,300
+Outside Curler,0,0,0,300
+Cut Behind & Turn,0,0,0,300
+Low Lofted Pass,0,0,0,300
+Scissors Feint,0,0,0,300
+Scotch Move,0,0,0,300
+Chop Turn,0,0,0,300
+Track Back,0,0,0,300
+Dipping Shot,0,0,0,300
+Rising Shots,0,0,0,300
+Knuckle Shot,0,0,0,300
+Chip Shot Control,0,0,0,300
+Rabona,0,0,0,300
+Pinpoint Crossing,0,0,0,200
+Sombrero,0,0,0,200
+Captaincy,0,0,0,200
+Penalty Specialist,0,0,0,200
+
+Bio,0,0,0,0
+Leg Length,0,0,0,150
+Arm Length,0,0,0,25
+Waist Size,0,0,0,0
+Chest,0,0,0,25
+Shoulder Width,0,0,0,25
+Neck Length,0,0,0,0
+Quick Bio,0,0,0,5
+Strong Bio,0,0,0,5

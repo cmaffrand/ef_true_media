@@ -1,0 +1,112 @@
+Johan Cruyff
+Deep-Lying Forward
+Height
+180cm
+Weight
+74kg
+Age
+26
+Foot
+
+B
+
+
+
+
+Fantasista +2
+
+Off the Ball +1
+
+0
+Condition History
+Arrow Probabilities (%)
+5081969688100106106106107107107104
+
+CF
+0/60
+Level Cap 
+31
+
+Shooting
+8
+
+Passing
+8
+
+Dribbling
+6
+
+Dexterity
+8
+
+Lower Body Strength
+9
+
+Aerial Strength
+1
+
+Defending
+
+GK 1
+
+GK 2
+
+GK 3
+Attacking
+Offensive Awareness	●	90
+Ball Control	●	93
+Dribbling	●	94
+Tight Possession		93
+Low Pass		91
+Lofted Pass		87
+Finishing	●	91
+Heading		68
+Place Kicking		85
+Curl		91
+Defending
+Defensive Awareness	●	52
+Defensive Engagement		54
+Tackling		53
+Aggression		60
+Goalkeeping		41
+Gk Catching		41
+GK Parrying		41
+GK Reflexes		41
+GK Reach		41
+athleticism
+Speed	●	93
+Acceleration	●	95
+Kicking Power		88
+Jump		80
+Physical Contact		75
+Balance	●	92
+Stamina	●	88
+Weak Foot Usage		1
+Weak Foot Acc		3
+Form		2
+Injury Resistance		1
+Skills
+Flip Flap
+Marseille Turn
+Cut Behind & Turn
+Long Range Curler
+Heel Trick
+One Touch Pass
+Through Passing
+Outside Curler
+Captaincy
+Phenomenal Pass
+
+Body Measurements
+Leg Length
+8
+Arm Length
+6
+Waist Size
+2
+Chest
+3
+Shoulder Width
+10
+Neck Length
+10

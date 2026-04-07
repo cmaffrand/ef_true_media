@@ -1,0 +1,112 @@
+Robert Lewandowski
+Goal Poacher
+Height
+185cm
+Weight
+81kg
+Age
+37
+Foot
+
+C
+
+
+
+
+Offence Creator +3
+
+Agility +1
+
+0
+Condition History
+Arrow Probabilities (%)
+517785857986919193969698101
+
+CF
+0/52
+Level Cap 
+27
+
+Shooting
+8
+
+Passing
+0
+
+Dribbling
+3
+
+Dexterity
+8
+
+Lower Body Strength
+7
+
+Aerial Strength
+9
+
+Defending
+
+GK 1
+
+GK 2
+
+GK 3
+Attacking
+Offensive Awareness	●	90
+Ball Control	●	82
+Dribbling		80
+Tight Possession		81
+Low Pass	●	75
+Lofted Pass		70
+Finishing	●	92
+Heading		90
+Place Kicking		83
+Curl		76
+Defending
+Defensive Awareness	●	43
+Defensive Engagement		55
+Tackling		43
+Aggression		58
+Goalkeeping		41
+Gk Catching		41
+GK Parrying		41
+GK Reflexes		41
+GK Reach		41
+athleticism
+Speed	●	84
+Acceleration	●	84
+Kicking Power	●	90
+Jump		87
+Physical Contact		91
+Balance	●	78
+Stamina	●	82
+Weak Foot Usage		2
+Weak Foot Acc		2
+Form		2
+Injury Resistance		2
+Skills
+Heading
+Long Range Curler
+Long Range Shooting
+Acrobatic Finishing
+Heel Trick
+First Time Shot
+One Touch Pass
+Outside Curler
+Penalty Specialist
+Phenomenal Finishing
+
+Body Measurements
+Leg Length
+7
+Arm Length
+8
+Waist Size
+5
+Chest
+5
+Shoulder Width
+9
+Neck Length
+7

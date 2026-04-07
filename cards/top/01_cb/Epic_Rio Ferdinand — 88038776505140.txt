@@ -1,0 +1,87 @@
+Name: Rio Ferdinand
+Position: CB
+Style: Build Up
+
+Training:
+SHO: 0
+PAS: 0
+DRI: 0
+DEX: 6
+LBS: 8
+AER: 8
+DEF: 12
+GK1: 0
+GK2: 0
+GK3: 0
+Lv: 56
+Manager: Fabio Capello
+
+Attributes:
+Offensive Awareness: 54
+Ball Control: 66
+Dribbling: 58
+Tight Possession: 65
+Low Pass: 70
+Lofted Pass: 69
+Finishing: 52
+Heading: 87
+Place Kicking: 51
+Curl: 55
+Defensive Awareness: 99
+Defensive Engagement: 97
+Tackling: 95
+Aggression: 95
+Goalkeeping: 41
+Gk Catching: 41
+GK Parrying: 41
+GK Reflexes: 41
+GK Reach: 41
+Speed: 90
+Acceleration: 83
+Kicking Power: 76
+Jump: 91
+Balance: 70
+Stamina: 88
+Physical Contact: 93
+
+Skills:
+Low Lofted Pass
+Man Marking
+Interception
+Captaincy
+Fighting Spirit
+Blocker
+Aerial Superiority
+Sliding Tackle
+Fortress
+Aerial Fort
+
+Biometrics:
+Height: 196
+Weight: 86
+Arm Length: 8
+Shoulder Width: 7
+Neck Length: 7
+Chest: 7
+Neck Size: 10
+Shoulder Height: 7
+Leg Length: 11
+Thigh Size: 7
+Waist Size: 7
+Arm Size: 7
+Calf Size: 7
+Leg Coverage Radius: 191.5
+Arm Coverage Radius: 179.1
+Jumping Height: 285.7
+Torso Collision: 54.7
+Leg Length Based Height: 200
+
+Com Skills:
+Speeding Bullet
+Early Crosser
+
+Other Stats:
+Weak Foot Usage: 1
+Weak Foot Accuracy: 1
+Form: 2
+Injury Resistance: 2

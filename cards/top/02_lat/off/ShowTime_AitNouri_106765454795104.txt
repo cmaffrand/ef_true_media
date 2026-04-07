@@ -1,0 +1,113 @@
+Rayan Aït-Nouri
+Offensive Wingback
+Height
+180cm
+Weight
+70kg
+Age
+24
+Foot
+
+A
+
+
+
+
+Agility +3
+
+Crossing +1
+
+0
+Condition History
+Arrow Probabilities (%)
+499310110196100103103981001009691
+
+LB
+0/68
+Level Cap 
+35
+
+Shooting
+8
+
+Passing
+8
+
+Dribbling
+8
+
+Dexterity
+6
+
+Lower Body Strength
+8
+
+Aerial Strength
+4
+
+Defending
+6
+
+GK 1
+
+GK 2
+
+GK 3
+Attacking
+Offensive Awareness		76
+Ball Control		89
+Dribbling		90
+Tight Possession		88
+Low Pass		84
+Lofted Pass	●	91
+Finishing	●	69
+Heading		66
+Place Kicking		71
+Curl	●	84
+Defending
+Defensive Awareness	●	75
+Defensive Engagement		82
+Tackling		77
+Aggression		80
+Goalkeeping		41
+Gk Catching		41
+GK Parrying		41
+GK Reflexes		41
+GK Reach		41
+athleticism
+Speed	●	94
+Acceleration	●	92
+Kicking Power		82
+Jump		77
+Physical Contact		76
+Balance	●	86
+Stamina	●	94
+Weak Foot Usage		1
+Weak Foot Acc		1
+Form		1
+Injury Resistance		0
+Skills
+Double Touch
+Sole Control
+One Touch Pass
+Through Passing
+Pinpoint Crossing
+Outside Curler
+Interception
+Fighting Spirit
+Edged Crossing
+Acceleration Burst
+
+Body Measurements
+Leg Length
+6
+Arm Length
+6
+Waist Size
+9
+Chest
+7
+Shoulder Width
+8
+Neck Length
+6

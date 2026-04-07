@@ -1,0 +1,98 @@
+Claude Makélélé
+Destroyer
+Height
+174cm
+Weight
+70kg
+Age
+28
+Foot
+
+B
+
+
+
+
+Defending +3
+
+Agility +1
+
+0
+Condition History
+Arrow Probabilities (%)
+501061061061051031021029799999491
+
+DMF
+0/64
+Level Cap 
+33
+
+Shooting
+
+Passing
+4
+
+Dribbling
+8
+
+Dexterity
+8
+
+Lower Body Strength
+9
+
+Aerial Strength
+5
+
+Defending
+9
+
+GK 1
+
+GK 2
+
+GK 3
+Attacking
+Offensive Awareness		73
+Ball Control		87
+Dribbling		84
+Tight Possession		90
+Low Pass		88
+Lofted Pass		83
+Finishing	●	63
+Heading		67
+Place Kicking		55
+Curl		63
+Defending
+Defensive Awareness	●	96
+Defensive Engagement		93
+Tackling	●	97
+Aggression		95
+Goalkeeping		41
+Gk Catching		41
+GK Parrying		41
+GK Reflexes		41
+GK Reach		41
+athleticism
+Speed	●	91
+Acceleration	●	95
+Kicking Power		89
+Jump	●	83
+Physical Contact		90
+Balance	●	92
+Stamina	●	95
+Weak Foot Usage		1
+Weak Foot Acc		2
+Form		2
+Injury Resistance		2
+Skills
+Double Touch
+One Touch Pass
+Man Marking
+Interception
+Acrobatic Clearance
+Fighting Spirit
+Blocker
+Sliding Tackle
+Phenomenal Pass
+Fortress

@@ -1,0 +1,111 @@
+Virgil van Dijk
+Build Up
+Height
+195cm
+Weight
+92kg
+Age
+34
+Foot
+
+A
+
+
+
+
+Rebuilding +3
+
+Shutdown +1
+
+0
+Condition History
+Arrow Probabilities (%)
+531059494968582827678787376
+
+CB
+0/54
+Level Cap 
+28
+
+Shooting
+
+Passing
+
+Dribbling
+
+Dexterity
+7
+
+Lower Body Strength
+9
+
+Aerial Strength
+6
+
+Defending
+11
+
+GK 1
+0
+
+GK 2
+
+GK 3
+Attacking
+Offensive Awareness		56
+Ball Control		64
+Dribbling		58
+Tight Possession		62
+Low Pass	●	72
+Lofted Pass		70
+Finishing	●	50
+Heading		84
+Place Kicking		51
+Curl		63
+Defending
+Defensive Awareness	●	98
+Defensive Engagement	●	97
+Tackling	●	95
+Aggression	●	98
+Goalkeeping		41
+Gk Catching		41
+GK Parrying		41
+GK Reflexes		41
+GK Reach		41
+athleticism
+Speed	●	90
+Acceleration		81
+Kicking Power		84
+Jump		90
+Physical Contact		94
+Balance		72
+Stamina		87
+Weak Foot Usage		2
+Weak Foot Acc		2
+Form		2
+Injury Resistance		0
+Skills
+Heading
+Low Lofted Pass
+Man Marking
+Interception
+Captaincy
+Aerial Superiority
+Blocker
+Sliding Tackle
+Long Reach Tackle
+Visionary Pass
+
+Body Measurements
+Leg Length
+11
+Arm Length
+7
+Waist Size
+4
+Chest
+5
+Shoulder Width
+7
+Neck Length
+7

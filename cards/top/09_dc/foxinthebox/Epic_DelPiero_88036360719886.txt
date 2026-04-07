@@ -1,0 +1,111 @@
+Alessandro Del Piero
+Fox In The Box
+Height
+173cm
+Weight
+73kg
+Age
+26
+Foot
+
+B
+
+
+
+
+Striker's Instinct +3
+
+Free-kick Taking +1
+
+0
+Condition History
+Arrow Probabilities (%)
+477592928294102102102105105106106
+
+CF
+0/60
+Level Cap 
+31
+
+Shooting
+8
+
+Passing
+2
+
+Dribbling
+7
+
+Dexterity
+7
+
+Lower Body Strength
+10
+
+Aerial Strength
+6
+
+Defending
+
+GK 1
+
+GK 2
+
+GK 3
+Attacking
+Offensive Awareness	●	92
+Ball Control	●	91
+Dribbling		92
+Tight Possession		90
+Low Pass		80
+Lofted Pass		76
+Finishing	●	97
+Heading		72
+Place Kicking	●	95
+Curl	●	95
+Defending
+Defensive Awareness	●	47
+Defensive Engagement		47
+Tackling		45
+Aggression		48
+Goalkeeping		41
+Gk Catching		41
+GK Parrying		41
+GK Reflexes		41
+GK Reach		41
+athleticism
+Speed		92
+Acceleration	●	95
+Kicking Power	●	92
+Jump		75
+Physical Contact		75
+Balance		94
+Stamina		87
+Weak Foot Usage		2
+Weak Foot Acc		3
+Form		1
+Injury Resistance		1
+Skills
+Double Touch
+Marseille Turn
+Long Range Curler
+Long Range Shooting
+Rising Shots
+First Time Shot
+Through Passing
+Gamesmanship
+Blitz Curler
+
+Body Measurements
+Leg Length
+10
+Arm Length
+6
+Waist Size
+10
+Chest
+10
+Shoulder Width
+9
+Neck Length
+4

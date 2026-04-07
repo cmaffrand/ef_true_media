@@ -1,0 +1,112 @@
+Jamal Musiala
+Hole Player
+Height
+183cm
+Weight
+70kg
+Age
+22
+Foot
+
+C
+
+
+
+
+Technique +2
+
+Agility +1
+
+0
+Condition History
+Arrow Probabilities (%)
+487893938597103103103104104104101
+
+AMF
+0/62
+Level Cap 
+32
+
+Shooting
+8
+
+Passing
+5
+
+Dribbling
+8
+
+Dexterity
+8
+
+Lower Body Strength
+10
+
+Aerial Strength
+2
+
+Defending
+
+GK 1
+
+GK 2
+
+GK 3
+Attacking
+Offensive Awareness		83
+Ball Control	●	95
+Dribbling	●	94
+Tight Possession	●	96
+Low Pass	●	90
+Lofted Pass		80
+Finishing	●	88
+Heading		68
+Place Kicking		76
+Curl		85
+Defending
+Defensive Awareness	●	55
+Defensive Engagement		56
+Tackling		52
+Aggression		55
+Goalkeeping		41
+Gk Catching		41
+GK Parrying		41
+GK Reflexes		41
+GK Reach		41
+athleticism
+Speed	●	92
+Acceleration	●	93
+Kicking Power		88
+Jump		70
+Physical Contact		70
+Balance	●	92
+Stamina	●	86
+Weak Foot Usage		1
+Weak Foot Acc		2
+Form		1
+Injury Resistance		1
+Skills
+Double Touch
+Chop Turn
+Cut Behind & Turn
+Sole Control
+Long Range Curler
+First Time Shot
+One Touch Pass
+Through Passing
+Gamesmanship
+Momentum Dribbling
+
+Body Measurements
+Leg Length
+11
+Arm Length
+9
+Waist Size
+6
+Chest
+6
+Shoulder Width
+7
+Neck Length
+5

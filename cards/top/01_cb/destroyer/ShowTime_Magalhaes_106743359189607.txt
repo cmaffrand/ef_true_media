@@ -1,0 +1,97 @@
+Gabriel Magalhães
+Destroyer
+Height
+190cm
+Weight
+87kg
+Age
+28
+Foot
+
+C
+
+
+
+
+Defending +2
+
+Shutdown +1
+
+0
+Condition History
+Arrow Probabilities (%)
+521039393948481817579797477
+
+CB
+0/52
+Level Cap 
+27
+
+Shooting
+
+Passing
+
+Dribbling
+
+Dexterity
+8
+
+Lower Body Strength
+8
+
+Aerial Strength
+8
+
+Defending
+9
+
+GK 1
+1
+
+GK 2
+
+GK 3
+Attacking
+Offensive Awareness		63
+Ball Control		66
+Dribbling		62
+Tight Possession		65
+Low Pass		66
+Lofted Pass		64
+Finishing	●	52
+Heading		93
+Place Kicking		62
+Curl		59
+Defending
+Defensive Awareness	●	94
+Defensive Engagement	●	93
+Tackling	●	97
+Aggression		95
+Goalkeeping		42
+Gk Catching		41
+GK Parrying		41
+GK Reflexes		41
+GK Reach		41
+athleticism
+Speed	●	89
+Acceleration	●	81
+Kicking Power		80
+Jump	●	95
+Physical Contact		91
+Balance		66
+Stamina		85
+Weak Foot Usage		0
+Weak Foot Acc		1
+Form		2
+Injury Resistance		2
+Skills
+Heading
+First Time Shot
+One Touch Pass
+Man Marking
+Interception
+Fighting Spirit
+Aerial Superiority
+Blocker
+Sliding Tackle
+Aerial Fort

@@ -1,0 +1,88 @@
+Name: Christian Karembeu
+Position: RMF
+Style: Box To Box
+
+Training:
+SHO: 4
+PAS: 8
+DRI: 8
+DEX: 6
+LBS: 8
+AER: 4
+DEF: 8
+GK1: 0
+GK2: 0
+GK3: 0
+Lv: 64
+Manager: Fabio Capello
+
+Attributes:
+Offensive Awareness: 80
+Ball Control: 89
+Dribbling: 87
+Tight Possession: 90
+Low Pass: 88
+Lofted Pass: 88
+Finishing: 75
+Heading: 78
+Place Kicking: 66
+Curl: 69
+Defensive Awareness: 87
+Defensive Engagement: 90
+Tackling: 88
+Aggression: 93
+Goalkeeping: 41
+Gk Catching: 41
+GK Parrying: 41
+GK Reflexes: 41
+GK Reach: 41
+Speed: 88
+Acceleration: 92
+Kicking Power: 89
+Jump: 81
+Balance: 80
+Stamina: 94
+Physical Contact: 90
+
+Skills:
+Outside Curler
+Man Marking
+Track Back
+Interception
+Super Sub
+Fighting Spirit
+Blocker
+Aerial Superiority
+Fortress
+Low Screamer
+
+Biometrics:
+Height: 178
+Weight: 81
+Arm Length: 7
+Shoulder Width: 10
+Neck Length: 8
+Chest: 10
+Neck Size: 9
+Shoulder Height: 5
+Leg Length: 7
+Thigh Size: 10
+Waist Size: 10
+Arm Size: 10
+Calf Size: 7
+Leg Coverage Radius: 171.8
+Arm Coverage Radius: 162.2
+Jumping Height: 261.3
+Torso Collision: 50.8
+Leg Length Based Height: 178
+
+Com Skills:
+Mazing Run
+Speeding Bullet
+Early Crosser
+
+Other Stats:
+Weak Foot Usage: 1
+Weak Foot Accuracy: 1
+Form: 2
+Injury Resistance: 1

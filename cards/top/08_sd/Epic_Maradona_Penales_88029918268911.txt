@@ -1,0 +1,111 @@
+Diego Maradona
+Classic No. 10
+Height
+164cm
+Weight
+70kg
+Age
+23
+Foot
+
+B
+
+
+
+
+Technique +2
+
+Off the Ball +1
+
+0
+Condition History
+Arrow Probabilities (%)
+43739090819399999810110110197
+
+SS
+0/58
+Level Cap 
+30
+
+Shooting
+8
+
+Passing
+1
+
+Dribbling
+8
+
+Dexterity
+8
+
+Lower Body Strength
+11
+
+Aerial Strength
+
+Defending
+
+GK 1
+
+GK 2
+
+GK 3
+Attacking
+Offensive Awareness	●	84
+Ball Control	●	93
+Dribbling	●	94
+Tight Possession	●	95
+Low Pass	●	80
+Lofted Pass		74
+Finishing	●	85
+Heading		69
+Place Kicking		91
+Curl		88
+Defending
+Defensive Awareness	●	51
+Defensive Engagement		50
+Tackling		53
+Aggression		61
+Goalkeeping		41
+Gk Catching		41
+GK Parrying		41
+GK Reflexes		41
+GK Reach		41
+athleticism
+Speed	●	90
+Acceleration	●	92
+Kicking Power		88
+Jump		72
+Physical Contact		61
+Balance		94
+Stamina	●	89
+Weak Foot Usage		1
+Weak Foot Acc		2
+Form		2
+Injury Resistance		1
+Skills
+Double Touch
+Marseille Turn
+Long Range Curler
+Long Range Shooting
+Acrobatic Finishing
+Through Passing
+Weighted Pass
+Outside Curler
+Low Lofted Pass
+Gamesmanship
+
+Body Measurements
+Leg Length
+10
+Arm Length
+7
+Waist Size
+7
+Chest
+10
+Shoulder Width
+12
+Neck Length
+4

@@ -1,0 +1,87 @@
+Name: Ferenc Puskas
+Position: CF
+Style: Deep Lying Forward
+
+Training:
+SHO: 8
+PAS: 5
+DRI: 8
+DEX: 10
+LBS: 8
+AER: 2
+DEF: 0
+GK1: 0
+GK2: 0
+GK3: 0
+Lv: 62
+Manager: Fabio Capello
+
+Attributes:
+Offensive Awareness: 92
+Ball Control: 93
+Dribbling: 94
+Tight Possession: 95
+Low Pass: 86
+Lofted Pass: 81
+Finishing: 98
+Heading: 76
+Place Kicking: 81
+Curl: 88
+Defensive Awareness: 45
+Defensive Engagement: 45
+Tackling: 44
+Aggression: 46
+Goalkeeping: 41
+Gk Catching: 41
+GK Parrying: 41
+GK Reflexes: 41
+GK Reach: 41
+Speed: 91
+Acceleration: 92
+Kicking Power: 93
+Jump: 74
+Balance: 90
+Stamina: 82
+Physical Contact: 75
+
+Skills:
+Sole Control
+Long Range Curler
+Long Range Shooting
+First Time Shot
+One Touch Pass
+Through Passing
+Outside Curler
+Captaincy
+Blitz Curler
+Low Screamer
+
+Biometrics:
+Height: 172
+Weight: 75
+Arm Length: 6
+Shoulder Width: 8
+Neck Length: 5
+Chest: 7
+Neck Size: 8
+Shoulder Height: 8
+Leg Length: 5
+Thigh Size: 8
+Waist Size: 7
+Arm Size: 9
+Calf Size: 7
+Leg Coverage Radius: 164.9
+Arm Coverage Radius: 155.4
+Jumping Height: 249.9
+Torso Collision: 48.3
+Leg Length Based Height: 170
+
+Com Skills:
+Mazing Run
+Incisive Run
+
+Other Stats:
+Weak Foot Usage: 1
+Weak Foot Accuracy: 2
+Form: 2
+Injury Resistance: 2

@@ -1,0 +1,113 @@
+Joelinton
+Box To Box
+Height
+186cm
+Weight
+81kg
+Age
+29
+Foot
+
+B
+
+
+
+
+Balancer +3
+
+Off the Ball +1
+
+0
+Condition History
+Arrow Probabilities (%)
+51971001009910099999898989695
+
+CMF
+0/64
+Level Cap 
+33
+
+Shooting
+2
+
+Passing
+8
+
+Dribbling
+5
+
+Dexterity
+9
+
+Lower Body Strength
+9
+
+Aerial Strength
+4
+
+Defending
+7
+
+GK 1
+
+GK 2
+
+GK 3
+Attacking
+Offensive Awareness	●	83
+Ball Control		84
+Dribbling		85
+Tight Possession		82
+Low Pass		85
+Lofted Pass		80
+Finishing	●	75
+Heading		82
+Place Kicking		61
+Curl		65
+Defending
+Defensive Awareness	●	80
+Defensive Engagement		87
+Tackling		77
+Aggression		88
+Goalkeeping		41
+Gk Catching		41
+GK Parrying		41
+GK Reflexes		41
+GK Reach		41
+athleticism
+Speed	●	88
+Acceleration	●	88
+Kicking Power		90
+Jump		82
+Physical Contact		88
+Balance		73
+Stamina	●	96
+Weak Foot Usage		1
+Weak Foot Acc		2
+Form		1
+Injury Resistance		1
+Skills
+Cut Behind & Turn
+Long Range Curler
+Long Range Shooting
+First Time Shot
+One Touch Pass
+Gamesmanship
+Track Back
+Interception
+Aerial Superiority
+Sliding Tackle
+
+Body Measurements
+Leg Length
+11
+Arm Length
+11
+Waist Size
+5
+Chest
+12
+Shoulder Width
+9
+Neck Length
+6

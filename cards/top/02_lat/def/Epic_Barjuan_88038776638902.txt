@@ -1,0 +1,97 @@
+Sergi Barjuan
+Defensive Full-back
+Height
+172cm
+Weight
+68kg
+Age
+26
+Foot
+
+B
+
+
+
+
+Passing +3
+
+Stealing +1
+
+0
+Condition History
+Arrow Probabilities (%)
+501051021021029897979293938989
+
+LB
+0/68
+Level Cap 
+35
+
+Shooting
+
+Passing
+
+Dribbling
+4
+
+Dexterity
+7
+
+Lower Body Strength
+10
+
+Aerial Strength
+8
+
+Defending
+12
+
+GK 1
+
+GK 2
+
+GK 3
+Attacking
+Offensive Awareness		74
+Ball Control		77
+Dribbling		78
+Tight Possession		75
+Low Pass	●	83
+Lofted Pass	●	80
+Finishing	●	65
+Heading		74
+Place Kicking		64
+Curl	●	75
+Defending
+Defensive Awareness	●	96
+Defensive Engagement		94
+Tackling	●	97
+Aggression	●	95
+Goalkeeping		41
+Gk Catching		41
+GK Parrying		41
+GK Reflexes		41
+GK Reach		41
+athleticism
+Speed		90
+Acceleration	●	90
+Kicking Power	●	90
+Jump		84
+Physical Contact	●	90
+Balance		83
+Stamina		93
+Weak Foot Usage		1
+Weak Foot Acc		3
+Form		2
+Injury Resistance		2
+Skills
+One Touch Pass
+Through Passing
+Weighted Pass
+Pinpoint Crossing
+Man Marking
+Interception
+Acrobatic Clearance
+Blocker
+Sliding Tackle
+Edged Crossing

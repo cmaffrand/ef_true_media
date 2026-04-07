@@ -1,0 +1,111 @@
+Alessandro Del Piero
+Hole Player
+Height
+173cm
+Weight
+73kg
+Age
+24
+Foot
+
+B
+
+
+
+
+Ball-carrying +2
+
+Accuracy +1
+
+0
+Condition History
+Arrow Probabilities (%)
+447090907993102102101104104104101
+
+SS
+0/60
+Level Cap 
+31
+
+Shooting
+8
+
+Passing
+8
+
+Dribbling
+8
+
+Dexterity
+8
+
+Lower Body Strength
+8
+
+Aerial Strength
+
+Defending
+
+GK 1
+
+GK 2
+
+GK 3
+Attacking
+Offensive Awareness		89
+Ball Control		92
+Dribbling	●	95
+Tight Possession	●	92
+Low Pass	●	85
+Lofted Pass	●	79
+Finishing	●	93
+Heading		51
+Place Kicking		91
+Curl		96
+Defending
+Defensive Awareness	●	47
+Defensive Engagement		46
+Tackling		45
+Aggression		53
+Goalkeeping		41
+Gk Catching		41
+GK Parrying		41
+GK Reflexes		41
+GK Reach		41
+athleticism
+Speed	●	92
+Acceleration		94
+Kicking Power	●	90
+Jump		56
+Physical Contact		66
+Balance	●	97
+Stamina		84
+Weak Foot Usage		2
+Weak Foot Acc		2
+Form		1
+Injury Resistance		1
+Skills
+Double Touch
+Marseille Turn
+Long Range Curler
+Long Range Shooting
+Acrobatic Finishing
+Heel Trick
+First Time Shot
+Through Passing
+Gamesmanship
+Blitz Curler
+
+Body Measurements
+Leg Length
+10
+Arm Length
+6
+Waist Size
+10
+Chest
+10
+Shoulder Width
+9
+Neck Length
+4

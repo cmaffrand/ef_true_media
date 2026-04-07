@@ -1,0 +1,84 @@
+attribute,min,ok,top,ponderation
+Height,165,170,175,0
+Offensive Awareness,75,80,85,8
+Ball Control,84,88,92,10
+Dribbling,84,88,92,10
+Tight Possession,84,88,92,10
+Low Pass,84,88,92,13
+Lofted Pass,82,87,92,13
+Finishing,80,87,90,8
+Heading,70,75,80,1
+Place Kicking,80,87,90,8
+Curl,80,87,90,8
+Defensive Awareness,40,70,100,0
+Defensive Engagement,40,70,100,0
+Tackling,40,70,100,0
+Aggression,40,70,100,0
+Speed,80,87,92,10
+Acceleration,80,87,92,8
+Kicking Power,82,88,90,8
+Jump,40,70,100,0
+Physical Contact,75,80,87,3
+Balance,80,87,90,10
+Stamina,40,70,100,0
+
+epic_dif,0,0,0,0
+weak_foot_usage,0,0,0,1000
+weak_foot_acc,0,0,0,1000
+player_form,0,0,0,3000
+injury_resistance,0,0,0,0
+
+Skills,0,0,0,0
+Visionary Pass,0,0,0,2100
+Phenomenal Pass,0,0,0,2100
+Blitz Curler,0,0,0,1700
+Low Screamer,0,0,0,1700
+Momentum Dribbling,0,0,0,1700
+Phenomenal Finishing,0,0,0,1300
+Acceleration Burst,0,0,0,1000
+Magnetic Feet,0,0,0,800
+Game Changing Pass,0,0,0,800
+Will Power,0,0,0,500
+Edged Crossing,0,0,0,200
+Long Range Curler,0,0,0,1000
+Through Passing,0,0,0,1000
+First Time Shot,0,0,0,1000
+One Touch Pass,0,0,0,1000
+Double Touch,0,0,0,800
+Marseille Turn,0,0,0,800
+Long Range Shooting,0,0,0,800
+Weighted Pass,0,0,0,800
+Low Lofted Pass,0,0,0,800
+Fighting Spirit,0,0,0,500
+Gamesmanship,0,0,0,300
+Outside Curler,0,0,0,300
+Cut Behind & Turn,0,0,0,300
+Super Sub,0,0,0,300
+Pinpoint Crossing,0,0,0,300
+Chip Shot Control,0,0,0,300
+Heading,0,0,0,300
+Dipping Shot,0,0,0,300
+Rising Shots,0,0,0,300
+Sole Control,0,0,0,300
+Flip Flap,0,0,0,300
+Heel Trick,0,0,0,300
+Scissors Feint,0,0,0,300
+Knuckle Shot,0,0,0,300
+Rabona,0,0,0,300
+Chop Turn,0,0,0,300
+Scotch Move,0,0,0,300
+Sombrero,0,0,0,300
+Acrobatic Finishing,0,0,0,300
+Captaincy,0,0,0,200
+Penalty Specialist,0,0,0,200
+No Look Pass,0,0,0,100
+
+Bio,0,0,0,0
+Leg Length,0,0,0,150
+Arm Length,0,0,0,25
+Waist Size,0,0,0,0
+Chest,0,0,0,0
+Shoulder Width,0,0,0,25
+Neck Length,0,0,0,0
+Quick Bio,0,0,0,5
+Strong Bio,0,0,0,5

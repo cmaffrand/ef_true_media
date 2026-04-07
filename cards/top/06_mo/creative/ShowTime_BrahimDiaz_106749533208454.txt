@@ -1,0 +1,98 @@
+Brahim Díaz
+Creative Playmaker
+Height
+170cm
+Weight
+68kg
+Age
+26
+Foot
+
+C
+
+
+
+
+Shooting +3
+
+Free-kick Taking +1
+
+0
+Condition History
+Arrow Probabilities (%)
+467893938597103103103104104104101
+
+AMF
+0/68
+Level Cap 
+35
+
+Shooting
+10
+
+Passing
+8
+
+Dribbling
+7
+
+Dexterity
+7
+
+Lower Body Strength
+8
+
+Aerial Strength
+5
+
+Defending
+
+GK 1
+
+GK 2
+
+GK 3
+Attacking
+Offensive Awareness		82
+Ball Control	●	93
+Dribbling		90
+Tight Possession		92
+Low Pass		90
+Lofted Pass		88
+Finishing	●	93
+Heading		58
+Place Kicking	●	79
+Curl	●	83
+Defending
+Defensive Awareness	●	53
+Defensive Engagement		60
+Tackling		55
+Aggression		61
+Goalkeeping		41
+Gk Catching		41
+GK Parrying		41
+GK Reflexes		41
+GK Reach		41
+athleticism
+Speed		91
+Acceleration		93
+Kicking Power	●	92
+Jump		68
+Physical Contact	●	75
+Balance		94
+Stamina		82
+Weak Foot Usage		3
+Weak Foot Acc		3
+Form		1
+Injury Resistance		1
+Skills
+Double Touch
+Sole Control
+Long Range Curler
+Long Range Shooting
+Heel Trick
+First Time Shot
+One Touch Pass
+Through Passing
+Super Sub
+Blitz Curler

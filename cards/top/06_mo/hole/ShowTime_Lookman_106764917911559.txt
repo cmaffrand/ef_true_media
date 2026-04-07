@@ -1,0 +1,111 @@
+Ademola Lookman
+Hole Player
+Height
+174cm
+Weight
+71kg
+Age
+28
+Foot
+
+A
+
+
+
+
+Offence Creator +3
+
+Off the Ball +1
+
+0
+Condition History
+Arrow Probabilities (%)
+457694948496103103101104104103100
+
+AMF
+0/64
+Level Cap 
+33
+
+Shooting
+8
+
+Passing
+4
+
+Dribbling
+8
+
+Dexterity
+8
+
+Lower Body Strength
+12
+
+Aerial Strength
+
+Defending
+
+GK 1
+
+GK 2
+
+GK 3
+Attacking
+Offensive Awareness	●	87
+Ball Control	●	92
+Dribbling		92
+Tight Possession		91
+Low Pass	●	81
+Lofted Pass		82
+Finishing	●	88
+Heading		58
+Place Kicking		83
+Curl		84
+Defending
+Defensive Awareness	●	50
+Defensive Engagement		60
+Tackling		51
+Aggression		66
+Goalkeeping		41
+Gk Catching		41
+GK Parrying		41
+GK Reflexes		41
+GK Reach		41
+athleticism
+Speed	●	95
+Acceleration	●	95
+Kicking Power	●	93
+Jump		58
+Physical Contact		75
+Balance		91
+Stamina	●	90
+Weak Foot Usage		3
+Weak Foot Acc		2
+Form		2
+Injury Resistance		1
+Skills
+Scissors Feint
+Double Touch
+Sole Control
+Long Range Curler
+Long Range Shooting
+First Time Shot
+One Touch Pass
+Through Passing
+Pinpoint Crossing
+Momentum Dribbling
+
+Body Measurements
+Leg Length
+11
+Arm Length
+5
+Waist Size
+5
+Chest
+8
+Shoulder Width
+10
+Neck Length
+4

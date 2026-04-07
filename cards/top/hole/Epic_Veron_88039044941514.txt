@@ -1,0 +1,112 @@
+Juan Sebastián Verón
+Hole Player
+Height
+182cm
+Weight
+79kg
+Age
+24
+Foot
+
+B
+
+
+
+
+Balancer +3
+
+Free-kick Taking +1
+
+0
+Condition History
+Arrow Probabilities (%)
+509410110198103105105104104104104101
+
+AMF
+0/68
+Level Cap 
+35
+
+Shooting
+8
+
+Passing
+5
+
+Dribbling
+9
+
+Dexterity
+9
+
+Lower Body Strength
+10
+
+Aerial Strength
+2
+
+Defending
+
+GK 1
+
+GK 2
+
+GK 3
+Attacking
+Offensive Awareness	●	80
+Ball Control		90
+Dribbling		88
+Tight Possession		93
+Low Pass		90
+Lofted Pass		88
+Finishing	●	87
+Heading		72
+Place Kicking	●	93
+Curl	●	89
+Defending
+Defensive Awareness	●	80
+Defensive Engagement		77
+Tackling		76
+Aggression		78
+Goalkeeping		41
+Gk Catching		41
+GK Parrying		41
+GK Reflexes		41
+GK Reach		41
+athleticism
+Speed		90
+Acceleration	●	90
+Kicking Power	●	96
+Jump		72
+Physical Contact		80
+Balance		90
+Stamina	●	87
+Weak Foot Usage		1
+Weak Foot Acc		1
+Form		2
+Injury Resistance		1
+Skills
+Long Range Shooting
+Rising Shots
+First Time Shot
+One Touch Pass
+Through Passing
+Weighted Pass
+Outside Curler
+Low Lofted Pass
+Fighting Spirit
+Phenomenal Pass
+
+Body Measurements
+Leg Length
+7
+Arm Length
+7
+Waist Size
+5
+Chest
+5
+Shoulder Width
+8
+Neck Length
+7

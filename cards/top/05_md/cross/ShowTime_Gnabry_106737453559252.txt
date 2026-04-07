@@ -1,0 +1,98 @@
+Serge Gnabry
+Cross Specialist
+Height
+176cm
+Weight
+77kg
+Age
+30
+Foot
+
+C
+
+
+
+
+Crossing +2
+
+Crossing +1
+
+0
+Condition History
+Arrow Probabilities (%)
+457591918394100100991001009995
+
+RMF
+0/58
+Level Cap 
+30
+
+Shooting
+5
+
+Passing
+10
+
+Dribbling
+6
+
+Dexterity
+6
+
+Lower Body Strength
+10
+
+Aerial Strength
+0
+
+Defending
+
+GK 1
+
+GK 2
+
+GK 3
+Attacking
+Offensive Awareness		79
+Ball Control		89
+Dribbling		90
+Tight Possession		90
+Low Pass		84
+Lofted Pass	●	88
+Finishing	●	84
+Heading		62
+Place Kicking		77
+Curl	●	88
+Defending
+Defensive Awareness	●	53
+Defensive Engagement		60
+Tackling		54
+Aggression		60
+Goalkeeping		41
+Gk Catching		41
+GK Parrying		41
+GK Reflexes		41
+GK Reach		41
+athleticism
+Speed	●	90
+Acceleration		90
+Kicking Power		88
+Jump		62
+Physical Contact		66
+Balance		90
+Stamina	●	88
+Weak Foot Usage		2
+Weak Foot Acc		3
+Form		0
+Injury Resistance		0
+Skills
+Cut Behind & Turn
+Sole Control
+Long Range Curler
+Long Range Shooting
+One Touch Pass
+Through Passing
+Pinpoint Crossing
+Outside Curler
+Gamesmanship
+Edged Crossing

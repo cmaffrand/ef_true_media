@@ -1,0 +1,92 @@
+Rúben Neves
+Box To Box
+Height
+180cm
+Weight
+75kg
+Age
+28
+Foot
+
+C
+
+
+
+
+Hard Worker +3
+
+No Booster
+
+0
+Condition History
+Arrow Probabilities (%)
+499499991001021001009997979793
+
+DMF
+2/2
+Level Cap 
+2
+
+Shooting
+
+Passing
+
+Dribbling
+
+Dexterity
+
+Lower Body Strength
+
+Aerial Strength
+
+Defending
+
+GK 1
+
+GK 2
+
+GK 3
+Attacking
+Offensive Awareness		78
+Ball Control		88
+Dribbling		84
+Tight Possession		90
+Low Pass		90
+Lofted Pass		90
+Finishing	●	75
+Heading		74
+Place Kicking		88
+Curl		89
+Defending
+Defensive Awareness	●	83
+Defensive Engagement		90
+Tackling		84
+Aggression	●	87
+Goalkeeping		41
+Gk Catching		41
+GK Parrying		41
+GK Reflexes		41
+GK Reach		41
+athleticism
+Speed		81
+Acceleration	●	79
+Kicking Power		93
+Jump		72
+Physical Contact	●	78
+Balance		82
+Stamina	●	93
+Weak Foot Usage		2
+Weak Foot Acc		2
+Form		2
+Injury Resistance		2
+Skills
+Cut Behind & Turn
+Heading
+Long Range Curler
+Long Range Shooting
+First Time Shot
+One Touch Pass
+Through Passing
+Weighted Pass
+Outside Curler
+Interception

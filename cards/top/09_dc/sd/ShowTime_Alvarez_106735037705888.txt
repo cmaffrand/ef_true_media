@@ -1,0 +1,112 @@
+Julián Alvarez
+Deep-Lying Forward
+Height
+170cm
+Weight
+71kg
+Age
+25
+Foot
+
+B
+
+
+
+
+Striker's Instinct +2
+
+Technique +1
+
+0
+Condition History
+Arrow Probabilities (%)
+458396969099103103103104104104101
+
+CF
+0/66
+Level Cap 
+34
+
+Shooting
+6
+
+Passing
+7
+
+Dribbling
+8
+
+Dexterity
+8
+
+Lower Body Strength
+12
+
+Aerial Strength
+0
+
+Defending
+
+GK 1
+
+GK 2
+
+GK 3
+Attacking
+Offensive Awareness	●	92
+Ball Control	●	91
+Dribbling	●	89
+Tight Possession	●	90
+Low Pass	●	88
+Lofted Pass		80
+Finishing	●	90
+Heading		65
+Place Kicking		84
+Curl		85
+Defending
+Defensive Awareness	●	65
+Defensive Engagement		72
+Tackling		63
+Aggression		74
+Goalkeeping		41
+Gk Catching		41
+GK Parrying		41
+GK Reflexes		41
+GK Reach		41
+athleticism
+Speed		91
+Acceleration	●	93
+Kicking Power		91
+Jump		68
+Physical Contact		68
+Balance		90
+Stamina		90
+Weak Foot Usage		2
+Weak Foot Acc		2
+Form		2
+Injury Resistance		2
+Skills
+Sole Control
+Long Range Curler
+Long Range Shooting
+Dipping Shot
+Rising Shots
+First Time Shot
+One Touch Pass
+Through Passing
+Pinpoint Crossing
+Phenomenal Finishing
+
+Body Measurements
+Leg Length
+10
+Arm Length
+7
+Waist Size
+10
+Chest
+11
+Shoulder Width
+12
+Neck Length
+4

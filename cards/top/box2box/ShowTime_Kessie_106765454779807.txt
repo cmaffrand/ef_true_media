@@ -1,0 +1,113 @@
+Franck Kessié
+Box To Box
+Height
+183cm
+Weight
+74kg
+Age
+29
+Foot
+
+A
+
+
+
+
+Hard Worker +3
+
+Agility +1
+
+0
+Condition History
+Arrow Probabilities (%)
+51991021021011021011019898989693
+
+CMF
+1/68
+Level Cap 
+35
+
+Shooting
+4
+
+Passing
+8
+
+Dribbling
+7
+
+Dexterity
+10
+
+Lower Body Strength
+9
+
+Aerial Strength
+4
+
+Defending
+4
+
+GK 1
+
+GK 2
+
+GK 3
+Attacking
+Offensive Awareness		76
+Ball Control		87
+Dribbling		82
+Tight Possession		88
+Low Pass		88
+Lofted Pass		87
+Finishing	●	70
+Heading		72
+Place Kicking		62
+Curl		70
+Defending
+Defensive Awareness	●	83
+Defensive Engagement		87
+Tackling		80
+Aggression	●	93
+Goalkeeping		41
+Gk Catching		41
+GK Parrying		41
+GK Reflexes		41
+GK Reach		41
+athleticism
+Speed	●	89
+Acceleration	●	89
+Kicking Power		92
+Jump		78
+Physical Contact	●	91
+Balance	●	81
+Stamina	●	96
+Weak Foot Usage		2
+Weak Foot Acc		2
+Form		2
+Injury Resistance		1
+Skills
+Long Range Shooting
+Through Passing
+Man Marking
+Track Back
+Interception
+Captaincy
+Fighting Spirit
+Blocker
+Sliding Tackle
+Long Reach Tackle
+
+Body Measurements
+Leg Length
+7
+Arm Length
+5
+Waist Size
+5
+Chest
+7
+Shoulder Width
+10
+Neck Length
+6

@@ -1,0 +1,96 @@
+Lewis Dunk
+Build Up
+Height
+192cm
+Weight
+88kg
+Age
+34
+Foot
+
+B
+
+
+
+
+Rebuilding +3
+
+Agility +1
+
+0
+Condition History
+Arrow Probabilities (%)
+511009393969086868281817878
+
+CB
+0/56
+Level Cap 
+29
+
+Shooting
+
+Passing
+
+Dribbling
+
+Dexterity
+8
+
+Lower Body Strength
+6
+
+Aerial Strength
+9
+
+Defending
+11
+
+GK 1
+
+GK 2
+
+GK 3
+Attacking
+Offensive Awareness		62
+Ball Control		73
+Dribbling		62
+Tight Possession		71
+Low Pass	●	84
+Lofted Pass		80
+Finishing	●	55
+Heading		84
+Place Kicking		66
+Curl		70
+Defending
+Defensive Awareness	●	93
+Defensive Engagement	●	97
+Tackling		90
+Aggression	●	93
+Goalkeeping		41
+Gk Catching		41
+GK Parrying		41
+GK Reflexes		41
+GK Reach		41
+athleticism
+Speed	●	81
+Acceleration	●	79
+Kicking Power		81
+Jump		81
+Physical Contact		87
+Balance	●	68
+Stamina	●	85
+Weak Foot Usage		1
+Weak Foot Acc		1
+Form		1
+Injury Resistance		1
+Skills
+One Touch Pass
+Low Lofted Pass
+Man Marking
+Interception
+Captaincy
+Fighting Spirit
+Aerial Superiority
+Blocker
+Sliding Tackle
+Visionary Pass

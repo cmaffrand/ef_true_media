@@ -1,0 +1,113 @@
+Bebeto
+Fox In The Box
+Height
+173cm
+Weight
+68kg
+Age
+30
+Foot
+
+B
+
+
+
+
+Agility +3
+
+Off the Ball +1
+
+0
+Condition History
+Arrow Probabilities (%)
+467591918191999998103103103103
+
+CF
+0/60
+Level Cap 
+31
+
+Shooting
+9
+
+Passing
+4
+
+Dribbling
+7
+
+Dexterity
+8
+
+Lower Body Strength
+10
+
+Aerial Strength
+1
+
+Defending
+
+GK 1
+
+GK 2
+
+GK 3
+Attacking
+Offensive Awareness	●	92
+Ball Control		91
+Dribbling		93
+Tight Possession		93
+Low Pass		70
+Lofted Pass		67
+Finishing	●	93
+Heading		75
+Place Kicking		83
+Curl		90
+Defending
+Defensive Awareness	●	54
+Defensive Engagement		53
+Tackling		47
+Aggression		54
+Goalkeeping		41
+Gk Catching		41
+GK Parrying		41
+GK Reflexes		41
+GK Reach		41
+athleticism
+Speed	●	95
+Acceleration	●	94
+Kicking Power		90
+Jump		76
+Physical Contact		66
+Balance	●	90
+Stamina	●	88
+Weak Foot Usage		3
+Weak Foot Acc		3
+Form		2
+Injury Resistance		0
+Skills
+Double Touch
+Flip Flap
+Cut Behind & Turn
+Long Range Curler
+Knuckle Shot
+Acrobatic Finishing
+First Time Shot
+Outside Curler
+Gamesmanship
+Phenomenal Finishing
+
+
+Body Measurements
+Leg Length
+9
+Arm Length
+4
+Waist Size
+4
+Chest
+3
+Shoulder Width
+7
+Neck Length
+5

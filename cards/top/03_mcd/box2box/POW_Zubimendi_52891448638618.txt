@@ -1,0 +1,92 @@
+Martín Zubimendi
+Box To Box
+Height
+181cm
+Weight
+74kg
+Age
+26
+Foot
+
+B
+
+
+
+
+No Booster
+
+No Booster
+
+0
+Condition History
+Arrow Probabilities (%)
+5096999910010210110110098989895
+
+DMF
+2/2
+Level Cap 
+2
+
+Shooting
+
+Passing
+
+Dribbling
+
+Dexterity
+
+Lower Body Strength
+
+Aerial Strength
+
+Defending
+
+GK 1
+
+GK 2
+
+GK 3
+Attacking
+Offensive Awareness		77
+Ball Control		90
+Dribbling		84
+Tight Possession		88
+Low Pass		90
+Lofted Pass		88
+Finishing	●	79
+Heading		75
+Place Kicking		66
+Curl		76
+Defending
+Defensive Awareness	●	88
+Defensive Engagement		88
+Tackling		84
+Aggression		82
+Goalkeeping		41
+Gk Catching		41
+GK Parrying		41
+GK Reflexes		41
+GK Reach		41
+athleticism
+Speed		81
+Acceleration		85
+Kicking Power		87
+Jump		81
+Physical Contact		75
+Balance		88
+Stamina		92
+Weak Foot Usage		2
+Weak Foot Acc		2
+Form		2
+Injury Resistance		2
+Skills
+Sole Control
+Long Range Shooting
+First Time Shot
+One Touch Pass
+Through Passing
+Weighted Pass
+Outside Curler
+Interception
+Fighting Spirit
+Aerial Superiority

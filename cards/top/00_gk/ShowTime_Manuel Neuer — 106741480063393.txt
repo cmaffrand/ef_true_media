@@ -1,0 +1,85 @@
+Name: Manuel Neuer
+Position: GK
+Style: Offensive Goalkeeper
+
+Training:
+SHO: 0
+PAS: 0
+DRI: 0
+DEX: 0
+LBS: 0
+AER: 1
+DEF: 0
+GK1: 10
+GK2: 11
+GK3: 12
+Lv: 64
+Manager: Fabio Capello
+
+Attributes:
+Offensive Awareness: 41
+Ball Control: 59
+Dribbling: 61
+Tight Possession: 62
+Low Pass: 77
+Lofted Pass: 79
+Finishing: 42
+Heading: 56
+Place Kicking: 64
+Curl: 63
+Defensive Awareness: 59
+Defensive Engagement: 62
+Tackling: 65
+Aggression: 67
+Goalkeeping: 94
+Gk Catching: 92
+GK Parrying: 94
+GK Reflexes: 96
+GK Reach: 96
+Speed: 62
+Acceleration: 60
+Kicking Power: 80
+Jump: 76
+Balance: 59
+Stamina: 66
+Physical Contact: 58
+
+Skills:
+One Touch Pass
+Through Passing
+Weighted Pass
+Low Lofted Pass
+Gk Low Punt
+GK Long Throw
+GK Penalty Saver
+Captaincy
+Visionary Pass
+
+Biometrics:
+Height: 193
+Weight: 93
+Arm Length: 9
+Shoulder Width: 10
+Neck Length: 8
+Chest: 5
+Neck Size: 6
+Shoulder Height: 5
+Leg Length: 11
+Thigh Size: 5
+Waist Size: 5
+Arm Size: 8
+Calf Size: 6
+Leg Coverage Radius: 188.6
+Arm Coverage Radius: 178.0
+Jumping Height: 273.0
+Torso Collision: 54.5
+Leg Length Based Height: 197
+
+Com Skills:
+—
+
+Other Stats:
+Weak Foot Usage: 1
+Weak Foot Accuracy: 2
+Form: 2
+Injury Resistance: 0

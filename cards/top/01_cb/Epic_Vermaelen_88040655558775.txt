@@ -1,0 +1,111 @@
+Thomas Vermaelen
+Build Up
+Height
+183cm
+Weight
+80kg
+Age
+24
+Foot
+
+B
+
+
+
+
+Aerial Block +3
+
+Off the Ball +1
+
+0
+Condition History
+Arrow Probabilities (%)
+511049898999291918789898689
+
+CB
+0/56
+Level Cap 
+29
+
+Shooting
+
+Passing
+2
+
+Dribbling
+
+Dexterity
+8
+
+Lower Body Strength
+9
+
+Aerial Strength
+8
+
+Defending
+9
+
+GK 1
+
+GK 2
+
+GK 3
+Attacking
+Offensive Awareness	●	71
+Ball Control		71
+Dribbling		68
+Tight Possession		72
+Low Pass		75
+Lofted Pass		76
+Finishing	●	71
+Heading	●	90
+Place Kicking		59
+Curl		61
+Defending
+Defensive Awareness	●	93
+Defensive Engagement		94
+Tackling		91
+Aggression		93
+Goalkeeping		41
+Gk Catching		41
+GK Parrying		41
+GK Reflexes		41
+GK Reach		41
+athleticism
+Speed	●	90
+Acceleration	●	85
+Kicking Power		85
+Jump	●	91
+Physical Contact	●	91
+Balance		76
+Stamina	●	91
+Weak Foot Usage		1
+Weak Foot Acc		1
+Form		1
+Injury Resistance		1
+Skills
+Heading
+Long Range Shooting
+Man Marking
+Interception
+Fighting Spirit
+Aerial Superiority
+Blocker
+Sliding Tackle
+Visionary Pass
+Fortress
+
+Body Measurements
+Leg Length
+7
+Arm Length
+4
+Waist Size
+5
+Chest
+5
+Shoulder Width
+7
+Neck Length
+8

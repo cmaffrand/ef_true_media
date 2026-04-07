@@ -1,0 +1,112 @@
+Pavel Nedvěd
+Box To Box
+Height
+177cm
+Weight
+70kg
+Age
+24
+Foot
+
+B
+
+
+
+
+Offence Creator +2
+
+Crossing +1
+
+0
+Condition History
+Arrow Probabilities (%)
+48921011019710310510510310310310299
+
+LMF
+0/64
+Level Cap 
+33
+
+Shooting
+8
+
+Passing
+8
+
+Dribbling
+8
+
+Dexterity
+8
+
+Lower Body Strength
+8
+
+Aerial Strength
+4
+
+Defending
+
+GK 1
+
+GK 2
+
+GK 3
+Attacking
+Offensive Awareness	●	80
+Ball Control	●	90
+Dribbling		88
+Tight Possession		88
+Low Pass	●	90
+Lofted Pass	●	86
+Finishing		84
+Heading		66
+Place Kicking		78
+Curl	●	90
+Defending
+Defensive Awareness		75
+Defensive Engagement		77
+Tackling		76
+Aggression		77
+Goalkeeping		41
+Gk Catching		41
+GK Parrying		41
+GK Reflexes		41
+GK Reach		41
+athleticism
+Speed	●	90
+Acceleration		90
+Kicking Power	●	95
+Jump		69
+Physical Contact		80
+Balance		91
+Stamina	●	96
+Weak Foot Usage		3
+Weak Foot Acc		3
+Form		2
+Injury Resistance		2
+Skills
+Long Range Curler
+Long Range Shooting
+Rising Shots
+One Touch Pass
+Through Passing
+Pinpoint Crossing
+Outside Curler
+Track Back
+Interception
+Edged Crossing
+
+Body Measurements
+Leg Length
+8
+Arm Length
+2
+Waist Size
+5
+Chest
+7
+Shoulder Width
+4
+Neck Length
+7

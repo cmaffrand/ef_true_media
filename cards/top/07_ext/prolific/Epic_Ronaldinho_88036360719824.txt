@@ -1,0 +1,111 @@
+Ronaldinho Gaúcho
+Prolific Winger
+Height
+182cm
+Weight
+80kg
+Age
+25
+Foot
+
+B
+
+
+
+
+Ball-carrying +3
+
+Offence Creator +1
+
+0
+Condition History
+Arrow Probabilities (%)
+487492928296104104104105105106102
+
+LWF
+0/66
+Level Cap 
+34
+
+Shooting
+9
+
+Passing
+7
+
+Dribbling
+7
+
+Dexterity
+8
+
+Lower Body Strength
+10
+
+Aerial Strength
+1
+
+Defending
+
+GK 1
+
+GK 2
+
+GK 3
+Attacking
+Offensive Awareness	●	84
+Ball Control	●	95
+Dribbling	●	96
+Tight Possession	●	96
+Low Pass	●	91
+Lofted Pass		84
+Finishing	●	90
+Heading		59
+Place Kicking		89
+Curl		90
+Defending
+Defensive Awareness	●	44
+Defensive Engagement		43
+Tackling		44
+Aggression		45
+Goalkeeping		41
+Gk Catching		41
+GK Parrying		41
+GK Reflexes		41
+GK Reach		41
+athleticism
+Speed	●	92
+Acceleration		94
+Kicking Power	●	90
+Jump		65
+Physical Contact		80
+Balance	●	92
+Stamina		87
+Weak Foot Usage		2
+Weak Foot Acc		2
+Form		2
+Injury Resistance		1
+Skills
+Scissors Feint
+Flip Flap
+Cut Behind & Turn
+Sole Control
+Long Range Curler
+Through Passing
+Outside Curler
+No Look Pass
+Momentum Dribbling
+
+Body Measurements
+Leg Length
+11
+Arm Length
+7
+Waist Size
+7
+Chest
+8
+Shoulder Width
+7
+Neck Length
+9

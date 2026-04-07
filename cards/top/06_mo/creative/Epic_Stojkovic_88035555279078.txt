@@ -1,0 +1,98 @@
+Dragan Stojković
+Creative Playmaker
+Height
+175cm
+Weight
+73kg
+Age
+25
+Foot
+
+B
+
+
+
+
+Shooting +2
+
+Striker's Instinct +1
+
+0
+Condition History
+Arrow Probabilities (%)
+47799494879810310310310310310398
+
+AMF
+0/60
+Level Cap 
+31
+
+Shooting
+4
+
+Passing
+7
+
+Dribbling
+8
+
+Dexterity
+9
+
+Lower Body Strength
+9
+
+Aerial Strength
+4
+
+Defending
+
+GK 1
+
+GK 2
+
+GK 3
+Attacking
+Offensive Awareness	●	80
+Ball Control	●	98
+Dribbling		95
+Tight Possession		96
+Low Pass		90
+Lofted Pass		87
+Finishing	●	85
+Heading		69
+Place Kicking		89
+Curl		87
+Defending
+Defensive Awareness	●	57
+Defensive Engagement		64
+Tackling		54
+Aggression		66
+Goalkeeping		41
+Gk Catching		41
+GK Parrying		41
+GK Reflexes		41
+GK Reach		41
+athleticism
+Speed		87
+Acceleration	●	91
+Kicking Power	●	92
+Jump		67
+Physical Contact	●	75
+Balance		82
+Stamina		83
+Weak Foot Usage		3
+Weak Foot Acc		3
+Form		2
+Injury Resistance		1
+Skills
+Double Touch
+Marseille Turn
+Cut Behind & Turn
+Sole Control
+Long Range Curler
+Long Range Shooting
+Heel Trick
+First Time Shot
+One Touch Pass
+Outside Curler

@@ -1,0 +1,96 @@
+Beraldo
+Build Up
+Height
+182cm
+Weight
+77kg
+Age
+22
+Foot
+
+C
+
+
+
+
+Stealing +2
+
+Agility +1
+
+0
+Condition History
+Arrow Probabilities (%)
+50999494948886868183837878
+
+CB
+0/48
+Level Cap 
+25
+
+Shooting
+
+Passing
+
+Dribbling
+
+Dexterity
+5
+
+Lower Body Strength
+8
+
+Aerial Strength
+9
+
+Defending
+9
+
+GK 1
+
+GK 2
+
+GK 3
+Attacking
+Offensive Awareness		62
+Ball Control		71
+Dribbling		70
+Tight Possession		71
+Low Pass		76
+Lofted Pass		75
+Finishing	●	54
+Heading		81
+Place Kicking		56
+Curl		70
+Defending
+Defensive Awareness	●	92
+Defensive Engagement		91
+Tackling	●	90
+Aggression	●	90
+Goalkeeping		41
+Gk Catching		41
+GK Parrying		41
+GK Reflexes		41
+GK Reach		41
+athleticism
+Speed	●	88
+Acceleration	●	80
+Kicking Power		77
+Jump		87
+Physical Contact	●	89
+Balance	●	77
+Stamina	●	86
+Weak Foot Usage		1
+Weak Foot Acc		1
+Form		1
+Injury Resistance		1
+Skills
+Heading
+One Touch Pass
+Weighted Pass
+Man Marking
+Interception
+Fighting Spirit
+Aerial Superiority
+Blocker
+Sliding Tackle
+Visionary Pass

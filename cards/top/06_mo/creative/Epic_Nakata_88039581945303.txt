@@ -1,0 +1,111 @@
+Hidetoshi Nakata
+Creative Playmaker
+Height
+175cm
+Weight
+72kg
+Age
+23
+Foot
+
+B
+
+
+
+
+Shooting +3
+
+Striker's Instinct +1
+
+0
+Condition History
+Arrow Probabilities (%)
+4887999994101105105104104104103100
+
+AMF
+0/64
+Level Cap 
+33
+
+Shooting
+4
+
+Passing
+8
+
+Dribbling
+8
+
+Dexterity
+8
+
+Lower Body Strength
+12
+
+Aerial Strength
+
+Defending
+
+GK 1
+
+GK 2
+
+GK 3
+Attacking
+Offensive Awareness	●	84
+Ball Control	●	92
+Dribbling		91
+Tight Possession		93
+Low Pass		91
+Lofted Pass		88
+Finishing	●	85
+Heading		62
+Place Kicking		76
+Curl		80
+Defending
+Defensive Awareness	●	68
+Defensive Engagement		70
+Tackling		65
+Aggression		75
+Goalkeeping		41
+Gk Catching		41
+GK Parrying		41
+GK Reflexes		41
+GK Reach		41
+athleticism
+Speed		91
+Acceleration	●	92
+Kicking Power	●	93
+Jump		68
+Physical Contact	●	82
+Balance		88
+Stamina		89
+Weak Foot Usage		1
+Weak Foot Acc		2
+Form		2
+Injury Resistance		2
+Skills
+Double Touch
+Long Range Curler
+First Time Shot
+One Touch Pass
+Through Passing
+Outside Curler
+Super Sub
+Fighting Spirit
+Phenomenal Pass
+Phenomenal Finishing
+
+Body Measurements
+Leg Length
+5
+Arm Length
+4
+Waist Size
+2
+Chest
+3
+Shoulder Width
+9
+Neck Length
+6

@@ -1,0 +1,113 @@
+Daniele Massaro
+Fox In The Box
+Height
+179cm
+Weight
+74kg
+Age
+33
+Foot
+
+B
+
+
+
+
+Shooting +2
+
+Agility +1
+
+0
+Condition History
+Arrow Probabilities (%)
+518291918489949494989899102
+
+CF
+0/62
+Level Cap 
+32
+
+Shooting
+6
+
+Passing
+4
+
+Dribbling
+4
+
+Dexterity
+9
+
+Lower Body Strength
+12
+
+Aerial Strength
+5
+
+Defending
+
+GK 1
+1
+
+GK 2
+
+GK 3
+Attacking
+Offensive Awareness		90
+Ball Control	●	81
+Dribbling		80
+Tight Possession		84
+Low Pass		72
+Lofted Pass		70
+Finishing	●	90
+Heading		87
+Place Kicking		71
+Curl		72
+Defending
+Defensive Awareness	●	55
+Defensive Engagement		55
+Tackling		47
+Aggression		66
+Goalkeeping		42
+Gk Catching		41
+GK Parrying		41
+GK Reflexes		41
+GK Reach		41
+athleticism
+Speed	●	90
+Acceleration	●	90
+Kicking Power	●	91
+Jump		92
+Physical Contact	●	87
+Balance	●	83
+Stamina	●	90
+Weak Foot Usage		2
+Weak Foot Acc		3
+Form		2
+Injury Resistance		1
+Skills
+Heading
+Long Range Curler
+Long Range Shooting
+Dipping Shot
+Rising Shots
+Acrobatic Finishing
+First Time Shot
+Outside Curler
+Fighting Spirit
+Aerial Superiority
+
+Body Measurements
+Leg Length
+11
+Arm Length
+8
+Waist Size
+8
+Chest
+7
+Shoulder Width
+8
+Neck Length
+7

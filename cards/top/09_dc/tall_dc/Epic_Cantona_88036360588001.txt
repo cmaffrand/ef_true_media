@@ -1,0 +1,112 @@
+Eric Cantona
+Fox In The Box
+Height
+188cm
+Weight
+88kg
+Age
+29
+Foot
+
+B
+
+
+
+
+Breakthrough +3
+
+Striker's Instinct +1
+
+0
+Condition History
+Arrow Probabilities (%)
+528896969199101101103104104106105
+
+CF
+0/66
+Level Cap 
+34
+
+Shooting
+11
+
+Passing
+4
+
+Dribbling
+3
+
+Dexterity
+9
+
+Lower Body Strength
+9
+
+Aerial Strength
+6
+
+Defending
+
+GK 1
+
+GK 2
+
+GK 3
+Attacking
+Offensive Awareness	●	88
+Ball Control	●	90
+Dribbling	●	91
+Tight Possession		91
+Low Pass		87
+Lofted Pass		77
+Finishing	●	92
+Heading		78
+Place Kicking		81
+Curl		87
+Defending
+Defensive Awareness		60
+Defensive Engagement		64
+Tackling		60
+Aggression		66
+Goalkeeping		41
+Gk Catching		41
+GK Parrying		41
+GK Reflexes		41
+GK Reach		41
+athleticism
+Speed	●	86
+Acceleration	●	94
+Kicking Power	●	96
+Jump		79
+Physical Contact	●	90
+Balance		81
+Stamina		87
+Weak Foot Usage		2
+Weak Foot Acc		2
+Form		2
+Injury Resistance		2
+Skills
+Double Touch
+Heading
+Long Range Curler
+Long Range Shooting
+Acrobatic Finishing
+First Time Shot
+One Touch Pass
+Outside Curler
+Phenomenal Finishing
+Momentum Dribbling
+
+Body Measurements
+Leg Length
+11
+Arm Length
+7
+Waist Size
+7
+Chest
+8
+Shoulder Width
+10
+Neck Length
+7

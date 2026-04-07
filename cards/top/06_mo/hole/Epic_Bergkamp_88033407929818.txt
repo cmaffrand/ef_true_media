@@ -1,0 +1,112 @@
+Dennis Bergkamp
+Hole Player
+Height
+183cm
+Weight
+79kg
+Age
+23
+Foot
+
+B
+
+
+
+
+Technique +2
+
+Agility +1
+
+0
+Condition History
+Arrow Probabilities (%)
+477389898394999910010010010197
+
+AMF
+0/62
+Level Cap 
+32
+
+Shooting
+7
+
+Passing
+6
+
+Dribbling
+9
+
+Dexterity
+8
+
+Lower Body Strength
+9
+
+Aerial Strength
+2
+
+Defending
+
+GK 1
+
+GK 2
+
+GK 3
+Attacking
+Offensive Awareness		87
+Ball Control	●	96
+Dribbling	●	90
+Tight Possession	●	92
+Low Pass	●	84
+Lofted Pass		82
+Finishing	●	85
+Heading		70
+Place Kicking		84
+Curl		87
+Defending
+Defensive Awareness	●	49
+Defensive Engagement		52
+Tackling		49
+Aggression		58
+Goalkeeping		41
+Gk Catching		41
+GK Parrying		41
+GK Reflexes		41
+GK Reach		41
+athleticism
+Speed	●	84
+Acceleration	●	84
+Kicking Power		85
+Jump		67
+Physical Contact		69
+Balance	●	88
+Stamina	●	89
+Weak Foot Usage		0
+Weak Foot Acc		2
+Form		2
+Injury Resistance		1
+Skills
+Sombrero
+Chip Shot Control
+Acrobatic Finishing
+First Time Shot
+One Touch Pass
+Through Passing
+Weighted Pass
+Outside Curler
+Low Lofted Pass
+Game Changing Pass
+
+Body Measurements
+Leg Length
+9
+Arm Length
+6
+Waist Size
+2
+Chest
+3
+Shoulder Width
+12
+Neck Length
+9

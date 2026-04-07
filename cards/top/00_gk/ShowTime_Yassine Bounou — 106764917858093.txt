@@ -1,0 +1,81 @@
+Name: Yassine Bounou
+Position: GK
+Style: Offensive Goalkeeper
+
+Training:
+SHO: 0
+PAS: 0
+DRI: 0
+DEX: 0
+LBS: 0
+AER: 2
+DEF: 0
+GK1: 9
+GK2: 12
+GK3: 11
+Lv: 62
+Manager: Fabio Capello
+
+Attributes:
+Offensive Awareness: 43
+Ball Control: 56
+Dribbling: 46
+Tight Possession: 47
+Low Pass: 59
+Lofted Pass: 62
+Finishing: 42
+Heading: 48
+Place Kicking: 62
+Curl: 55
+Defensive Awareness: 47
+Defensive Engagement: 45
+Tackling: 62
+Aggression: 47
+Goalkeeping: 94
+Gk Catching: 93
+GK Parrying: 92
+GK Reflexes: 96
+GK Reach: 95
+Speed: 60
+Acceleration: 58
+Kicking Power: 72
+Jump: 76
+Balance: 53
+Stamina: 60
+Physical Contact: 72
+
+Skills:
+Gk Low Punt
+GK High Punt
+GK Long Throw
+GK Penalty Saver
+GK Direct Defending
+
+Biometrics:
+Height: 195
+Weight: 78
+Arm Length: 7
+Shoulder Width: 7
+Neck Length: 7
+Chest: 7
+Neck Size: 6
+Shoulder Height: 5
+Leg Length: 9
+Thigh Size: 7
+Waist Size: 6
+Arm Size: 6
+Calf Size: 6
+Leg Coverage Radius: 189.3
+Arm Coverage Radius: 177.1
+Jumping Height: 274.8
+Torso Collision: 54.3
+Leg Length Based Height: 197
+
+Com Skills:
+—
+
+Other Stats:
+Weak Foot Usage: 0
+Weak Foot Accuracy: 0
+Form: 2
+Injury Resistance: 1

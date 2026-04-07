@@ -1,0 +1,82 @@
+Name: Oliver Kahn
+Position: GK
+Style: Defensive Goalkeeper
+
+Training:
+SHO: 0
+PAS: 0
+DRI: 0
+DEX: 0
+LBS: 0
+AER: 2
+DEF: 0
+GK1: 9
+GK2: 11
+GK3: 10
+Lv: 56
+Manager: Fabio Capello
+
+Attributes:
+Offensive Awareness: 41
+Ball Control: 53
+Dribbling: 48
+Tight Possession: 47
+Low Pass: 62
+Lofted Pass: 64
+Finishing: 49
+Heading: 63
+Place Kicking: 53
+Curl: 46
+Defensive Awareness: 47
+Defensive Engagement: 41
+Tackling: 56
+Aggression: 54
+Goalkeeping: 94
+Gk Catching: 93
+GK Parrying: 93
+GK Reflexes: 95
+GK Reach: 95
+Speed: 56
+Acceleration: 60
+Kicking Power: 77
+Jump: 89
+Balance: 56
+Stamina: 60
+Physical Contact: 74
+
+Skills:
+GK High Punt
+GK Long Throw
+GK Penalty Saver
+Captaincy
+Fighting Spirit
+GK Spirit Roar
+
+Biometrics:
+Height: 188
+Weight: 91
+Arm Length: 6
+Shoulder Width: 11
+Neck Length: 4
+Chest: 7
+Neck Size: 8
+Shoulder Height: 3
+Leg Length: 12
+Thigh Size: 10
+Waist Size: 7
+Arm Size: 8
+Calf Size: 8
+Leg Coverage Radius: 184.2
+Arm Coverage Radius: 170.4
+Jumping Height: 275.5
+Torso Collision: 53.8
+Leg Length Based Height: 193
+
+Com Skills:
+Early Crosser
+
+Other Stats:
+Weak Foot Usage: 0
+Weak Foot Accuracy: 1
+Form: 2
+Injury Resistance: 2

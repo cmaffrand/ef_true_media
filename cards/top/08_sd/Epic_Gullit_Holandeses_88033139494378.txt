@@ -1,0 +1,112 @@
+Ruud Gullit
+Hole Player
+Height
+190cm
+Weight
+85kg
+Age
+26
+Foot
+
+B
+
+
+
+
+Technique +2
+
+Agility +1
+
+0
+Condition History
+Arrow Probabilities (%)
+549810210298101103103102104104104104
+
+SS
+0/68
+Level Cap 
+35
+
+Shooting
+8
+
+Passing
+6
+
+Dribbling
+9
+
+Dexterity
+9
+
+Lower Body Strength
+8
+
+Aerial Strength
+5
+
+Defending
+
+GK 1
+
+GK 2
+
+GK 3
+Attacking
+Offensive Awareness		83
+Ball Control	●	90
+Dribbling	●	89
+Tight Possession	●	84
+Low Pass	●	84
+Lofted Pass		80
+Finishing	●	86
+Heading		87
+Place Kicking		92
+Curl		90
+Defending
+Defensive Awareness	●	72
+Defensive Engagement		71
+Tackling		74
+Aggression		74
+Goalkeeping		41
+Gk Catching		41
+GK Parrying		41
+GK Reflexes		41
+GK Reach		41
+athleticism
+Speed	●	92
+Acceleration	●	92
+Kicking Power		93
+Jump		89
+Physical Contact		93
+Balance	●	85
+Stamina	●	89
+Weak Foot Usage		2
+Weak Foot Acc		3
+Form		2
+Injury Resistance		0
+Skills
+Heading
+Long Range Shooting
+Rising Shots
+Acrobatic Finishing
+One Touch Pass
+Through Passing
+Outside Curler
+Captaincy
+Fighting Spirit
+Visionary Pass
+
+Body Measurements
+Leg Length
+9
+Arm Length
+7
+Waist Size
+2
+Chest
+6
+Shoulder Width
+6
+Neck Length
+7

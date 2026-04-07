@@ -1,0 +1,97 @@
+Amadou Onana
+Anchor Man
+Height
+192cm
+Weight
+76kg
+Age
+24
+Foot
+
+E
+
+
+
+
+No Booster
+
+No Booster
+
+0
+Condition History
+Arrow Probabilities (%)
+511009797989491918888888584
+
+DMF
+0/64
+Level Cap 
+33
+
+Shooting
+
+Passing
+4
+
+Dribbling
+4
+
+Dexterity
+8
+
+Lower Body Strength
+8
+
+Aerial Strength
+6
+
+Defending
+12
+
+GK 1
+
+GK 2
+
+GK 3
+Attacking
+Offensive Awareness		74
+Ball Control		77
+Dribbling		76
+Tight Possession		80
+Low Pass		80
+Lofted Pass		80
+Finishing	●	61
+Heading		74
+Place Kicking		56
+Curl		62
+Defending
+Defensive Awareness	●	91
+Defensive Engagement		92
+Tackling		90
+Aggression		95
+Goalkeeping		41
+Gk Catching		41
+GK Parrying		41
+GK Reflexes		41
+GK Reach		41
+athleticism
+Speed		85
+Acceleration		80
+Kicking Power		83
+Jump		78
+Physical Contact		88
+Balance		68
+Stamina		90
+Weak Foot Usage		2
+Weak Foot Acc		2
+Form		1
+Injury Resistance		2
+Skills
+Long Range Shooting
+One Touch Pass
+Low Lofted Pass
+Man Marking
+Interception
+Fighting Spirit
+Aerial Superiority
+Blocker
+Sliding Tackle

@@ -1,0 +1,89 @@
+Name: Javier Zanetti
+Position: LB
+Style: Offensive Wingback
+
+Training:
+SHO: 4
+PAS: 3
+DRI: 3
+DEX: 7
+LBS: 9
+AER: 9
+DEF: 10
+GK1: 0
+GK2: 0
+GK3: 0
+Lv: 68
+Manager: Fabio Capello
+
+Attributes:
+Offensive Awareness: 75
+Ball Control: 76
+Dribbling: 80
+Tight Possession: 80
+Low Pass: 84
+Lofted Pass: 80
+Finishing: 73
+Heading: 79
+Place Kicking: 69
+Curl: 76
+Defensive Awareness: 90
+Defensive Engagement: 95
+Tackling: 93
+Aggression: 91
+Goalkeeping: 41
+Gk Catching: 41
+GK Parrying: 41
+GK Reflexes: 41
+GK Reach: 41
+Speed: 92
+Acceleration: 91
+Kicking Power: 84
+Jump: 89
+Balance: 85
+Stamina: 96
+Physical Contact: 90
+
+Skills:
+Double Touch
+Pinpoint Crossing
+Man Marking
+Interception
+Captaincy
+Fighting Spirit
+Blocker
+Sliding Tackle
+Phenomenal Pass
+Fortress
+
+Biometrics:
+Height: 178
+Weight: 75
+Arm Length: 3
+Shoulder Width: 8
+Neck Length: 6
+Chest: 4
+Neck Size: 10
+Shoulder Height: 1
+Leg Length: 11
+Thigh Size: 11
+Waist Size: 4
+Arm Size: 7
+Calf Size: 9
+Leg Coverage Radius: 173.9
+Arm Coverage Radius: 157.7
+Jumping Height: 266.1
+Torso Collision: 49.8
+Leg Length Based Height: 182
+
+Com Skills:
+Trickster
+Speeding Bullet
+Long Ball Expert
+Early Crosser
+
+Other Stats:
+Weak Foot Usage: 2
+Weak Foot Accuracy: 3
+Form: 2
+Injury Resistance: 1
