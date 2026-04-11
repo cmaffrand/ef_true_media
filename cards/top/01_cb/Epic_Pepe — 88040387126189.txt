@@ -1,0 +1,87 @@
+Name: Pepe
+Position: CB
+Style: Destroyer
+
+Training:
+SHO: 0
+PAS: 0
+DRI: 0
+DEX: 9
+LBS: 9
+AER: 9
+DEF: 9
+GK1: 0
+GK2: 0
+GK3: 0
+Lv: 60
+Manager: Fabio Capello
+
+Attributes:
+Offensive Awareness: 58
+Ball Control: 61
+Dribbling: 58
+Tight Possession: 59
+Low Pass: 64
+Lofted Pass: 65
+Finishing: 52
+Heading: 87
+Place Kicking: 52
+Curl: 56
+Defensive Awareness: 95
+Defensive Engagement: 93
+Tackling: 97
+Aggression: 98
+Goalkeeping: 41
+Gk Catching: 41
+GK Parrying: 41
+GK Reflexes: 41
+GK Reach: 41
+Speed: 91
+Acceleration: 88
+Kicking Power: 81
+Jump: 94
+Balance: 70
+Stamina: 87
+Physical Contact: 96
+
+Skills:
+Heading
+Man Marking
+Interception
+Acrobatic Clearance
+Fighting Spirit
+Blocker
+Aerial Superiority
+Sliding Tackle
+Fortress
+Long Reach Tackle
+
+Biometrics:
+Height: 188
+Weight: 81
+Arm Length: 7
+Shoulder Width: 7
+Neck Length: 7
+Chest: 5
+Neck Size: 5
+Shoulder Height: 9
+Leg Length: 8
+Thigh Size: 6
+Waist Size: 5
+Arm Size: 5
+Calf Size: 6
+Leg Coverage Radius: 182.0
+Arm Coverage Radius: 170.7
+Jumping Height: 279.6
+Torso Collision: 52.2
+Leg Length Based Height: 189
+
+Com Skills:
+Speeding Bullet
+Early Crosser
+
+Other Stats:
+Weak Foot Usage: 1
+Weak Foot Accuracy: 1
+Form: 2
+Injury Resistance: 1

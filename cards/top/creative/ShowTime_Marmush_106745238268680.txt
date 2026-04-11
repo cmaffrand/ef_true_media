@@ -1,0 +1,97 @@
+Omar Marmoush
+Creative Playmaker
+Height
+183cm
+Weight
+81kg
+Age
+26
+Foot
+
+D
+
+
+
+
+Off the Ball +2
+
+Accuracy +1
+
+0
+Condition History
+Arrow Probabilities (%)
+488094948697102102102104104104102
+
+LMF
+0/64
+Level Cap 
+33
+
+Shooting
+5
+
+Passing
+11
+
+Dribbling
+8
+
+Dexterity
+8
+
+Lower Body Strength
+8
+
+Aerial Strength
+1
+
+Defending
+
+GK 1
+
+GK 2
+
+GK 3
+Attacking
+Offensive Awareness	●	87
+Ball Control		90
+Dribbling		93
+Tight Possession		90
+Low Pass	●	88
+Lofted Pass	●	79
+Finishing	●	89
+Heading		63
+Place Kicking		85
+Curl		81
+Defending
+Defensive Awareness	●	54
+Defensive Engagement		56
+Tackling		55
+Aggression		65
+Goalkeeping		41
+Gk Catching		41
+GK Parrying		41
+GK Reflexes		41
+GK Reach		41
+athleticism
+Speed	●	94
+Acceleration	●	95
+Kicking Power	●	93
+Jump		66
+Physical Contact		75
+Balance		87
+Stamina	●	87
+Weak Foot Usage		1
+Weak Foot Acc		2
+Form		2
+Injury Resistance		2
+Skills
+Double Touch
+Chop Turn
+Cut Behind & Turn
+Long Range Curler
+Long Range Shooting
+Knuckle Shot
+Dipping Shot
+First Time Shot
+Fighting Spirit

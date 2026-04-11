@@ -1,0 +1,87 @@
+Name: Francesco Totti
+Position: AMF
+Style: Creative Playmaker
+
+Training:
+SHO: 5
+PAS: 7
+DRI: 7
+DEX: 8
+LBS: 12
+AER: 2
+DEF: 0
+GK1: 0
+GK2: 0
+GK3: 0
+Lv: 64
+Manager: Fabio Capello
+
+Attributes:
+Offensive Awareness: 88
+Ball Control: 91
+Dribbling: 94
+Tight Possession: 93
+Low Pass: 90
+Lofted Pass: 88
+Finishing: 90
+Heading: 65
+Place Kicking: 87
+Curl: 81
+Defensive Awareness: 54
+Defensive Engagement: 49
+Tackling: 51
+Aggression: 58
+Goalkeeping: 41
+Gk Catching: 41
+GK Parrying: 41
+GK Reflexes: 41
+GK Reach: 41
+Speed: 92
+Acceleration: 91
+Kicking Power: 92
+Jump: 66
+Balance: 91
+Stamina: 88
+Physical Contact: 80
+
+Skills:
+Long Range Shooting
+Knuckle Shot
+Heel Trick
+First Time Shot
+One Touch Pass
+Through Passing
+Weighted Pass
+Outside Curler
+Captaincy
+Phenomenal Finishing
+
+Biometrics:
+Height: 180
+Weight: 82
+Arm Length: 5
+Shoulder Width: 10
+Neck Length: 5
+Chest: 6
+Neck Size: 7
+Shoulder Height: 4
+Leg Length: 8
+Thigh Size: 8
+Waist Size: 5
+Arm Size: 7
+Calf Size: 7
+Leg Coverage Radius: 174.2
+Arm Coverage Radius: 161.9
+Jumping Height: 252.6
+Torso Collision: 51.0
+Leg Length Based Height: 181
+
+Com Skills:
+Mazing Run
+Incisive Run
+
+Other Stats:
+Weak Foot Usage: 2
+Weak Foot Accuracy: 2
+Form: 2
+Injury Resistance: 1

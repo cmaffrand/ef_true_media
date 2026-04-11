@@ -1,0 +1,86 @@
+Name: Ronaldinho Gaucho
+Position: LWF
+Style: Prolific Winger
+
+Training:
+SHO: 7
+PAS: 8
+DRI: 7
+DEX: 9
+LBS: 9
+AER: 0
+DEF: 0
+GK1: 0
+GK2: 0
+GK3: 0
+Lv: 62
+Manager: Fabio Capello
+
+Attributes:
+Offensive Awareness: 87
+Ball Control: 95
+Dribbling: 94
+Tight Possession: 93
+Low Pass: 87
+Lofted Pass: 90
+Finishing: 88
+Heading: 58
+Place Kicking: 90
+Curl: 91
+Defensive Awareness: 44
+Defensive Engagement: 43
+Tackling: 45
+Aggression: 49
+Goalkeeping: 41
+Gk Catching: 41
+GK Parrying: 41
+GK Reflexes: 41
+GK Reach: 41
+Speed: 88
+Acceleration: 92
+Kicking Power: 87
+Jump: 64
+Balance: 93
+Stamina: 85
+Physical Contact: 75
+
+Skills:
+Scissors Feint
+Double Touch
+Flip Flap
+Sombrero
+Sole Control
+Long Range Curler
+Through Passing
+Outside Curler
+No Look Pass
+Phenomenal Pass
+
+Biometrics:
+Height: 182
+Weight: 80
+Arm Length: 7
+Shoulder Width: 1
+Neck Length: 9
+Chest: 8
+Neck Size: 8
+Shoulder Height: 0
+Leg Length: 11
+Thigh Size: 5
+Waist Size: 7
+Arm Size: 4
+Calf Size: 4
+Leg Coverage Radius: 177.8
+Arm Coverage Radius: 164.2
+Jumping Height: 254.4
+Torso Collision: 49.0
+Leg Length Based Height: 186
+
+Com Skills:
+Mazing Run
+
+Other Stats:
+Weak Foot Usage: 1
+Weak Foot Accuracy: 2
+Form: 2
+Injury Resistance: 1

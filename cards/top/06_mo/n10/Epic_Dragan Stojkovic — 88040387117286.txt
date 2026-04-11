@@ -1,0 +1,86 @@
+Name: Dragan Stojkovic
+Position: AMF
+Style: Classic No. 10
+
+Training:
+SHO: 8
+PAS: 8
+DRI: 8
+DEX: 8
+LBS: 8
+AER: 4
+DEF: 0
+GK1: 0
+GK2: 0
+GK3: 0
+Lv: 64
+Manager: Fabio Capello
+
+Attributes:
+Offensive Awareness: 87
+Ball Control: 95
+Dribbling: 96
+Tight Possession: 95
+Low Pass: 90
+Lofted Pass: 87
+Finishing: 92
+Heading: 67
+Place Kicking: 92
+Curl: 90
+Defensive Awareness: 49
+Defensive Engagement: 47
+Tackling: 46
+Aggression: 48
+Goalkeeping: 41
+Gk Catching: 41
+GK Parrying: 41
+GK Reflexes: 41
+GK Reach: 41
+Speed: 92
+Acceleration: 93
+Kicking Power: 90
+Jump: 64
+Balance: 96
+Stamina: 83
+Physical Contact: 75
+
+Skills:
+Double Touch
+Marseille Turn
+Cut Behind & Turn
+Sole Control
+Long Range Curler
+First Time Shot
+One Touch Pass
+Through Passing
+Outside Curler
+Phenomenal Pass
+
+Biometrics:
+Height: 175
+Weight: 73
+Arm Length: 6
+Shoulder Width: 12
+Neck Length: 4
+Chest: 7
+Neck Size: 9
+Shoulder Height: 0
+Leg Length: 12
+Thigh Size: 10
+Waist Size: 5
+Arm Size: 4
+Calf Size: 9
+Leg Coverage Radius: 171.5
+Arm Coverage Radius: 158.8
+Jumping Height: 246.1
+Torso Collision: 50.2
+Leg Length Based Height: 180
+
+Com Skills:
+Mazing Run
+
+Other Stats:
+Weak Foot Usage: 2
+Weak Foot Accuracy: 3
+Form: 2
+Injury Resistance: 1

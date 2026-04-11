@@ -1,0 +1,87 @@
+Name: Michel Platini
+Position: AMF
+Style: Creative Playmaker
+
+Training:
+SHO: 8
+PAS: 8
+DRI: 8
+DEX: 8
+LBS: 8
+AER: 4
+DEF: 0
+GK1: 0
+GK2: 0
+GK3: 0
+Lv: 64
+Manager: Fabio Capello
+
+Attributes:
+Offensive Awareness: 88
+Ball Control: 93
+Dribbling: 94
+Tight Possession: 95
+Low Pass: 94
+Lofted Pass: 89
+Finishing: 92
+Heading: 78
+Place Kicking: 87
+Curl: 93
+Defensive Awareness: 45
+Defensive Engagement: 45
+Tackling: 42
+Aggression: 47
+Goalkeeping: 41
+Gk Catching: 41
+GK Parrying: 41
+GK Reflexes: 41
+GK Reach: 41
+Speed: 92
+Acceleration: 96
+Kicking Power: 92
+Jump: 79
+Balance: 93
+Stamina: 85
+Physical Contact: 80
+
+Skills:
+Double Touch
+Sole Control
+Heading
+Long Range Curler
+First Time Shot
+One Touch Pass
+Through Passing
+Outside Curler
+Momentum Dribbling
+Phenomenal Finishing
+
+Biometrics:
+Height: 179
+Weight: 73
+Arm Length: 7
+Shoulder Width: 7
+Neck Length: 7
+Chest: 7
+Neck Size: 7
+Shoulder Height: 7
+Leg Length: 7
+Thigh Size: 7
+Waist Size: 7
+Arm Size: 7
+Calf Size: 7
+Leg Coverage Radius: 172.7
+Arm Coverage Radius: 162.5
+Jumping Height: 260.7
+Torso Collision: 49.9
+Leg Length Based Height: 179
+
+Com Skills:
+Mazing Run
+Long Ball Expert
+
+Other Stats:
+Weak Foot Usage: 3
+Weak Foot Accuracy: 3
+Form: 2
+Injury Resistance: 1

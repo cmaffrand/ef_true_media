@@ -1,0 +1,97 @@
+Takefusa Kubo
+Creative Playmaker
+Height
+173cm
+Weight
+67kg
+Age
+22
+Foot
+
+B
+
+
+
+
+Ball-carrying +3
+
+Accuracy +1
+
+0
+Condition History
+Arrow Probabilities (%)
+45759393849710410410310410410398
+
+RMF
+0/64
+Level Cap 
+33
+
+Shooting
+4
+
+Passing
+9
+
+Dribbling
+9
+
+Dexterity
+9
+
+Lower Body Strength
+9
+
+Aerial Strength
+
+Defending
+
+GK 1
+
+GK 2
+
+GK 3
+Attacking
+Offensive Awareness		87
+Ball Control		94
+Dribbling	●	94
+Tight Possession	●	95
+Low Pass	●	89
+Lofted Pass	●	88
+Finishing	●	83
+Heading		52
+Place Kicking		74
+Curl		83
+Defending
+Defensive Awareness	●	53
+Defensive Engagement		66
+Tackling		52
+Aggression		59
+Goalkeeping		41
+Gk Catching		41
+GK Parrying		41
+GK Reflexes		41
+GK Reach		41
+athleticism
+Speed	●	92
+Acceleration		95
+Kicking Power	●	91
+Jump		59
+Physical Contact		67
+Balance	●	96
+Stamina		87
+Weak Foot Usage		0
+Weak Foot Acc		1
+Form		2
+Injury Resistance		1
+Skills
+Double Touch
+Flip Flap
+Sole Control
+Long Range Curler
+One Touch Pass
+Through Passing
+Pinpoint Crossing
+Outside Curler
+Phenomenal Pass
+Momentum Dribbling

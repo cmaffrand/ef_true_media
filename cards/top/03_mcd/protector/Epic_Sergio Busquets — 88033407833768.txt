@@ -1,0 +1,85 @@
+Name: Sergio Busquets
+Position: DMF
+Style: Anchor Man
+
+Training:
+SHO: 0
+PAS: 4
+DRI: 4
+DEX: 8
+LBS: 10
+AER: 9
+DEF: 9
+GK1: 0
+GK2: 0
+GK3: 0
+Lv: 68
+Manager: Fabio Capello
+
+Attributes:
+Offensive Awareness: 75
+Ball Control: 88
+Dribbling: 80
+Tight Possession: 93
+Low Pass: 93
+Lofted Pass: 87
+Finishing: 63
+Heading: 78
+Place Kicking: 65
+Curl: 71
+Defensive Awareness: 95
+Defensive Engagement: 93
+Tackling: 93
+Aggression: 87
+Goalkeeping: 41
+Gk Catching: 41
+GK Parrying: 41
+GK Reflexes: 41
+GK Reach: 41
+Speed: 80
+Acceleration: 81
+Kicking Power: 87
+Jump: 77
+Balance: 83
+Stamina: 92
+Physical Contact: 87
+
+Skills:
+Marseille Turn
+Cut Behind & Turn
+One Touch Pass
+Through Passing
+Low Lofted Pass
+Interception
+Blocker
+Sliding Tackle
+Visionary Pass
+
+Biometrics:
+Height: 189
+Weight: 76
+Arm Length: 4
+Shoulder Width: 6
+Neck Length: 7
+Chest: 3
+Neck Size: 6
+Shoulder Height: 10
+Leg Length: 7
+Thigh Size: 3
+Waist Size: 3
+Arm Size: 4
+Calf Size: 2
+Leg Coverage Radius: 182.4
+Arm Coverage Radius: 168.2
+Jumping Height: 269.4
+Torso Collision: 51.9
+Leg Length Based Height: 189
+
+Com Skills:
+—
+
+Other Stats:
+Weak Foot Usage: 2
+Weak Foot Accuracy: 2
+Form: 2
+Injury Resistance: 1

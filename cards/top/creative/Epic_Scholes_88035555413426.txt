@@ -1,0 +1,111 @@
+Paul Scholes
+Creative Playmaker
+Height
+170cm
+Weight
+70kg
+Age
+24
+Foot
+
+B
+
+
+
+
+Technique +2
+
+Ball-carrying +1
+
+0
+Condition History
+Arrow Probabilities (%)
+478998989510210410410410310310399
+
+AMF
+0/60
+Level Cap 
+31
+
+Shooting
+8
+
+Passing
+8
+
+Dribbling
+8
+
+Dexterity
+8
+
+Lower Body Strength
+8
+
+Aerial Strength
+
+Defending
+
+GK 1
+
+GK 2
+
+GK 3
+Attacking
+Offensive Awareness		78
+Ball Control	●	93
+Dribbling	●	90
+Tight Possession	●	94
+Low Pass	●	93
+Lofted Pass		88
+Finishing	●	88
+Heading		71
+Place Kicking		79
+Curl		83
+Defending
+Defensive Awareness	●	74
+Defensive Engagement		75
+Tackling		70
+Aggression		74
+Goalkeeping		41
+Gk Catching		41
+GK Parrying		41
+GK Reflexes		41
+GK Reach		41
+athleticism
+Speed	●	88
+Acceleration		89
+Kicking Power		91
+Jump		71
+Physical Contact		77
+Balance	●	85
+Stamina		90
+Weak Foot Usage		1
+Weak Foot Acc		2
+Form		2
+Injury Resistance		1
+Skills
+Double Touch
+Long Range Shooting
+Rising Shots
+Acrobatic Finishing
+First Time Shot
+One Touch Pass
+Through Passing
+Weighted Pass
+Outside Curler
+Visionary Pass
+
+Body Measurements
+Leg Length
+7
+Arm Length
+4
+Waist Size
+6
+Chest
+7
+Shoulder Width
+11
+Neck Length
+4

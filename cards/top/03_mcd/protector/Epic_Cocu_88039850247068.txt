@@ -96,3 +96,17 @@ Man Marking
 Interception
 Fighting Spirit
 Fortress
+
+Body Measurements
+Leg Length
+12
+Arm Length
+6
+Waist Size
+6
+Chest
+5
+Shoulder Width
+7
+Neck Length
+7

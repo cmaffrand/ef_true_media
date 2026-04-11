@@ -1,0 +1,112 @@
+Pelé
+Creative Playmaker
+Height
+173cm
+Weight
+73kg
+Age
+23
+Foot
+
+B
+
+
+
+
+Offence Creator +3
+
+Off the Ball +1
+
+0
+Condition History
+Arrow Probabilities (%)
+487794948497105105106108108108105
+
+SS
+0/64
+Level Cap 
+33
+
+Shooting
+8
+
+Passing
+8
+
+Dribbling
+8
+
+Dexterity
+8
+
+Lower Body Strength
+8
+
+Aerial Strength
+4
+
+Defending
+
+GK 1
+
+GK 2
+
+GK 3
+Attacking
+Offensive Awareness	●	92
+Ball Control	●	95
+Dribbling		96
+Tight Possession		96
+Low Pass	●	91
+Lofted Pass		84
+Finishing	●	92
+Heading		76
+Place Kicking		80
+Curl		83
+Defending
+Defensive Awareness	●	48
+Defensive Engagement		44
+Tackling		41
+Aggression		41
+Goalkeeping		41
+Gk Catching		41
+GK Parrying		41
+GK Reflexes		41
+GK Reach		41
+athleticism
+Speed	●	95
+Acceleration	●	94
+Kicking Power	●	91
+Jump		77
+Physical Contact		83
+Balance		90
+Stamina	●	85
+Weak Foot Usage		3
+Weak Foot Acc		3
+Form		2
+Injury Resistance		2
+Skills
+Double Touch
+Sole Control
+Heading
+Long Range Curler
+First Time Shot
+Through Passing
+Outside Curler
+Gamesmanship
+Phenomenal Finishing
+Momentum Dribbling
+
+Body Measurements
+Leg Length
+7
+Arm Length
+5
+Waist Size
+8
+Chest
+9
+Shoulder Width
+7
+Neck Length
+8

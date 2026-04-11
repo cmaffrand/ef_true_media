@@ -1,0 +1,99 @@
+Zico
+Creative Playmaker
+Height
+172cm
+Weight
+69kg
+Age
+25
+Foot
+
+B
+
+
+
+
+Ball Protection +3
+
+Agility +1
+
+0
+Condition History
+Arrow Probabilities (%)
+477894948698105105105106106107104
+
+AMF
+0/68
+Level Cap 
+35
+
+Shooting
+8
+
+Passing
+7
+
+Dribbling
+8
+
+Dexterity
+9
+
+Lower Body Strength
+9
+
+Aerial Strength
+4
+
+Defending
+0
+
+GK 1
+
+GK 2
+
+GK 3
+Attacking
+Offensive Awareness		87
+Ball Control	●	95
+Dribbling		93
+Tight Possession	●	97
+Low Pass		92
+Lofted Pass		83
+Finishing	●	90
+Heading		75
+Place Kicking		95
+Curl		93
+Defending
+Defensive Awareness	●	51
+Defensive Engagement		51
+Tackling		49
+Aggression		53
+Goalkeeping		41
+Gk Catching		41
+GK Parrying		41
+GK Reflexes		41
+GK Reach		41
+athleticism
+Speed	●	91
+Acceleration	●	95
+Kicking Power		91
+Jump		72
+Physical Contact	●	79
+Balance	●	98
+Stamina	●	85
+Weak Foot Usage		1
+Weak Foot Acc		3
+Form		2
+Injury Resistance		0
+Skills
+Double Touch
+Long Range Curler
+Long Range Shooting
+Acrobatic Finishing
+First Time Shot
+One Touch Pass
+Through Passing
+Super Sub
+Momentum Dribbling
+Blitz Curler

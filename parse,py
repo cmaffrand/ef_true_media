@@ -35,7 +35,7 @@ def extract_text_from_html(file_path, output_folder, prefix=""):
     
     #print(text)
     
-    blacklist = ["eFHUB", "Players", "Community", "English", "Sign in", "Compare", "My Builds", "Community Builds", "Save Build", "Share", "SCREENSHOT", "SETTINGS"]
+    blacklist = ["eFHUB", "Players", "Community", "English", "Sign in", "Compare", "My Builds", "Community Builds", "Save Build", "Share", "SCREENSHOT", "SETTINGS", "Packs"]
     lines = [line.strip() for line in text.splitlines()]
     text = "\n".join(line for line in lines if line and "+" not in line and not any(word in line for word in blacklist))
     

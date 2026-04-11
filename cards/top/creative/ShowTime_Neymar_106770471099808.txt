@@ -1,0 +1,111 @@
+Neymar Jr
+Creative Playmaker
+Height
+175cm
+Weight
+68kg
+Age
+33
+Foot
+
+A
+
+
+
+
+Ball Protection +3
+
+Free-kick Taking +1
+
+0
+Condition History
+Arrow Probabilities (%)
+43668888779210010010010210210297
+
+AMF
+0/60
+Level Cap 
+31
+
+Shooting
+9
+
+Passing
+1
+
+Dribbling
+6
+
+Dexterity
+8
+
+Lower Body Strength
+12
+
+Aerial Strength
+
+Defending
+
+GK 1
+
+GK 2
+
+GK 3
+Attacking
+Offensive Awareness		82
+Ball Control	●	95
+Dribbling		93
+Tight Possession	●	95
+Low Pass		82
+Lofted Pass		81
+Finishing	●	91
+Heading		51
+Place Kicking	●	90
+Curl	●	95
+Defending
+Defensive Awareness	●	43
+Defensive Engagement		48
+Tackling		44
+Aggression		49
+Goalkeeping		41
+Gk Catching		41
+GK Parrying		41
+GK Reflexes		41
+GK Reach		41
+athleticism
+Speed		90
+Acceleration		91
+Kicking Power	●	91
+Jump		52
+Physical Contact	●	58
+Balance	●	93
+Stamina		88
+Weak Foot Usage		2
+Weak Foot Acc		3
+Form		0
+Injury Resistance		0
+Skills
+Double Touch
+Flip Flap
+Marseille Turn
+Sombrero
+Cut Behind & Turn
+Long Range Curler
+No Look Pass
+Penalty Specialist
+Gamesmanship
+Blitz Curler
+
+Body Measurements
+Leg Length
+9
+Arm Length
+5
+Waist Size
+4
+Chest
+8
+Shoulder Width
+9
+Neck Length
+5

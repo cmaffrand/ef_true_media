@@ -1,0 +1,88 @@
+Name: Denis Zakaria
+Position: DMF
+Style: Anchor Man
+
+Training:
+SHO: 0
+PAS: 7
+DRI: 8
+DEX: 8
+LBS: 8
+AER: 5
+DEF: 12
+GK1: 0
+GK2: 0
+GK3: 0
+Lv: 76
+Manager: Fabio Capello
+
+Attributes:
+Offensive Awareness: 72
+Ball Control: 87
+Dribbling: 84
+Tight Possession: 87
+Low Pass: 82
+Lofted Pass: 82
+Finishing: 64
+Heading: 77
+Place Kicking: 59
+Curl: 64
+Defensive Awareness: 89
+Defensive Engagement: 91
+Tackling: 91
+Aggression: 98
+Goalkeeping: 41
+Gk Catching: 41
+GK Parrying: 41
+GK Reflexes: 41
+GK Reach: 41
+Speed: 90
+Acceleration: 83
+Kicking Power: 80
+Jump: 74
+Balance: 72
+Stamina: 84
+Physical Contact: 90
+
+Skills:
+Heading
+Long Range Shooting
+Rising Shots
+First Time Shot
+One Touch Pass
+Man Marking
+Interception
+Fighting Spirit
+Blocker
+Fortress
+
+Biometrics:
+Height: 191
+Weight: 81
+Arm Length: 8
+Shoulder Width: 7
+Neck Length: 4
+Chest: 6
+Neck Size: 10
+Shoulder Height: 2
+Leg Length: 12
+Thigh Size: 6
+Waist Size: 4
+Arm Size: 6
+Calf Size: 5
+Leg Coverage Radius: 187.2
+Arm Coverage Radius: 174.5
+Jumping Height: 268.6
+Torso Collision: 53.0
+Leg Length Based Height: 196
+
+Com Skills:
+Speeding Bullet
+Incisive Run
+Early Crosser
+
+Other Stats:
+Weak Foot Usage: 2
+Weak Foot Accuracy: 2
+Form: 1
+Injury Resistance: 0

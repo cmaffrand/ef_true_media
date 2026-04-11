@@ -1,0 +1,87 @@
+Name: Zlatan Ibrahimovic
+Position: CF
+Style: Fox In The Box
+
+Training:
+SHO: 7
+PAS: 1
+DRI: 9
+DEX: 9
+LBS: 8
+AER: 6
+DEF: 0
+GK1: 1
+GK2: 0
+GK3: 0
+Lv: 62
+Manager: Fabio Capello
+
+Attributes:
+Offensive Awareness: 92
+Ball Control: 90
+Dribbling: 90
+Tight Possession: 90
+Low Pass: 70
+Lofted Pass: 63
+Finishing: 93
+Heading: 90
+Place Kicking: 80
+Curl: 81
+Defensive Awareness: 44
+Defensive Engagement: 46
+Tackling: 43
+Aggression: 48
+Goalkeeping: 42
+Gk Catching: 41
+GK Parrying: 41
+GK Reflexes: 41
+GK Reach: 41
+Speed: 90
+Acceleration: 92
+Kicking Power: 94
+Jump: 94
+Balance: 82
+Stamina: 85
+Physical Contact: 94
+
+Skills:
+Heading
+Long Range Curler
+Long Range Shooting
+Acrobatic Finishing
+First Time Shot
+Captaincy
+Fighting Spirit
+Aerial Superiority
+Phenomenal Finishing
+Bullet Header
+
+Biometrics:
+Height: 195
+Weight: 95
+Arm Length: 10
+Shoulder Width: 8
+Neck Length: 9
+Chest: 4
+Neck Size: 5
+Shoulder Height: 2
+Leg Length: 9
+Thigh Size: 9
+Waist Size: 5
+Arm Size: 7
+Calf Size: 11
+Leg Coverage Radius: 189.3
+Arm Coverage Radius: 180.6
+Jumping Height: 287.2
+Torso Collision: 54.6
+Leg Length Based Height: 197
+
+Com Skills:
+Incisive Run
+Early Crosser
+
+Other Stats:
+Weak Foot Usage: 2
+Weak Foot Accuracy: 2
+Form: 2
+Injury Resistance: 1

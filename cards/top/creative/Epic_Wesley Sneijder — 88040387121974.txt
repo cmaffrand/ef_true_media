@@ -1,0 +1,86 @@
+Name: Wesley Sneijder
+Position: AMF
+Style: Creative Playmaker
+
+Training:
+SHO: 6
+PAS: 6
+DRI: 7
+DEX: 10
+LBS: 10
+AER: 2
+DEF: 0
+GK1: 0
+GK2: 0
+GK3: 0
+Lv: 64
+Manager: Fabio Capello
+
+Attributes:
+Offensive Awareness: 87
+Ball Control: 90
+Dribbling: 92
+Tight Possession: 94
+Low Pass: 94
+Lofted Pass: 90
+Finishing: 90
+Heading: 56
+Place Kicking: 85
+Curl: 92
+Defensive Awareness: 51
+Defensive Engagement: 53
+Tackling: 50
+Aggression: 56
+Goalkeeping: 41
+Gk Catching: 41
+GK Parrying: 41
+GK Reflexes: 41
+GK Reach: 41
+Speed: 90
+Acceleration: 92
+Kicking Power: 98
+Jump: 59
+Balance: 90
+Stamina: 88
+Physical Contact: 76
+
+Skills:
+Double Touch
+Marseille Turn
+Long Range Curler
+Long Range Shooting
+First Time Shot
+One Touch Pass
+Through Passing
+Pinpoint Crossing
+Phenomenal Pass
+Blitz Curler
+
+Biometrics:
+Height: 170
+Weight: 72
+Arm Length: 2
+Shoulder Width: 9
+Neck Length: 5
+Chest: 4
+Neck Size: 11
+Shoulder Height: 7
+Leg Length: 7
+Thigh Size: 7
+Waist Size: 2
+Arm Size: 7
+Calf Size: 7
+Leg Coverage Radius: 164.1
+Arm Coverage Radius: 149.8
+Jumping Height: 238.1
+Torso Collision: 47.6
+Leg Length Based Height: 170
+
+Com Skills:
+Incisive Run
+
+Other Stats:
+Weak Foot Usage: 3
+Weak Foot Accuracy: 3
+Form: 2
+Injury Resistance: 1

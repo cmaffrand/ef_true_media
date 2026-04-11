@@ -1,0 +1,98 @@
+Isco
+Creative Playmaker
+Height
+176cm
+Weight
+79kg
+Age
+33
+Foot
+
+C
+
+
+
+
+Technique +3
+
+Off the Ball +1
+
+0
+Condition History
+Arrow Probabilities (%)
+45739090839610110110210110110195
+
+AMF
+0/64
+Level Cap 
+33
+
+Shooting
+8
+
+Passing
+8
+
+Dribbling
+8
+
+Dexterity
+8
+
+Lower Body Strength
+9
+
+Aerial Strength
+1
+
+Defending
+
+GK 1
+
+GK 2
+
+GK 3
+Attacking
+Offensive Awareness	●	85
+Ball Control	●	94
+Dribbling	●	95
+Tight Possession	●	95
+Low Pass	●	93
+Lofted Pass		90
+Finishing	●	83
+Heading		54
+Place Kicking		84
+Curl		90
+Defending
+Defensive Awareness	●	52
+Defensive Engagement		56
+Tackling		59
+Aggression		53
+Goalkeeping		41
+Gk Catching		41
+GK Parrying		41
+GK Reflexes		41
+GK Reach		41
+athleticism
+Speed	●	85
+Acceleration	●	85
+Kicking Power		82
+Jump		58
+Physical Contact		68
+Balance		92
+Stamina	●	84
+Weak Foot Usage		1
+Weak Foot Acc		2
+Form		2
+Injury Resistance		0
+Skills
+Double Touch
+Flip Flap
+Marseille Turn
+Sole Control
+Long Range Curler
+One Touch Pass
+Through Passing
+Weighted Pass
+No Look Pass
+Visionary Pass

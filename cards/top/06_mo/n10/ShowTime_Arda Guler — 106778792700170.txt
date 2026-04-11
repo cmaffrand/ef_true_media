@@ -1,0 +1,86 @@
+Name: Arda Guler
+Position: AMF
+Style: Classic No. 10
+
+Training:
+SHO: 5
+PAS: 8
+DRI: 7
+DEX: 8
+LBS: 10
+AER: 0
+DEF: 0
+GK1: 0
+GK2: 0
+GK3: 0
+Lv: 58
+Manager: Fabio Capello
+
+Attributes:
+Offensive Awareness: 87
+Ball Control: 91
+Dribbling: 91
+Tight Possession: 92
+Low Pass: 92
+Lofted Pass: 90
+Finishing: 88
+Heading: 52
+Place Kicking: 81
+Curl: 90
+Defensive Awareness: 64
+Defensive Engagement: 69
+Tackling: 69
+Aggression: 65
+Goalkeeping: 41
+Gk Catching: 41
+GK Parrying: 41
+GK Reflexes: 41
+GK Reach: 41
+Speed: 90
+Acceleration: 90
+Kicking Power: 91
+Jump: 54
+Balance: 92
+Stamina: 88
+Physical Contact: 67
+
+Skills:
+Double Touch
+Sole Control
+Long Range Curler
+Long Range Shooting
+One Touch Pass
+Through Passing
+Pinpoint Crossing
+Outside Curler
+Phenomenal Pass
+Low Screamer
+
+Biometrics:
+Height: 176
+Weight: 67
+Arm Length: 7
+Shoulder Width: 9
+Neck Length: 6
+Chest: 6
+Neck Size: 8
+Shoulder Height: 9
+Leg Length: 11
+Thigh Size: 7
+Waist Size: 6
+Arm Size: 6
+Calf Size: 6
+Leg Coverage Radius: 172.0
+Arm Coverage Radius: 160.2
+Jumping Height: 241.0
+Torso Collision: 49.6
+Leg Length Based Height: 180
+
+Com Skills:
+Mazing Run
+
+Other Stats:
+Weak Foot Usage: 1
+Weak Foot Accuracy: 1
+Form: 1
+Injury Resistance: 1

@@ -1,0 +1,99 @@
+Rui Costa
+Creative Playmaker
+Height
+180cm
+Weight
+80kg
+Age
+30
+Foot
+
+B
+
+
+
+
+Accuracy +3
+
+Agility +1
+
+0
+Condition History
+Arrow Probabilities (%)
+4882969690100105105105105105105101
+
+AMF
+0/68
+Level Cap 
+35
+
+Shooting
+8
+
+Passing
+6
+
+Dribbling
+8
+
+Dexterity
+8
+
+Lower Body Strength
+11
+
+Aerial Strength
+3
+
+Defending
+0
+
+GK 1
+
+GK 2
+
+GK 3
+Attacking
+Offensive Awareness		80
+Ball Control		91
+Dribbling		93
+Tight Possession		94
+Low Pass	●	94
+Lofted Pass	●	90
+Finishing	●	91
+Heading		67
+Place Kicking		83
+Curl		91
+Defending
+Defensive Awareness	●	59
+Defensive Engagement		60
+Tackling		56
+Aggression		60
+Goalkeeping		41
+Gk Catching		41
+GK Parrying		41
+GK Reflexes		41
+GK Reach		41
+athleticism
+Speed	●	91
+Acceleration	●	90
+Kicking Power	●	92
+Jump		67
+Physical Contact		80
+Balance	●	88
+Stamina	●	89
+Weak Foot Usage		1
+Weak Foot Acc		2
+Form		2
+Injury Resistance		1
+Skills
+Double Touch
+Sole Control
+Long Range Curler
+Long Range Shooting
+One Touch Pass
+Through Passing
+Weighted Pass
+Outside Curler
+Phenomenal Pass
+Visionary Pass
