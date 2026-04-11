@@ -1,0 +1,112 @@
+Wesley Sneijder
+Creative Playmaker
+Height
+170cm
+Weight
+72kg
+Age
+25
+Foot
+
+B
+
+
+
+
+Accuracy +3
+
+Agility +1
+
+0
+Condition History
+Arrow Probabilities (%)
+46779494879910410410410310310399
+
+AMF
+0/64
+Level Cap 
+33
+
+Shooting
+7
+
+Passing
+7
+
+Dribbling
+7
+
+Dexterity
+7
+
+Lower Body Strength
+11
+
+Aerial Strength
+3
+
+Defending
+
+GK 1
+
+GK 2
+
+GK 3
+Attacking
+Offensive Awareness		83
+Ball Control		90
+Dribbling		91
+Tight Possession		95
+Low Pass	●	95
+Lofted Pass	●	90
+Finishing	●	88
+Heading		56
+Place Kicking		87
+Curl		91
+Defending
+Defensive Awareness	●	55
+Defensive Engagement		58
+Tackling		52
+Aggression		62
+Goalkeeping		41
+Gk Catching		41
+GK Parrying		41
+GK Reflexes		41
+GK Reach		41
+athleticism
+Speed	●	90
+Acceleration	●	88
+Kicking Power	●	97
+Jump		63
+Physical Contact		75
+Balance	●	88
+Stamina	●	89
+Weak Foot Usage		3
+Weak Foot Acc		3
+Form		2
+Injury Resistance		1
+Skills
+Double Touch
+Long Range Curler
+Long Range Shooting
+First Time Shot
+One Touch Pass
+Through Passing
+Pinpoint Crossing
+Outside Curler
+Phenomenal Pass
+Visionary Pass
+
+Body Measurements
+Leg Length
+7
+Arm Length
+2
+Waist Size
+2
+Chest
+4
+Shoulder Width
+9
+Neck Length
+5

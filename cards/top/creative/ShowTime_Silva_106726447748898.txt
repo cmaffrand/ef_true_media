@@ -1,0 +1,97 @@
+Bernardo Silva
+Creative Playmaker
+Height
+173cm
+Weight
+64kg
+Age
+31
+Foot
+
+C
+
+
+
+
+Passing +2
+
+Off the Ball +1
+
+0
+Condition History
+Arrow Probabilities (%)
+43759292879910310310210110110193
+
+RMF
+0/60
+Level Cap 
+31
+
+Shooting
+5
+
+Passing
+8
+
+Dribbling
+8
+
+Dexterity
+8
+
+Lower Body Strength
+10
+
+Aerial Strength
+
+Defending
+
+GK 1
+
+GK 2
+
+GK 3
+Attacking
+Offensive Awareness	●	85
+Ball Control		95
+Dribbling		95
+Tight Possession		97
+Low Pass	●	95
+Lofted Pass	●	91
+Finishing	●	78
+Heading		54
+Place Kicking		68
+Curl	●	81
+Defending
+Defensive Awareness	●	56
+Defensive Engagement		62
+Tackling		63
+Aggression		70
+Goalkeeping		41
+Gk Catching		41
+GK Parrying		41
+GK Reflexes		41
+GK Reach		41
+athleticism
+Speed	●	83
+Acceleration	●	89
+Kicking Power	●	84
+Jump		56
+Physical Contact		59
+Balance		95
+Stamina	●	91
+Weak Foot Usage		0
+Weak Foot Acc		1
+Form		2
+Injury Resistance		1
+Skills
+Cut Behind & Turn
+Long Range Curler
+Long Range Shooting
+One Touch Pass
+Through Passing
+Pinpoint Crossing
+Outside Curler
+Low Lofted Pass
+Track Back
+Phenomenal Pass

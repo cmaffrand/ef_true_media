@@ -1,0 +1,97 @@
+Robert Pirès
+Creative Playmaker
+Height
+185cm
+Weight
+75kg
+Age
+29
+Foot
+
+B
+
+
+
+
+Agility +2
+
+No Booster
+
+0
+Condition History
+Arrow Probabilities (%)
+45749292839510210210110210210197
+
+LMF
+0/62
+Level Cap 
+32
+
+Shooting
+9
+
+Passing
+7
+
+Dribbling
+8
+
+Dexterity
+7
+
+Lower Body Strength
+9
+
+Aerial Strength
+
+Defending
+
+GK 1
+
+GK 2
+
+GK 3
+Attacking
+Offensive Awareness		87
+Ball Control		91
+Dribbling		92
+Tight Possession		87
+Low Pass		87
+Lofted Pass		83
+Finishing	●	88
+Heading		53
+Place Kicking		83
+Curl		88
+Defending
+Defensive Awareness	●	51
+Defensive Engagement		58
+Tackling		52
+Aggression		56
+Goalkeeping		41
+Gk Catching		41
+GK Parrying		41
+GK Reflexes		41
+GK Reach		41
+athleticism
+Speed	●	93
+Acceleration	●	91
+Kicking Power		83
+Jump		55
+Physical Contact		61
+Balance	●	84
+Stamina	●	94
+Weak Foot Usage		1
+Weak Foot Acc		2
+Form		2
+Injury Resistance		1
+Skills
+Double Touch
+Long Range Curler
+Chip Shot Control
+Long Range Shooting
+First Time Shot
+One Touch Pass
+Through Passing
+Weighted Pass
+Pinpoint Crossing
+Outside Curler

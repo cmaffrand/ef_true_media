@@ -96,3 +96,17 @@ Fighting Spirit
 Aerial Superiority
 Blocker
 Sliding Tackle
+
+Body Measurements
+Leg Length
+14
+Arm Length
+14
+Waist Size
+2
+Chest
+5
+Shoulder Width
+8
+Neck Length
+6

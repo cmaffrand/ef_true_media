@@ -1,0 +1,88 @@
+Name: Lionel Messi
+Position: RWF
+Style: Creative Playmaker
+
+Training:
+SHO: 6
+PAS: 8
+DRI: 6
+DEX: 8
+LBS: 12
+AER: 2
+DEF: 0
+GK1: 0
+GK2: 0
+GK3: 0
+Lv: 66
+Manager: Fabio Capello
+
+Attributes:
+Offensive Awareness: 91
+Ball Control: 95
+Dribbling: 97
+Tight Possession: 94
+Low Pass: 92
+Lofted Pass: 87
+Finishing: 90
+Heading: 53
+Place Kicking: 75
+Curl: 90
+Defensive Awareness: 49
+Defensive Engagement: 49
+Tackling: 47
+Aggression: 51
+Goalkeeping: 41
+Gk Catching: 41
+GK Parrying: 41
+GK Reflexes: 41
+GK Reach: 41
+Speed: 99
+Acceleration: 99
+Kicking Power: 93
+Jump: 55
+Balance: 97
+Stamina: 90
+Physical Contact: 75
+
+Skills:
+Double Touch
+Sole Control
+Long Range Curler
+Long Range Shooting
+First Time Shot
+One Touch Pass
+Through Passing
+Fighting Spirit
+Momentum Dribbling
+Blitz Curler
+
+Biometrics:
+Height: 170
+Weight: 67
+Arm Length: 5
+Shoulder Width: 9
+Neck Length: 6
+Chest: 9
+Neck Size: 9
+Shoulder Height: 2
+Leg Length: 3
+Thigh Size: 9
+Waist Size: 7
+Arm Size: 8
+Calf Size: 10
+Leg Coverage Radius: 162.0
+Arm Coverage Radius: 152.8
+Jumping Height: 235.7
+Torso Collision: 48.1
+Leg Length Based Height: 166
+
+Com Skills:
+Trickster
+Long Ball Expert
+Early Crosser
+
+Other Stats:
+Weak Foot Usage: 1
+Weak Foot Accuracy: 2
+Form: 2
+Injury Resistance: 1

@@ -1,0 +1,98 @@
+Steve McManaman
+Creative Playmaker
+Height
+183cm
+Weight
+72kg
+Age
+27
+Foot
+
+B
+
+
+
+
+Agility +3
+
+Accuracy +1
+
+0
+Condition History
+Arrow Probabilities (%)
+498296968899104104103105105103100
+
+RMF
+0/62
+Level Cap 
+32
+
+Shooting
+4
+
+Passing
+8
+
+Dribbling
+8
+
+Dexterity
+8
+
+Lower Body Strength
+10
+
+Aerial Strength
+4
+
+Defending
+
+GK 1
+
+GK 2
+
+GK 3
+Attacking
+Offensive Awareness		81
+Ball Control		90
+Dribbling		96
+Tight Possession		90
+Low Pass	●	93
+Lofted Pass	●	84
+Finishing	●	84
+Heading		66
+Place Kicking		75
+Curl		80
+Defending
+Defensive Awareness	●	55
+Defensive Engagement		60
+Tackling		50
+Aggression		62
+Goalkeeping		41
+Gk Catching		41
+GK Parrying		41
+GK Reflexes		41
+GK Reach		41
+athleticism
+Speed	●	99
+Acceleration	●	90
+Kicking Power	●	91
+Jump		69
+Physical Contact		83
+Balance	●	90
+Stamina	●	91
+Weak Foot Usage		2
+Weak Foot Acc		2
+Form		0
+Injury Resistance		2
+Skills
+Double Touch
+Marseille Turn
+Chop Turn
+Long Range Curler
+First Time Shot
+One Touch Pass
+Through Passing
+Pinpoint Crossing
+Super Sub
+Momentum Dribbling

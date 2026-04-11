@@ -1,0 +1,98 @@
+Roberto Baggio
+Creative Playmaker
+Height
+174cm
+Weight
+73kg
+Age
+31
+Foot
+
+B
+
+
+
+
+Technique +3
+
+Agility +1
+
+0
+Condition History
+Arrow Probabilities (%)
+467291918296104104105106106107103
+
+AMF
+0/68
+Level Cap 
+35
+
+Shooting
+9
+
+Passing
+8
+
+Dribbling
+8
+
+Dexterity
+6
+
+Lower Body Strength
+10
+
+Aerial Strength
+3
+
+Defending
+
+GK 1
+
+GK 2
+
+GK 3
+Attacking
+Offensive Awareness		90
+Ball Control	●	93
+Dribbling	●	95
+Tight Possession	●	97
+Low Pass	●	93
+Lofted Pass		83
+Finishing	●	92
+Heading		62
+Place Kicking		80
+Curl		87
+Defending
+Defensive Awareness	●	46
+Defensive Engagement		46
+Tackling		44
+Aggression		47
+Goalkeeping		41
+Gk Catching		41
+GK Parrying		41
+GK Reflexes		41
+GK Reach		41
+athleticism
+Speed	●	93
+Acceleration	●	93
+Kicking Power		94
+Jump		60
+Physical Contact		75
+Balance	●	92
+Stamina	●	84
+Weak Foot Usage		2
+Weak Foot Acc		3
+Form		2
+Injury Resistance		1
+Skills
+Double Touch
+Sole Control
+Long Range Curler
+Long Range Shooting
+First Time Shot
+One Touch Pass
+Through Passing
+Outside Curler
+Phenomenal Pass
+Momentum Dribbling

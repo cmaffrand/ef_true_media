@@ -1,0 +1,87 @@
+Name: Rui Costa
+Position: AMF
+Style: Classic No. 10
+
+Training:
+SHO: 8
+PAS: 7
+DRI: 7
+DEX: 8
+LBS: 8
+AER: 5
+DEF: 0
+GK1: 0
+GK2: 0
+GK3: 0
+Lv: 62
+Manager: Fabio Capello
+
+Attributes:
+Offensive Awareness: 80
+Ball Control: 91
+Dribbling: 90
+Tight Possession: 91
+Low Pass: 94
+Lofted Pass: 90
+Finishing: 81
+Heading: 69
+Place Kicking: 84
+Curl: 90
+Defensive Awareness: 59
+Defensive Engagement: 59
+Tackling: 55
+Aggression: 62
+Goalkeeping: 41
+Gk Catching: 41
+GK Parrying: 41
+GK Reflexes: 41
+GK Reach: 41
+Speed: 83
+Acceleration: 88
+Kicking Power: 84
+Jump: 67
+Balance: 83
+Stamina: 86
+Physical Contact: 75
+
+Skills:
+Double Touch
+Marseille Turn
+Sombrero
+Long Range Curler
+One Touch Pass
+Through Passing
+Weighted Pass
+Pinpoint Crossing
+Outside Curler
+Visionary Pass
+
+Biometrics:
+Height: 180
+Weight: 80
+Arm Length: 7
+Shoulder Width: 8
+Neck Length: 6
+Chest: 7
+Neck Size: 7
+Shoulder Height: 7
+Leg Length: 9
+Thigh Size: 9
+Waist Size: 10
+Arm Size: 7
+Calf Size: 9
+Leg Coverage Radius: 174.8
+Arm Coverage Radius: 163.6
+Jumping Height: 253.6
+Torso Collision: 50.7
+Leg Length Based Height: 182
+
+Com Skills:
+Mazing Run
+Incisive Run
+
+Other Stats:
+Weak Foot Usage: 1
+Weak Foot Accuracy: 2
+Form: 2
+Injury Resistance: 1

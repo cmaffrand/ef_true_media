@@ -1,0 +1,111 @@
+Lionel Messi
+Creative Playmaker
+Height
+170cm
+Weight
+72kg
+Age
+35
+Foot
+
+B
+
+
+
+
+Technique +2
+
+Agility +1
+
+0
+Condition History
+Arrow Probabilities (%)
+42698888819410110110210210210499
+
+SS
+0/60
+Level Cap 
+31
+
+Shooting
+8
+
+Passing
+8
+
+Dribbling
+8
+
+Dexterity
+8
+
+Lower Body Strength
+8
+
+Aerial Strength
+
+Defending
+
+GK 1
+
+GK 2
+
+GK 3
+Attacking
+Offensive Awareness		91
+Ball Control	●	95
+Dribbling	●	93
+Tight Possession	●	99
+Low Pass	●	89
+Lofted Pass		81
+Finishing	●	94
+Heading		63
+Place Kicking		93
+Curl		95
+Defending
+Defensive Awareness	●	55
+Defensive Engagement		50
+Tackling		48
+Aggression		58
+Goalkeeping		41
+Gk Catching		41
+GK Parrying		41
+GK Reflexes		41
+GK Reach		41
+athleticism
+Speed	●	82
+Acceleration	●	89
+Kicking Power		85
+Jump		52
+Physical Contact		55
+Balance	●	94
+Stamina	●	82
+Weak Foot Usage		0
+Weak Foot Acc		2
+Form		2
+Injury Resistance		1
+Skills
+Double Touch
+Long Range Curler
+Chip Shot Control
+Long Range Shooting
+Dipping Shot
+First Time Shot
+One Touch Pass
+Through Passing
+Penalty Specialist
+Captaincy
+
+Body Measurements
+Leg Length
+3
+Arm Length
+5
+Waist Size
+7
+Chest
+9
+Shoulder Width
+9
+Neck Length
+6

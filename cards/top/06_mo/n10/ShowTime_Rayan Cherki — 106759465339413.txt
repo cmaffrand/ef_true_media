@@ -1,0 +1,86 @@
+Name: Rayan Cherki
+Position: AMF
+Style: Classic No. 10
+
+Training:
+SHO: 6
+PAS: 8
+DRI: 9
+DEX: 8
+LBS: 9
+AER: 5
+DEF: 0
+GK1: 0
+GK2: 0
+GK3: 0
+Lv: 68
+Manager: Fabio Capello
+
+Attributes:
+Offensive Awareness: 88
+Ball Control: 95
+Dribbling: 93
+Tight Possession: 95
+Low Pass: 92
+Lofted Pass: 92
+Finishing: 86
+Heading: 58
+Place Kicking: 81
+Curl: 87
+Defensive Awareness: 47
+Defensive Engagement: 58
+Tackling: 49
+Aggression: 54
+Goalkeeping: 41
+Gk Catching: 41
+GK Parrying: 41
+GK Reflexes: 41
+GK Reach: 41
+Speed: 90
+Acceleration: 92
+Kicking Power: 87
+Jump: 61
+Balance: 91
+Stamina: 82
+Physical Contact: 75
+
+Skills:
+Double Touch
+Marseille Turn
+Sole Control
+Long Range Curler
+Long Range Shooting
+Heel Trick
+Through Passing
+No Look Pass
+Phenomenal Pass
+Blitz Curler
+
+Biometrics:
+Height: 176
+Weight: 71
+Arm Length: 6
+Shoulder Width: 9
+Neck Length: 4
+Chest: 6
+Neck Size: 8
+Shoulder Height: 6
+Leg Length: 6
+Thigh Size: 9
+Waist Size: 7
+Arm Size: 7
+Calf Size: 9
+Leg Coverage Radius: 169.3
+Arm Coverage Radius: 159.2
+Jumping Height: 245.1
+Torso Collision: 49.7
+Leg Length Based Height: 175
+
+Com Skills:
+Incisive Run
+
+Other Stats:
+Weak Foot Usage: 3
+Weak Foot Accuracy: 3
+Form: 1
+Injury Resistance: 2

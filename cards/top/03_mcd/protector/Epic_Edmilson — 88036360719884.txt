@@ -1,0 +1,87 @@
+Name: Edmilson
+Position: DMF
+Style: Anchor Man
+
+Training:
+SHO: 0
+PAS: 8
+DRI: 8
+DEX: 8
+LBS: 6
+AER: 6
+DEF: 8
+GK1: 0
+GK2: 0
+GK3: 0
+Lv: 64
+Manager: Fabio Capello
+
+Attributes:
+Offensive Awareness: 72
+Ball Control: 85
+Dribbling: 80
+Tight Possession: 82
+Low Pass: 90
+Lofted Pass: 87
+Finishing: 65
+Heading: 81
+Place Kicking: 68
+Curl: 70
+Defensive Awareness: 91
+Defensive Engagement: 91
+Tackling: 92
+Aggression: 90
+Goalkeeping: 41
+Gk Catching: 41
+GK Parrying: 41
+GK Reflexes: 41
+GK Reach: 41
+Speed: 88
+Acceleration: 83
+Kicking Power: 89
+Jump: 87
+Balance: 75
+Stamina: 90
+Physical Contact: 90
+
+Skills:
+Low Lofted Pass
+Man Marking
+Interception
+Acrobatic Clearance
+Fighting Spirit
+Blocker
+Aerial Superiority
+Sliding Tackle
+Fortress
+Long Reach Tackle
+
+Biometrics:
+Height: 186
+Weight: 75
+Arm Length: 10
+Shoulder Width: 11
+Neck Length: 7
+Chest: 7
+Neck Size: 7
+Shoulder Height: 8
+Leg Length: 11
+Thigh Size: 6
+Waist Size: 6
+Arm Size: 6
+Calf Size: 6
+Leg Coverage Radius: 181.7
+Arm Coverage Radius: 172.8
+Jumping Height: 273.0
+Torso Collision: 53.0
+Leg Length Based Height: 190
+
+Com Skills:
+Speeding Bullet
+Early Crosser
+
+Other Stats:
+Weak Foot Usage: 1
+Weak Foot Accuracy: 1
+Form: 2
+Injury Resistance: 1

@@ -1,0 +1,86 @@
+Name: Alessandro Nesta
+Position: CB
+Style: Destroyer
+
+Training:
+SHO: 0
+PAS: 2
+DRI: 0
+DEX: 9
+LBS: 9
+AER: 8
+DEF: 8
+GK1: 0
+GK2: 0
+GK3: 0
+Lv: 56
+Manager: Fabio Capello
+
+Attributes:
+Offensive Awareness: 63
+Ball Control: 64
+Dribbling: 62
+Tight Possession: 64
+Low Pass: 72
+Lofted Pass: 72
+Finishing: 52
+Heading: 80
+Place Kicking: 58
+Curl: 62
+Defensive Awareness: 97
+Defensive Engagement: 95
+Tackling: 96
+Aggression: 91
+Goalkeeping: 41
+Gk Catching: 41
+GK Parrying: 41
+GK Reflexes: 41
+GK Reach: 41
+Speed: 93
+Acceleration: 90
+Kicking Power: 77
+Jump: 94
+Balance: 75
+Stamina: 87
+Physical Contact: 92
+
+Skills:
+Heading
+Man Marking
+Interception
+Acrobatic Clearance
+Fighting Spirit
+Blocker
+Aerial Superiority
+Sliding Tackle
+Long Reach Tackle
+Aerial Fort
+
+Biometrics:
+Height: 187
+Weight: 79
+Arm Length: 7
+Shoulder Width: 9
+Neck Length: 9
+Chest: 5
+Neck Size: 5
+Shoulder Height: 6
+Leg Length: 7
+Thigh Size: 6
+Waist Size: 7
+Arm Size: 6
+Calf Size: 7
+Leg Coverage Radius: 180.5
+Arm Coverage Radius: 170.2
+Jumping Height: 279.2
+Torso Collision: 52.6
+Leg Length Based Height: 187
+
+Com Skills:
+Early Crosser
+
+Other Stats:
+Weak Foot Usage: 1
+Weak Foot Accuracy: 2
+Form: 1
+Injury Resistance: 2

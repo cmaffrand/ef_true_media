@@ -1,0 +1,86 @@
+Name: Gilberto Silva
+Position: DMF
+Style: Anchor Man
+
+Training:
+SHO: 0
+PAS: 7
+DRI: 6
+DEX: 8
+LBS: 8
+AER: 7
+DEF: 9
+GK1: 1
+GK2: 0
+GK3: 0
+Lv: 68
+Manager: Fabio Capello
+
+Attributes:
+Offensive Awareness: 70
+Ball Control: 83
+Dribbling: 75
+Tight Possession: 92
+Low Pass: 82
+Lofted Pass: 76
+Finishing: 63
+Heading: 90
+Place Kicking: 60
+Curl: 62
+Defensive Awareness: 94
+Defensive Engagement: 94
+Tackling: 93
+Aggression: 87
+Goalkeeping: 42
+Gk Catching: 41
+GK Parrying: 41
+GK Reflexes: 41
+GK Reach: 41
+Speed: 84
+Acceleration: 81
+Kicking Power: 81
+Jump: 89
+Balance: 71
+Stamina: 96
+Physical Contact: 90
+
+Skills:
+Heading
+One Touch Pass
+Through Passing
+Man Marking
+Interception
+Captaincy
+Fighting Spirit
+Blocker
+Aerial Superiority
+Sliding Tackle
+
+Biometrics:
+Height: 185
+Weight: 78
+Arm Length: 5
+Shoulder Width: 9
+Neck Length: 4
+Chest: 2
+Neck Size: 10
+Shoulder Height: 7
+Leg Length: 11
+Thigh Size: 3
+Waist Size: 3
+Arm Size: 4
+Calf Size: 3
+Leg Coverage Radius: 180.7
+Arm Coverage Radius: 166.2
+Jumping Height: 272.5
+Torso Collision: 51.6
+Leg Length Based Height: 189
+
+Com Skills:
+Early Crosser
+
+Other Stats:
+Weak Foot Usage: 1
+Weak Foot Accuracy: 1
+Form: 2
+Injury Resistance: 1

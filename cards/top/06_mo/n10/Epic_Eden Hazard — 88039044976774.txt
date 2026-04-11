@@ -1,0 +1,87 @@
+Name: Eden Hazard
+Position: AMF
+Style: Classic No. 10
+
+Training:
+SHO: 8
+PAS: 8
+DRI: 6
+DEX: 10
+LBS: 9
+AER: 3
+DEF: 0
+GK1: 0
+GK2: 0
+GK3: 0
+Lv: 68
+Manager: Fabio Capello
+
+Attributes:
+Offensive Awareness: 90
+Ball Control: 91
+Dribbling: 94
+Tight Possession: 92
+Low Pass: 90
+Lofted Pass: 87
+Finishing: 92
+Heading: 62
+Place Kicking: 80
+Curl: 87
+Defensive Awareness: 48
+Defensive Engagement: 50
+Tackling: 47
+Aggression: 49
+Goalkeeping: 41
+Gk Catching: 41
+GK Parrying: 41
+GK Reflexes: 41
+GK Reach: 41
+Speed: 95
+Acceleration: 96
+Kicking Power: 95
+Jump: 62
+Balance: 97
+Stamina: 88
+Physical Contact: 80
+
+Skills:
+Double Touch
+Long Range Curler
+Long Range Shooting
+First Time Shot
+One Touch Pass
+Outside Curler
+Rabona
+Penalty Specialist
+Momentum Dribbling
+Acceleration Burst
+
+Biometrics:
+Height: 173
+Weight: 76
+Arm Length: 8
+Shoulder Width: 7
+Neck Length: 6
+Chest: 8
+Neck Size: 6
+Shoulder Height: 4
+Leg Length: 6
+Thigh Size: 12
+Waist Size: 8
+Arm Size: 7
+Calf Size: 11
+Leg Coverage Radius: 166.4
+Arm Coverage Radius: 158.1
+Jumping Height: 243.3
+Torso Collision: 48.5
+Leg Length Based Height: 172
+
+Com Skills:
+Mazing Run
+Long Ball Expert
+
+Other Stats:
+Weak Foot Usage: 2
+Weak Foot Accuracy: 3
+Form: 2
+Injury Resistance: 1

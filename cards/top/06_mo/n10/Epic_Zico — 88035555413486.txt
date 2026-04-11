@@ -1,0 +1,86 @@
+Name: Zico
+Position: AMF
+Style: Classic No. 10
+
+Training:
+SHO: 7
+PAS: 8
+DRI: 8
+DEX: 8
+LBS: 9
+AER: 3
+DEF: 0
+GK1: 0
+GK2: 0
+GK3: 0
+Lv: 64
+Manager: Fabio Capello
+
+Attributes:
+Offensive Awareness: 87
+Ball Control: 95
+Dribbling: 97
+Tight Possession: 95
+Low Pass: 91
+Lofted Pass: 83
+Finishing: 91
+Heading: 75
+Place Kicking: 91
+Curl: 91
+Defensive Awareness: 49
+Defensive Engagement: 50
+Tackling: 46
+Aggression: 55
+Goalkeeping: 41
+Gk Catching: 41
+GK Parrying: 41
+GK Reflexes: 41
+GK Reach: 41
+Speed: 90
+Acceleration: 93
+Kicking Power: 90
+Jump: 70
+Balance: 94
+Stamina: 83
+Physical Contact: 76
+
+Skills:
+Double Touch
+Long Range Curler
+Chip Shot Control
+Dipping Shot
+Acrobatic Finishing
+First Time Shot
+One Touch Pass
+Through Passing
+Outside Curler
+Blitz Curler
+
+Biometrics:
+Height: 172
+Weight: 69
+Arm Length: 4
+Shoulder Width: 6
+Neck Length: 4
+Chest: 5
+Neck Size: 5
+Shoulder Height: 2
+Leg Length: 10
+Thigh Size: 11
+Waist Size: 6
+Arm Size: 8
+Calf Size: 10
+Leg Coverage Radius: 167.5
+Arm Coverage Radius: 153.1
+Jumping Height: 247.1
+Torso Collision: 47.7
+Leg Length Based Height: 175
+
+Com Skills:
+Mazing Run
+
+Other Stats:
+Weak Foot Usage: 1
+Weak Foot Accuracy: 3
+Form: 2
+Injury Resistance: 0

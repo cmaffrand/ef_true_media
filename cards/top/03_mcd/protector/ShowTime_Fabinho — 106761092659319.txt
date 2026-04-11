@@ -1,0 +1,88 @@
+Name: Fabinho
+Position: DMF
+Style: Anchor Man
+
+Training:
+SHO: 0
+PAS: 8
+DRI: 4
+DEX: 7
+LBS: 9
+AER: 9
+DEF: 8
+GK1: 0
+GK2: 0
+GK3: 0
+Lv: 68
+Manager: Fabio Capello
+
+Attributes:
+Offensive Awareness: 70
+Ball Control: 82
+Dribbling: 80
+Tight Possession: 84
+Low Pass: 89
+Lofted Pass: 87
+Finishing: 66
+Heading: 75
+Place Kicking: 60
+Curl: 66
+Defensive Awareness: 91
+Defensive Engagement: 93
+Tackling: 91
+Aggression: 94
+Goalkeeping: 41
+Gk Catching: 41
+GK Parrying: 41
+GK Reflexes: 41
+GK Reach: 41
+Speed: 88
+Acceleration: 81
+Kicking Power: 89
+Jump: 79
+Balance: 76
+Stamina: 91
+Physical Contact: 90
+
+Skills:
+Marseille Turn
+One Touch Pass
+Through Passing
+Man Marking
+Interception
+Fighting Spirit
+Blocker
+Sliding Tackle
+Visionary Pass
+Fortress
+
+Biometrics:
+Height: 188
+Weight: 78
+Arm Length: 7
+Shoulder Width: 8
+Neck Length: 7
+Chest: 3
+Neck Size: 12
+Shoulder Height: 3
+Leg Length: 10
+Thigh Size: 6
+Waist Size: 3
+Arm Size: 7
+Calf Size: 6
+Leg Coverage Radius: 183.1
+Arm Coverage Radius: 170.9
+Jumping Height: 269.7
+Torso Collision: 52.4
+Leg Length Based Height: 191
+
+Com Skills:
+Speeding Bullet
+Incisive Run
+Early Crosser
+
+Other Stats:
+Weak Foot Usage: 1
+Weak Foot Accuracy: 2
+Form: 1
+Injury Resistance: 0

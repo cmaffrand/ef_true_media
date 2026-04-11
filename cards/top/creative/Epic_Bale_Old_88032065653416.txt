@@ -1,0 +1,114 @@
+Gareth Bale
+Creative Playmaker
+Height
+185cm
+Weight
+82kg
+Age
+24
+Foot
+
+B
+
+
+
+
+Crossing +2
+
+Technique +1
+
+0
+Condition History
+Arrow Probabilities (%)
+518597978896102102100103103101100
+
+LMF
+0/58
+Level Cap 
+30
+
+Shooting
+5
+
+Passing
+6
+
+Dribbling
+8
+
+Dexterity
+8
+
+Lower Body Strength
+8
+
+Aerial Strength
+6
+
+Defending
+
+GK 1
+
+GK 2
+
+GK 3
+Attacking
+Offensive Awareness		77
+Ball Control	●	86
+Dribbling	●	91
+Tight Possession	●	86
+Low Pass	●	82
+Lofted Pass	●	90
+Finishing	●	83
+Heading		75
+Place Kicking		83
+Curl	●	90
+Defending
+Defensive Awareness	●	52
+Defensive Engagement		55
+Tackling		53
+Aggression		61
+Goalkeeping		41
+Gk Catching		41
+GK Parrying		41
+GK Reflexes		41
+GK Reach		41
+athleticism
+Speed	●	99
+Acceleration		95
+Kicking Power		93
+Jump		75
+Physical Contact		90
+Balance		85
+Stamina	●	87
+Weak Foot Usage		1
+Weak Foot Acc		2
+Form		2
+Injury Resistance		0
+Skills
+Double Touch
+Marseille Turn
+Long Range Curler
+Long Range Shooting
+Knuckle Shot
+Dipping Shot
+Weighted Pass
+Pinpoint Crossing
+Outside Curler
+Long Throw
+Edged Crossing
+
+
+Body Measurements
+Leg Length
+7
+Arm Length
+4
+Waist Size
+2
+Chest
+7
+Shoulder Width
+8
+Neck Length
+5

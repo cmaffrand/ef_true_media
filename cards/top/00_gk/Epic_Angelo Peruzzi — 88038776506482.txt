@@ -1,0 +1,80 @@
+Name: Angelo Peruzzi
+Position: GK
+Style: Offensive Goalkeeper
+
+Training:
+SHO: 0
+PAS: 0
+DRI: 0
+DEX: 0
+LBS: 0
+AER: 1
+DEF: 0
+GK1: 11
+GK2: 11
+GK3: 9
+Lv: 58
+Manager: Fabio Capello
+
+Attributes:
+Offensive Awareness: 53
+Ball Control: 53
+Dribbling: 52
+Tight Possession: 51
+Low Pass: 62
+Lofted Pass: 60
+Finishing: 53
+Heading: 55
+Place Kicking: 56
+Curl: 50
+Defensive Awareness: 54
+Defensive Engagement: 54
+Tackling: 52
+Aggression: 54
+Goalkeeping: 95
+Gk Catching: 94
+GK Parrying: 97
+GK Reflexes: 95
+GK Reach: 95
+Speed: 61
+Acceleration: 62
+Kicking Power: 72
+Jump: 85
+Balance: 58
+Stamina: 64
+Physical Contact: 66
+
+Skills:
+Gk Low Punt
+GK High Punt
+GK Long Throw
+GK Penalty Saver
+
+Biometrics:
+Height: 181
+Weight: 76
+Arm Length: 4
+Shoulder Width: 6
+Neck Length: 7
+Chest: 11
+Neck Size: 11
+Shoulder Height: 5
+Leg Length: 5
+Thigh Size: 10
+Waist Size: 11
+Arm Size: 9
+Calf Size: 9
+Leg Coverage Radius: 173.6
+Arm Coverage Radius: 161.1
+Jumping Height: 266.7
+Torso Collision: 50.6
+Leg Length Based Height: 179
+
+Com Skills:
+—
+
+Other Stats:
+Weak Foot Usage: 1
+Weak Foot Accuracy: 1
+Form: 1
+Injury Resistance: 1

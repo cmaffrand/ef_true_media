@@ -1,0 +1,89 @@
+Name: Jordan Henderson
+Position: DMF
+Style: Anchor Man
+
+Training:
+SHO: 0
+PAS: 5
+DRI: 7
+DEX: 6
+LBS: 6
+AER: 9
+DEF: 11
+GK1: 0
+GK2: 0
+GK3: 0
+Lv: 68
+Manager: Fabio Capello
+
+Attributes:
+Offensive Awareness: 70
+Ball Control: 84
+Dribbling: 80
+Tight Possession: 83
+Low Pass: 88
+Lofted Pass: 88
+Finishing: 62
+Heading: 75
+Place Kicking: 70
+Curl: 77
+Defensive Awareness: 92
+Defensive Engagement: 93
+Tackling: 92
+Aggression: 92
+Goalkeeping: 41
+Gk Catching: 41
+GK Parrying: 41
+GK Reflexes: 41
+GK Reach: 41
+Speed: 85
+Acceleration: 82
+Kicking Power: 83
+Jump: 83
+Balance: 76
+Stamina: 91
+Physical Contact: 87
+
+Skills:
+One Touch Pass
+Through Passing
+Pinpoint Crossing
+Outside Curler
+Low Lofted Pass
+Interception
+Captaincy
+Fighting Spirit
+Blocker
+Long Reach Tackle
+
+Biometrics:
+Height: 182
+Weight: 80
+Arm Length: 10
+Shoulder Width: 4
+Neck Length: 7
+Chest: 4
+Neck Size: 8
+Shoulder Height: 4
+Leg Length: 13
+Thigh Size: 5
+Waist Size: 5
+Arm Size: 5
+Calf Size: 3
+Leg Coverage Radius: 178.9
+Arm Coverage Radius: 167.8
+Jumping Height: 266.4
+Torso Collision: 49.6
+Leg Length Based Height: 188
+
+Com Skills:
+Trickster
+Mazing Run
+Incisive Run
+Early Crosser
+
+Other Stats:
+Weak Foot Usage: 1
+Weak Foot Accuracy: 2
+Form: 2
+Injury Resistance: 0
