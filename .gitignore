@@ -210,3 +210,7 @@ __marimo__/
 outputs
 htmls
 mios
+
+# GHDL simulation artifacts
+*.cf
+e~*.o
