@@ -39,14 +39,15 @@ A shared package that provides:
 | `DATA_WIDTH` | `positive` | `8` | Width of the data bus in bits |
 | `NUM_STAGES` | `natural` | `1` | Number of pipeline stages (0 = pass-through) |
 | `RESET_VALUE` | `std_logic` | `'0'` | Reset value applied to every bit of every stage |
+| `RST_POLARITY` | `std_logic` | `'0'` | Active level of `sys_rstn_i` that triggers reset (`'0'` = active-low, `'1'` = active-high) |
 
 | Port | Direction | Width | Description |
 |---|---|---|---|
-| `clk` | in | 1 | Clock (rising-edge triggered) |
-| `rst_n` | in | 1 | Synchronous active-low reset |
-| `en` | in | 1 | Clock enable (`'0'` holds the pipeline) |
-| `d` | in | `DATA_WIDTH` | Data input |
-| `q` | out | `DATA_WIDTH` | Data output (delayed by `NUM_STAGES` clock cycles) |
+| `sys_clk_i` | in | 1 | Clock (rising-edge triggered) |
+| `sys_rstn_i` | in | 1 | Synchronous reset (polarity set by `RST_POLARITY`, default active-low) |
+| `enable_i` | in | 1 | Clock enable (`'0'` holds the pipeline) |
+| `datain_i` | in | `DATA_WIDTH` | Data input |
+| `dataout_o` | out | `DATA_WIDTH` | Data output (delayed by `NUM_STAGES` clock cycles) |
 
 **Instantiation example (3-stage, 16-bit):**
 
@@ -57,11 +58,11 @@ u_pipe : entity work.pipeline_reg
     NUM_STAGES => 3
   )
   port map (
-    clk   => clk,
-    rst_n => rst_n,
-    en    => '1',
-    d     => data_in,
-    q     => data_out
+    sys_clk_i  => clk,
+    sys_rstn_i => rst_n,
+    enable_i   => '1',
+    datain_i   => data_in,
+    dataout_o  => data_out
   );
 ```
 
@@ -74,14 +75,15 @@ Same behaviour as `pipeline_reg` but for `std_logic` control signals (e.g.
 |---|---|---|---|
 | `NUM_STAGES` | `natural` | `1` | Number of pipeline stages (0 = pass-through) |
 | `RESET_VALUE` | `std_logic` | `'0'` | Reset value driven during reset |
+| `RST_POLARITY` | `std_logic` | `'0'` | Active level of `sys_rstn_i` that triggers reset (`'0'` = active-low, `'1'` = active-high) |
 
 | Port | Direction | Description |
 |---|---|---|
-| `clk` | in | Clock (rising-edge triggered) |
-| `rst_n` | in | Synchronous active-low reset |
-| `en` | in | Clock enable |
-| `d` | in | Single-bit input |
-| `q` | out | Single-bit output (delayed by `NUM_STAGES` cycles) |
+| `sys_clk_i` | in | Clock (rising-edge triggered) |
+| `sys_rstn_i` | in | Synchronous reset (polarity set by `RST_POLARITY`, default active-low) |
+| `enable_i` | in | Clock enable |
+| `datain_i` | in | Single-bit input |
+| `dataout_o` | out | Single-bit output (delayed by `NUM_STAGES` cycles) |
 
 **Instantiation example (2-stage valid-flag delay):**
 
@@ -89,11 +91,11 @@ Same behaviour as `pipeline_reg` but for `std_logic` control signals (e.g.
 u_valid_pipe : entity work.pipeline_reg_sl
   generic map (NUM_STAGES => 2)
   port map (
-    clk   => clk,
-    rst_n => rst_n,
-    en    => '1',
-    d     => valid_in,
-    q     => valid_out
+    sys_clk_i  => clk,
+    sys_rstn_i => rst_n,
+    enable_i   => '1',
+    datain_i   => valid_in,
+    dataout_o  => valid_out
   );
 ```
 
@@ -170,9 +172,11 @@ vsim -c tb_pipeline_reg_sl -do "run -all; quit"
   are inferred. This is useful to keep the same instantiation template
   throughout a design while toggling retiming on or off via a top-level generic
   or a configuration constant.
-* The `en` (clock-enable) port maps directly to the CE pin of target
+* The `enable_i` (clock-enable) port maps directly to the CE pin of target
   flip-flops, enabling efficient power gating on FPGAs without additional
   logic.
 * `RESET_VALUE` controls the power-on / reset state of every stage. Set it to
-  `'1'` for active-high reset scenarios (e.g., a pipeline with an initial
-  "valid" flag that should start high).
+  `'1'` for scenarios where the stage should start high.
+* `RST_POLARITY` selects whether `sys_rstn_i` is active-low (`'0'`, default)
+  or active-high (`'1'`), avoiding the need to invert the reset signal outside
+  the component.

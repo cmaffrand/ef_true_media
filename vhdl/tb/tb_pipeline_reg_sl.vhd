@@ -72,22 +72,22 @@ begin
     -- 1-stage
     dut_1st : entity work.pipeline_reg_sl
         generic map (NUM_STAGES => 1, RESET_VALUE => '0')
-        port map (clk => clk_1, rst_n => rst_n_1, en => en_1, d => d_1, q => q_1);
+        port map (sys_clk_i => clk_1, sys_rstn_i => rst_n_1, enable_i => en_1, datain_i => d_1, dataout_o => q_1);
 
     -- 4-stage
     dut_4st : entity work.pipeline_reg_sl
         generic map (NUM_STAGES => 4, RESET_VALUE => '0')
-        port map (clk => clk_4, rst_n => rst_n_4, en => en_4, d => d_4, q => q_4);
+        port map (sys_clk_i => clk_4, sys_rstn_i => rst_n_4, enable_i => en_4, datain_i => d_4, dataout_o => q_4);
 
     -- 0-stage pass-through
     dut_0st : entity work.pipeline_reg_sl
         generic map (NUM_STAGES => 0, RESET_VALUE => '0')
-        port map (clk => '0', rst_n => '1', en => '1', d => d_0, q => q_0);
+        port map (sys_clk_i => '0', sys_rstn_i => '1', enable_i => '1', datain_i => d_0, dataout_o => q_0);
 
     -- 2-stage, reset-to-one
     dut_rst1 : entity work.pipeline_reg_sl
         generic map (NUM_STAGES => 2, RESET_VALUE => '1')
-        port map (clk => clk_r1, rst_n => rst_n_r1, en => en_r1, d => d_r1, q => q_r1);
+        port map (sys_clk_i => clk_r1, sys_rstn_i => rst_n_r1, enable_i => en_r1, datain_i => d_r1, dataout_o => q_r1);
 
     ---------------------------------------------------------------------------
     -- Stimulus & checking

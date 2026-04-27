@@ -74,11 +74,11 @@ begin
             RESET_VALUE => '0'
         )
         port map (
-            clk   => clk_s1,
-            rst_n => rst_n_s1,
-            en    => en_s1,
-            d     => d_s1,
-            q     => q_s1
+            sys_clk_i  => clk_s1,
+            sys_rstn_i => rst_n_s1,
+            enable_i   => en_s1,
+            datain_i   => d_s1,
+            dataout_o  => q_s1
         );
 
     -- Configuration 2: 3 stages, 16-bit
@@ -89,11 +89,11 @@ begin
             RESET_VALUE => '0'
         )
         port map (
-            clk   => clk_s3,
-            rst_n => rst_n_s3,
-            en    => en_s3,
-            d     => d_s3,
-            q     => q_s3
+            sys_clk_i  => clk_s3,
+            sys_rstn_i => rst_n_s3,
+            enable_i   => en_s3,
+            datain_i   => d_s3,
+            dataout_o  => q_s3
         );
 
     -- Configuration 3: 0 stages (pass-through)
@@ -104,11 +104,11 @@ begin
             RESET_VALUE => '0'
         )
         port map (
-            clk   => '0',
-            rst_n => '1',
-            en    => '1',
-            d     => d_s0,
-            q     => q_s0
+            sys_clk_i  => '0',
+            sys_rstn_i => '1',
+            enable_i   => '1',
+            datain_i   => d_s0,
+            dataout_o  => q_s0
         );
 
     ---------------------------------------------------------------------------

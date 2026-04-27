@@ -4,19 +4,22 @@
 -- signals such as control or valid flags.
 --
 -- Generics
---   NUM_STAGES  : Number of pipeline / retiming stages.  Default = 1.
---                 When set to 0 the input is passed straight through to the
---                 output with no registers (combinational path).
---   RESET_VALUE : Value driven on every stage when the reset is active.
---                 '0' (default) → reset to low.
---                 '1'           → reset to high.
+--   NUM_STAGES   : Number of pipeline / retiming stages.  Default = 1.
+--                  When set to 0 the input is passed straight through to the
+--                  output with no registers (combinational path).
+--   RESET_VALUE  : Value driven on every stage when the reset is active.
+--                  '0' (default) -> reset to low.
+--                  '1'           -> reset to high.
+--   RST_POLARITY : Active level of sys_rstn_i that triggers the reset.
+--                  '0' (default) -> active-low reset (negated reset, sys_rstn_i = '0' resets).
+--                  '1'           -> active-high reset (sys_rstn_i = '1' resets).
 --
 -- Ports
---   clk   : Clock input (rising-edge triggered).
---   rst_n : Active-low synchronous reset.
---   en    : Clock enable.  When '0' the pipeline holds its current value.
---   d     : Single-bit data input.
---   q     : Single-bit data output, delayed by NUM_STAGES clock cycles.
+--   sys_clk_i  : Clock input (rising-edge triggered).
+--   sys_rstn_i : Synchronous reset (polarity set by RST_POLARITY, default active-low).
+--   enable_i   : Clock enable.  When '0' the pipeline holds its current value.
+--   datain_i   : Single-bit data input.
+--   dataout_o  : Single-bit data output, delayed by NUM_STAGES clock cycles.
 --
 -- Usage example (two-stage retiming for a valid flag):
 --
@@ -26,11 +29,11 @@
 --       RESET_VALUE => '0'
 --     )
 --     port map (
---       clk   => clk,
---       rst_n => rst_n,
---       en    => '1',
---       d     => valid_in,
---       q     => valid_out
+--       sys_clk_i  => clk,
+--       sys_rstn_i => rst_n,
+--       enable_i   => '1',
+--       datain_i   => valid_in,
+--       dataout_o  => valid_out
 --     );
 --
 -- VHDL standard: VHDL-2008
@@ -40,15 +43,16 @@ use IEEE.STD_LOGIC_1164.ALL;
 
 entity pipeline_reg_sl is
     generic (
-        NUM_STAGES  : natural   := 1;
-        RESET_VALUE : std_logic := '0'
+        NUM_STAGES   : natural   := 1;
+        RESET_VALUE  : std_logic := '0';
+        RST_POLARITY : std_logic := '0'
     );
     port (
-        clk   : in  std_logic;
-        rst_n : in  std_logic;
-        en    : in  std_logic;
-        d     : in  std_logic;
-        q     : out std_logic
+        sys_clk_i  : in  std_logic;
+        sys_rstn_i : in  std_logic;
+        enable_i   : in  std_logic;
+        datain_i   : in  std_logic;
+        dataout_o  : out std_logic
     );
 end entity pipeline_reg_sl;
 
@@ -65,7 +69,7 @@ begin
     -- Zero-stage pass-through (combinational)
     ---------------------------------------------------------------------------
     gen_passthrough : if NUM_STAGES = 0 generate
-        q <= d;
+        dataout_o <= datain_i;
     end generate gen_passthrough;
 
     ---------------------------------------------------------------------------
@@ -73,13 +77,13 @@ begin
     ---------------------------------------------------------------------------
     gen_pipeline : if NUM_STAGES > 0 generate
 
-        process(clk) is
+        process(sys_clk_i) is
         begin
-            if rising_edge(clk) then
-                if rst_n = '0' then
+            if rising_edge(sys_clk_i) then
+                if sys_rstn_i = RST_POLARITY then
                     pipe <= (others => RESET_VALUE);
-                elsif en = '1' then
-                    pipe(0) <= d;
+                elsif enable_i = '1' then
+                    pipe(0) <= datain_i;
                     for i in 1 to NUM_STAGES - 1 loop
                         pipe(i) <= pipe(i - 1);
                     end loop;
@@ -87,7 +91,7 @@ begin
             end if;
         end process;
 
-        q <= pipe(NUM_STAGES - 1);
+        dataout_o <= pipe(NUM_STAGES - 1);
 
     end generate gen_pipeline;
 
