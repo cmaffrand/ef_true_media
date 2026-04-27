@@ -38,7 +38,6 @@ A shared package that provides:
 |---|---|---|---|
 | `DATA_WIDTH` | `positive` | `8` | Width of the data bus in bits |
 | `NUM_STAGES` | `natural` | `1` | Number of pipeline stages (0 = pass-through) |
-| `RESET_VALUE` | `std_logic` | `'0'` | Reset value applied to every bit of every stage |
 | `RST_POLARITY` | `std_logic` | `'0'` | Active level of `sys_rstn_i` that triggers reset (`'0'` = active-low, `'1'` = active-high) |
 
 | Port | Direction | Width | Description |
@@ -74,7 +73,6 @@ Same behaviour as `pipeline_reg` but for `std_logic` control signals (e.g.
 | Generic | Type | Default | Description |
 |---|---|---|---|
 | `NUM_STAGES` | `natural` | `1` | Number of pipeline stages (0 = pass-through) |
-| `RESET_VALUE` | `std_logic` | `'0'` | Reset value driven during reset |
 | `RST_POLARITY` | `std_logic` | `'0'` | Active level of `sys_rstn_i` that triggers reset (`'0'` = active-low, `'1'` = active-high) |
 
 | Port | Direction | Description |
@@ -175,8 +173,6 @@ vsim -c tb_pipeline_reg_sl -do "run -all; quit"
 * The `enable_i` (clock-enable) port maps directly to the CE pin of target
   flip-flops, enabling efficient power gating on FPGAs without additional
   logic.
-* `RESET_VALUE` controls the power-on / reset state of every stage. Set it to
-  `'1'` for scenarios where the stage should start high.
 * `RST_POLARITY` selects whether `sys_rstn_i` is active-low (`'0'`, default)
   or active-high (`'1'`), avoiding the need to invert the reset signal outside
   the component.

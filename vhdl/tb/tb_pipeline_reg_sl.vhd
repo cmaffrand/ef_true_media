@@ -7,7 +7,6 @@
 --   2. NUM_STAGES = 4 - multi-stage latency verification
 --   3. NUM_STAGES = 0 - pass-through (combinational)
 --   4. Clock-enable hold behaviour
---   5. Synchronous reset with RESET_VALUE = '1'
 --
 -- VHDL standard: VHDL-2008
 -------------------------------------------------------------------------------
@@ -45,15 +44,6 @@ architecture sim of tb_pipeline_reg_sl is
     signal d_0 : std_logic := '0';
     signal q_0 : std_logic;
 
-    ---------------------------------------------------------------------------
-    -- Configuration 4: 2 stages, RESET_VALUE = '1'
-    ---------------------------------------------------------------------------
-    signal clk_r1   : std_logic := '0';
-    signal rst_n_r1 : std_logic := '0';
-    signal en_r1    : std_logic := '1';
-    signal d_r1     : std_logic := '0';
-    signal q_r1     : std_logic;
-
     signal test_done : boolean := false;
 
 begin
@@ -63,7 +53,6 @@ begin
     ---------------------------------------------------------------------------
     clk_1   <= not clk_1   after CLK_PERIOD / 2 when not test_done else '0';
     clk_4   <= not clk_4   after CLK_PERIOD / 2 when not test_done else '0';
-    clk_r1  <= not clk_r1  after CLK_PERIOD / 2 when not test_done else '0';
 
     ---------------------------------------------------------------------------
     -- DUT instances
@@ -71,23 +60,18 @@ begin
 
     -- 1-stage
     dut_1st : entity work.pipeline_reg_sl
-        generic map (NUM_STAGES => 1, RESET_VALUE => '0')
+        generic map (NUM_STAGES => 1)
         port map (sys_clk_i => clk_1, sys_rstn_i => rst_n_1, enable_i => en_1, datain_i => d_1, dataout_o => q_1);
 
     -- 4-stage
     dut_4st : entity work.pipeline_reg_sl
-        generic map (NUM_STAGES => 4, RESET_VALUE => '0')
+        generic map (NUM_STAGES => 4)
         port map (sys_clk_i => clk_4, sys_rstn_i => rst_n_4, enable_i => en_4, datain_i => d_4, dataout_o => q_4);
 
     -- 0-stage pass-through
     dut_0st : entity work.pipeline_reg_sl
-        generic map (NUM_STAGES => 0, RESET_VALUE => '0')
+        generic map (NUM_STAGES => 0)
         port map (sys_clk_i => '0', sys_rstn_i => '1', enable_i => '1', datain_i => d_0, dataout_o => q_0);
-
-    -- 2-stage, reset-to-one
-    dut_rst1 : entity work.pipeline_reg_sl
-        generic map (NUM_STAGES => 2, RESET_VALUE => '1')
-        port map (sys_clk_i => clk_r1, sys_rstn_i => rst_n_r1, enable_i => en_r1, datain_i => d_r1, dataout_o => q_r1);
 
     ---------------------------------------------------------------------------
     -- Stimulus & checking
@@ -163,19 +147,6 @@ begin
         d_0 <= '0';
         wait for 1 ns;
         check(q_0, '0', "T4 - pass-through '0'");
-
-        -- ----------------------------------------------------------------
-        -- Test 5: RESET_VALUE = '1' → output is '1' after reset
-        -- ----------------------------------------------------------------
-        rst_n_r1 <= '0';
-        d_r1     <= '0';
-        wait_clk(clk_r1, 2);
-        check(q_r1, '1', "T5 - reset_value='1', q='1' during reset");
-        rst_n_r1 <= '1';
-
-        -- After reset release, '0' should propagate through 2 stages
-        wait_clk(clk_r1, 2);
-        check(q_r1, '0', "T5 - reset released, '0' propagated");
 
         -- ----------------------------------------------------------------
         -- Done

@@ -70,8 +70,7 @@ begin
     dut_1stage : entity work.pipeline_reg
         generic map (
             DATA_WIDTH  => 8,
-            NUM_STAGES  => 1,
-            RESET_VALUE => '0'
+            NUM_STAGES  => 1
         )
         port map (
             sys_clk_i  => clk_s1,
@@ -85,8 +84,7 @@ begin
     dut_3stage : entity work.pipeline_reg
         generic map (
             DATA_WIDTH  => 16,
-            NUM_STAGES  => 3,
-            RESET_VALUE => '0'
+            NUM_STAGES  => 3
         )
         port map (
             sys_clk_i  => clk_s3,
@@ -100,8 +98,7 @@ begin
     dut_0stage : entity work.pipeline_reg
         generic map (
             DATA_WIDTH  => 8,
-            NUM_STAGES  => 0,
-            RESET_VALUE => '0'
+            NUM_STAGES  => 0
         )
         port map (
             sys_clk_i  => '0',

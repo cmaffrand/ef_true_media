@@ -7,9 +7,6 @@
 --   NUM_STAGES   : Number of pipeline / retiming stages.  Default = 1.
 --                  When set to 0 the input is passed straight through to the
 --                  output with no registers (combinational path).
---   RESET_VALUE  : Value driven on every stage when the reset is active.
---                  '0' (default) -> reset to low.
---                  '1'           -> reset to high.
 --   RST_POLARITY : Active level of sys_rstn_i that triggers the reset.
 --                  '0' (default) -> active-low reset (negated reset, sys_rstn_i = '0' resets).
 --                  '1'           -> active-high reset (sys_rstn_i = '1' resets).
@@ -25,8 +22,7 @@
 --
 --   u_pipe_sl : entity work.pipeline_reg_sl
 --     generic map (
---       NUM_STAGES  => 2,
---       RESET_VALUE => '0'
+--       NUM_STAGES  => 2
 --     )
 --     port map (
 --       sys_clk_i  => clk,
@@ -44,7 +40,6 @@ use IEEE.STD_LOGIC_1164.ALL;
 entity pipeline_reg_sl is
     generic (
         NUM_STAGES   : natural   := 1;
-        RESET_VALUE  : std_logic := '0';
         RST_POLARITY : std_logic := '0'
     );
     port (
@@ -61,7 +56,7 @@ architecture rtl of pipeline_reg_sl is
     -- Shift-register array: index 0 is closest to the input.
     type pipe_t is array (0 to NUM_STAGES - 1) of std_logic;
 
-    signal pipe : pipe_t := (others => RESET_VALUE);
+    signal pipe : pipe_t := (others => '0');
 
 begin
 
@@ -81,7 +76,7 @@ begin
         begin
             if rising_edge(sys_clk_i) then
                 if sys_rstn_i = RST_POLARITY then
-                    pipe <= (others => RESET_VALUE);
+                    pipe <= (others => '0');
                 elsif enable_i = '1' then
                     pipe(0) <= datain_i;
                     for i in 1 to NUM_STAGES - 1 loop

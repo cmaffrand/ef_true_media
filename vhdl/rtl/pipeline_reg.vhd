@@ -7,9 +7,6 @@
 --   NUM_STAGES   : Number of pipeline / retiming stages.  Default = 1.
 --                  When set to 0 the input is passed straight through to the
 --                  output with no registers (combinational path).
---   RESET_VALUE  : Value applied to every bit of every stage on reset.
---                  '0' (default) -> reset to all-zeros.
---                  '1'           -> reset to all-ones.
 --   RST_POLARITY : Active level of sys_rstn_i that triggers the reset.
 --                  '0' (default) -> active-low reset (negated reset, sys_rstn_i = '0' resets).
 --                  '1'           -> active-high reset (sys_rstn_i = '1' resets).
@@ -46,7 +43,6 @@ entity pipeline_reg is
     generic (
         DATA_WIDTH   : positive  := 8;
         NUM_STAGES   : natural   := 1;
-        RESET_VALUE  : std_logic := '0';
         RST_POLARITY : std_logic := '0'
     );
     port (
@@ -65,7 +61,7 @@ architecture rtl of pipeline_reg is
     type pipe_t is array (0 to NUM_STAGES - 1)
         of std_logic_vector(DATA_WIDTH - 1 downto 0);
 
-    signal pipe : pipe_t := (others => (others => RESET_VALUE));
+    signal pipe : pipe_t := (others => (others => '0'));
 
 begin
 
@@ -86,7 +82,7 @@ begin
             if rising_edge(sys_clk_i) then
                 if sys_rstn_i = RST_POLARITY then
                     -- Synchronous reset: clear all stages
-                    pipe <= (others => (others => RESET_VALUE));
+                    pipe <= (others => (others => '0'));
                 elsif enable_i = '1' then
                     -- Shift data through the pipeline
                     pipe(0) <= datain_i;
