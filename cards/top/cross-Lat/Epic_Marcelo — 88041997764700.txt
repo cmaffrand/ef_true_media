@@ -1,0 +1,86 @@
+Name: Marcelo
+Position: LB
+Style: Offensive Wingback
+
+Training:
+SHO: 8
+PAS: 4
+DRI: 7
+DEX: 6
+LBS: 9
+AER: 4
+DEF: 8
+GK1: 1
+Lv: 66
+Manager: Fabio Capello
+
+Attributes:
+Offensive Awareness: 80
+Ball Control: 94
+Dribbling: 90
+Tight Possession: 93
+Low Pass: 87
+Lofted Pass: 90
+Finishing: 79
+Heading: 69
+Place Kicking: 77
+Curl: 88
+Defensive Awareness: 83
+Defensive Engagement: 80
+Tackling: 85
+Aggression: 87
+Goalkeeping: 42
+Gk Catching: 41
+GK Parrying: 41
+GK Reflexes: 41
+GK Reach: 41
+Speed: 90
+Acceleration: 91
+Kicking Power: 90
+Jump: 77
+Balance: 90
+Stamina: 94
+Physical Contact: 75
+
+Skills:
+Double Touch
+Flip Flap
+Marseille Turn
+Sole Control
+One Touch Pass
+Through Passing
+Pinpoint Crossing
+Outside Curler
+Momentum Dribbling
+Edged Crossing
+
+Biometrics:
+Height: 174
+Weight: 75
+Arm Length: 7
+Shoulder Width: 8
+Neck Length: 5
+Chest: 7
+Neck Size: 11
+Shoulder Height: 7
+Leg Length: 7
+Thigh Size: 9
+Waist Size: 8
+Arm Size: 10
+Calf Size: 9
+Leg Coverage Radius: 167.9
+Arm Coverage Radius: 158.2
+Jumping Height: 253.9
+Torso Collision: 48.9
+Leg Length Based Height: 174
+
+Com Skills:
+Mazing Run
+Incisive Run
+Long Ball Expert
+
+Other Stats:
+Weak Foot Usage: 1
+Weak Foot Accuracy: 1
+Form: 1
+Injury Resistance: 1

@@ -1,0 +1,82 @@
+Name: Thiago Alcantara
+Position: CMF
+Style: Hole Player
+
+Training:
+SHO: 7
+PAS: 7
+DRI: 5
+DEX: 7
+LBS: 12
+AER: 3
+DEF: 1
+Lv: 64
+Manager: Fabio Capello
+
+Attributes:
+Offensive Awareness: 80
+Ball Control: 93
+Dribbling: 90
+Tight Possession: 95
+Low Pass: 96
+Lofted Pass: 95
+Finishing: 80
+Heading: 63
+Place Kicking: 82
+Curl: 87
+Defensive Awareness: 70
+Defensive Engagement: 73
+Tackling: 71
+Aggression: 72
+Goalkeeping: 41
+Gk Catching: 41
+GK Parrying: 41
+GK Reflexes: 41
+GK Reach: 41
+Speed: 90
+Acceleration: 90
+Kicking Power: 92
+Jump: 65
+Balance: 92
+Stamina: 91
+Physical Contact: 75
+
+Skills:
+Flip Flap
+Marseille Turn
+Sole Control
+One Touch Pass
+Through Passing
+Outside Curler
+Low Lofted Pass
+Phenomenal Pass
+Attack Trigger
+
+Biometrics:
+Height: 174
+Weight: 70
+Arm Length: 5
+Shoulder Width: 7
+Neck Length: 7
+Chest: 7
+Neck Size: 7
+Shoulder Height: 7
+Leg Length: 9
+Thigh Size: 10
+Waist Size: 6
+Arm Size: 7
+Calf Size: 8
+Leg Coverage Radius: 169.0
+Arm Coverage Radius: 156.0
+Jumping Height: 246.5
+Torso Collision: 48.6
+Leg Length Based Height: 176
+
+Com Skills:
+Mazing Run
+
+Other Stats:
+Weak Foot Usage: 2
+Weak Foot Accuracy: 2
+Form: 1
+Injury Resistance: 0

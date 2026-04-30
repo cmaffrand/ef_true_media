@@ -1,0 +1,84 @@
+Name: Jamal Musiala
+Position: LMF
+Style: Creative Playmaker
+
+Training:
+SHO: 9
+PAS: 4
+DRI: 7
+DEX: 5
+LBS: 11
+AER: 6
+Lv: 64
+Manager: Fabio Capello
+
+Attributes:
+Offensive Awareness: 83
+Ball Control: 94
+Dribbling: 94
+Tight Possession: 95
+Low Pass: 91
+Lofted Pass: 81
+Finishing: 90
+Heading: 63
+Place Kicking: 80
+Curl: 87
+Defensive Awareness: 57
+Defensive Engagement: 62
+Tackling: 55
+Aggression: 60
+Goalkeeping: 41
+Gk Catching: 41
+GK Parrying: 41
+GK Reflexes: 41
+GK Reach: 41
+Speed: 92
+Acceleration: 91
+Kicking Power: 90
+Jump: 70
+Balance: 90
+Stamina: 85
+Physical Contact: 75
+
+Skills:
+Double Touch
+Cut Behind & Turn
+Sole Control
+Long Range Curler
+First Time Shot
+One Touch Pass
+Through Passing
+Track Back
+Super Sub
+Momentum Dribbling
+Phenomenal Pass
+
+Biometrics:
+Height: 183
+Weight: 70
+Arm Length: 9
+Shoulder Width: 7
+Neck Length: 5
+Chest: 6
+Neck Size: 7
+Shoulder Height: 8
+Leg Length: 11
+Thigh Size: 6
+Waist Size: 6
+Arm Size: 4
+Calf Size: 6
+Leg Coverage Radius: 178.8
+Arm Coverage Radius: 168.3
+Jumping Height: 258.3
+Torso Collision: 50.9
+Leg Length Based Height: 187
+
+Com Skills:
+Incisive Run
+Long Ball Expert
+
+Other Stats:
+Weak Foot Usage: 0
+Weak Foot Accuracy: 2
+Form: 1
+Injury Resistance: 1

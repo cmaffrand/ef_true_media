@@ -1,11 +1,11 @@
 Roberto Carlos
-Cross Specialist
+Offensive Wingback
 Height
 168cm
 Weight
 73kg
 Age
-29
+26
 Foot
 
 B
@@ -13,28 +13,28 @@ B
 
 
 
-Crossing +2
+Strength +3
 
 Crossing +1
 
 0
 Condition History
 Arrow Probabilities (%)
-48911021029510010510510110310310097
+48971041049910210510510110310310098
 
-LMF
-0/66
+LB
+0/68
 Level Cap 
-34
+35
 
 Shooting
-6
+7
 
 Passing
-11
+8
 
 Dribbling
-8
+7
 
 Dexterity
 8
@@ -43,9 +43,10 @@ Lower Body Strength
 8
 
 Aerial Strength
-1
+0
 
 Defending
+8
 
 GK 1
 
@@ -53,49 +54,48 @@ GK 2
 
 GK 3
 Attacking
-Offensive Awareness		79
+Offensive Awareness		77
 Ball Control		83
-Dribbling		88
-Tight Possession		88
+Dribbling		87
+Tight Possession		84
 Low Pass		83
 Lofted Pass	●	90
 Finishing	●	81
-Heading		61
-Place Kicking		87
+Heading		62
+Place Kicking		91
 Curl	●	96
 Defending
-Defensive Awareness	●	72
-Defensive Engagement		73
-Tackling		74
-Aggression		74
+Defensive Awareness	●	80
+Defensive Engagement		84
+Tackling		84
+Aggression		84
 Goalkeeping		41
 Gk Catching		41
 GK Parrying		41
 GK Reflexes		41
 GK Reach		41
 athleticism
-Speed	●	98
-Acceleration		95
-Kicking Power		98
-Jump		75
-Physical Contact		80
-Balance		90
+Speed	●	97
+Acceleration		94
+Kicking Power	●	99
+Jump	●	80
+Physical Contact	●	82
+Balance		92
 Stamina	●	95
 Weak Foot Usage		0
 Weak Foot Acc		1
 Form		2
 Injury Resistance		2
 Skills
-Double Touch
 Long Range Shooting
+Rising Shots
 First Time Shot
-One Touch Pass
 Through Passing
 Pinpoint Crossing
 Outside Curler
 Long Throw
 Man Marking
-Blocker
+Fortress
 Edged Crossing
 
 Body Measurements

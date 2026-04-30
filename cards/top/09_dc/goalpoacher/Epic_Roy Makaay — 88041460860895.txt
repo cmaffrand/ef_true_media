@@ -1,0 +1,82 @@
+Name: Roy Makaay
+Position: CF
+Style: Goal Poacher
+
+Training:
+SHO: 5
+DRI: 8
+DEX: 10
+LBS: 8
+AER: 8
+Lv: 60
+Manager: Fabio Capello
+
+Attributes:
+Offensive Awareness: 96
+Ball Control: 92
+Dribbling: 91
+Tight Possession: 90
+Low Pass: 65
+Lofted Pass: 66
+Finishing: 92
+Heading: 87
+Place Kicking: 72
+Curl: 71
+Defensive Awareness: 55
+Defensive Engagement: 60
+Tackling: 47
+Aggression: 55
+Goalkeeping: 41
+Gk Catching: 41
+GK Parrying: 41
+GK Reflexes: 41
+GK Reach: 41
+Speed: 91
+Acceleration: 90
+Kicking Power: 91
+Jump: 82
+Balance: 75
+Stamina: 80
+Physical Contact: 91
+
+Skills:
+Heading
+Long Range Curler
+Long Range Shooting
+Acrobatic Finishing
+First Time Shot
+One Touch Pass
+Outside Curler
+Fighting Spirit
+Phenomenal Finishing
+Bullet Header
+
+Biometrics:
+Height: 188
+Weight: 83
+Arm Length: 7
+Shoulder Width: 7
+Neck Length: 7
+Chest: 7
+Neck Size: 7
+Shoulder Height: 7
+Leg Length: 9
+Thigh Size: 7
+Waist Size: 7
+Arm Size: 6
+Calf Size: 7
+Leg Coverage Radius: 182.5
+Arm Coverage Radius: 170.7
+Jumping Height: 271.7
+Torso Collision: 52.4
+Leg Length Based Height: 190
+
+Com Skills:
+Mazing Run
+Early Crosser
+
+Other Stats:
+Weak Foot Usage: 3
+Weak Foot Accuracy: 3
+Form: 2
+Injury Resistance: 2

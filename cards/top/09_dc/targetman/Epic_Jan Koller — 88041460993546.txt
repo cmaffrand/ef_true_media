@@ -1,0 +1,84 @@
+Name: Jan Koller
+Position: CF
+Style: Target Man
+
+Training:
+SHO: 8
+PAS: 3
+DRI: 4
+DEX: 8
+LBS: 9
+AER: 8
+GK1: 4
+Lv: 62
+Manager: Fabio Capello
+
+Attributes:
+Offensive Awareness: 93
+Ball Control: 77
+Dribbling: 75
+Tight Possession: 75
+Low Pass: 71
+Lofted Pass: 66
+Finishing: 95
+Heading: 99
+Place Kicking: 77
+Curl: 70
+Defensive Awareness: 52
+Defensive Engagement: 53
+Tackling: 52
+Aggression: 60
+Goalkeeping: 45
+Gk Catching: 41
+GK Parrying: 41
+GK Reflexes: 41
+GK Reach: 41
+Speed: 84
+Acceleration: 77
+Kicking Power: 94
+Jump: 94
+Balance: 74
+Stamina: 87
+Physical Contact: 99
+
+Skills:
+Heading
+Long Range Shooting
+Rising Shots
+Acrobatic Finishing
+Heel Trick
+First Time Shot
+Fighting Spirit
+Aerial Superiority
+Bullet Header
+Will Power
+
+Biometrics:
+Height: 202
+Weight: 99
+Arm Length: 7
+Shoulder Width: 4
+Neck Length: 7
+Chest: 0
+Neck Size: 7
+Shoulder Height: 6
+Leg Length: 7
+Thigh Size: 8
+Waist Size: 6
+Arm Size: 8
+Calf Size: 8
+Leg Coverage Radius: 194.9
+Arm Coverage Radius: 182.8
+Jumping Height: 293.6
+Torso Collision: 55.0
+Leg Length Based Height: 202
+
+Com Skills:
+Incisive Run
+Early Crosser
+
+Other Stats:
+Weak Foot Usage: 1
+Weak Foot Accuracy: 2
+Form: 2
+Injury Resistance: 2

@@ -1,0 +1,87 @@
+Name: Franck Ribery
+Position: LMF
+Style: Cross Specialist
+
+Training:
+SHO: 8
+PAS: 6
+DRI: 8
+DEX: 8
+LBS: 8
+AER: 5
+DEF: 0
+GK1: 0
+GK2: 0
+GK3: 0
+Lv: 62
+Manager: Fabio Capello
+
+Attributes:
+Offensive Awareness: 86
+Ball Control: 95
+Dribbling: 97
+Tight Possession: 96
+Low Pass: 90
+Lofted Pass: 90
+Finishing: 91
+Heading: 63
+Place Kicking: 80
+Curl: 87
+Defensive Awareness: 49
+Defensive Engagement: 48
+Tackling: 52
+Aggression: 53
+Goalkeeping: 41
+Gk Catching: 41
+GK Parrying: 41
+GK Reflexes: 41
+GK Reach: 41
+Speed: 93
+Acceleration: 94
+Kicking Power: 94
+Jump: 61
+Balance: 94
+Stamina: 85
+Physical Contact: 75
+
+Skills:
+Double Touch
+Flip Flap
+Chop Turn
+Long Range Curler
+First Time Shot
+Through Passing
+Pinpoint Crossing
+Outside Curler
+Momentum Dribbling
+Edged Crossing
+
+Biometrics:
+Height: 170
+Weight: 72
+Arm Length: 5
+Shoulder Width: 12
+Neck Length: 5
+Chest: 7
+Neck Size: 12
+Shoulder Height: 9
+Leg Length: 9
+Thigh Size: 10
+Waist Size: 6
+Arm Size: 7
+Calf Size: 7
+Leg Coverage Radius: 165.1
+Arm Coverage Radius: 153.3
+Jumping Height: 239.4
+Torso Collision: 48.8
+Leg Length Based Height: 172
+
+Com Skills:
+Mazing Run
+Long Ball Expert
+
+Other Stats:
+Weak Foot Usage: 2
+Weak Foot Accuracy: 3
+Form: 2
+Injury Resistance: 0

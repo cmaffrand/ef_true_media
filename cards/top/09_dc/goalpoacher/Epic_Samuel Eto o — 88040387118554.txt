@@ -1,0 +1,84 @@
+Name: Samuel Eto o
+Position: CF
+Style: Goal Poacher
+
+Training:
+SHO: 6
+PAS: 4
+DRI: 10
+DEX: 9
+LBS: 9
+AER: 2
+Lv: 62
+Manager: Fabio Capello
+
+Attributes:
+Offensive Awareness: 93
+Ball Control: 93
+Dribbling: 94
+Tight Possession: 90
+Low Pass: 75
+Lofted Pass: 67
+Finishing: 91
+Heading: 70
+Place Kicking: 67
+Curl: 78
+Defensive Awareness: 47
+Defensive Engagement: 51
+Tackling: 46
+Aggression: 56
+Goalkeeping: 41
+Gk Catching: 41
+GK Parrying: 41
+GK Reflexes: 41
+GK Reach: 41
+Speed: 99
+Acceleration: 98
+Kicking Power: 95
+Jump: 79
+Balance: 88
+Stamina: 89
+Physical Contact: 80
+
+Skills:
+Double Touch
+Sole Control
+Long Range Curler
+Rising Shots
+Acrobatic Finishing
+Heel Trick
+First Time Shot
+Outside Curler
+Phenomenal Finishing
+Low Screamer
+Attack Trigger
+
+Biometrics:
+Height: 180
+Weight: 75
+Arm Length: 6
+Shoulder Width: 9
+Neck Length: 6
+Chest: 4
+Neck Size: 7
+Shoulder Height: 6
+Leg Length: 12
+Thigh Size: 6
+Waist Size: 2
+Arm Size: 6
+Calf Size: 7
+Leg Coverage Radius: 176.4
+Arm Coverage Radius: 162.8
+Jumping Height: 261.5
+Torso Collision: 50.4
+Leg Length Based Height: 185
+
+Com Skills:
+Mazing Run
+Long Ball Expert
+
+Other Stats:
+Weak Foot Usage: 1
+Weak Foot Accuracy: 2
+Form: 2
+Injury Resistance: 1

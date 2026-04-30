@@ -1,0 +1,84 @@
+Name: Xavi
+Position: CMF
+Style: Orchestrator
+
+Training:
+SHO: 4
+PAS: 5
+DRI: 4
+DEX: 7
+LBS: 11
+AER: 1
+DEF: 10
+Lv: 64
+Manager: Fabio Capello
+
+Attributes:
+Offensive Awareness: 78
+Ball Control: 95
+Dribbling: 92
+Tight Possession: 96
+Low Pass: 95
+Lofted Pass: 92
+Finishing: 77
+Heading: 59
+Place Kicking: 76
+Curl: 87
+Defensive Awareness: 82
+Defensive Engagement: 83
+Tackling: 82
+Aggression: 80
+Goalkeeping: 41
+Gk Catching: 41
+GK Parrying: 41
+GK Reflexes: 41
+GK Reach: 41
+Speed: 88
+Acceleration: 88
+Kicking Power: 91
+Jump: 60
+Balance: 92
+Stamina: 93
+Physical Contact: 75
+
+Skills:
+Double Touch
+Marseille Turn
+Cut Behind & Turn
+Sole Control
+One Touch Pass
+Through Passing
+Outside Curler
+Fighting Spirit
+Visionary Pass
+Attack Trigger
+
+Biometrics:
+Height: 170
+Weight: 67
+Arm Length: 5
+Shoulder Width: 9
+Neck Length: 4
+Chest: 5
+Neck Size: 10
+Shoulder Height: 5
+Leg Length: 7
+Thigh Size: 3
+Waist Size: 5
+Arm Size: 6
+Calf Size: 5
+Leg Coverage Radius: 164.1
+Arm Coverage Radius: 152.8
+Jumping Height: 238.5
+Torso Collision: 47.6
+Leg Length Based Height: 170
+
+Com Skills:
+Mazing Run
+Early Crosser
+
+Other Stats:
+Weak Foot Usage: 0
+Weak Foot Accuracy: 1
+Form: 2
+Injury Resistance: 2

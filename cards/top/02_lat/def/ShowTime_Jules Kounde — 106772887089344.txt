@@ -1,0 +1,85 @@
+Name: Jules Kounde
+Position: RB
+Style: Defensive Full back
+
+Training:
+PAS: 2
+DRI: 4
+DEX: 9
+LBS: 7
+AER: 8
+DEF: 11
+Lv: 64
+Manager: Fabio Capello
+
+Attributes:
+Offensive Awareness: 76
+Ball Control: 82
+Dribbling: 80
+Tight Possession: 82
+Low Pass: 82
+Lofted Pass: 81
+Finishing: 51
+Heading: 83
+Place Kicking: 61
+Curl: 66
+Defensive Awareness: 96
+Defensive Engagement: 94
+Tackling: 94
+Aggression: 90
+Goalkeeping: 41
+Gk Catching: 41
+GK Parrying: 41
+GK Reflexes: 41
+GK Reach: 41
+Speed: 92
+Acceleration: 90
+Kicking Power: 79
+Jump: 93
+Balance: 80
+Stamina: 93
+Physical Contact: 90
+
+Skills:
+One Touch Pass
+Through Passing
+Man Marking
+Interception
+Fighting Spirit
+Blocker
+Aerial Superiority
+Sliding Tackle
+Visionary Pass
+Fortress
+
+Biometrics:
+Height: 181
+Weight: 84
+Arm Length: 8
+Shoulder Width: 9
+Neck Length: 5
+Chest: 10
+Neck Size: 9
+Shoulder Height: 5
+Leg Length: 10
+Thigh Size: 10
+Waist Size: 4
+Arm Size: 8
+Calf Size: 10
+Leg Coverage Radius: 176.3
+Arm Coverage Radius: 165.7
+Jumping Height: 271.5
+Torso Collision: 51.2
+Leg Length Based Height: 184
+
+Com Skills:
+Trickster
+Speeding Bullet
+Long Ball Expert
+Early Crosser
+
+Other Stats:
+Weak Foot Usage: 1
+Weak Foot Accuracy: 1
+Form: 2
+Injury Resistance: 1

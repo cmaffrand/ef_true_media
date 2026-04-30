@@ -1,0 +1,82 @@
+Name: Javier Saviola
+Position: CF
+Style: Goal Poacher
+
+Training:
+SHO: 8
+PAS: 3
+DRI: 8
+DEX: 8
+LBS: 11
+AER: 2
+Lv: 62
+Manager: Fabio Capello
+
+Attributes:
+Offensive Awareness: 92
+Ball Control: 93
+Dribbling: 96
+Tight Possession: 93
+Low Pass: 75
+Lofted Pass: 66
+Finishing: 94
+Heading: 70
+Place Kicking: 71
+Curl: 80
+Defensive Awareness: 46
+Defensive Engagement: 45
+Tackling: 43
+Aggression: 47
+Goalkeeping: 41
+Gk Catching: 41
+GK Parrying: 41
+GK Reflexes: 41
+GK Reach: 41
+Speed: 96
+Acceleration: 96
+Kicking Power: 92
+Jump: 68
+Balance: 94
+Stamina: 88
+Physical Contact: 76
+
+Skills:
+Double Touch
+Cut Behind & Turn
+Heading
+Long Range Curler
+Chip Shot Control
+Heel Trick
+First Time Shot
+Gamesmanship
+Phenomenal Finishing
+Acceleration Burst
+
+Biometrics:
+Height: 168
+Weight: 60
+Arm Length: 2
+Shoulder Width: 12
+Neck Length: 4
+Chest: 8
+Neck Size: 14
+Shoulder Height: 10
+Leg Length: 10
+Thigh Size: 8
+Waist Size: 8
+Arm Size: 6
+Calf Size: 9
+Leg Coverage Radius: 163.6
+Arm Coverage Radius: 148.6
+Jumping Height: 241.8
+Torso Collision: 48.3
+Leg Length Based Height: 171
+
+Com Skills:
+Long Ball Expert
+
+Other Stats:
+Weak Foot Usage: 2
+Weak Foot Accuracy: 2
+Form: 2
+Injury Resistance: 1

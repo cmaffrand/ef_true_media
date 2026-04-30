@@ -1,0 +1,84 @@
+Name: Luis Diaz
+Position: LWF
+Style: Prolific Winger
+
+Training:
+SHO: 8
+PAS: 4
+DRI: 9
+DEX: 8
+LBS: 9
+AER: 2
+Lv: 60
+Manager: Fabio Capello
+
+Attributes:
+Offensive Awareness: 87
+Ball Control: 92
+Dribbling: 94
+Tight Possession: 90
+Low Pass: 81
+Lofted Pass: 74
+Finishing: 88
+Heading: 53
+Place Kicking: 68
+Curl: 77
+Defensive Awareness: 42
+Defensive Engagement: 66
+Tackling: 44
+Aggression: 69
+Goalkeeping: 41
+Gk Catching: 41
+GK Parrying: 41
+GK Reflexes: 41
+GK Reach: 41
+Speed: 94
+Acceleration: 94
+Kicking Power: 92
+Jump: 63
+Balance: 87
+Stamina: 87
+Physical Contact: 81
+
+Skills:
+Double Touch
+Marseille Turn
+Sole Control
+Long Range Curler
+Acrobatic Finishing
+First Time Shot
+Through Passing
+Pinpoint Crossing
+Outside Curler
+Acceleration Burst
+
+Biometrics:
+Height: 180
+Weight: 74
+Arm Length: 8
+Shoulder Width: 8
+Neck Length: 4
+Chest: 7
+Neck Size: 10
+Shoulder Height: 9
+Leg Length: 11
+Thigh Size: 7
+Waist Size: 5
+Arm Size: 2
+Calf Size: 7
+Leg Coverage Radius: 175.9
+Arm Coverage Radius: 164.6
+Jumping Height: 250.4
+Torso Collision: 50.4
+Leg Length Based Height: 184
+
+Com Skills:
+Mazing Run
+Incisive Run
+Long Ball Expert
+
+Other Stats:
+Weak Foot Usage: 2
+Weak Foot Accuracy: 2
+Form: 1
+Injury Resistance: 0

@@ -1,14 +1,14 @@
-Serge Gnabry
-Cross Specialist
+Philipp Lahm
+Offensive Wingback
 Height
-176cm
+170cm
 Weight
-77kg
+66kg
 Age
-30
+31
 Foot
 
-C
+B
 
 
 
@@ -20,32 +20,33 @@ Crossing +1
 0
 Condition History
 Arrow Probabilities (%)
-457591918394100100991001009995
+469510410410010410610610099999588
 
-RMF
-0/58
+RB
+0/68
 Level Cap 
-30
+35
 
 Shooting
-5
+7
 
 Passing
-10
+8
 
 Dribbling
-6
+7
 
 Dexterity
-6
+8
 
 Lower Body Strength
-10
+8
 
 Aerial Strength
 0
 
 Defending
+8
 
 GK 1
 
@@ -53,21 +54,21 @@ GK 2
 
 GK 3
 Attacking
-Offensive Awareness		79
-Ball Control		89
-Dribbling		90
-Tight Possession		90
-Low Pass		84
-Lofted Pass	●	88
-Finishing	●	84
-Heading		62
-Place Kicking		77
-Curl	●	88
+Offensive Awareness		73
+Ball Control		84
+Dribbling		87
+Tight Possession		91
+Low Pass		94
+Lofted Pass	●	96
+Finishing	●	70
+Heading		56
+Place Kicking		73
+Curl	●	95
 Defending
-Defensive Awareness	●	53
-Defensive Engagement		60
-Tackling		54
-Aggression		60
+Defensive Awareness	●	93
+Defensive Engagement		92
+Tackling		89
+Aggression		83
 Goalkeeping		41
 Gk Catching		41
 GK Parrying		41
@@ -75,38 +76,38 @@ GK Reflexes		41
 GK Reach		41
 athleticism
 Speed	●	90
-Acceleration		90
-Kicking Power		88
-Jump		62
-Physical Contact		66
-Balance		90
-Stamina	●	88
+Acceleration		94
+Kicking Power		80
+Jump		72
+Physical Contact		59
+Balance		93
+Stamina	●	97
 Weak Foot Usage		2
 Weak Foot Acc		3
-Form		0
-Injury Resistance		0
+Form		2
+Injury Resistance		2
 Skills
-Cut Behind & Turn
-Sole Control
 Long Range Curler
-Long Range Shooting
+Rising Shots
 One Touch Pass
 Through Passing
 Pinpoint Crossing
 Outside Curler
-Gamesmanship
+Interception
+Captaincy
+Fighting Spirit
 Edged Crossing
 
 Body Measurements
 Leg Length
-9
+8
 Arm Length
-5
+6
 Waist Size
-5
+4
 Chest
-5
-Shoulder Width
-3
-Neck Length
 7
+Shoulder Width
+8
+Neck Length
+6

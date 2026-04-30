@@ -1,0 +1,83 @@
+Name: Luis Figo
+Position: RWF
+Style: Cross Specialist
+
+Training:
+SHO: 7
+PAS: 8
+DRI: 8
+DEX: 8
+LBS: 10
+AER: 2
+Lv: 66
+Manager: Fabio Capello
+
+Attributes:
+Offensive Awareness: 88
+Ball Control: 93
+Dribbling: 94
+Tight Possession: 95
+Low Pass: 92
+Lofted Pass: 92
+Finishing: 88
+Heading: 56
+Place Kicking: 84
+Curl: 91
+Defensive Awareness: 53
+Defensive Engagement: 56
+Tackling: 51
+Aggression: 56
+Goalkeeping: 41
+Gk Catching: 41
+GK Parrying: 41
+GK Reflexes: 41
+GK Reach: 41
+Speed: 93
+Acceleration: 93
+Kicking Power: 95
+Jump: 63
+Balance: 90
+Stamina: 88
+Physical Contact: 80
+
+Skills:
+Double Touch
+Sole Control
+Long Range Curler
+First Time Shot
+Through Passing
+Pinpoint Crossing
+Outside Curler
+Captaincy
+Edged Crossing
+Magnetic Feet
+
+Biometrics:
+Height: 180
+Weight: 75
+Arm Length: 5
+Shoulder Width: 11
+Neck Length: 6
+Chest: 7
+Neck Size: 8
+Shoulder Height: 7
+Leg Length: 9
+Thigh Size: 10
+Waist Size: 5
+Arm Size: 9
+Calf Size: 11
+Leg Coverage Radius: 174.8
+Arm Coverage Radius: 162.1
+Jumping Height: 250.9
+Torso Collision: 51.4
+Leg Length Based Height: 182
+
+Com Skills:
+Trickster
+Mazing Run
+
+Other Stats:
+Weak Foot Usage: 1
+Weak Foot Accuracy: 2
+Form: 2
+Injury Resistance: 1

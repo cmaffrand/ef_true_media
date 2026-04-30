@@ -1,0 +1,113 @@
+Maicon
+Offensive Wingback
+Height
+184cm
+Weight
+77kg
+Age
+28
+Foot
+
+B
+
+
+
+
+Crossing +3
+
+Accuracy +1
+
+0
+Condition History
+Arrow Probabilities (%)
+51991031031001021031031011011019997
+
+RB
+0/68
+Level Cap 
+35
+
+Shooting
+5
+
+Passing
+7
+
+Dribbling
+8
+
+Dexterity
+8
+
+Lower Body Strength
+8
+
+Aerial Strength
+4
+
+Defending
+8
+
+GK 1
+
+GK 2
+
+GK 3
+Attacking
+Offensive Awareness		81
+Ball Control		78
+Dribbling		85
+Tight Possession		81
+Low Pass	●	88
+Lofted Pass	●	94
+Finishing	●	80
+Heading		75
+Place Kicking		79
+Curl	●	87
+Defending
+Defensive Awareness	●	80
+Defensive Engagement		81
+Tackling		83
+Aggression		83
+Goalkeeping		41
+Gk Catching		41
+GK Parrying		41
+GK Reflexes		41
+GK Reach		41
+athleticism
+Speed	●	94
+Acceleration		89
+Kicking Power	●	93
+Jump		79
+Physical Contact		87
+Balance		81
+Stamina	●	93
+Weak Foot Usage		0
+Weak Foot Acc		1
+Form		1
+Injury Resistance		2
+Skills
+Rising Shots
+Through Passing
+Pinpoint Crossing
+Outside Curler
+Long Throw
+Gamesmanship
+Man Marking
+Interception
+Phenomenal Pass
+Edged Crossing
+
+Body Measurements
+Leg Length
+9
+Arm Length
+7
+Waist Size
+6
+Chest
+6
+Shoulder Width
+11
+Neck Length
+4

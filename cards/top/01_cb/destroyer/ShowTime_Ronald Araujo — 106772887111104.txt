@@ -1,0 +1,82 @@
+Name: Ronald Araujo
+Position: CB
+Style: Destroyer
+
+Training:
+PAS: 2
+DEX: 8
+LBS: 5
+AER: 7
+DEF: 11
+GK1: 1
+Lv: 52
+Manager: Fabio Capello
+
+Attributes:
+Offensive Awareness: 61
+Ball Control: 66
+Dribbling: 62
+Tight Possession: 62
+Low Pass: 70
+Lofted Pass: 64
+Finishing: 52
+Heading: 90
+Place Kicking: 62
+Curl: 43
+Defensive Awareness: 95
+Defensive Engagement: 94
+Tackling: 97
+Aggression: 95
+Goalkeeping: 42
+Gk Catching: 41
+GK Parrying: 41
+GK Reflexes: 41
+GK Reach: 41
+Speed: 90
+Acceleration: 88
+Kicking Power: 76
+Jump: 93
+Balance: 70
+Stamina: 82
+Physical Contact: 92
+
+Skills:
+Heading
+Man Marking
+Interception
+Captaincy
+Fighting Spirit
+Blocker
+Aerial Superiority
+Sliding Tackle
+Long Reach Tackle
+Aerial Fort
+
+Biometrics:
+Height: 191
+Weight: 96
+Arm Length: 7
+Shoulder Width: 8
+Neck Length: 6
+Chest: 6
+Neck Size: 6
+Shoulder Height: 7
+Leg Length: 11
+Thigh Size: 7
+Waist Size: 6
+Arm Size: 8
+Calf Size: 6
+Leg Coverage Radius: 186.6
+Arm Coverage Radius: 173.6
+Jumping Height: 281.7
+Torso Collision: 53.5
+Leg Length Based Height: 195
+
+Com Skills:
+Early Crosser
+
+Other Stats:
+Weak Foot Usage: 1
+Weak Foot Accuracy: 1
+Form: 2
+Injury Resistance: 0

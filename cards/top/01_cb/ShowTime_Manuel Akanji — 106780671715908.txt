@@ -1,0 +1,82 @@
+Name: Manuel Akanji
+Position: CB
+Style: Destroyer
+
+Training:
+DEX: 8
+LBS: 10
+AER: 7
+DEF: 10
+GK1: 2
+Lv: 60
+Manager: Fabio Capello
+
+Attributes:
+Offensive Awareness: 66
+Ball Control: 64
+Dribbling: 62
+Tight Possession: 70
+Low Pass: 69
+Lofted Pass: 67
+Finishing: 54
+Heading: 81
+Place Kicking: 62
+Curl: 63
+Defensive Awareness: 93
+Defensive Engagement: 92
+Tackling: 93
+Aggression: 94
+Goalkeeping: 43
+Gk Catching: 41
+GK Parrying: 41
+GK Reflexes: 41
+GK Reach: 41
+Speed: 90
+Acceleration: 83
+Kicking Power: 80
+Jump: 90
+Balance: 72
+Stamina: 90
+Physical Contact: 91
+
+Skills:
+Heading
+Weighted Pass
+Man Marking
+Interception
+Acrobatic Clearance
+Fighting Spirit
+Blocker
+Aerial Superiority
+Sliding Tackle
+Aerial Fort
+
+Biometrics:
+Height: 186
+Weight: 91
+Arm Length: 5
+Shoulder Width: 10
+Neck Length: 4
+Chest: 3
+Neck Size: 6
+Shoulder Height: 5
+Leg Length: 10
+Thigh Size: 7
+Waist Size: 3
+Arm Size: 4
+Calf Size: 6
+Leg Coverage Radius: 181.2
+Arm Coverage Radius: 167.3
+Jumping Height: 274.2
+Torso Collision: 52.4
+Leg Length Based Height: 189
+
+Com Skills:
+Incisive Run
+Early Crosser
+
+Other Stats:
+Weak Foot Usage: 1
+Weak Foot Accuracy: 2
+Form: 2
+Injury Resistance: 0

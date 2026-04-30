@@ -1,0 +1,85 @@
+Name: Alejandro Balde
+Position: LB
+Style: Offensive Wingback
+
+Training:
+SHO: 5
+PAS: 9
+DRI: 6
+DEX: 6
+LBS: 8
+AER: 3
+DEF: 8
+Lv: 64
+Manager: Fabio Capello
+
+Attributes:
+Offensive Awareness: 75
+Ball Control: 83
+Dribbling: 92
+Tight Possession: 87
+Low Pass: 87
+Lofted Pass: 85
+Finishing: 68
+Heading: 64
+Place Kicking: 64
+Curl: 80
+Defensive Awareness: 82
+Defensive Engagement: 85
+Tackling: 87
+Aggression: 81
+Goalkeeping: 41
+Gk Catching: 41
+GK Parrying: 41
+GK Reflexes: 41
+GK Reach: 41
+Speed: 97
+Acceleration: 92
+Kicking Power: 83
+Jump: 79
+Balance: 86
+Stamina: 96
+Physical Contact: 75
+
+Skills:
+Double Touch
+Chop Turn
+Sole Control
+Pinpoint Crossing
+Outside Curler
+Man Marking
+Interception
+Blocker
+Edged Crossing
+Acceleration Burst
+
+Biometrics:
+Height: 177
+Weight: 76
+Arm Length: 11
+Shoulder Width: 9
+Neck Length: 6
+Chest: 7
+Neck Size: 10
+Shoulder Height: 6
+Leg Length: 13
+Thigh Size: 10
+Waist Size: 1
+Arm Size: 6
+Calf Size: 8
+Leg Coverage Radius: 174.0
+Arm Coverage Radius: 165.1
+Jumping Height: 258.5
+Torso Collision: 49.8
+Leg Length Based Height: 183
+
+Com Skills:
+Trickster
+Mazing Run
+Long Ball Expert
+
+Other Stats:
+Weak Foot Usage: 2
+Weak Foot Accuracy: 1
+Form: 1
+Injury Resistance: 1

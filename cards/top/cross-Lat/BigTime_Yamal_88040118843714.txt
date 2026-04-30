@@ -1,11 +1,11 @@
-Michael Olise
+Lamine Yamal
 Cross Specialist
 Height
-184cm
+180cm
 Weight
-73kg
+72kg
 Age
-24
+18
 Foot
 
 B
@@ -13,37 +13,37 @@ B
 
 
 
-Accuracy +2
+Technique +3
 
-Agility +1
+Accuracy +1
 
 0
 Condition History
 Arrow Probabilities (%)
-47779494859710310310310310310399
+477593938397105105104106106105101
 
 RMF
-0/68
+0/64
 Level Cap 
-35
+33
 
 Shooting
 7
 
 Passing
-6
+7
 
 Dribbling
-8
+7
 
 Dexterity
-8
+9
 
 Lower Body Strength
-12
+9
 
 Aerial Strength
-2
+4
 
 Defending
 
@@ -53,60 +53,60 @@ GK 2
 
 GK 3
 Attacking
-Offensive Awareness		83
-Ball Control		90
-Dribbling		93
-Tight Possession		91
-Low Pass	●	90
-Lofted Pass	●	90
-Finishing	●	87
-Heading		53
-Place Kicking		88
+Offensive Awareness		87
+Ball Control	●	92
+Dribbling	●	94
+Tight Possession	●	93
+Low Pass	●	91
+Lofted Pass	●	88
+Finishing	●	89
+Heading		55
+Place Kicking		73
 Curl		90
 Defending
-Defensive Awareness	●	52
-Defensive Engagement		52
-Tackling		54
-Aggression		58
+Defensive Awareness	●	45
+Defensive Engagement		56
+Tackling		46
+Aggression		55
 Goalkeeping		41
 Gk Catching		41
 GK Parrying		41
 GK Reflexes		41
 GK Reach		41
 athleticism
-Speed	●	93
-Acceleration	●	91
-Kicking Power	●	94
-Jump		58
-Physical Contact		70
-Balance	●	88
-Stamina	●	89
-Weak Foot Usage		1
+Speed		95
+Acceleration		95
+Kicking Power	●	89
+Jump		64
+Physical Contact		75
+Balance		95
+Stamina		87
+Weak Foot Usage		2
 Weak Foot Acc		2
 Form		2
-Injury Resistance		0
+Injury Resistance		1
 Skills
 Double Touch
 Flip Flap
+Marseille Turn
 Sole Control
 Long Range Curler
-Long Range Shooting
-One Touch Pass
 Through Passing
 Pinpoint Crossing
 Outside Curler
+Momentum Dribbling
 Edged Crossing
 
 Body Measurements
 Leg Length
-12
+13
 Arm Length
-11
+7
 Waist Size
-4
+5
 Chest
-10
+6
 Shoulder Width
-10
+5
 Neck Length
 5

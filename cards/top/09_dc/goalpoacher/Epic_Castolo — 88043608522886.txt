@@ -1,0 +1,81 @@
+Name: Castolo
+Position: CF
+Style: Goal Poacher
+
+Training:
+SHO: 4
+DRI: 4
+DEX: 8
+LBS: 7
+AER: 5
+Lv: 36
+Manager: Fabio Capello
+
+Attributes:
+Offensive Awareness: 94
+Ball Control: 84
+Dribbling: 82
+Tight Possession: 81
+Low Pass: 66
+Lofted Pass: 63
+Finishing: 92
+Heading: 83
+Place Kicking: 69
+Curl: 75
+Defensive Awareness: 51
+Defensive Engagement: 50
+Tackling: 54
+Aggression: 51
+Goalkeeping: 41
+Gk Catching: 41
+GK Parrying: 41
+GK Reflexes: 41
+GK Reach: 41
+Speed: 96
+Acceleration: 91
+Kicking Power: 92
+Jump: 82
+Balance: 80
+Stamina: 88
+Physical Contact: 80
+
+Skills:
+Scissors Feint
+Double Touch
+Flip Flap
+Cut Behind & Turn
+Sole Control
+Heel Trick
+First Time Shot
+Penalty Specialist
+Gamesmanship
+Phenomenal Finishing
+
+Biometrics:
+Height: 173
+Weight: 72
+Arm Length: 7
+Shoulder Width: 8
+Neck Length: 5
+Chest: 6
+Neck Size: 7
+Shoulder Height: 9
+Leg Length: 11
+Thigh Size: 7
+Waist Size: 6
+Arm Size: 8
+Calf Size: 6
+Leg Coverage Radius: 169.0
+Arm Coverage Radius: 157.3
+Jumping Height: 256.2
+Torso Collision: 48.4
+Leg Length Based Height: 177
+
+Com Skills:
+Long Ball Expert
+
+Other Stats:
+Weak Foot Usage: 1
+Weak Foot Accuracy: 1
+Form: 2
+Injury Resistance: 1

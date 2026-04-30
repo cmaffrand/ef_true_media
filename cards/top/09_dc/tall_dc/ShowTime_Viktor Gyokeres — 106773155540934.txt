@@ -1,0 +1,84 @@
+Name: Viktor Gyokeres
+Position: CF
+Style: Fox In The Box
+
+Training:
+SHO: 8
+DRI: 9
+DEX: 10
+LBS: 9
+AER: 2
+Lv: 62
+Manager: Fabio Capello
+
+Attributes:
+Offensive Awareness: 93
+Ball Control: 87
+Dribbling: 90
+Tight Possession: 87
+Low Pass: 64
+Lofted Pass: 63
+Finishing: 92
+Heading: 70
+Place Kicking: 74
+Curl: 77
+Defensive Awareness: 56
+Defensive Engagement: 61
+Tackling: 59
+Aggression: 74
+Goalkeeping: 41
+Gk Catching: 41
+GK Parrying: 41
+GK Reflexes: 41
+GK Reach: 41
+Speed: 95
+Acceleration: 93
+Kicking Power: 94
+Jump: 76
+Balance: 77
+Stamina: 90
+Physical Contact: 90
+
+Skills:
+Cut Behind & Turn
+Long Range Curler
+Rising Shots
+First Time Shot
+One Touch Pass
+Outside Curler
+Penalty Specialist
+Fighting Spirit
+Phenomenal Finishing
+Will Power
+
+Biometrics:
+Height: 189
+Weight: 90
+Arm Length: 7
+Shoulder Width: 6
+Neck Length: 7
+Chest: 8
+Neck Size: 7
+Shoulder Height: 8
+Leg Length: 7
+Thigh Size: 7
+Waist Size: 8
+Arm Size: 7
+Calf Size: 7
+Leg Coverage Radius: 182.4
+Arm Coverage Radius: 171.4
+Jumping Height: 268.8
+Torso Collision: 52.5
+Leg Length Based Height: 189
+
+Com Skills:
+Mazing Run
+Incisive Run
+Long Ball Expert
+Early Crosser
+
+Other Stats:
+Weak Foot Usage: 2
+Weak Foot Accuracy: 2
+Form: 2
+Injury Resistance: 2

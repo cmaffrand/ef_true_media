@@ -1,0 +1,83 @@
+Name: Ruud Gullit
+Position: CF
+Style: Fox In The Box
+
+Training:
+SHO: 8
+PAS: 1
+DRI: 7
+DEX: 11
+LBS: 8
+AER: 5
+Lv: 62
+Manager: Fabio Capello
+
+Attributes:
+Offensive Awareness: 88
+Ball Control: 91
+Dribbling: 91
+Tight Possession: 90
+Low Pass: 77
+Lofted Pass: 74
+Finishing: 90
+Heading: 87
+Place Kicking: 83
+Curl: 82
+Defensive Awareness: 77
+Defensive Engagement: 70
+Tackling: 71
+Aggression: 72
+Goalkeeping: 41
+Gk Catching: 41
+GK Parrying: 41
+GK Reflexes: 41
+GK Reach: 41
+Speed: 93
+Acceleration: 93
+Kicking Power: 94
+Jump: 90
+Balance: 88
+Stamina: 84
+Physical Contact: 94
+
+Skills:
+Heading
+Long Range Curler
+Long Range Shooting
+First Time Shot
+One Touch Pass
+Through Passing
+Outside Curler
+Fighting Spirit
+Phenomenal Finishing
+Magnetic Feet
+
+Biometrics:
+Height: 190
+Weight: 85
+Arm Length: 7
+Shoulder Width: 6
+Neck Length: 7
+Chest: 6
+Neck Size: 7
+Shoulder Height: 7
+Leg Length: 9
+Thigh Size: 8
+Waist Size: 2
+Arm Size: 7
+Calf Size: 7
+Leg Coverage Radius: 184.5
+Arm Coverage Radius: 172.3
+Jumping Height: 279.0
+Torso Collision: 52.5
+Leg Length Based Height: 192
+
+Com Skills:
+Mazing Run
+Early Crosser
+
+Other Stats:
+Weak Foot Usage: 2
+Weak Foot Accuracy: 3
+Form: 2
+Injury Resistance: 0

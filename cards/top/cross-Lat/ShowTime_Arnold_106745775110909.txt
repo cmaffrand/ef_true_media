@@ -1,11 +1,11 @@
-Michael Olise
-Cross Specialist
+T. Alexander-Arnold
+Offensive Wingback
 Height
-184cm
+180cm
 Weight
-73kg
+69kg
 Age
-24
+27
 Foot
 
 B
@@ -20,32 +20,33 @@ Agility +1
 0
 Condition History
 Arrow Probabilities (%)
-47779494859710310310310310310399
+4994102102981021031041011001009894
 
-RMF
-0/68
+RB
+0/66
 Level Cap 
-35
+34
 
 Shooting
-7
+4
 
 Passing
-6
+4
 
 Dribbling
 8
 
 Dexterity
-8
+9
 
 Lower Body Strength
-12
+9
 
 Aerial Strength
-2
+6
 
 Defending
+6
 
 GK 1
 
@@ -53,60 +54,60 @@ GK 2
 
 GK 3
 Attacking
-Offensive Awareness		83
-Ball Control		90
-Dribbling		93
-Tight Possession		91
+Offensive Awareness		80
+Ball Control		85
+Dribbling		83
+Tight Possession		87
 Low Pass	●	90
-Lofted Pass	●	90
-Finishing	●	87
-Heading		53
-Place Kicking		88
-Curl		90
+Lofted Pass	●	92
+Finishing	●	76
+Heading		58
+Place Kicking		87
+Curl		94
 Defending
-Defensive Awareness	●	52
-Defensive Engagement		52
-Tackling		54
-Aggression		58
+Defensive Awareness	●	80
+Defensive Engagement		87
+Tackling		82
+Aggression		82
 Goalkeeping		41
 Gk Catching		41
 GK Parrying		41
 GK Reflexes		41
 GK Reach		41
 athleticism
-Speed	●	93
-Acceleration	●	91
-Kicking Power	●	94
-Jump		58
-Physical Contact		70
-Balance	●	88
-Stamina	●	89
-Weak Foot Usage		1
+Speed	●	90
+Acceleration	●	90
+Kicking Power	●	92
+Jump		75
+Physical Contact		75
+Balance	●	85
+Stamina	●	93
+Weak Foot Usage		2
 Weak Foot Acc		2
 Form		2
-Injury Resistance		0
+Injury Resistance		1
 Skills
-Double Touch
-Flip Flap
 Sole Control
-Long Range Curler
 Long Range Shooting
+Rising Shots
 One Touch Pass
 Through Passing
+Weighted Pass
 Pinpoint Crossing
 Outside Curler
+Low Lofted Pass
 Edged Crossing
 
 Body Measurements
 Leg Length
-12
+8
 Arm Length
-11
+10
 Waist Size
-4
+5
 Chest
 10
 Shoulder Width
-10
+13
 Neck Length
-5
+6
