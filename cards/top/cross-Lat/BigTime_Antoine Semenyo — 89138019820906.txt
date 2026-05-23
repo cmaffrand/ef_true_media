@@ -1,0 +1,83 @@
+Name: Antoine Semenyo
+Position: LMF
+Style: Cross Specialist
+
+Training:
+SHO: 8
+PAS: 7
+DRI: 8
+DEX: 8
+LBS: 8
+AER: 5
+Lv: 64
+Manager: Fabio Capello
+
+Attributes:
+Offensive Awareness: 86
+Ball Control: 91
+Dribbling: 93
+Tight Possession: 91
+Low Pass: 87
+Lofted Pass: 83
+Finishing: 90
+Heading: 63
+Place Kicking: 73
+Curl: 84
+Defensive Awareness: 63
+Defensive Engagement: 63
+Tackling: 62
+Aggression: 71
+Goalkeeping: 41
+Gk Catching: 41
+GK Parrying: 41
+GK Reflexes: 41
+GK Reach: 41
+Speed: 96
+Acceleration: 92
+Kicking Power: 93
+Jump: 82
+Balance: 91
+Stamina: 88
+Physical Contact: 87
+
+Skills:
+Scissors Feint
+Double Touch
+Cut Behind & Turn
+Sole Control
+Long Range Curler
+One Touch Pass
+Through Passing
+Pinpoint Crossing
+Acceleration Burst
+Magnetic Feet
+
+Biometrics:
+Height: 185
+Weight: 79
+Arm Length: 8
+Shoulder Width: 8
+Neck Length: 6
+Chest: 6
+Neck Size: 11
+Shoulder Height: 8
+Leg Length: 11
+Thigh Size: 9
+Waist Size: 5
+Arm Size: 6
+Calf Size: 6
+Leg Coverage Radius: 180.7
+Arm Coverage Radius: 169.2
+Jumping Height: 268.5
+Torso Collision: 51.8
+Leg Length Based Height: 189
+
+Com Skills:
+Incisive Run
+Long Ball Expert
+
+Other Stats:
+Weak Foot Usage: 3
+Weak Foot Accuracy: 3
+Form: 2
+Injury Resistance: 1

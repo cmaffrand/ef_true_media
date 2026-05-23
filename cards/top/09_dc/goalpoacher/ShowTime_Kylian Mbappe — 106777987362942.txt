@@ -1,0 +1,83 @@
+Name: Kylian Mbappe
+Position: CF
+Style: Goal Poacher
+
+Training:
+SHO: 6
+PAS: 3
+DRI: 11
+DEX: 8
+LBS: 10
+AER: 4
+Lv: 66
+Manager: Fabio Capello
+
+Attributes:
+Offensive Awareness: 92
+Ball Control: 95
+Dribbling: 99
+Tight Possession: 94
+Low Pass: 75
+Lofted Pass: 73
+Finishing: 92
+Heading: 61
+Place Kicking: 77
+Curl: 80
+Defensive Awareness: 45
+Defensive Engagement: 43
+Tackling: 45
+Aggression: 43
+Goalkeeping: 41
+Gk Catching: 41
+GK Parrying: 41
+GK Reflexes: 41
+GK Reach: 41
+Speed: 99
+Acceleration: 95
+Kicking Power: 93
+Jump: 69
+Balance: 90
+Stamina: 87
+Physical Contact: 82
+
+Skills:
+Scissors Feint
+Double Touch
+Chop Turn
+Long Range Curler
+Long Range Shooting
+First Time Shot
+Outside Curler
+Penalty Specialist
+Phenomenal Finishing
+Low Screamer
+
+Biometrics:
+Height: 178
+Weight: 75
+Arm Length: 12
+Shoulder Width: 5
+Neck Length: 4
+Chest: 6
+Neck Size: 7
+Shoulder Height: 11
+Leg Length: 14
+Thigh Size: 5
+Waist Size: 9
+Arm Size: 5
+Calf Size: 3
+Leg Coverage Radius: 175.5
+Arm Coverage Radius: 166.4
+Jumping Height: 252.4
+Torso Collision: 49.0
+Leg Length Based Height: 185
+
+Com Skills:
+Mazing Run
+Long Ball Expert
+
+Other Stats:
+Weak Foot Usage: 2
+Weak Foot Accuracy: 2
+Form: 2
+Injury Resistance: 1

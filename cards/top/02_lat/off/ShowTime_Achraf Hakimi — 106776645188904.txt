@@ -1,0 +1,85 @@
+Name: Achraf Hakimi
+Position: RB
+Style: Offensive Wingback
+
+Training:
+SHO: 8
+PAS: 7
+DRI: 7
+DEX: 8
+LBS: 8
+AER: 4
+DEF: 4
+Lv: 64
+Manager: Fabio Capello
+
+Attributes:
+Offensive Awareness: 78
+Ball Control: 84
+Dribbling: 87
+Tight Possession: 82
+Low Pass: 84
+Lofted Pass: 82
+Finishing: 80
+Heading: 69
+Place Kicking: 75
+Curl: 81
+Defensive Awareness: 80
+Defensive Engagement: 83
+Tackling: 82
+Aggression: 85
+Goalkeeping: 41
+Gk Catching: 41
+GK Parrying: 41
+GK Reflexes: 41
+GK Reach: 41
+Speed: 95
+Acceleration: 95
+Kicking Power: 87
+Jump: 76
+Balance: 83
+Stamina: 96
+Physical Contact: 90
+
+Skills:
+Pinpoint Crossing
+Long Throw
+Man Marking
+Interception
+Acrobatic Clearance
+Fighting Spirit
+Blocker
+Sliding Tackle
+Edged Crossing
+Acceleration Burst
+
+Biometrics:
+Height: 181
+Weight: 73
+Arm Length: 8
+Shoulder Width: 8
+Neck Length: 7
+Chest: 7
+Neck Size: 7
+Shoulder Height: 5
+Leg Length: 7
+Thigh Size: 7
+Waist Size: 6
+Arm Size: 6
+Calf Size: 9
+Leg Coverage Radius: 174.7
+Arm Coverage Radius: 165.6
+Jumping Height: 260.8
+Torso Collision: 50.7
+Leg Length Based Height: 181
+
+Com Skills:
+Incisive Run
+Long Ball Expert
+Early Crosser
+
+Other Stats:
+Weak Foot Usage: 2
+Weak Foot Accuracy: 2
+Form: 1
+Injury Resistance: 1

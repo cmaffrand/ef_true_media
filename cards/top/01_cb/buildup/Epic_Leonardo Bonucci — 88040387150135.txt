@@ -1,0 +1,82 @@
+Name: Leonardo Bonucci
+Position: CB
+Style: Build Up
+
+Training:
+DEX: 8
+LBS: 10
+AER: 9
+DEF: 7
+GK1: 1
+Lv: 56
+Manager: Fabio Capello
+
+Attributes:
+Offensive Awareness: 66
+Ball Control: 69
+Dribbling: 67
+Tight Possession: 67
+Low Pass: 77
+Lofted Pass: 76
+Finishing: 66
+Heading: 84
+Place Kicking: 54
+Curl: 63
+Defensive Awareness: 96
+Defensive Engagement: 94
+Tackling: 95
+Aggression: 93
+Goalkeeping: 42
+Gk Catching: 41
+GK Parrying: 41
+GK Reflexes: 41
+GK Reach: 41
+Speed: 90
+Acceleration: 82
+Kicking Power: 88
+Jump: 91
+Balance: 69
+Stamina: 87
+Physical Contact: 90
+
+Skills:
+Weighted Pass
+Man Marking
+Interception
+Acrobatic Clearance
+Fighting Spirit
+Blocker
+Aerial Superiority
+Sliding Tackle
+Fortress
+Aerial Fort
+
+Biometrics:
+Height: 190
+Weight: 82
+Arm Length: 5
+Shoulder Width: 8
+Neck Length: 6
+Chest: 3
+Neck Size: 5
+Shoulder Height: 8
+Leg Length: 7
+Thigh Size: 7
+Waist Size: 4
+Arm Size: 2
+Calf Size: 6
+Leg Coverage Radius: 183.4
+Arm Coverage Radius: 170.5
+Jumping Height: 279.4
+Torso Collision: 53.0
+Leg Length Based Height: 190
+
+Com Skills:
+Speeding Bullet
+Early Crosser
+
+Other Stats:
+Weak Foot Usage: 2
+Weak Foot Accuracy: 2
+Form: 2
+Injury Resistance: 1

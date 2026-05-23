@@ -98,14 +98,14 @@ Aerial Fort
 
 Body Measurements
 Leg Length
-11
+10
 Arm Length
-6
+4
 Waist Size
 6
 Chest
 6
 Shoulder Width
-7
+5
 Neck Length
-7
+8

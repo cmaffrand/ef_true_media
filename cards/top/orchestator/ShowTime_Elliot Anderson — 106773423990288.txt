@@ -1,0 +1,83 @@
+Name: Elliot Anderson
+Position: DMF
+Style: Orchestrator
+
+Training:
+SHO: 4
+PAS: 8
+DRI: 8
+DEX: 8
+LBS: 8
+AER: 4
+DEF: 8
+Lv: 68
+Manager: Fabio Capello
+
+Attributes:
+Offensive Awareness: 78
+Ball Control: 92
+Dribbling: 88
+Tight Possession: 90
+Low Pass: 92
+Lofted Pass: 90
+Finishing: 77
+Heading: 69
+Place Kicking: 74
+Curl: 81
+Defensive Awareness: 85
+Defensive Engagement: 90
+Tackling: 87
+Aggression: 89
+Goalkeeping: 41
+Gk Catching: 41
+GK Parrying: 41
+GK Reflexes: 41
+GK Reach: 41
+Speed: 90
+Acceleration: 91
+Kicking Power: 90
+Jump: 81
+Balance: 89
+Stamina: 95
+Physical Contact: 80
+
+Skills:
+Double Touch
+Sole Control
+One Touch Pass
+Through Passing
+Outside Curler
+Low Lofted Pass
+Interception
+Fighting Spirit
+Visionary Pass
+
+Biometrics:
+Height: 179
+Weight: 69
+Arm Length: 2
+Shoulder Width: 8
+Neck Length: 7
+Chest: 10
+Neck Size: 7
+Shoulder Height: 8
+Leg Length: 8
+Thigh Size: 11
+Waist Size: 7
+Arm Size: 4
+Calf Size: 11
+Leg Coverage Radius: 173.3
+Arm Coverage Radius: 157.6
+Jumping Height: 262.1
+Torso Collision: 50.5
+Leg Length Based Height: 180
+
+Com Skills:
+Mazing Run
+Early Crosser
+
+Other Stats:
+Weak Foot Usage: 2
+Weak Foot Accuracy: 2
+Form: 2
+Injury Resistance: 1

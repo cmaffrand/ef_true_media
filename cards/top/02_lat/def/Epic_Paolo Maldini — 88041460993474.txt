@@ -1,0 +1,81 @@
+Name: Paolo Maldini
+Position: LB
+Style: Defensive Full back
+
+Training:
+PAS: 1
+DRI: 3
+DEX: 8
+LBS: 8
+AER: 10
+DEF: 10
+Lv: 64
+Manager: Fabio Capello
+
+Attributes:
+Offensive Awareness: 80
+Ball Control: 82
+Dribbling: 80
+Tight Possession: 80
+Low Pass: 82
+Lofted Pass: 82
+Finishing: 62
+Heading: 90
+Place Kicking: 63
+Curl: 70
+Defensive Awareness: 98
+Defensive Engagement: 98
+Tackling: 98
+Aggression: 93
+Goalkeeping: 41
+Gk Catching: 41
+GK Parrying: 41
+GK Reflexes: 41
+GK Reach: 41
+Speed: 91
+Acceleration: 84
+Kicking Power: 84
+Jump: 95
+Balance: 80
+Stamina: 92
+Physical Contact: 91
+
+Skills:
+Weighted Pass
+Man Marking
+Interception
+Acrobatic Clearance
+Captaincy
+Fighting Spirit
+Blocker
+Sliding Tackle
+Long Reach Tackle
+
+Biometrics:
+Height: 186
+Weight: 85
+Arm Length: 7
+Shoulder Width: 7
+Neck Length: 4
+Chest: 6
+Neck Size: 7
+Shoulder Height: 9
+Leg Length: 10
+Thigh Size: 8
+Waist Size: 7
+Arm Size: 5
+Calf Size: 5
+Leg Coverage Radius: 181.2
+Arm Coverage Radius: 168.9
+Jumping Height: 277.5
+Torso Collision: 51.9
+Leg Length Based Height: 189
+
+Com Skills:
+Early Crosser
+
+Other Stats:
+Weak Foot Usage: 3
+Weak Foot Accuracy: 3
+Form: 2
+Injury Resistance: 2

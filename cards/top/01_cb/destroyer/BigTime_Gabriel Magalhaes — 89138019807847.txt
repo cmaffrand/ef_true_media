@@ -1,0 +1,81 @@
+Name: Gabriel Magalhaes
+Position: CB
+Style: Destroyer
+
+Training:
+DEX: 8
+LBS: 9
+AER: 8
+DEF: 8
+GK1: 1
+Lv: 52
+Manager: Fabio Capello
+
+Attributes:
+Offensive Awareness: 63
+Ball Control: 66
+Dribbling: 63
+Tight Possession: 64
+Low Pass: 72
+Lofted Pass: 71
+Finishing: 51
+Heading: 95
+Place Kicking: 61
+Curl: 58
+Defensive Awareness: 92
+Defensive Engagement: 91
+Tackling: 96
+Aggression: 96
+Goalkeeping: 42
+Gk Catching: 41
+GK Parrying: 41
+GK Reflexes: 41
+GK Reach: 41
+Speed: 90
+Acceleration: 83
+Kicking Power: 79
+Jump: 96
+Balance: 68
+Stamina: 88
+Physical Contact: 93
+
+Skills:
+Heading
+Man Marking
+Interception
+Acrobatic Clearance
+Fighting Spirit
+Blocker
+Aerial Superiority
+Sliding Tackle
+Long Reach Tackle
+Aerial Fort
+
+Biometrics:
+Height: 190
+Weight: 87
+Arm Length: 5
+Shoulder Width: 7
+Neck Length: 6
+Chest: 7
+Neck Size: 7
+Shoulder Height: 4
+Leg Length: 7
+Thigh Size: 8
+Waist Size: 7
+Arm Size: 6
+Calf Size: 8
+Leg Coverage Radius: 183.4
+Arm Coverage Radius: 170.3
+Jumping Height: 282.7
+Torso Collision: 53.0
+Leg Length Based Height: 190
+
+Com Skills:
+Early Crosser
+
+Other Stats:
+Weak Foot Usage: 0
+Weak Foot Accuracy: 1
+Form: 2
+Injury Resistance: 2

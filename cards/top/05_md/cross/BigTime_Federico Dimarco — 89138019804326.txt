@@ -1,0 +1,85 @@
+Name: Federico Dimarco
+Position: LMF
+Style: Cross Specialist
+
+Training:
+SHO: 4
+PAS: 5
+DRI: 11
+DEX: 8
+LBS: 10
+AER: 3
+Lv: 64
+Manager: Fabio Capello
+
+Attributes:
+Offensive Awareness: 80
+Ball Control: 90
+Dribbling: 90
+Tight Possession: 90
+Low Pass: 90
+Lofted Pass: 94
+Finishing: 80
+Heading: 65
+Place Kicking: 89
+Curl: 93
+Defensive Awareness: 67
+Defensive Engagement: 70
+Tackling: 68
+Aggression: 73
+Goalkeeping: 41
+Gk Catching: 41
+GK Parrying: 41
+GK Reflexes: 41
+GK Reach: 41
+Speed: 92
+Acceleration: 90
+Kicking Power: 95
+Jump: 71
+Balance: 88
+Stamina: 94
+Physical Contact: 80
+
+Skills:
+Long Range Shooting
+First Time Shot
+One Touch Pass
+Through Passing
+Weighted Pass
+Pinpoint Crossing
+Outside Curler
+Track Back
+Super Sub
+Phenomenal Pass
+Edged Crossing
+
+Biometrics:
+Height: 175
+Weight: 75
+Arm Length: 5
+Shoulder Width: 9
+Neck Length: 5
+Chest: 6
+Neck Size: 7
+Shoulder Height: 7
+Leg Length: 7
+Thigh Size: 8
+Waist Size: 7
+Arm Size: 8
+Calf Size: 8
+Leg Coverage Radius: 168.9
+Arm Coverage Radius: 157.2
+Jumping Height: 251.0
+Torso Collision: 49.4
+Leg Length Based Height: 175
+
+Com Skills:
+Trickster
+Mazing Run
+Incisive Run
+
+Other Stats:
+Weak Foot Usage: 1
+Weak Foot Accuracy: 2
+Form: 2
+Injury Resistance: 1

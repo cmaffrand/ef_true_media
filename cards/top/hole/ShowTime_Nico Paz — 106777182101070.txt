@@ -1,0 +1,81 @@
+Name: Nico Paz
+Position: AMF
+Style: Hole Player
+
+Training:
+SHO: 9
+PAS: 5
+DRI: 6
+DEX: 10
+LBS: 11
+Lv: 68
+Manager: Fabio Capello
+
+Attributes:
+Offensive Awareness: 91
+Ball Control: 92
+Dribbling: 90
+Tight Possession: 91
+Low Pass: 90
+Lofted Pass: 83
+Finishing: 90
+Heading: 63
+Place Kicking: 83
+Curl: 87
+Defensive Awareness: 61
+Defensive Engagement: 64
+Tackling: 65
+Aggression: 68
+Goalkeeping: 41
+Gk Catching: 41
+GK Parrying: 41
+GK Reflexes: 41
+GK Reach: 41
+Speed: 91
+Acceleration: 91
+Kicking Power: 92
+Jump: 67
+Balance: 87
+Stamina: 89
+Physical Contact: 77
+
+Skills:
+Double Touch
+Flip Flap
+Marseille Turn
+Sole Control
+Long Range Curler
+Long Range Shooting
+One Touch Pass
+Through Passing
+Phenomenal Pass
+Visionary Pass
+
+Biometrics:
+Height: 186
+Weight: 81
+Arm Length: 7
+Shoulder Width: 7
+Neck Length: 7
+Chest: 6
+Neck Size: 9
+Shoulder Height: 8
+Leg Length: 7
+Thigh Size: 7
+Waist Size: 6
+Arm Size: 7
+Calf Size: 7
+Leg Coverage Radius: 179.5
+Arm Coverage Radius: 168.9
+Jumping Height: 259.8
+Torso Collision: 51.8
+Leg Length Based Height: 186
+
+Com Skills:
+Incisive Run
+
+Other Stats:
+Weak Foot Usage: 2
+Weak Foot Accuracy: 2
+Form: 1
+Injury Resistance: 1

@@ -1,0 +1,82 @@
+Name: Martin Odegaard
+Position: CMF
+Style: Orchestrator
+
+Training:
+SHO: 4
+PAS: 6
+DRI: 9
+DEX: 8
+LBS: 10
+AER: 1
+DEF: 5
+Lv: 64
+Manager: Fabio Capello
+
+Attributes:
+Offensive Awareness: 85
+Ball Control: 99
+Dribbling: 90
+Tight Possession: 93
+Low Pass: 91
+Lofted Pass: 87
+Finishing: 80
+Heading: 56
+Place Kicking: 87
+Curl: 90
+Defensive Awareness: 70
+Defensive Engagement: 74
+Tackling: 72
+Aggression: 73
+Goalkeeping: 41
+Gk Catching: 41
+GK Parrying: 41
+GK Reflexes: 41
+GK Reach: 41
+Speed: 90
+Acceleration: 91
+Kicking Power: 92
+Jump: 60
+Balance: 90
+Stamina: 96
+Physical Contact: 72
+
+Skills:
+Double Touch
+Long Range Curler
+Long Range Shooting
+One Touch Pass
+Through Passing
+Weighted Pass
+Pinpoint Crossing
+Captaincy
+Phenomenal Pass
+
+Biometrics:
+Height: 178
+Weight: 69
+Arm Length: 7
+Shoulder Width: 7
+Neck Length: 6
+Chest: 5
+Neck Size: 10
+Shoulder Height: 7
+Leg Length: 9
+Thigh Size: 7
+Waist Size: 5
+Arm Size: 6
+Calf Size: 7
+Leg Coverage Radius: 172.8
+Arm Coverage Radius: 161.6
+Jumping Height: 246.9
+Torso Collision: 49.5
+Leg Length Based Height: 180
+
+Com Skills:
+—
+
+Other Stats:
+Weak Foot Usage: 0
+Weak Foot Accuracy: 1
+Form: 2
+Injury Resistance: 1

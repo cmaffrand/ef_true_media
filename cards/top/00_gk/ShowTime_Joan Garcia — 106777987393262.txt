@@ -1,0 +1,79 @@
+Name: Joan Garcia
+Position: GK
+Style: Offensive Goalkeeper
+
+Training:
+AER: 1
+GK1: 8
+GK2: 12
+GK3: 11
+Lv: 58
+Manager: Fabio Capello
+
+Attributes:
+Offensive Awareness: 43
+Ball Control: 59
+Dribbling: 45
+Tight Possession: 51
+Low Pass: 65
+Lofted Pass: 66
+Finishing: 44
+Heading: 49
+Place Kicking: 59
+Curl: 56
+Defensive Awareness: 52
+Defensive Engagement: 62
+Tackling: 49
+Aggression: 49
+Goalkeeping: 99
+Gk Catching: 95
+GK Parrying: 96
+GK Reflexes: 101
+GK Reach: 98
+Speed: 58
+Acceleration: 60
+Kicking Power: 70
+Jump: 74
+Balance: 54
+Stamina: 58
+Physical Contact: 63
+
+Skills:
+One Touch Pass
+Weighted Pass
+Low Lofted Pass
+Gk Low Punt
+GK High Punt
+GK Long Throw
+GK Penalty Saver
+Visionary Pass
+GK Direct Defending
+
+Biometrics:
+Height: 191
+Weight: 77
+Arm Length: 7
+Shoulder Width: 4
+Neck Length: 7
+Chest: 6
+Neck Size: 7
+Shoulder Height: 3
+Leg Length: 10
+Thigh Size: 6
+Waist Size: 6
+Arm Size: 7
+Calf Size: 6
+Leg Coverage Radius: 186.0
+Arm Coverage Radius: 172.9
+Jumping Height: 269.4
+Torso Collision: 52.2
+Leg Length Based Height: 194
+
+Com Skills:
+—
+
+Other Stats:
+Weak Foot Usage: 1
+Weak Foot Accuracy: 1
+Form: 2
+Injury Resistance: 1

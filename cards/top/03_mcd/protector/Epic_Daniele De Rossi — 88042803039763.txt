@@ -1,0 +1,81 @@
+Name: Daniele De Rossi
+Position: DMF
+Style: Anchor Man
+
+Training:
+PAS: 6
+DRI: 7
+DEX: 8
+LBS: 8
+AER: 6
+DEF: 10
+Lv: 68
+Manager: Fabio Capello
+
+Attributes:
+Offensive Awareness: 69
+Ball Control: 83
+Dribbling: 80
+Tight Possession: 82
+Low Pass: 91
+Lofted Pass: 87
+Finishing: 67
+Heading: 82
+Place Kicking: 70
+Curl: 72
+Defensive Awareness: 93
+Defensive Engagement: 95
+Tackling: 93
+Aggression: 97
+Goalkeeping: 41
+Gk Catching: 41
+GK Parrying: 41
+GK Reflexes: 41
+GK Reach: 41
+Speed: 88
+Acceleration: 85
+Kicking Power: 91
+Jump: 83
+Balance: 76
+Stamina: 92
+Physical Contact: 87
+
+Skills:
+One Touch Pass
+Weighted Pass
+Man Marking
+Interception
+Acrobatic Clearance
+Blocker
+Aerial Superiority
+Sliding Tackle
+Phenomenal Pass
+
+Biometrics:
+Height: 184
+Weight: 83
+Arm Length: 7
+Shoulder Width: 6
+Neck Length: 6
+Chest: 5
+Neck Size: 10
+Shoulder Height: 5
+Leg Length: 7
+Thigh Size: 9
+Waist Size: 7
+Arm Size: 9
+Calf Size: 8
+Leg Coverage Radius: 177.6
+Arm Coverage Radius: 166.9
+Jumping Height: 268.1
+Torso Collision: 51.0
+Leg Length Based Height: 184
+
+Com Skills:
+—
+
+Other Stats:
+Weak Foot Usage: 2
+Weak Foot Accuracy: 2
+Form: 1
+Injury Resistance: 2

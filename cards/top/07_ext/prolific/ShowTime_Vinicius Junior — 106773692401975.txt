@@ -1,0 +1,83 @@
+Name: Vinicius Junior
+Position: LWF
+Style: Prolific Winger
+
+Training:
+SHO: 7
+PAS: 3
+DRI: 8
+DEX: 9
+LBS: 12
+AER: 4
+Lv: 68
+Manager: Fabio Capello
+
+Attributes:
+Offensive Awareness: 91
+Ball Control: 93
+Dribbling: 96
+Tight Possession: 96
+Low Pass: 77
+Lofted Pass: 75
+Finishing: 90
+Heading: 53
+Place Kicking: 68
+Curl: 90
+Defensive Awareness: 43
+Defensive Engagement: 45
+Tackling: 43
+Aggression: 45
+Goalkeeping: 41
+Gk Catching: 41
+GK Parrying: 41
+GK Reflexes: 41
+GK Reach: 41
+Speed: 99
+Acceleration: 97
+Kicking Power: 95
+Jump: 63
+Balance: 97
+Stamina: 87
+Physical Contact: 75
+
+Skills:
+Double Touch
+Flip Flap
+Sole Control
+Long Range Curler
+Long Range Shooting
+First Time Shot
+Through Passing
+Outside Curler
+Momentum Dribbling
+Blitz Curler
+
+Biometrics:
+Height: 176
+Weight: 73
+Arm Length: 2
+Shoulder Width: 5
+Neck Length: 9
+Chest: 5
+Neck Size: 12
+Shoulder Height: 9
+Leg Length: 6
+Thigh Size: 7
+Waist Size: 5
+Arm Size: 7
+Calf Size: 6
+Leg Coverage Radius: 169.3
+Arm Coverage Radius: 154.4
+Jumping Height: 247.7
+Torso Collision: 48.4
+Leg Length Based Height: 175
+
+Com Skills:
+Mazing Run
+Long Ball Expert
+
+Other Stats:
+Weak Foot Usage: 0
+Weak Foot Accuracy: 1
+Form: 2
+Injury Resistance: 1
