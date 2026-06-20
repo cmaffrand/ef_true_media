@@ -1,0 +1,82 @@
+Name: Roberto Baggio
+Position: SS
+Style: Classic No. 10
+
+Training:
+SHO: 9
+PAS: 4
+DRI: 8
+DEX: 8
+LBS: 10
+AER: 1
+Lv: 62
+Manager: Fabio Capello
+
+Attributes:
+Offensive Awareness: 91
+Ball Control: 94
+Dribbling: 97
+Tight Possession: 95
+Low Pass: 90
+Lofted Pass: 80
+Finishing: 91
+Heading: 58
+Place Kicking: 79
+Curl: 87
+Defensive Awareness: 45
+Defensive Engagement: 44
+Tackling: 43
+Aggression: 43
+Goalkeeping: 41
+Gk Catching: 41
+GK Parrying: 41
+GK Reflexes: 41
+GK Reach: 41
+Speed: 93
+Acceleration: 95
+Kicking Power: 94
+Jump: 55
+Balance: 94
+Stamina: 84
+Physical Contact: 77
+
+Skills:
+Long Range Shooting
+Through Passing
+Double Touch
+Sole Control
+Long Range Curler
+First Time Shot
+One Touch Pass
+Outside Curler
+Momentum Dribbling
+Magnetic Feet
+
+Biometrics:
+Height: 174
+Weight: 73
+Arm Length: 5
+Shoulder Width: 11
+Neck Length: 4
+Chest: 6
+Neck Size: 9
+Shoulder Height: 8
+Leg Length: 9
+Thigh Size: 6
+Waist Size: 8
+Arm Size: 6
+Calf Size: 4
+Leg Coverage Radius: 169.0
+Arm Coverage Radius: 156.7
+Jumping Height: 239.2
+Torso Collision: 49.6
+Leg Length Based Height: 176
+
+Com Skills:
+Mazing Run
+
+Other Stats:
+Weak Foot Usage: 2
+Weak Foot Accuracy: 3
+Form: 2
+Injury Resistance: 1

@@ -1,0 +1,84 @@
+Name: Andrea Pirlo
+Position: DMF
+Style: Orchestrator
+
+Training:
+SHO: 3
+PAS: 4
+DRI: 5
+DEX: 9
+LBS: 11
+AER: 4
+DEF: 9
+Lv: 68
+Manager: Fabio Capello
+
+Attributes:
+Offensive Awareness: 80
+Ball Control: 90
+Dribbling: 87
+Tight Possession: 93
+Low Pass: 95
+Lofted Pass: 92
+Finishing: 74
+Heading: 65
+Place Kicking: 92
+Curl: 92
+Defensive Awareness: 93
+Defensive Engagement: 90
+Tackling: 91
+Aggression: 88
+Goalkeeping: 41
+Gk Catching: 41
+GK Parrying: 41
+GK Reflexes: 41
+GK Reach: 41
+Speed: 88
+Acceleration: 89
+Kicking Power: 93
+Jump: 62
+Balance: 88
+Stamina: 95
+Physical Contact: 80
+
+Skills:
+Through Passing
+Pinpoint Crossing
+One Touch Pass
+Weighted Pass
+Outside Curler
+Low Lofted Pass
+Interception
+Blocker
+Visionary Pass
+
+Biometrics:
+Height: 177
+Weight: 68
+Arm Length: 5
+Shoulder Width: 7
+Neck Length: 7
+Chest: 4
+Neck Size: 5
+Shoulder Height: 2
+Leg Length: 5
+Thigh Size: 8
+Waist Size: 5
+Arm Size: 6
+Calf Size: 11
+Leg Coverage Radius: 169.7
+Arm Coverage Radius: 158.7
+Jumping Height: 247.5
+Torso Collision: 49.2
+Leg Length Based Height: 175
+
+Com Skills:
+Trickster
+Mazing Run
+Incisive Run
+
+Other Stats:
+Weak Foot Usage: 2
+Weak Foot Accuracy: 3
+Form: 2
+Injury Resistance: 1

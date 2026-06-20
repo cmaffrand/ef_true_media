@@ -94,3 +94,17 @@ Fighting Spirit
 Aerial Superiority
 Blocker
 Visionary Pass
+
+Body Measurements
+Leg Length
+8
+Arm Length
+8
+Waist Size
+5
+Chest
+5
+Shoulder Width
+9
+Neck Length
+8

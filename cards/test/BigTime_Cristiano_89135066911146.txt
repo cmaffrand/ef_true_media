@@ -1,0 +1,112 @@
+Cristiano Ronaldo
+Goal Poacher
+Height
+187cm
+Weight
+84kg
+Age
+40
+Foot
+
+B
+
+
+
+
+Striker's Instinct +3
+
+Off the Ball +1
+
+0
+Condition History
+Arrow Probabilities (%)
+527888887988949496101101103106
+
+CF
+0/62
+Level Cap 
+32
+
+Shooting
+8
+
+Passing
+0
+
+Dribbling
+8
+
+Dexterity
+10
+
+Lower Body Strength
+8
+
+Aerial Strength
+6
+
+Defending
+
+GK 1
+
+GK 2
+
+GK 3
+Attacking
+Offensive Awareness	●	94
+Ball Control	●	87
+Dribbling		87
+Tight Possession		84
+Low Pass		70
+Lofted Pass		63
+Finishing	●	93
+Heading		93
+Place Kicking		84
+Curl		83
+Defending
+Defensive Awareness	●	43
+Defensive Engagement		43
+Tackling		43
+Aggression		44
+Goalkeeping		41
+Gk Catching		41
+GK Parrying		41
+GK Reflexes		41
+GK Reach		41
+athleticism
+Speed	●	92
+Acceleration	●	92
+Kicking Power		95
+Jump		93
+Physical Contact		87
+Balance		81
+Stamina	●	84
+Weak Foot Usage		2
+Weak Foot Acc		3
+Form		1
+Injury Resistance		2
+Skills
+Heading
+Long Range Curler
+Long Range Shooting
+Acrobatic Finishing
+First Time Shot
+Captaincy
+Fighting Spirit
+Aerial Superiority
+Phenomenal Finishing
+Bullet Header
+
+Body Measurements
+Leg Length
+9
+Arm Length
+1
+Waist Size
+4
+Chest
+6
+Shoulder Width
+9
+Neck Length
+7

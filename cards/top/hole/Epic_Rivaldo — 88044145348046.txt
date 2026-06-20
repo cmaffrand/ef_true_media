@@ -1,0 +1,84 @@
+Name: Rivaldo
+Position: AMF
+Style: Hole Player
+
+Training:
+SHO: 8
+PAS: 6
+DRI: 4
+DEX: 10
+LBS: 10
+AER: 4
+Lv: 64
+Manager: Fabio Capello
+
+Attributes:
+Offensive Awareness: 90
+Ball Control: 93
+Dribbling: 90
+Tight Possession: 92
+Low Pass: 87
+Lofted Pass: 82
+Finishing: 93
+Heading: 68
+Place Kicking: 91
+Curl: 87
+Defensive Awareness: 48
+Defensive Engagement: 48
+Tackling: 52
+Aggression: 58
+Goalkeeping: 41
+Gk Catching: 41
+GK Parrying: 41
+GK Reflexes: 41
+GK Reach: 41
+Speed: 90
+Acceleration: 90
+Kicking Power: 96
+Jump: 76
+Balance: 84
+Stamina: 88
+Physical Contact: 91
+
+Skills:
+Skill FX
+Long Range Shooting
+Scissors Feint
+Flip Flap
+Marseille Turn
+Sole Control
+Long Range Curler
+First Time Shot
+Outside Curler
+Low Screamer
+Magnetic Feet
+
+Biometrics:
+Height: 186
+Weight: 75
+Arm Length: 7
+Shoulder Width: 8
+Neck Length: 7
+Chest: 5
+Neck Size: 7
+Shoulder Height: 6
+Leg Length: 14
+Thigh Size: 3
+Waist Size: 2
+Arm Size: 3
+Calf Size: 2
+Leg Coverage Radius: 183.4
+Arm Coverage Radius: 169.1
+Jumping Height: 265.8
+Torso Collision: 51.7
+Leg Length Based Height: 193
+
+Com Skills:
+Mazing Run
+Incisive Run
+
+Other Stats:
+Weak Foot Usage: 1
+Weak Foot Accuracy: 2
+Form: 2
+Injury Resistance: 1

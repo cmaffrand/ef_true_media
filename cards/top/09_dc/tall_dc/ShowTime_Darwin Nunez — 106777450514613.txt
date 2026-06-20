@@ -1,0 +1,86 @@
+Name: Darwin Nunez
+Position: CF
+Style: Goal Poacher
+
+Training:
+SHO: 9
+PAS: 1
+DRI: 3
+DEX: 11
+LBS: 7
+AER: 9
+GK1: 3
+Lv: 68
+Manager: Fabio Capello
+
+Attributes:
+Offensive Awareness: 90
+Ball Control: 80
+Dribbling: 81
+Tight Possession: 77
+Low Pass: 70
+Lofted Pass: 68
+Finishing: 90
+Heading: 90
+Place Kicking: 71
+Curl: 83
+Defensive Awareness: 54
+Defensive Engagement: 62
+Tackling: 53
+Aggression: 76
+Goalkeeping: 44
+Gk Catching: 41
+GK Parrying: 41
+GK Reflexes: 41
+GK Reach: 41
+Speed: 92
+Acceleration: 92
+Kicking Power: 90
+Jump: 94
+Balance: 76
+Stamina: 87
+Physical Contact: 91
+
+Skills:
+Double Touch
+Heading
+Long Range Curler
+Long Range Shooting
+Dipping Shot
+First Time Shot
+Outside Curler
+Fighting Spirit
+Aerial Superiority
+Bullet Header
+
+Biometrics:
+Height: 187
+Weight: 81
+Arm Length: 6
+Shoulder Width: 7
+Neck Length: 5
+Chest: 6
+Neck Size: 7
+Shoulder Height: 9
+Leg Length: 7
+Thigh Size: 7
+Waist Size: 7
+Arm Size: 7
+Calf Size: 7
+Leg Coverage Radius: 180.5
+Arm Coverage Radius: 168.7
+Jumping Height: 278.1
+Torso Collision: 52.1
+Leg Length Based Height: 187
+
+Com Skills:
+Mazing Run
+Incisive Run
+Long Ball Expert
+Early Crosser
+
+Other Stats:
+Weak Foot Usage: 1
+Weak Foot Accuracy: 2
+Form: 1
+Injury Resistance: 1

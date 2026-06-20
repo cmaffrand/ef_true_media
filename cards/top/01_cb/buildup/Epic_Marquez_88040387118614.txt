@@ -1,11 +1,11 @@
-Virgil van Dijk
+Rafael Márquez
 Build Up
 Height
-193cm
+184cm
 Weight
-92kg
+75kg
 Age
-33
+26
 Foot
 
 B
@@ -20,24 +20,27 @@ Shutdown +1
 0
 Condition History
 Arrow Probabilities (%)
-521049191938178787277777378
+531059898988987878083837779
 
 CB
-0/52
+0/56
 Level Cap 
-27
+29
 
 Shooting
+0
 
 Passing
+0
 
 Dribbling
+0
 
 Dexterity
-7
+6
 
 Lower Body Strength
-8
+9
 
 Aerial Strength
 8
@@ -46,66 +49,68 @@ Defending
 10
 
 GK 1
-0
+3
 
 GK 2
+0
 
 GK 3
+0
 Attacking
-Offensive Awareness		56
-Ball Control		61
-Dribbling		55
-Tight Possession		55
-Low Pass		62
-Lofted Pass		62
-Finishing	●	64
-Heading		85
-Place Kicking		51
-Curl		52
+Offensive Awareness		54
+Ball Control		70
+Dribbling		66
+Tight Possession		68
+Low Pass		72
+Lofted Pass		73
+Finishing	●	53
+Heading		80
+Place Kicking		66
+Curl		64
 Defending
-Defensive Awareness	●	97
-Defensive Engagement	●	95
+Defensive Awareness	●	95
+Defensive Engagement	●	97
 Tackling	●	95
 Aggression	●	95
-Goalkeeping		41
+Goalkeeping		44
 Gk Catching		41
 GK Parrying		41
 GK Reflexes		41
 GK Reach		41
 athleticism
-Speed	●	89
-Acceleration	●	82
-Kicking Power		75
-Jump		91
-Physical Contact	●	96
-Balance		72
-Stamina		85
+Speed	●	90
+Acceleration	●	90
+Kicking Power		85
+Jump		94
+Physical Contact	●	92
+Balance		75
+Stamina		91
 Weak Foot Usage		2
 Weak Foot Acc		2
 Form		2
-Injury Resistance		0
+Injury Resistance		1
 Skills
 Heading
+One Touch Pass
+Through Passing
+Weighted Pass
 Man Marking
 Interception
-Acrobatic Clearance
-Captaincy
-Fighting Spirit
 Aerial Superiority
 Blocker
 Sliding Tackle
-Long Reach Tackle
+Fortress
 
 Body Measurements
 Leg Length
-11
-Arm Length
 7
+Arm Length
+6
 Waist Size
-4
+5
 Chest
 5
 Shoulder Width
-7
+5
 Neck Length
-7
+8

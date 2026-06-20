@@ -1,0 +1,83 @@
+Name: K. Kvaratskhelia
+Position: LWF
+Style: Prolific Winger
+
+Training:
+SHO: 7
+PAS: 4
+DRI: 10
+DEX: 9
+LBS: 11
+Lv: 68
+Manager: Fabio Capello
+
+Attributes:
+Offensive Awareness: 90
+Ball Control: 95
+Dribbling: 96
+Tight Possession: 93
+Low Pass: 78
+Lofted Pass: 75
+Finishing: 91
+Heading: 59
+Place Kicking: 73
+Curl: 87
+Defensive Awareness: 52
+Defensive Engagement: 60
+Tackling: 53
+Aggression: 61
+Goalkeeping: 41
+Gk Catching: 41
+GK Parrying: 41
+GK Reflexes: 41
+GK Reach: 41
+Speed: 97
+Acceleration: 94
+Kicking Power: 97
+Jump: 62
+Balance: 92
+Stamina: 88
+Physical Contact: 80
+
+Skills:
+Double Touch
+Marseille Turn
+Cut Behind & Turn
+Sole Control
+Long Range Curler
+Long Range Shooting
+First Time Shot
+Outside Curler
+Momentum Dribbling
+Acceleration Burst
+
+Biometrics:
+Height: 183
+Weight: 76
+Arm Length: 10
+Shoulder Width: 10
+Neck Length: 5
+Chest: 9
+Neck Size: 7
+Shoulder Height: 10
+Leg Length: 11
+Thigh Size: 11
+Waist Size: 10
+Arm Size: 9
+Calf Size: 6
+Leg Coverage Radius: 178.8
+Arm Coverage Radius: 169.9
+Jumping Height: 253.0
+Torso Collision: 52.3
+Leg Length Based Height: 187
+
+Com Skills:
+Mazing Run
+Incisive Run
+Long Ball Expert
+
+Other Stats:
+Weak Foot Usage: 3
+Weak Foot Accuracy: 3
+Form: 2
+Injury Resistance: 1

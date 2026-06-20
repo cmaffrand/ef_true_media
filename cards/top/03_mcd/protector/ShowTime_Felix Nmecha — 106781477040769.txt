@@ -1,0 +1,82 @@
+Name: Felix Nmecha
+Position: DMF
+Style: Anchor Man
+
+Training:
+PAS: 5
+DRI: 5
+DEX: 8
+LBS: 8
+AER: 7
+DEF: 10
+Lv: 64
+Manager: Fabio Capello
+
+Attributes:
+Offensive Awareness: 72
+Ball Control: 88
+Dribbling: 87
+Tight Possession: 92
+Low Pass: 87
+Lofted Pass: 81
+Finishing: 77
+Heading: 76
+Place Kicking: 60
+Curl: 70
+Defensive Awareness: 94
+Defensive Engagement: 90
+Tackling: 92
+Aggression: 89
+Goalkeeping: 41
+Gk Catching: 41
+GK Parrying: 41
+GK Reflexes: 41
+GK Reach: 41
+Speed: 90
+Acceleration: 87
+Kicking Power: 90
+Jump: 76
+Balance: 78
+Stamina: 90
+Physical Contact: 90
+
+Skills:
+Long Range Shooting
+Through Passing
+Cut Behind & Turn
+Long Range Curler
+First Time Shot
+One Touch Pass
+Gamesmanship
+Blocker
+Aerial Superiority
+Long Reach Tackle
+
+Biometrics:
+Height: 190
+Weight: 73
+Arm Length: 7
+Shoulder Width: 8
+Neck Length: 7
+Chest: 6
+Neck Size: 7
+Shoulder Height: 4
+Leg Length: 11
+Thigh Size: 6
+Waist Size: 5
+Arm Size: 8
+Calf Size: 6
+Leg Coverage Radius: 185.6
+Arm Coverage Radius: 172.7
+Jumping Height: 269.8
+Torso Collision: 53.1
+Leg Length Based Height: 194
+
+Com Skills:
+Incisive Run
+
+Other Stats:
+Weak Foot Usage: 1
+Weak Foot Accuracy: 1
+Form: 1
+Injury Resistance: 0

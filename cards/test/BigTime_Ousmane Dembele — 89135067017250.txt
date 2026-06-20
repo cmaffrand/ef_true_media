@@ -1,0 +1,87 @@
+Name: Ousmane Dembele
+Position: CF
+Style: Goal Poacher
+
+Training:
+SHO: 8
+PAS: 4
+DRI: 9
+DEX: 10
+LBS: 9
+AER: 2
+DEF: 0
+GK1: 0
+GK2: 0
+GK3: 0
+Lv: 66
+Manager: Fabio Capello
+
+Attributes:
+Offensive Awareness: 83
+Ball Control: 92
+Dribbling: 95
+Tight Possession: 90
+Low Pass: 81
+Lofted Pass: 80
+Finishing: 92
+Heading: 67
+Place Kicking: 79
+Curl: 87
+Defensive Awareness: 47
+Defensive Engagement: 55
+Tackling: 45
+Aggression: 67
+Goalkeeping: 41
+Gk Catching: 41
+GK Parrying: 41
+GK Reflexes: 41
+GK Reach: 41
+Speed: 98
+Acceleration: 97
+Kicking Power: 90
+Jump: 71
+Balance: 98
+Stamina: 91
+Physical Contact: 66
+
+Skills:
+Double Touch
+Chop Turn
+Cut Behind & Turn
+Sole Control
+Long Range Curler
+Dipping Shot
+First Time Shot
+Through Passing
+Pinpoint Crossing
+Acceleration Burst
+
+Biometrics:
+Height: 178
+Weight: 67
+Arm Length: 8
+Shoulder Width: 9
+Neck Length: 6
+Chest: 3
+Neck Size: 7
+Shoulder Height: 9
+Leg Length: 13
+Thigh Size: 5
+Waist Size: 3
+Arm Size: 3
+Calf Size: 6
+Leg Coverage Radius: 175.0
+Arm Coverage Radius: 163.0
+Jumping Height: 254.2
+Torso Collision: 49.8
+Leg Length Based Height: 184
+
+Com Skills:
+Trickster
+Long Ball Expert
+
+Other Stats:
+Weak Foot Usage: 3
+Weak Foot Accuracy: 3
+Form: 1
+Injury Resistance: 1

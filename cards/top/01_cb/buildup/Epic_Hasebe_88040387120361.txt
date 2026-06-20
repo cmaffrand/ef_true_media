@@ -1,11 +1,11 @@
-Rafael Márquez
+Makoto Hasebe
 Build Up
 Height
-184cm
+180cm
 Weight
-75kg
+72kg
 Age
-35
+33
 Foot
 
 B
@@ -13,19 +13,19 @@ B
 
 
 
-Rebuilding +3
+Shutdown +3
 
-Agility +1
+Shutdown +1
 
 0
 Condition History
 Arrow Probabilities (%)
-511009393958683837879797677
+531051011011039895959192928887
 
 CB
-0/52
+0/56
 Level Cap 
-27
+29
 
 Shooting
 
@@ -34,10 +34,10 @@ Passing
 Dribbling
 
 Dexterity
-5
+4
 
 Lower Body Strength
-8
+9
 
 Aerial Strength
 10
@@ -46,66 +46,66 @@ Defending
 9
 
 GK 1
-1
+4
 
 GK 2
 
 GK 3
 Attacking
-Offensive Awareness		59
-Ball Control		69
-Dribbling		62
-Tight Possession		64
-Low Pass	●	73
-Lofted Pass		72
-Finishing	●	56
-Heading		87
-Place Kicking		72
-Curl		67
+Offensive Awareness		69
+Ball Control		81
+Dribbling		78
+Tight Possession		84
+Low Pass		82
+Lofted Pass		80
+Finishing	●	63
+Heading		83
+Place Kicking		66
+Curl		70
 Defending
-Defensive Awareness	●	93
-Defensive Engagement	●	96
-Tackling		90
-Aggression	●	94
-Goalkeeping		42
+Defensive Awareness	●	97
+Defensive Engagement	●	94
+Tackling	●	95
+Aggression		90
+Goalkeeping		45
 Gk Catching		41
 GK Parrying		41
 GK Reflexes		41
 GK Reach		41
 athleticism
-Speed	●	85
-Acceleration	●	79
+Speed	●	88
+Acceleration		82
 Kicking Power		85
-Jump		88
-Physical Contact		87
-Balance	●	68
-Stamina	●	89
+Jump		92
+Physical Contact		90
+Balance		77
+Stamina		94
 Weak Foot Usage		2
 Weak Foot Acc		2
 Form		2
 Injury Resistance		1
 Skills
-Heading
 One Touch Pass
-Weighted Pass
+Through Passing
 Man Marking
 Interception
 Captaincy
 Fighting Spirit
 Blocker
 Sliding Tackle
-Long Reach Tackle
+Fortress
+Visionary Pass
 
 Body Measurements
 Leg Length
-7
+4
 Arm Length
-6
+5
 Waist Size
 5
 Chest
-5
+4
 Shoulder Width
-5
-Neck Length
 8
+Neck Length
+5

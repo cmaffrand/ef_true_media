@@ -1,0 +1,112 @@
+Kylian Mbappé
+Goal Poacher
+Height
+178cm
+Weight
+75kg
+Age
+27
+Foot
+
+A
+
+
+
+
+Striker's Instinct +3
+
+Free-kick Taking +1
+
+0
+Condition History
+Arrow Probabilities (%)
+477591918093102102102106106106105
+
+CF
+0/66
+Level Cap 
+34
+
+Shooting
+9
+
+Passing
+6
+
+Dribbling
+9
+
+Dexterity
+8
+
+Lower Body Strength
+8
+
+Aerial Strength
+4
+
+Defending
+
+GK 1
+
+GK 2
+
+GK 3
+Attacking
+Offensive Awareness	●	91
+Ball Control	●	94
+Dribbling		95
+Tight Possession		90
+Low Pass		80
+Lofted Pass		76
+Finishing	●	97
+Heading		61
+Place Kicking	●	77
+Curl	●	88
+Defending
+Defensive Awareness	●	45
+Defensive Engagement		44
+Tackling		45
+Aggression		46
+Goalkeeping		41
+Gk Catching		41
+GK Parrying		41
+GK Reflexes		41
+GK Reach		41
+athleticism
+Speed		96
+Acceleration	●	96
+Kicking Power	●	91
+Jump		69
+Physical Contact		80
+Balance		88
+Stamina		84
+Weak Foot Usage		2
+Weak Foot Acc		2
+Form		2
+Injury Resistance		1
+Skills
+Scissors Feint
+Double Touch
+Chop Turn
+Long Range Curler
+Long Range Shooting
+First Time Shot
+Outside Curler
+Penalty Specialist
+Blitz Curler
+Will Power
+
+Body Measurements
+Leg Length
+14
+Arm Length
+12
+Waist Size
+9
+Chest
+6
+Shoulder Width
+5
+Neck Length
+4

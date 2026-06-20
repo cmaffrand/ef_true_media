@@ -1,0 +1,79 @@
+Name: David Raya
+Position: GK
+Style: Offensive Goalkeeper
+
+Training:
+AER: 1
+GK1: 9
+GK2: 12
+GK3: 10
+Lv: 58
+Manager: Fabio Capello
+
+Attributes:
+Offensive Awareness: 41
+Ball Control: 60
+Dribbling: 46
+Tight Possession: 54
+Low Pass: 75
+Lofted Pass: 80
+Finishing: 42
+Heading: 42
+Place Kicking: 62
+Curl: 56
+Defensive Awareness: 44
+Defensive Engagement: 58
+Tackling: 43
+Aggression: 51
+Goalkeeping: 100
+Gk Catching: 95
+GK Parrying: 96
+GK Reflexes: 101
+GK Reach: 99
+Speed: 70
+Acceleration: 70
+Kicking Power: 74
+Jump: 73
+Balance: 54
+Stamina: 60
+Physical Contact: 54
+
+Skills:
+One Touch Pass
+Weighted Pass
+Low Lofted Pass
+Gk Low Punt
+GK High Punt
+GK Long Throw
+GK Penalty Saver
+Visionary Pass
+GK Direct Defending
+
+Biometrics:
+Height: 183
+Weight: 80
+Arm Length: 6
+Shoulder Width: 11
+Neck Length: 6
+Chest: 6
+Neck Size: 7
+Shoulder Height: 9
+Leg Length: 10
+Thigh Size: 7
+Waist Size: 7
+Arm Size: 7
+Calf Size: 7
+Leg Coverage Radius: 178.2
+Arm Coverage Radius: 165.9
+Jumping Height: 260.5
+Torso Collision: 52.2
+Leg Length Based Height: 186
+
+Com Skills:
+—
+
+Other Stats:
+Weak Foot Usage: 1
+Weak Foot Accuracy: 1
+Form: 2
+Injury Resistance: 1

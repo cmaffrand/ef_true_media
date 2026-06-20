@@ -1,26 +1,26 @@
-William Saliba
+Thomas Vermaelen
 Build Up
 Height
-192cm
+183cm
 Weight
-85kg
+80kg
 Age
 24
 Foot
 
-A
+B
 
 
 
 
-Defending +3
+Aerial Block +3
 
-Agility +1
+Off the Ball +1
 
 0
 Condition History
 Arrow Probabilities (%)
-531049797968786867983837778
+511049898999291918789898689
 
 CB
 0/56
@@ -30,84 +30,82 @@ Level Cap
 Shooting
 
 Passing
-1
+2
 
 Dribbling
 
 Dexterity
-6
+8
 
 Lower Body Strength
-7
+9
 
 Aerial Strength
-7
+8
 
 Defending
-12
+9
 
 GK 1
-3
 
 GK 2
 
 GK 3
-0
 Attacking
-Offensive Awareness		58
-Ball Control		70
-Dribbling		66
+Offensive Awareness	●	71
+Ball Control		71
+Dribbling		68
 Tight Possession		72
-Low Pass		71
-Lofted Pass		70
-Finishing	●	55
-Heading		74
-Place Kicking		60
-Curl		62
+Low Pass		75
+Lofted Pass		76
+Finishing	●	71
+Heading	●	90
+Place Kicking		59
+Curl		61
 Defending
-Defensive Awareness	●	98
-Defensive Engagement		95
-Tackling	●	94
+Defensive Awareness	●	93
+Defensive Engagement		94
+Tackling		91
 Aggression		93
-Goalkeeping		44
+Goalkeeping		41
 Gk Catching		41
 GK Parrying		41
 GK Reflexes		41
 GK Reach		41
 athleticism
-Speed	●	93
-Acceleration	●	86
-Kicking Power		71
-Jump	●	88
-Physical Contact		90
-Balance	●	72
-Stamina	●	89
+Speed	●	90
+Acceleration	●	85
+Kicking Power		85
+Jump	●	91
+Physical Contact	●	91
+Balance		76
+Stamina	●	91
 Weak Foot Usage		1
 Weak Foot Acc		1
-Form		2
-Injury Resistance		2
+Form		1
+Injury Resistance		1
 Skills
 Heading
+Long Range Shooting
 Man Marking
 Interception
-Acrobatic Clearance
 Fighting Spirit
 Aerial Superiority
 Blocker
 Sliding Tackle
-Aerial Fort
-Long Reach Tackle
+Visionary Pass
+Fortress
 
 Body Measurements
 Leg Length
-11
+7
 Arm Length
-5
-Waist Size
-6
-Chest
 4
+Waist Size
+5
+Chest
+5
 Shoulder Width
-8
+7
 Neck Length
-6
+8

@@ -1,0 +1,83 @@
+Name: Romario
+Position: CF
+Style: Goal Poacher
+
+Training:
+SHO: 8
+PAS: 2
+DRI: 5
+DEX: 9
+LBS: 12
+AER: 3
+Lv: 62
+Manager: Fabio Capello
+
+Attributes:
+Offensive Awareness: 95
+Ball Control: 91
+Dribbling: 92
+Tight Possession: 92
+Low Pass: 70
+Lofted Pass: 66
+Finishing: 95
+Heading: 75
+Place Kicking: 77
+Curl: 84
+Defensive Awareness: 46
+Defensive Engagement: 45
+Tackling: 42
+Aggression: 46
+Goalkeeping: 41
+Gk Catching: 41
+GK Parrying: 41
+GK Reflexes: 41
+GK Reach: 41
+Speed: 96
+Acceleration: 96
+Kicking Power: 96
+Jump: 71
+Balance: 94
+Stamina: 90
+Physical Contact: 78
+
+Skills:
+Long Range Shooting
+Double Touch
+Sole Control
+Long Range Curler
+Acrobatic Finishing
+First Time Shot
+Outside Curler
+Fighting Spirit
+Phenomenal Finishing
+Magnetic Feet
+
+Biometrics:
+Height: 169
+Weight: 72
+Arm Length: 1
+Shoulder Width: 8
+Neck Length: 4
+Chest: 6
+Neck Size: 7
+Shoulder Height: 2
+Leg Length: 9
+Thigh Size: 10
+Waist Size: 6
+Arm Size: 8
+Calf Size: 10
+Leg Coverage Radius: 164.1
+Arm Coverage Radius: 147.8
+Jumping Height: 244.7
+Torso Collision: 47.4
+Leg Length Based Height: 171
+
+Com Skills:
+Mazing Run
+Early Crosser
+
+Other Stats:
+Weak Foot Usage: 1
+Weak Foot Accuracy: 2
+Form: 2
+Injury Resistance: 1

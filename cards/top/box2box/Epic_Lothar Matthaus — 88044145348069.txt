@@ -1,0 +1,83 @@
+Name: Lothar Matthaus
+Position: CMF
+Style: Box To Box
+
+Training:
+SHO: 3
+PAS: 6
+DRI: 8
+DEX: 8
+LBS: 9
+AER: 4
+DEF: 8
+Lv: 66
+Manager: Fabio Capello
+
+Attributes:
+Offensive Awareness: 80
+Ball Control: 86
+Dribbling: 85
+Tight Possession: 93
+Low Pass: 93
+Lofted Pass: 88
+Finishing: 81
+Heading: 78
+Place Kicking: 85
+Curl: 77
+Defensive Awareness: 91
+Defensive Engagement: 90
+Tackling: 91
+Aggression: 90
+Goalkeeping: 41
+Gk Catching: 41
+GK Parrying: 41
+GK Reflexes: 41
+GK Reach: 41
+Speed: 90
+Acceleration: 90
+Kicking Power: 93
+Jump: 78
+Balance: 92
+Stamina: 93
+Physical Contact: 84
+
+Skills:
+Long Range Shooting
+Through Passing
+Rising Shots
+First Time Shot
+One Touch Pass
+Low Lofted Pass
+Man Marking
+Interception
+Low Screamer
+Long Reach Tackle
+
+Biometrics:
+Height: 173
+Weight: 72
+Arm Length: 5
+Shoulder Width: 3
+Neck Length: 6
+Chest: 5
+Neck Size: 10
+Shoulder Height: 2
+Leg Length: 10
+Thigh Size: 9
+Waist Size: 5
+Arm Size: 7
+Calf Size: 9
+Leg Coverage Radius: 168.5
+Arm Coverage Radius: 154.4
+Jumping Height: 253.8
+Torso Collision: 47.1
+Leg Length Based Height: 176
+
+Com Skills:
+Incisive Run
+
+Other Stats:
+Weak Foot Usage: 1
+Weak Foot Accuracy: 3
+Form: 2
+Injury Resistance: 1

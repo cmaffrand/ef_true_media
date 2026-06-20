@@ -1,0 +1,83 @@
+Name: Gianluca Zambrotta
+Position: RB
+Style: Offensive Wingback
+
+Training:
+SHO: 4
+PAS: 8
+DRI: 5
+DEX: 8
+LBS: 10
+AER: 6
+DEF: 6
+Lv: 68
+Manager: Fabio Capello
+
+Attributes:
+Offensive Awareness: 76
+Ball Control: 80
+Dribbling: 84
+Tight Possession: 81
+Low Pass: 88
+Lofted Pass: 88
+Finishing: 68
+Heading: 75
+Place Kicking: 69
+Curl: 80
+Defensive Awareness: 91
+Defensive Engagement: 90
+Tackling: 91
+Aggression: 90
+Goalkeeping: 41
+Gk Catching: 41
+GK Parrying: 41
+GK Reflexes: 41
+GK Reach: 41
+Speed: 93
+Acceleration: 90
+Kicking Power: 87
+Jump: 84
+Balance: 82
+Stamina: 96
+Physical Contact: 87
+
+Skills:
+Through Passing
+Pinpoint Crossing
+One Touch Pass
+Man Marking
+Interception
+Fighting Spirit
+Blocker
+Sliding Tackle
+Phenomenal Pass
+
+Biometrics:
+Height: 181
+Weight: 76
+Arm Length: 9
+Shoulder Width: 8
+Neck Length: 6
+Chest: 7
+Neck Size: 9
+Shoulder Height: 8
+Leg Length: 7
+Thigh Size: 7
+Waist Size: 9
+Arm Size: 7
+Calf Size: 6
+Leg Coverage Radius: 174.7
+Arm Coverage Radius: 166.6
+Jumping Height: 265.8
+Torso Collision: 50.8
+Leg Length Based Height: 181
+
+Com Skills:
+Long Ball Expert
+Early Crosser
+
+Other Stats:
+Weak Foot Usage: 3
+Weak Foot Accuracy: 3
+Form: 2
+Injury Resistance: 1

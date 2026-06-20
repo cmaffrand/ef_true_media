@@ -1,0 +1,83 @@
+Name: David Alaba
+Position: CB
+Style: Build Up
+
+Training:
+PAS: 1
+DEX: 5
+LBS: 10
+AER: 9
+DEF: 10
+GK1: 2
+Lv: 60
+Manager: Fabio Capello
+
+Attributes:
+Offensive Awareness: 62
+Ball Control: 77
+Dribbling: 75
+Tight Possession: 80
+Low Pass: 82
+Lofted Pass: 78
+Finishing: 52
+Heading: 72
+Place Kicking: 79
+Curl: 76
+Defensive Awareness: 92
+Defensive Engagement: 90
+Tackling: 93
+Aggression: 90
+Goalkeeping: 43
+Gk Catching: 41
+GK Parrying: 41
+GK Reflexes: 41
+GK Reach: 41
+Speed: 90
+Acceleration: 81
+Kicking Power: 85
+Jump: 90
+Balance: 84
+Stamina: 90
+Physical Contact: 90
+
+Skills:
+One Touch Pass
+Through Passing
+Weighted Pass
+Pinpoint Crossing
+Man Marking
+Interception
+Captaincy
+Blocker
+Sliding Tackle
+Long Reach Tackle
+
+Biometrics:
+Height: 180
+Weight: 78
+Arm Length: 8
+Shoulder Width: 10
+Neck Length: 7
+Chest: 7
+Neck Size: 8
+Shoulder Height: 8
+Leg Length: 10
+Thigh Size: 8
+Waist Size: 5
+Arm Size: 6
+Calf Size: 8
+Leg Coverage Radius: 175.3
+Arm Coverage Radius: 165.0
+Jumping Height: 269.0
+Torso Collision: 51.0
+Leg Length Based Height: 183
+
+Com Skills:
+Incisive Run
+Long Ball Expert
+
+Other Stats:
+Weak Foot Usage: 1
+Weak Foot Accuracy: 2
+Form: 2
+Injury Resistance: 0

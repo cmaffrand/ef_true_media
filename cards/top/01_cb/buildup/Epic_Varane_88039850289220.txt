@@ -1,113 +1,116 @@
-William Saliba
+Raphaël Varane
 Build Up
 Height
-192cm
+191cm
 Weight
-85kg
+81kg
 Age
-24
+23
 Foot
 
-A
+B
 
 
 
 
-Defending +3
+Shutdown +3
 
-Agility +1
+Stealing +1
 
 0
 Condition History
 Arrow Probabilities (%)
-531049797968786867983837778
+521069898988988878185857980
 
 CB
-0/56
+0/64
 Level Cap 
-29
+33
 
 Shooting
+0
 
 Passing
-1
+0
 
 Dribbling
+1
 
 Dexterity
-6
+9
 
 Lower Body Strength
-7
+8
 
 Aerial Strength
-7
+8
 
 Defending
 12
 
 GK 1
-3
+0
 
 GK 2
+0
 
 GK 3
 0
 Attacking
-Offensive Awareness		58
+Offensive Awareness		62
 Ball Control		70
-Dribbling		66
-Tight Possession		72
-Low Pass		71
-Lofted Pass		70
-Finishing	●	55
-Heading		74
-Place Kicking		60
-Curl		62
+Dribbling		75
+Tight Possession		69
+Low Pass		72
+Lofted Pass		72
+Finishing	●	53
+Heading		87
+Place Kicking		56
+Curl		63
 Defending
 Defensive Awareness	●	98
-Defensive Engagement		95
-Tackling	●	94
-Aggression		93
-Goalkeeping		44
+Defensive Engagement	●	97
+Tackling	●	97
+Aggression	●	92
+Goalkeeping		41
 Gk Catching		41
 GK Parrying		41
 GK Reflexes		41
 GK Reach		41
 athleticism
-Speed	●	93
-Acceleration	●	86
-Kicking Power		71
-Jump	●	88
-Physical Contact		90
-Balance	●	72
-Stamina	●	89
+Speed	●	92
+Acceleration	●	88
+Kicking Power		78
+Jump		91
+Physical Contact	●	90
+Balance		72
+Stamina		85
 Weak Foot Usage		1
 Weak Foot Acc		1
-Form		2
-Injury Resistance		2
+Form		1
+Injury Resistance		1
 Skills
 Heading
+Weighted Pass
 Man Marking
 Interception
 Acrobatic Clearance
 Fighting Spirit
 Aerial Superiority
 Blocker
-Sliding Tackle
-Aerial Fort
 Long Reach Tackle
+Aerial Fort
 
 Body Measurements
 Leg Length
-11
+13
 Arm Length
-5
+7
 Waist Size
-6
+4
 Chest
 4
 Shoulder Width
-8
+9
 Neck Length
-6
+8

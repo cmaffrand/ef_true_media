@@ -1,0 +1,85 @@
+Name: Jordi Alba
+Position: LB
+Style: Offensive Wingback
+
+Training:
+SHO: 8
+PAS: 7
+DRI: 7
+DEX: 8
+LBS: 8
+AER: 4
+DEF: 6
+Lv: 68
+Manager: Fabio Capello
+
+Attributes:
+Offensive Awareness: 90
+Ball Control: 87
+Dribbling: 87
+Tight Possession: 88
+Low Pass: 91
+Lofted Pass: 90
+Finishing: 79
+Heading: 64
+Place Kicking: 75
+Curl: 88
+Defensive Awareness: 80
+Defensive Engagement: 83
+Tackling: 81
+Aggression: 82
+Goalkeeping: 41
+Gk Catching: 41
+GK Parrying: 41
+GK Reflexes: 41
+GK Reach: 41
+Speed: 93
+Acceleration: 94
+Kicking Power: 87
+Jump: 78
+Balance: 90
+Stamina: 95
+Physical Contact: 76
+
+Skills:
+Double Touch
+One Touch Pass
+Through Passing
+Pinpoint Crossing
+Outside Curler
+Interception
+Fighting Spirit
+Blocker
+Edged Crossing
+
+Biometrics:
+Height: 170
+Weight: 68
+Arm Length: 7
+Shoulder Width: 9
+Neck Length: 4
+Chest: 7
+Neck Size: 8
+Shoulder Height: 10
+Leg Length: 9
+Thigh Size: 6
+Waist Size: 6
+Arm Size: 6
+Calf Size: 4
+Leg Coverage Radius: 165.1
+Arm Coverage Radius: 154.7
+Jumping Height: 250.4
+Torso Collision: 47.9
+Leg Length Based Height: 172
+
+Com Skills:
+Trickster
+Mazing Run
+Long Ball Expert
+Early Crosser
+
+Other Stats:
+Weak Foot Usage: 0
+Weak Foot Accuracy: 1
+Form: 2
+Injury Resistance: 1

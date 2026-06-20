@@ -1,0 +1,81 @@
+Name: Nico Schlotterbeck
+Position: CB
+Style: Build Up
+
+Training:
+DEX: 4
+LBS: 8
+AER: 8
+DEF: 12
+Lv: 52
+Manager: Fabio Capello
+
+Attributes:
+Offensive Awareness: 62
+Ball Control: 67
+Dribbling: 65
+Tight Possession: 67
+Low Pass: 73
+Lofted Pass: 75
+Finishing: 57
+Heading: 80
+Place Kicking: 65
+Curl: 71
+Defensive Awareness: 95
+Defensive Engagement: 95
+Tackling: 96
+Aggression: 94
+Goalkeeping: 41
+Gk Catching: 41
+GK Parrying: 41
+GK Reflexes: 41
+GK Reach: 41
+Speed: 88
+Acceleration: 81
+Kicking Power: 77
+Jump: 85
+Balance: 67
+Stamina: 88
+Physical Contact: 90
+
+Skills:
+Heading
+Weighted Pass
+Man Marking
+Interception
+Captaincy
+Fighting Spirit
+Blocker
+Aerial Superiority
+Sliding Tackle
+Long Reach Tackle
+
+Biometrics:
+Height: 191
+Weight: 86
+Arm Length: 5
+Shoulder Width: 7
+Neck Length: 5
+Chest: 5
+Neck Size: 5
+Shoulder Height: 7
+Leg Length: 7
+Thigh Size: 7
+Waist Size: 6
+Arm Size: 4
+Calf Size: 7
+Leg Coverage Radius: 184.3
+Arm Coverage Radius: 171.2
+Jumping Height: 276.2
+Torso Collision: 53.1
+Leg Length Based Height: 191
+
+Com Skills:
+Incisive Run
+Early Crosser
+
+Other Stats:
+Weak Foot Usage: 0
+Weak Foot Accuracy: 1
+Form: 1
+Injury Resistance: 0

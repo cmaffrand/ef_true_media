@@ -1,0 +1,81 @@
+Name: Hugo Ekitike
+Position: CF
+Style: Goal Poacher
+
+Training:
+SHO: 8
+DRI: 7
+DEX: 11
+LBS: 11
+AER: 2
+Lv: 66
+Manager: Fabio Capello
+
+Attributes:
+Offensive Awareness: 94
+Ball Control: 90
+Dribbling: 92
+Tight Possession: 92
+Low Pass: 70
+Lofted Pass: 68
+Finishing: 90
+Heading: 79
+Place Kicking: 67
+Curl: 75
+Defensive Awareness: 49
+Defensive Engagement: 48
+Tackling: 44
+Aggression: 51
+Goalkeeping: 41
+Gk Catching: 41
+GK Parrying: 41
+GK Reflexes: 41
+GK Reach: 41
+Speed: 96
+Acceleration: 94
+Kicking Power: 93
+Jump: 75
+Balance: 90
+Stamina: 87
+Physical Contact: 80
+
+Skills:
+Double Touch
+Heading
+Long Range Curler
+Long Range Shooting
+First Time Shot
+One Touch Pass
+Outside Curler
+Aerial Superiority
+Momentum Dribbling
+Phenomenal Finishing
+
+Biometrics:
+Height: 190
+Weight: 76
+Arm Length: 8
+Shoulder Width: 9
+Neck Length: 8
+Chest: 5
+Neck Size: 8
+Shoulder Height: 8
+Leg Length: 10
+Thigh Size: 4
+Waist Size: 5
+Arm Size: 4
+Calf Size: 4
+Leg Coverage Radius: 185.1
+Arm Coverage Radius: 174.0
+Jumping Height: 269.4
+Torso Collision: 53.3
+Leg Length Based Height: 193
+
+Com Skills:
+Mazing Run
+
+Other Stats:
+Weak Foot Usage: 2
+Weak Foot Accuracy: 2
+Form: 1
+Injury Resistance: 1

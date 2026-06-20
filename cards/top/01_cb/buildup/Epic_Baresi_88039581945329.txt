@@ -96,3 +96,17 @@ Aerial Superiority
 Blocker
 Sliding Tackle
 Fortress
+
+Body Measurements
+Leg Length
+7
+Arm Length
+6
+Waist Size
+5
+Chest
+3
+Shoulder Width
+10
+Neck Length
+6

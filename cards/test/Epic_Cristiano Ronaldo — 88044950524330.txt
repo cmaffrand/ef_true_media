@@ -1,0 +1,84 @@
+Name: Cristiano Ronaldo
+Position: CF
+Style: Goal Poacher
+
+Training:
+SHO: 4
+PAS: 2
+DRI: 7
+DEX: 12
+LBS: 8
+AER: 6
+Lv: 60
+Manager: Fabio Capello
+
+Attributes:
+Offensive Awareness: 94
+Ball Control: 87
+Dribbling: 84
+Tight Possession: 80
+Low Pass: 70
+Lofted Pass: 66
+Finishing: 91
+Heading: 87
+Place Kicking: 77
+Curl: 79
+Defensive Awareness: 43
+Defensive Engagement: 44
+Tackling: 43
+Aggression: 49
+Goalkeeping: 41
+Gk Catching: 41
+GK Parrying: 41
+GK Reflexes: 41
+GK Reach: 41
+Speed: 91
+Acceleration: 90
+Kicking Power: 93
+Jump: 90
+Balance: 80
+Stamina: 83
+Physical Contact: 86
+
+Skills:
+Scissors Feint
+Heading
+Long Range Curler
+Long Range Shooting
+Acrobatic Finishing
+First Time Shot
+Penalty Specialist
+Captaincy
+Fighting Spirit
+Will Power
+
+Biometrics:
+Height: 187
+Weight: 84
+Arm Length: 1
+Shoulder Width: 9
+Neck Length: 7
+Chest: 6
+Neck Size: 8
+Shoulder Height: 2
+Leg Length: 9
+Thigh Size: 7
+Waist Size: 4
+Arm Size: 5
+Calf Size: 6
+Leg Coverage Radius: 181.6
+Arm Coverage Radius: 163.8
+Jumping Height: 276.0
+Torso Collision: 52.6
+Leg Length Based Height: 189
+
+Com Skills:
+Incisive Run
+Long Ball Expert
+Early Crosser
+
+Other Stats:
+Weak Foot Usage: 2
+Weak Foot Accuracy: 3
+Form: 1
+Injury Resistance: 2

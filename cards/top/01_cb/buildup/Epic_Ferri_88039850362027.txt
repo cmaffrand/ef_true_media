@@ -1,89 +1,87 @@
-William Saliba
+Riccardo Ferri
 Build Up
 Height
-192cm
+181cm
 Weight
-85kg
+77kg
 Age
-24
+25
 Foot
 
-A
+B
 
 
 
 
-Defending +3
+Stealing +3
 
-Agility +1
+Shutdown +1
 
 0
 Condition History
 Arrow Probabilities (%)
-531049797968786867983837778
+521059797978785857881817577
 
 CB
-0/56
+0/60
 Level Cap 
-29
+31
 
 Shooting
 
 Passing
-1
 
 Dribbling
 
 Dexterity
-6
+7
 
 Lower Body Strength
-7
+9
 
 Aerial Strength
-7
+8
 
 Defending
-12
+11
 
 GK 1
-3
+2
 
 GK 2
 
 GK 3
-0
 Attacking
 Offensive Awareness		58
-Ball Control		70
-Dribbling		66
-Tight Possession		72
-Low Pass		71
+Ball Control		65
+Dribbling		63
+Tight Possession		66
+Low Pass		72
 Lofted Pass		70
-Finishing	●	55
-Heading		74
-Place Kicking		60
-Curl		62
+Finishing	●	50
+Heading		80
+Place Kicking		64
+Curl		56
 Defending
 Defensive Awareness	●	98
-Defensive Engagement		95
-Tackling	●	94
-Aggression		93
-Goalkeeping		44
+Defensive Engagement	●	98
+Tackling	●	96
+Aggression	●	94
+Goalkeeping		43
 Gk Catching		41
 GK Parrying		41
 GK Reflexes		41
 GK Reach		41
 athleticism
-Speed	●	93
-Acceleration	●	86
-Kicking Power		71
-Jump	●	88
-Physical Contact		90
-Balance	●	72
-Stamina	●	89
-Weak Foot Usage		1
-Weak Foot Acc		1
+Speed	●	90
+Acceleration	●	90
+Kicking Power		84
+Jump		95
+Physical Contact	●	93
+Balance		79
+Stamina		88
+Weak Foot Usage		2
+Weak Foot Acc		2
 Form		2
 Injury Resistance		2
 Skills
@@ -91,23 +89,22 @@ Heading
 Man Marking
 Interception
 Acrobatic Clearance
+Captaincy
 Fighting Spirit
 Aerial Superiority
 Blocker
 Sliding Tackle
-Aerial Fort
-Long Reach Tackle
 
 Body Measurements
 Leg Length
-11
+7
 Arm Length
 5
 Waist Size
-6
+5
 Chest
-4
-Shoulder Width
-8
-Neck Length
 6
+Shoulder Width
+5
+Neck Length
+9

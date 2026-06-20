@@ -1,0 +1,83 @@
+Name: Harry Kane
+Position: CF
+Style: Deep Lying Forward
+
+Training:
+SHO: 6
+PAS: 5
+DRI: 8
+DEX: 8
+LBS: 8
+AER: 8
+Lv: 62
+Manager: Fabio Capello
+
+Attributes:
+Offensive Awareness: 91
+Ball Control: 91
+Dribbling: 87
+Tight Possession: 89
+Low Pass: 87
+Lofted Pass: 82
+Finishing: 92
+Heading: 82
+Place Kicking: 79
+Curl: 80
+Defensive Awareness: 45
+Defensive Engagement: 51
+Tackling: 45
+Aggression: 52
+Goalkeeping: 41
+Gk Catching: 41
+GK Parrying: 41
+GK Reflexes: 41
+GK Reach: 41
+Speed: 88
+Acceleration: 87
+Kicking Power: 91
+Jump: 78
+Balance: 81
+Stamina: 85
+Physical Contact: 90
+
+Skills:
+Heading
+Long Range Curler
+Long Range Shooting
+First Time Shot
+One Touch Pass
+Through Passing
+Outside Curler
+Penalty Specialist
+Captaincy
+Low Screamer
+
+Biometrics:
+Height: 188
+Weight: 86
+Arm Length: 6
+Shoulder Width: 9
+Neck Length: 6
+Chest: 5
+Neck Size: 9
+Shoulder Height: 10
+Leg Length: 7
+Thigh Size: 10
+Waist Size: 5
+Arm Size: 7
+Calf Size: 9
+Leg Coverage Radius: 181.4
+Arm Coverage Radius: 170.0
+Jumping Height: 268.8
+Torso Collision: 53.0
+Leg Length Based Height: 188
+
+Com Skills:
+Mazing Run
+Incisive Run
+
+Other Stats:
+Weak Foot Usage: 2
+Weak Foot Accuracy: 2
+Form: 2
+Injury Resistance: 1

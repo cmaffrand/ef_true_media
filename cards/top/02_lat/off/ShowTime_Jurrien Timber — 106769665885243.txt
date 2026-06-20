@@ -1,0 +1,84 @@
+Name: Jurrien Timber
+Position: RB
+Style: Offensive Wingback
+
+Training:
+PAS: 5
+DRI: 3
+DEX: 5
+LBS: 9
+AER: 9
+DEF: 10
+GK1: 1
+Lv: 64
+Manager: Fabio Capello
+
+Attributes:
+Offensive Awareness: 74
+Ball Control: 81
+Dribbling: 80
+Tight Possession: 82
+Low Pass: 82
+Lofted Pass: 80
+Finishing: 61
+Heading: 80
+Place Kicking: 62
+Curl: 66
+Defensive Awareness: 92
+Defensive Engagement: 93
+Tackling: 92
+Aggression: 91
+Goalkeeping: 42
+Gk Catching: 41
+GK Parrying: 41
+GK Reflexes: 41
+GK Reach: 41
+Speed: 90
+Acceleration: 90
+Kicking Power: 87
+Jump: 90
+Balance: 78
+Stamina: 92
+Physical Contact: 91
+
+Skills:
+One Touch Pass
+Through Passing
+Weighted Pass
+Pinpoint Crossing
+Man Marking
+Interception
+Fighting Spirit
+Blocker
+Sliding Tackle
+Fortress
+
+Biometrics:
+Height: 179
+Weight: 75
+Arm Length: 9
+Shoulder Width: 8
+Neck Length: 4
+Chest: 6
+Neck Size: 7
+Shoulder Height: 9
+Leg Length: 11
+Thigh Size: 7
+Waist Size: 6
+Arm Size: 7
+Calf Size: 8
+Leg Coverage Radius: 174.9
+Arm Coverage Radius: 164.8
+Jumping Height: 267.2
+Torso Collision: 50.1
+Leg Length Based Height: 183
+
+Com Skills:
+Speeding Bullet
+Early Crosser
+
+Other Stats:
+Weak Foot Usage: 2
+Weak Foot Accuracy: 2
+Form: 2
+Injury Resistance: 0
