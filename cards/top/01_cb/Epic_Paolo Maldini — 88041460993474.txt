@@ -50,6 +50,7 @@ Fighting Spirit
 Blocker
 Sliding Tackle
 Long Reach Tackle
+Shadow Hunt
 
 Biometrics:
 Height: 186

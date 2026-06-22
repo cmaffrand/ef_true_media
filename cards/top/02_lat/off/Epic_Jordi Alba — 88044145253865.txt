@@ -51,6 +51,7 @@ Interception
 Fighting Spirit
 Blocker
 Edged Crossing
+Attacking Surge
 
 Biometrics:
 Height: 170

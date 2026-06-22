@@ -1,0 +1,81 @@
+Name: Vincent Kompany
+Position: CB
+Style: Destroyer
+
+Training:
+DEX: 8
+LBS: 8
+AER: 8
+DEF: 12
+Lv: 60
+Manager: Fabio Capello
+
+Attributes:
+Offensive Awareness: 61
+Ball Control: 64
+Dribbling: 59
+Tight Possession: 59
+Low Pass: 70
+Lofted Pass: 71
+Finishing: 57
+Heading: 88
+Place Kicking: 53
+Curl: 63
+Defensive Awareness: 98
+Defensive Engagement: 95
+Tackling: 99
+Aggression: 98
+Goalkeeping: 41
+Gk Catching: 41
+GK Parrying: 41
+GK Reflexes: 41
+GK Reach: 41
+Speed: 88
+Acceleration: 82
+Kicking Power: 85
+Jump: 90
+Balance: 71
+Stamina: 85
+Physical Contact: 94
+
+Skills:
+Heading
+Man Marking
+Interception
+Acrobatic Clearance
+Captaincy
+Fighting Spirit
+Blocker
+Aerial Superiority
+Long Reach Tackle
+Aerial Fort
+
+Biometrics:
+Height: 193
+Weight: 85
+Arm Length: 5
+Shoulder Width: 10
+Neck Length: 7
+Chest: 5
+Neck Size: 9
+Shoulder Height: 7
+Leg Length: 9
+Thigh Size: 6
+Waist Size: 5
+Arm Size: 5
+Calf Size: 6
+Leg Coverage Radius: 187.4
+Arm Coverage Radius: 173.6
+Jumping Height: 282.0
+Torso Collision: 54.5
+Leg Length Based Height: 195
+
+Com Skills:
+Incisive Run
+Early Crosser
+
+Other Stats:
+Weak Foot Usage: 1
+Weak Foot Accuracy: 1
+Form: 2
+Injury Resistance: 0

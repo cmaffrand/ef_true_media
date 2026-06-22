@@ -51,6 +51,7 @@ Fighting Spirit
 Blocker
 Sliding Tackle
 Phenomenal Pass
+Shadow Hunt
 
 Biometrics:
 Height: 181

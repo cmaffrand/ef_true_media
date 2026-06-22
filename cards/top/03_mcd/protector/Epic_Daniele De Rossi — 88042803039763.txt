@@ -50,6 +50,7 @@ Blocker
 Aerial Superiority
 Sliding Tackle
 Phenomenal Pass
+Shadow Hunt
 
 Biometrics:
 Height: 184

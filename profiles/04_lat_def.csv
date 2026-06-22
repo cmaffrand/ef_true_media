@@ -31,6 +31,7 @@ injury_resistance,0,0,0,0
 Skills,0,0,0,0
 Long Reach Tackle,0,0,0,2100
 Fortress,0,0,0,1700
+Shadow Hunter,0,0,0,1700
 Aerial Fort,0,0,0,800
 Edged Crossing,0,0,0,500
 Visionary Pass,0,0,0,500
@@ -39,6 +40,7 @@ Game Changing Pass,0,0,0,300
 Acceleration Burst,0,0,0,300
 Blitz Curler,0,0,0,200
 Low Screamer,0,0,0,200
+Attack Trigger,0,0,0,200
 Through Passing,0,0,0,800
 One Touch Pass,0,0,0,800
 Interception,0,0,0,800

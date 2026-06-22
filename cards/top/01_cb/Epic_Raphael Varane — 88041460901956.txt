@@ -1,0 +1,83 @@
+Name: Raphael Varane
+Position: CB
+Style: Build Up
+
+Training:
+PAS: 2
+DRI: 2
+DEX: 8
+LBS: 8
+AER: 8
+DEF: 12
+Lv: 64
+Manager: Fabio Capello
+
+Attributes:
+Offensive Awareness: 62
+Ball Control: 70
+Dribbling: 74
+Tight Possession: 71
+Low Pass: 76
+Lofted Pass: 76
+Finishing: 52
+Heading: 84
+Place Kicking: 54
+Curl: 63
+Defensive Awareness: 99
+Defensive Engagement: 97
+Tackling: 97
+Aggression: 93
+Goalkeeping: 41
+Gk Catching: 41
+GK Parrying: 41
+GK Reflexes: 41
+GK Reach: 41
+Speed: 92
+Acceleration: 88
+Kicking Power: 79
+Jump: 90
+Balance: 71
+Stamina: 84
+Physical Contact: 91
+
+Skills:
+Fortress
+Heading
+Weighted Pass
+Man Marking
+Interception
+Acrobatic Clearance
+Fighting Spirit
+Blocker
+Aerial Superiority
+Long Reach Tackle
+
+Biometrics:
+Height: 191
+Weight: 81
+Arm Length: 7
+Shoulder Width: 9
+Neck Length: 8
+Chest: 4
+Neck Size: 7
+Shoulder Height: 7
+Leg Length: 13
+Thigh Size: 4
+Waist Size: 4
+Arm Size: 7
+Calf Size: 4
+Leg Coverage Radius: 187.8
+Arm Coverage Radius: 173.8
+Jumping Height: 280.3
+Torso Collision: 53.5
+Leg Length Based Height: 197
+
+Com Skills:
+Speeding Bullet
+Early Crosser
+
+Other Stats:
+Weak Foot Usage: 1
+Weak Foot Accuracy: 1
+Form: 1
+Injury Resistance: 1

@@ -49,6 +49,7 @@ Blocker
 Aerial Superiority
 Sliding Tackle
 Aerial Fort
+Shadow Hunt
 
 Biometrics:
 Height: 176

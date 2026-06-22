@@ -1,0 +1,83 @@
+Name: Medhi Benatia
+Position: CB
+Style: Destroyer
+
+Training:
+PAS: 3
+DEX: 8
+LBS: 9
+AER: 9
+DEF: 10
+GK1: 1
+Lv: 64
+Manager: Fabio Capello
+
+Attributes:
+Offensive Awareness: 61
+Ball Control: 61
+Dribbling: 59
+Tight Possession: 60
+Low Pass: 70
+Lofted Pass: 71
+Finishing: 50
+Heading: 88
+Place Kicking: 54
+Curl: 64
+Defensive Awareness: 96
+Defensive Engagement: 95
+Tackling: 96
+Aggression: 95
+Goalkeeping: 42
+Gk Catching: 41
+GK Parrying: 41
+GK Reflexes: 41
+GK Reach: 41
+Speed: 91
+Acceleration: 88
+Kicking Power: 81
+Jump: 90
+Balance: 64
+Stamina: 88
+Physical Contact: 91
+
+Skills:
+Fortress
+Heading
+Man Marking
+Interception
+Captaincy
+Fighting Spirit
+Blocker
+Aerial Superiority
+Sliding Tackle
+Aerial Fort
+
+Biometrics:
+Height: 190
+Weight: 94
+Arm Length: 8
+Shoulder Width: 7
+Neck Length: 7
+Chest: 6
+Neck Size: 9
+Shoulder Height: 6
+Leg Length: 9
+Thigh Size: 9
+Waist Size: 6
+Arm Size: 10
+Calf Size: 9
+Leg Coverage Radius: 184.5
+Arm Coverage Radius: 173.6
+Jumping Height: 279.0
+Torso Collision: 53.0
+Leg Length Based Height: 192
+
+Com Skills:
+Speeding Bullet
+Early Crosser
+
+Other Stats:
+Weak Foot Usage: 1
+Weak Foot Accuracy: 1
+Form: 1
+Injury Resistance: 0
