@@ -1,0 +1,83 @@
+Name: Mateo Kovacic
+Position: CMF
+Style: Box To Box
+
+Training:
+SHO: 3
+PAS: 8
+DRI: 5
+DEX: 9
+LBS: 10
+AER: 2
+DEF: 5
+Lv: 62
+Manager: Fabio Capello
+
+Attributes:
+Offensive Awareness: 73
+Ball Control: 92
+Dribbling: 90
+Tight Possession: 91
+Low Pass: 91
+Lofted Pass: 87
+Finishing: 70
+Heading: 55
+Place Kicking: 68
+Curl: 78
+Defensive Awareness: 82
+Defensive Engagement: 87
+Tackling: 83
+Aggression: 87
+Goalkeeping: 41
+Gk Catching: 41
+GK Parrying: 41
+GK Reflexes: 41
+GK Reach: 41
+Speed: 88
+Acceleration: 88
+Kicking Power: 88
+Jump: 64
+Balance: 89
+Stamina: 95
+Physical Contact: 75
+
+Skills:
+Through Passing
+Marseille Turn
+Cut Behind & Turn
+Sole Control
+Heel Trick
+One Touch Pass
+Weighted Pass
+Man Marking
+Interception
+Visionary Pass
+
+Biometrics:
+Height: 177
+Weight: 80
+Arm Length: 4
+Shoulder Width: 3
+Neck Length: 7
+Chest: 7
+Neck Size: 12
+Shoulder Height: 9
+Leg Length: 7
+Thigh Size: 9
+Waist Size: 5
+Arm Size: 4
+Calf Size: 8
+Leg Coverage Radius: 170.8
+Arm Coverage Radius: 157.0
+Jumping Height: 248.8
+Torso Collision: 48.2
+Leg Length Based Height: 177
+
+Com Skills:
+—
+
+Other Stats:
+Weak Foot Usage: 2
+Weak Foot Accuracy: 2
+Form: 2
+Injury Resistance: 0

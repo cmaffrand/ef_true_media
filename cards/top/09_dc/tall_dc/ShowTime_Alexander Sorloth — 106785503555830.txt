@@ -1,0 +1,86 @@
+Name: Alexander Sorloth
+Position: CF
+Style: Target Man
+
+Training:
+SHO: 9
+PAS: 4
+DRI: 5
+DEX: 9
+LBS: 8
+AER: 8
+GK1: 2
+Lv: 66
+Manager: Fabio Capello
+
+Attributes:
+Offensive Awareness: 89
+Ball Control: 80
+Dribbling: 83
+Tight Possession: 78
+Low Pass: 70
+Lofted Pass: 67
+Finishing: 92
+Heading: 92
+Place Kicking: 71
+Curl: 75
+Defensive Awareness: 44
+Defensive Engagement: 56
+Tackling: 44
+Aggression: 56
+Goalkeeping: 43
+Gk Catching: 41
+GK Parrying: 41
+GK Reflexes: 41
+GK Reach: 41
+Speed: 90
+Acceleration: 84
+Kicking Power: 90
+Jump: 90
+Balance: 74
+Stamina: 83
+Physical Contact: 93
+
+Skills:
+Super Sub
+Heading
+Long Range Curler
+Rising Shots
+Acrobatic Finishing
+First Time Shot
+Outside Curler
+Fighting Spirit
+Aerial Superiority
+Bullet Header
+
+Biometrics:
+Height: 195
+Weight: 94
+Arm Length: 6
+Shoulder Width: 0
+Neck Length: 5
+Chest: 5
+Neck Size: 3
+Shoulder Height: 2
+Leg Length: 8
+Thigh Size: 2
+Waist Size: 6
+Arm Size: 8
+Calf Size: 6
+Leg Coverage Radius: 188.8
+Arm Coverage Radius: 174.6
+Jumping Height: 283.4
+Torso Collision: 51.8
+Leg Length Based Height: 196
+
+Com Skills:
+Mazing Run
+Incisive Run
+Long Ball Expert
+Early Crosser
+
+Other Stats:
+Weak Foot Usage: 1
+Weak Foot Accuracy: 2
+Form: 2
+Injury Resistance: 1

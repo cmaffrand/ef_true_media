@@ -1,0 +1,82 @@
+Name: Noni Madueke
+Position: RWF
+Style: Prolific Winger
+
+Training:
+SHO: 8
+PAS: 6
+DRI: 8
+DEX: 8
+LBS: 9
+AER: 1
+Lv: 60
+Manager: Fabio Capello
+
+Attributes:
+Offensive Awareness: 82
+Ball Control: 88
+Dribbling: 92
+Tight Possession: 90
+Low Pass: 77
+Lofted Pass: 80
+Finishing: 85
+Heading: 65
+Place Kicking: 80
+Curl: 89
+Defensive Awareness: 59
+Defensive Engagement: 65
+Tackling: 55
+Aggression: 67
+Goalkeeping: 41
+Gk Catching: 41
+GK Parrying: 41
+GK Reflexes: 41
+GK Reach: 41
+Speed: 94
+Acceleration: 94
+Kicking Power: 88
+Jump: 70
+Balance: 91
+Stamina: 87
+Physical Contact: 75
+
+Skills:
+Through Passing
+Pinpoint Crossing
+Scissors Feint
+Double Touch
+Chop Turn
+Cut Behind & Turn
+Sole Control
+Long Range Curler
+First Time Shot
+Acceleration Burst
+
+Biometrics:
+Height: 182
+Weight: 70
+Arm Length: 7
+Shoulder Width: 9
+Neck Length: 5
+Chest: 6
+Neck Size: 7
+Shoulder Height: 9
+Leg Length: 13
+Thigh Size: 7
+Waist Size: 5
+Arm Size: 5
+Calf Size: 6
+Leg Coverage Radius: 178.9
+Arm Coverage Radius: 165.6
+Jumping Height: 257.3
+Torso Collision: 51.2
+Leg Length Based Height: 188
+
+Com Skills:
+—
+
+Other Stats:
+Weak Foot Usage: 1
+Weak Foot Accuracy: 2
+Form: 1
+Injury Resistance: 0

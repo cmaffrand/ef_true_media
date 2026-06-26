@@ -1,0 +1,83 @@
+Name: Mikel Merino
+Position: AMF
+Style: Hole Player
+
+Training:
+SHO: 8
+PAS: 3
+DRI: 9
+DEX: 8
+LBS: 10
+AER: 4
+Lv: 64
+Manager: Fabio Capello
+
+Attributes:
+Offensive Awareness: 85
+Ball Control: 92
+Dribbling: 87
+Tight Possession: 89
+Low Pass: 83
+Lofted Pass: 77
+Finishing: 86
+Heading: 87
+Place Kicking: 65
+Curl: 80
+Defensive Awareness: 73
+Defensive Engagement: 77
+Tackling: 73
+Aggression: 81
+Goalkeeping: 41
+Gk Catching: 41
+GK Parrying: 41
+GK Reflexes: 41
+GK Reach: 41
+Speed: 86
+Acceleration: 84
+Kicking Power: 93
+Jump: 84
+Balance: 77
+Stamina: 92
+Physical Contact: 84
+
+Skills:
+Long Range Shooting
+Through Passing
+Heading
+Long Range Curler
+First Time Shot
+One Touch Pass
+Weighted Pass
+Outside Curler
+Aerial Superiority
+Low Screamer
+
+Biometrics:
+Height: 189
+Weight: 83
+Arm Length: 6
+Shoulder Width: 8
+Neck Length: 9
+Chest: 5
+Neck Size: 8
+Shoulder Height: 4
+Leg Length: 7
+Thigh Size: 7
+Waist Size: 5
+Arm Size: 7
+Calf Size: 6
+Leg Coverage Radius: 182.4
+Arm Coverage Radius: 170.7
+Jumping Height: 274.6
+Torso Collision: 52.8
+Leg Length Based Height: 189
+
+Com Skills:
+Mazing Run
+Incisive Run
+
+Other Stats:
+Weak Foot Usage: 1
+Weak Foot Accuracy: 1
+Form: 2
+Injury Resistance: 1

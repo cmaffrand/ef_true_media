@@ -1,0 +1,83 @@
+Name: Cody Gakpo
+Position: LWF
+Style: Prolific Winger
+
+Training:
+SHO: 8
+PAS: 6
+DRI: 8
+DEX: 8
+LBS: 10
+AER: 4
+Lv: 66
+Manager: Fabio Capello
+
+Attributes:
+Offensive Awareness: 88
+Ball Control: 90
+Dribbling: 92
+Tight Possession: 90
+Low Pass: 87
+Lofted Pass: 75
+Finishing: 90
+Heading: 66
+Place Kicking: 77
+Curl: 84
+Defensive Awareness: 53
+Defensive Engagement: 58
+Tackling: 52
+Aggression: 60
+Goalkeeping: 41
+Gk Catching: 41
+GK Parrying: 41
+GK Reflexes: 41
+GK Reach: 41
+Speed: 92
+Acceleration: 92
+Kicking Power: 94
+Jump: 70
+Balance: 83
+Stamina: 88
+Physical Contact: 84
+
+Skills:
+Through Passing
+Pinpoint Crossing
+Double Touch
+Flip Flap
+Sole Control
+Long Range Curler
+First Time Shot
+One Touch Pass
+Visionary Pass
+Magnetic Feet
+
+Biometrics:
+Height: 193
+Weight: 76
+Arm Length: 8
+Shoulder Width: 7
+Neck Length: 8
+Chest: 6
+Neck Size: 5
+Shoulder Height: 9
+Leg Length: 11
+Thigh Size: 7
+Waist Size: 4
+Arm Size: 6
+Calf Size: 5
+Leg Coverage Radius: 188.6
+Arm Coverage Radius: 176.3
+Jumping Height: 269.1
+Torso Collision: 53.6
+Leg Length Based Height: 197
+
+Com Skills:
+Trickster
+Incisive Run
+
+Other Stats:
+Weak Foot Usage: 2
+Weak Foot Accuracy: 3
+Form: 2
+Injury Resistance: 0

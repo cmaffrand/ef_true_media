@@ -1,0 +1,85 @@
+Name: Cafu
+Position: RB
+Style: Offensive Wingback
+
+Training:
+SHO: 8
+PAS: 7
+DRI: 7
+DEX: 3
+LBS: 9
+AER: 6
+DEF: 5
+Lv: 64
+Manager: Fabio Capello
+
+Attributes:
+Offensive Awareness: 76
+Ball Control: 83
+Dribbling: 88
+Tight Possession: 88
+Low Pass: 87
+Lofted Pass: 88
+Finishing: 75
+Heading: 78
+Place Kicking: 73
+Curl: 87
+Defensive Awareness: 82
+Defensive Engagement: 82
+Tackling: 84
+Aggression: 87
+Goalkeeping: 41
+Gk Catching: 41
+GK Parrying: 41
+GK Reflexes: 41
+GK Reach: 41
+Speed: 95
+Acceleration: 90
+Kicking Power: 87
+Jump: 81
+Balance: 77
+Stamina: 96
+Physical Contact: 87
+
+Skills:
+Through Passing
+Pinpoint Crossing
+Scissors Feint
+One Touch Pass
+Outside Curler
+Man Marking
+Interception
+Sliding Tackle
+Edged Crossing
+Long Reach Tackle
+
+Biometrics:
+Height: 176
+Weight: 75
+Arm Length: 4
+Shoulder Width: 5
+Neck Length: 5
+Chest: 7
+Neck Size: 9
+Shoulder Height: 1
+Leg Length: 7
+Thigh Size: 9
+Waist Size: 7
+Arm Size: 8
+Calf Size: 9
+Leg Coverage Radius: 169.8
+Arm Coverage Radius: 156.4
+Jumping Height: 258.6
+Torso Collision: 48.6
+Leg Length Based Height: 176
+
+Com Skills:
+Trickster
+Mazing Run
+Long Ball Expert
+
+Other Stats:
+Weak Foot Usage: 1
+Weak Foot Accuracy: 2
+Form: 2
+Injury Resistance: 2

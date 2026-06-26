@@ -1,0 +1,81 @@
+Name: Cristian Romero
+Position: CB
+Style: Destroyer
+
+Training:
+PAS: 4
+DEX: 6
+LBS: 8
+AER: 7
+DEF: 10
+Lv: 52
+Manager: Fabio Capello
+
+Attributes:
+Offensive Awareness: 65
+Ball Control: 65
+Dribbling: 62
+Tight Possession: 67
+Low Pass: 71
+Lofted Pass: 70
+Finishing: 57
+Heading: 84
+Place Kicking: 58
+Curl: 55
+Defensive Awareness: 92
+Defensive Engagement: 92
+Tackling: 95
+Aggression: 97
+Goalkeeping: 41
+Gk Catching: 41
+GK Parrying: 41
+GK Reflexes: 41
+GK Reach: 41
+Speed: 90
+Acceleration: 84
+Kicking Power: 77
+Jump: 91
+Balance: 68
+Stamina: 87
+Physical Contact: 90
+
+Skills:
+Heading
+Man Marking
+Interception
+Acrobatic Clearance
+Captaincy
+Fighting Spirit
+Blocker
+Aerial Superiority
+Sliding Tackle
+Aerial Fort
+
+Biometrics:
+Height: 185
+Weight: 79
+Arm Length: 5
+Shoulder Width: 2
+Neck Length: 4
+Chest: 5
+Neck Size: 6
+Shoulder Height: 4
+Leg Length: 11
+Thigh Size: 5
+Waist Size: 5
+Arm Size: 8
+Calf Size: 7
+Leg Coverage Radius: 180.7
+Arm Coverage Radius: 164.9
+Jumping Height: 273.9
+Torso Collision: 49.9
+Leg Length Based Height: 189
+
+Com Skills:
+Early Crosser
+
+Other Stats:
+Weak Foot Usage: 1
+Weak Foot Accuracy: 1
+Form: 1
+Injury Resistance: 0

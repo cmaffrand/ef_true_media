@@ -1,0 +1,83 @@
+Name: Jonathan David
+Position: CF
+Style: Goal Poacher
+
+Training:
+SHO: 7
+DRI: 8
+DEX: 9
+LBS: 9
+AER: 7
+Lv: 62
+Manager: Fabio Capello
+
+Attributes:
+Offensive Awareness: 94
+Ball Control: 90
+Dribbling: 91
+Tight Possession: 88
+Low Pass: 72
+Lofted Pass: 70
+Finishing: 90
+Heading: 71
+Place Kicking: 74
+Curl: 78
+Defensive Awareness: 53
+Defensive Engagement: 61
+Tackling: 49
+Aggression: 59
+Goalkeeping: 41
+Gk Catching: 41
+GK Parrying: 41
+GK Reflexes: 41
+GK Reach: 41
+Speed: 93
+Acceleration: 96
+Kicking Power: 92
+Jump: 79
+Balance: 87
+Stamina: 88
+Physical Contact: 88
+
+Skills:
+Long Range Shooting
+Double Touch
+Cut Behind & Turn
+Sole Control
+Long Range Curler
+First Time Shot
+One Touch Pass
+Outside Curler
+Fighting Spirit
+Acceleration Burst
+
+Biometrics:
+Height: 177
+Weight: 77
+Arm Length: 12
+Shoulder Width: 11
+Neck Length: 7
+Chest: 11
+Neck Size: 9
+Shoulder Height: 2
+Leg Length: 10
+Thigh Size: 10
+Waist Size: 2
+Arm Size: 6
+Calf Size: 7
+Leg Coverage Radius: 172.4
+Arm Coverage Radius: 166.5
+Jumping Height: 258.7
+Torso Collision: 50.6
+Leg Length Based Height: 180
+
+Com Skills:
+Mazing Run
+Long Ball Expert
+Early Crosser
+
+Other Stats:
+Weak Foot Usage: 2
+Weak Foot Accuracy: 3
+Form: 2
+Injury Resistance: 2

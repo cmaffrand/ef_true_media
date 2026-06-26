@@ -1,0 +1,75 @@
+Name: Gregor Kobel
+Position: GK
+Style: Offensive Goalkeeper
+
+Training:
+AER: 1
+GK1: 8
+GK2: 10
+GK3: 11
+Lv: 52
+Manager: Fabio Capello
+
+Attributes:
+Offensive Awareness: 41
+Ball Control: 60
+Dribbling: 47
+Tight Possession: 48
+Low Pass: 62
+Lofted Pass: 62
+Finishing: 42
+Heading: 54
+Place Kicking: 62
+Curl: 47
+Defensive Awareness: 49
+Defensive Engagement: 65
+Tackling: 47
+Aggression: 52
+Goalkeeping: 93
+Gk Catching: 92
+GK Parrying: 93
+GK Reflexes: 96
+GK Reach: 93
+Speed: 53
+Acceleration: 54
+Kicking Power: 75
+Jump: 79
+Balance: 59
+Stamina: 62
+Physical Contact: 69
+
+Skills:
+Gk Low Punt
+GK Long Throw
+GK Penalty Saver
+Captaincy
+GK Spirit Roar
+
+Biometrics:
+Height: 195
+Weight: 88
+Arm Length: 10
+Shoulder Width: 11
+Neck Length: 7
+Chest: 6
+Neck Size: 9
+Shoulder Height: 6
+Leg Length: 11
+Thigh Size: 7
+Waist Size: 4
+Arm Size: 4
+Calf Size: 7
+Leg Coverage Radius: 190.5
+Arm Coverage Radius: 181.2
+Jumping Height: 276.7
+Torso Collision: 55.5
+Leg Length Based Height: 199
+
+Com Skills:
+—
+
+Other Stats:
+Weak Foot Usage: 1
+Weak Foot Accuracy: 2
+Form: 1
+Injury Resistance: 0

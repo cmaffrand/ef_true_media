@@ -1,0 +1,83 @@
+Name: Memphis Depay
+Position: SS
+Style: Deep Lying Forward
+
+Training:
+SHO: 8
+PAS: 5
+DRI: 8
+DEX: 8
+LBS: 10
+AER: 2
+Lv: 62
+Manager: Fabio Capello
+
+Attributes:
+Offensive Awareness: 88
+Ball Control: 90
+Dribbling: 87
+Tight Possession: 88
+Low Pass: 85
+Lofted Pass: 80
+Finishing: 91
+Heading: 67
+Place Kicking: 84
+Curl: 85
+Defensive Awareness: 43
+Defensive Engagement: 50
+Tackling: 46
+Aggression: 51
+Goalkeeping: 41
+Gk Catching: 41
+GK Parrying: 41
+GK Reflexes: 41
+GK Reach: 41
+Speed: 88
+Acceleration: 89
+Kicking Power: 91
+Jump: 70
+Balance: 86
+Stamina: 86
+Physical Contact: 80
+
+Skills:
+Long Range Shooting
+Double Touch
+Cut Behind & Turn
+Sole Control
+Long Range Curler
+Heel Trick
+First Time Shot
+Outside Curler
+Penalty Specialist
+Phenomenal Finishing
+
+Biometrics:
+Height: 176
+Weight: 78
+Arm Length: 7
+Shoulder Width: 10
+Neck Length: 5
+Chest: 9
+Neck Size: 8
+Shoulder Height: 9
+Leg Length: 9
+Thigh Size: 10
+Waist Size: 5
+Arm Size: 8
+Calf Size: 9
+Leg Coverage Radius: 170.9
+Arm Coverage Radius: 160.3
+Jumping Height: 251.3
+Torso Collision: 50.0
+Leg Length Based Height: 178
+
+Com Skills:
+Mazing Run
+Incisive Run
+
+Other Stats:
+Weak Foot Usage: 1
+Weak Foot Accuracy: 2
+Form: 2
+Injury Resistance: 0
