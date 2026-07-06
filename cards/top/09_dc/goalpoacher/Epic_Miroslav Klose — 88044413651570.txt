@@ -1,0 +1,83 @@
+Name: Miroslav Klose
+Position: CF
+Style: Goal Poacher
+
+Training:
+SHO: 8
+PAS: 2
+DRI: 6
+DEX: 8
+LBS: 10
+AER: 7
+Lv: 62
+Manager: Fabio Capello
+
+Attributes:
+Offensive Awareness: 95
+Ball Control: 83
+Dribbling: 81
+Tight Possession: 80
+Low Pass: 65
+Lofted Pass: 65
+Finishing: 96
+Heading: 92
+Place Kicking: 66
+Curl: 78
+Defensive Awareness: 44
+Defensive Engagement: 44
+Tackling: 44
+Aggression: 45
+Goalkeeping: 41
+Gk Catching: 41
+GK Parrying: 41
+GK Reflexes: 41
+GK Reach: 41
+Speed: 90
+Acceleration: 91
+Kicking Power: 92
+Jump: 93
+Balance: 80
+Stamina: 84
+Physical Contact: 90
+
+Skills:
+Heading
+Long Range Curler
+Acrobatic Finishing
+Heel Trick
+First Time Shot
+Outside Curler
+Fighting Spirit
+Aerial Superiority
+Phenomenal Finishing
+Bullet Header
+
+Biometrics:
+Height: 184
+Weight: 84
+Arm Length: 7
+Shoulder Width: 7
+Neck Length: 7
+Chest: 4
+Neck Size: 7
+Shoulder Height: 7
+Leg Length: 7
+Thigh Size: 7
+Waist Size: 4
+Arm Size: 7
+Calf Size: 7
+Leg Coverage Radius: 177.6
+Arm Coverage Radius: 167.1
+Jumping Height: 275.0
+Torso Collision: 51.1
+Leg Length Based Height: 184
+
+Com Skills:
+Mazing Run
+Early Crosser
+
+Other Stats:
+Weak Foot Usage: 2
+Weak Foot Accuracy: 2
+Form: 1
+Injury Resistance: 1

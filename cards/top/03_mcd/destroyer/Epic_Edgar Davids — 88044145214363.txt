@@ -1,0 +1,81 @@
+Name: Edgar Davids
+Position: DMF
+Style: Destroyer
+
+Training:
+PAS: 7
+DRI: 4
+DEX: 8
+LBS: 8
+AER: 6
+DEF: 10
+Lv: 64
+Manager: Fabio Capello
+
+Attributes:
+Offensive Awareness: 77
+Ball Control: 83
+Dribbling: 80
+Tight Possession: 83
+Low Pass: 90
+Lofted Pass: 84
+Finishing: 75
+Heading: 73
+Place Kicking: 70
+Curl: 72
+Defensive Awareness: 92
+Defensive Engagement: 97
+Tackling: 96
+Aggression: 96
+Goalkeeping: 41
+Gk Catching: 41
+GK Parrying: 41
+GK Reflexes: 41
+GK Reach: 41
+Speed: 91
+Acceleration: 94
+Kicking Power: 93
+Jump: 87
+Balance: 87
+Stamina: 94
+Physical Contact: 91
+
+Skills:
+Long Range Shooting
+One Touch Pass
+Man Marking
+Track Back
+Interception
+Fighting Spirit
+Blocker
+Sliding Tackle
+Long Reach Tackle
+
+Biometrics:
+Height: 168
+Weight: 69
+Arm Length: 6
+Shoulder Width: 5
+Neck Length: 5
+Chest: 7
+Neck Size: 10
+Shoulder Height: 0
+Leg Length: 12
+Thigh Size: 5
+Waist Size: 8
+Arm Size: 6
+Calf Size: 7
+Leg Coverage Radius: 164.6
+Arm Coverage Radius: 151.2
+Jumping Height: 254.5
+Torso Collision: 46.3
+Leg Length Based Height: 173
+
+Com Skills:
+Early Crosser
+
+Other Stats:
+Weak Foot Usage: 1
+Weak Foot Accuracy: 2
+Form: 2
+Injury Resistance: 1

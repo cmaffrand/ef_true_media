@@ -1,0 +1,84 @@
+Name: Ousmane Dembele
+Position: RWF
+Style: Prolific Winger
+
+Training:
+SHO: 8
+PAS: 4
+DRI: 8
+DEX: 9
+LBS: 10
+AER: 1
+Lv: 62
+Manager: Fabio Capello
+
+Attributes:
+Offensive Awareness: 88
+Ball Control: 90
+Dribbling: 94
+Tight Possession: 91
+Low Pass: 80
+Lofted Pass: 80
+Finishing: 93
+Heading: 63
+Place Kicking: 79
+Curl: 94
+Defensive Awareness: 51
+Defensive Engagement: 65
+Tackling: 50
+Aggression: 65
+Goalkeeping: 41
+Gk Catching: 41
+GK Parrying: 41
+GK Reflexes: 41
+GK Reach: 41
+Speed: 96
+Acceleration: 96
+Kicking Power: 93
+Jump: 63
+Balance: 95
+Stamina: 90
+Physical Contact: 70
+
+Skills:
+Long Range Shooting
+Through Passing
+Double Touch
+Cut Behind & Turn
+Sole Control
+Long Range Curler
+First Time Shot
+Fighting Spirit
+Blitz Curler
+Magnetic Feet
+
+Biometrics:
+Height: 178
+Weight: 67
+Arm Length: 8
+Shoulder Width: 9
+Neck Length: 6
+Chest: 3
+Neck Size: 7
+Shoulder Height: 9
+Leg Length: 13
+Thigh Size: 5
+Waist Size: 3
+Arm Size: 3
+Calf Size: 6
+Leg Coverage Radius: 175.0
+Arm Coverage Radius: 163.0
+Jumping Height: 248.9
+Torso Collision: 49.8
+Leg Length Based Height: 184
+
+Com Skills:
+Trickster
+Long Ball Expert
+Early Crosser
+
+Other Stats:
+Weak Foot Usage: 3
+Weak Foot Accuracy: 3
+Form: 1
+Injury Resistance: 1

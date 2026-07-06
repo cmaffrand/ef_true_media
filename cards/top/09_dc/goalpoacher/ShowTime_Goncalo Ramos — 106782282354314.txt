@@ -1,0 +1,82 @@
+Name: Goncalo Ramos
+Position: CF
+Style: Goal Poacher
+
+Training:
+SHO: 6
+DRI: 4
+DEX: 8
+LBS: 12
+AER: 8
+Lv: 60
+Manager: Fabio Capello
+
+Attributes:
+Offensive Awareness: 90
+Ball Control: 83
+Dribbling: 81
+Tight Possession: 81
+Low Pass: 70
+Lofted Pass: 62
+Finishing: 92
+Heading: 91
+Place Kicking: 64
+Curl: 67
+Defensive Awareness: 52
+Defensive Engagement: 72
+Tackling: 53
+Aggression: 72
+Goalkeeping: 41
+Gk Catching: 41
+GK Parrying: 41
+GK Reflexes: 41
+GK Reach: 41
+Speed: 91
+Acceleration: 88
+Kicking Power: 93
+Jump: 90
+Balance: 80
+Stamina: 87
+Physical Contact: 89
+
+Skills:
+Super Sub
+Heading
+Long Range Curler
+Heel Trick
+First Time Shot
+One Touch Pass
+Track Back
+Fighting Spirit
+Aerial Superiority
+Bullet Header
+
+Biometrics:
+Height: 185
+Weight: 79
+Arm Length: 6
+Shoulder Width: 11
+Neck Length: 5
+Chest: 6
+Neck Size: 7
+Shoulder Height: 10
+Leg Length: 10
+Thigh Size: 10
+Waist Size: 5
+Arm Size: 4
+Calf Size: 4
+Leg Coverage Radius: 180.2
+Arm Coverage Radius: 167.7
+Jumping Height: 273.5
+Torso Collision: 52.8
+Leg Length Based Height: 188
+
+Com Skills:
+Incisive Run
+Early Crosser
+
+Other Stats:
+Weak Foot Usage: 2
+Weak Foot Accuracy: 3
+Form: 0
+Injury Resistance: 2

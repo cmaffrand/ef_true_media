@@ -1,0 +1,82 @@
+Name: Lisandro Martinez
+Position: CB
+Style: Destroyer
+
+Training:
+PAS: 1
+DEX: 6
+LBS: 8
+AER: 8
+DEF: 10
+GK1: 1
+Lv: 52
+Manager: Fabio Capello
+
+Attributes:
+Offensive Awareness: 60
+Ball Control: 76
+Dribbling: 75
+Tight Possession: 81
+Low Pass: 83
+Lofted Pass: 87
+Finishing: 67
+Heading: 76
+Place Kicking: 62
+Curl: 73
+Defensive Awareness: 95
+Defensive Engagement: 94
+Tackling: 94
+Aggression: 96
+Goalkeeping: 42
+Gk Catching: 41
+GK Parrying: 41
+GK Reflexes: 41
+GK Reach: 41
+Speed: 91
+Acceleration: 90
+Kicking Power: 87
+Jump: 93
+Balance: 82
+Stamina: 90
+Physical Contact: 91
+
+Skills:
+Through Passing
+One Touch Pass
+Weighted Pass
+Man Marking
+Interception
+Blocker
+Aerial Superiority
+Sliding Tackle
+Visionary Pass
+Long Reach Tackle
+
+Biometrics:
+Height: 175
+Weight: 77
+Arm Length: 5
+Shoulder Width: 8
+Neck Length: 5
+Chest: 6
+Neck Size: 7
+Shoulder Height: 4
+Leg Length: 5
+Thigh Size: 10
+Waist Size: 7
+Arm Size: 8
+Calf Size: 7
+Leg Coverage Radius: 167.8
+Arm Coverage Radius: 157.1
+Jumping Height: 265.5
+Torso Collision: 49.2
+Leg Length Based Height: 173
+
+Com Skills:
+Incisive Run
+
+Other Stats:
+Weak Foot Usage: 1
+Weak Foot Accuracy: 1
+Form: 1
+Injury Resistance: 0

@@ -1,0 +1,84 @@
+Name: Mario Gotze
+Position: CF
+Style: Deep Lying Forward
+
+Training:
+SHO: 6
+PAS: 8
+DRI: 8
+DEX: 8
+LBS: 10
+AER: 4
+Lv: 66
+Manager: Fabio Capello
+
+Attributes:
+Offensive Awareness: 95
+Ball Control: 95
+Dribbling: 91
+Tight Possession: 93
+Low Pass: 91
+Lofted Pass: 87
+Finishing: 91
+Heading: 67
+Place Kicking: 82
+Curl: 87
+Defensive Awareness: 55
+Defensive Engagement: 60
+Tackling: 60
+Aggression: 63
+Goalkeeping: 41
+Gk Catching: 41
+GK Parrying: 41
+GK Reflexes: 41
+GK Reach: 41
+Speed: 91
+Acceleration: 95
+Kicking Power: 91
+Jump: 68
+Balance: 93
+Stamina: 84
+Physical Contact: 76
+
+Skills:
+Through Passing
+Super Sub
+Double Touch
+Long Range Curler
+First Time Shot
+One Touch Pass
+Outside Curler
+Fighting Spirit
+Phenomenal Finishing
+Phenomenal Pass
+
+Biometrics:
+Height: 176
+Weight: 72
+Arm Length: 4
+Shoulder Width: 6
+Neck Length: 4
+Chest: 6
+Neck Size: 14
+Shoulder Height: 4
+Leg Length: 8
+Thigh Size: 9
+Waist Size: 5
+Arm Size: 10
+Calf Size: 9
+Leg Coverage Radius: 170.4
+Arm Coverage Radius: 156.6
+Jumping Height: 249.7
+Torso Collision: 48.8
+Leg Length Based Height: 177
+
+Com Skills:
+Trickster
+Mazing Run
+Early Crosser
+
+Other Stats:
+Weak Foot Usage: 1
+Weak Foot Accuracy: 2
+Form: 2
+Injury Resistance: 0
