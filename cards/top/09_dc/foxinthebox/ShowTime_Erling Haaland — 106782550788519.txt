@@ -1,0 +1,84 @@
+Name: Erling Haaland
+Position: CF
+Style: Fox In The Box
+
+Training:
+SHO: 8
+PAS: 4
+DRI: 4
+DEX: 10
+LBS: 10
+AER: 5
+Lv: 62
+Manager: Fabio Capello
+
+Attributes:
+Offensive Awareness: 93
+Ball Control: 82
+Dribbling: 83
+Tight Possession: 80
+Low Pass: 70
+Lofted Pass: 67
+Finishing: 95
+Heading: 87
+Place Kicking: 69
+Curl: 72
+Defensive Awareness: 47
+Defensive Engagement: 56
+Tackling: 43
+Aggression: 62
+Goalkeeping: 41
+Gk Catching: 41
+GK Parrying: 41
+GK Reflexes: 41
+GK Reach: 41
+Speed: 94
+Acceleration: 91
+Kicking Power: 97
+Jump: 84
+Balance: 73
+Stamina: 88
+Physical Contact: 92
+
+Skills:
+Long Range Shooting
+Heading
+Long Range Curler
+Acrobatic Finishing
+First Time Shot
+Track Back
+Fighting Spirit
+Aerial Superiority
+Bullet Header
+Low Screamer
+
+Biometrics:
+Height: 195
+Weight: 87
+Arm Length: 6
+Shoulder Width: 8
+Neck Length: 7
+Chest: 8
+Neck Size: 9
+Shoulder Height: 3
+Leg Length: 7
+Thigh Size: 7
+Waist Size: 7
+Arm Size: 7
+Calf Size: 7
+Leg Coverage Radius: 188.2
+Arm Coverage Radius: 176.1
+Jumping Height: 280.0
+Torso Collision: 54.7
+Leg Length Based Height: 195
+
+Com Skills:
+Incisive Run
+Long Ball Expert
+Early Crosser
+
+Other Stats:
+Weak Foot Usage: 0
+Weak Foot Accuracy: 2
+Form: 2
+Injury Resistance: 0

@@ -1,0 +1,82 @@
+Name: Patrick Vieira
+Position: DMF
+Style: Anchor Man
+
+Training:
+PAS: 5
+DRI: 3
+DEX: 9
+LBS: 9
+AER: 4
+DEF: 11
+Lv: 64
+Manager: Fabio Capello
+
+Attributes:
+Offensive Awareness: 81
+Ball Control: 80
+Dribbling: 77
+Tight Possession: 80
+Low Pass: 88
+Lofted Pass: 85
+Finishing: 70
+Heading: 84
+Place Kicking: 62
+Curl: 68
+Defensive Awareness: 90
+Defensive Engagement: 95
+Tackling: 96
+Aggression: 95
+Goalkeeping: 41
+Gk Catching: 41
+GK Parrying: 41
+GK Reflexes: 41
+GK Reach: 41
+Speed: 90
+Acceleration: 84
+Kicking Power: 85
+Jump: 81
+Balance: 79
+Stamina: 96
+Physical Contact: 91
+
+Skills:
+Through Passing
+One Touch Pass
+Man Marking
+Interception
+Fighting Spirit
+Blocker
+Aerial Superiority
+Sliding Tackle
+Visionary Pass
+Long Reach Tackle
+
+Biometrics:
+Height: 192
+Weight: 82
+Arm Length: 14
+Shoulder Width: 8
+Neck Length: 6
+Chest: 5
+Neck Size: 5
+Shoulder Height: 10
+Leg Length: 14
+Thigh Size: 7
+Waist Size: 2
+Arm Size: 7
+Calf Size: 7
+Leg Coverage Radius: 189.3
+Arm Coverage Radius: 182.2
+Jumping Height: 274.8
+Torso Collision: 53.5
+Leg Length Based Height: 199
+
+Com Skills:
+Early Crosser
+
+Other Stats:
+Weak Foot Usage: 1
+Weak Foot Accuracy: 2
+Form: 2
+Injury Resistance: 1

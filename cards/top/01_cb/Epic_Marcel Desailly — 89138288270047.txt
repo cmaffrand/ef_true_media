@@ -1,0 +1,82 @@
+Name: Marcel Desailly
+Position: CB
+Style: Destroyer
+
+Training:
+DRI: 1
+DEX: 6
+LBS: 8
+AER: 8
+DEF: 10
+GK1: 1
+Lv: 52
+Manager: Fabio Capello
+
+Attributes:
+Offensive Awareness: 60
+Ball Control: 70
+Dribbling: 72
+Tight Possession: 70
+Low Pass: 70
+Lofted Pass: 70
+Finishing: 55
+Heading: 80
+Place Kicking: 51
+Curl: 53
+Defensive Awareness: 97
+Defensive Engagement: 95
+Tackling: 99
+Aggression: 96
+Goalkeeping: 42
+Gk Catching: 41
+GK Parrying: 41
+GK Reflexes: 41
+GK Reach: 41
+Speed: 94
+Acceleration: 92
+Kicking Power: 85
+Jump: 91
+Balance: 74
+Stamina: 90
+Physical Contact: 93
+
+Skills:
+One Touch Pass
+Low Lofted Pass
+Man Marking
+Interception
+Fighting Spirit
+Blocker
+Aerial Superiority
+Sliding Tackle
+Aerial Fort
+Shadow Hunt
+
+Biometrics:
+Height: 185
+Weight: 85
+Arm Length: 7
+Shoulder Width: 9
+Neck Length: 7
+Chest: 7
+Neck Size: 9
+Shoulder Height: 7
+Leg Length: 13
+Thigh Size: 7
+Waist Size: 2
+Arm Size: 2
+Calf Size: 2
+Leg Coverage Radius: 181.9
+Arm Coverage Radius: 168.4
+Jumping Height: 274.7
+Torso Collision: 52.0
+Leg Length Based Height: 191
+
+Com Skills:
+Early Crosser
+
+Other Stats:
+Weak Foot Usage: 1
+Weak Foot Accuracy: 2
+Form: 2
+Injury Resistance: 2

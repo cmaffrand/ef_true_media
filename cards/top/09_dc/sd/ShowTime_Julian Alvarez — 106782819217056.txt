@@ -1,0 +1,84 @@
+Name: Julian Alvarez
+Position: CF
+Style: Dummy Runner
+
+Training:
+SHO: 9
+PAS: 3
+DRI: 8
+DEX: 8
+LBS: 11
+AER: 3
+Lv: 66
+Manager: Fabio Capello
+
+Attributes:
+Offensive Awareness: 92
+Ball Control: 90
+Dribbling: 92
+Tight Possession: 90
+Low Pass: 82
+Lofted Pass: 76
+Finishing: 94
+Heading: 67
+Place Kicking: 90
+Curl: 96
+Defensive Awareness: 57
+Defensive Engagement: 70
+Tackling: 58
+Aggression: 76
+Goalkeeping: 41
+Gk Catching: 41
+GK Parrying: 41
+GK Reflexes: 41
+GK Reach: 41
+Speed: 94
+Acceleration: 93
+Kicking Power: 95
+Jump: 69
+Balance: 92
+Stamina: 95
+Physical Contact: 81
+
+Skills:
+Long Range Shooting
+Through Passing
+Double Touch
+Sole Control
+Long Range Curler
+First Time Shot
+One Touch Pass
+Fighting Spirit
+Blitz Curler
+Magnetic Feet
+
+Biometrics:
+Height: 170
+Weight: 71
+Arm Length: 7
+Shoulder Width: 12
+Neck Length: 4
+Chest: 11
+Neck Size: 7
+Shoulder Height: 11
+Leg Length: 10
+Thigh Size: 11
+Waist Size: 10
+Arm Size: 11
+Calf Size: 9
+Leg Coverage Radius: 165.6
+Arm Coverage Radius: 155.2
+Jumping Height: 244.4
+Torso Collision: 49.2
+Leg Length Based Height: 173
+
+Com Skills:
+Trickster
+Incisive Run
+Early Crosser
+
+Other Stats:
+Weak Foot Usage: 2
+Weak Foot Accuracy: 2
+Form: 2
+Injury Resistance: 2

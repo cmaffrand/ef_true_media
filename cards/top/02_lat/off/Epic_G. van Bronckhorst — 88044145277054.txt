@@ -1,0 +1,83 @@
+Name: G. van Bronckhorst
+Position: LB
+Style: Offensive Wingback
+
+Training:
+SHO: 8
+PAS: 6
+DRI: 4
+DEX: 8
+LBS: 10
+AER: 4
+DEF: 7
+Lv: 68
+Manager: Fabio Capello
+
+Attributes:
+Offensive Awareness: 78
+Ball Control: 81
+Dribbling: 80
+Tight Possession: 82
+Low Pass: 87
+Lofted Pass: 90
+Finishing: 79
+Heading: 75
+Place Kicking: 82
+Curl: 88
+Defensive Awareness: 86
+Defensive Engagement: 87
+Tackling: 83
+Aggression: 82
+Goalkeeping: 41
+Gk Catching: 41
+GK Parrying: 41
+GK Reflexes: 41
+GK Reach: 41
+Speed: 94
+Acceleration: 91
+Kicking Power: 92
+Jump: 80
+Balance: 82
+Stamina: 96
+Physical Contact: 87
+
+Skills:
+Through Passing
+Pinpoint Crossing
+One Touch Pass
+Weighted Pass
+Man Marking
+Interception
+Captaincy
+Blocker
+Edged Crossing
+Low Screamer
+
+Biometrics:
+Height: 177
+Weight: 73
+Arm Length: 7
+Shoulder Width: 8
+Neck Length: 5
+Chest: 5
+Neck Size: 7
+Shoulder Height: 9
+Leg Length: 10
+Thigh Size: 6
+Waist Size: 5
+Arm Size: 6
+Calf Size: 5
+Leg Coverage Radius: 172.4
+Arm Coverage Radius: 160.9
+Jumping Height: 258.9
+Torso Collision: 49.4
+Leg Length Based Height: 180
+
+Com Skills:
+Trickster
+
+Other Stats:
+Weak Foot Usage: 1
+Weak Foot Accuracy: 1
+Form: 2
+Injury Resistance: 2

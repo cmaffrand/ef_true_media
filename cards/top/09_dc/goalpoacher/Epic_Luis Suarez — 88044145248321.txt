@@ -1,0 +1,84 @@
+Name: Luis Suarez
+Position: CF
+Style: Goal Poacher
+
+Training:
+SHO: 7
+PAS: 2
+DRI: 8
+DEX: 8
+LBS: 10
+AER: 8
+Lv: 66
+Manager: Fabio Capello
+
+Attributes:
+Offensive Awareness: 94
+Ball Control: 91
+Dribbling: 90
+Tight Possession: 92
+Low Pass: 75
+Lofted Pass: 70
+Finishing: 93
+Heading: 79
+Place Kicking: 83
+Curl: 87
+Defensive Awareness: 49
+Defensive Engagement: 52
+Tackling: 49
+Aggression: 53
+Goalkeeping: 62
+Gk Catching: 42
+GK Parrying: 74
+GK Reflexes: 49
+GK Reach: 43
+Speed: 92
+Acceleration: 93
+Kicking Power: 95
+Jump: 79
+Balance: 91
+Stamina: 88
+Physical Contact: 90
+
+Skills:
+Long Range Shooting
+Double Touch
+Heading
+Long Range Curler
+First Time Shot
+Outside Curler
+Fighting Spirit
+Aerial Superiority
+Phenomenal Finishing
+Attacking Surge
+
+Biometrics:
+Height: 182
+Weight: 83
+Arm Length: 4
+Shoulder Width: 12
+Neck Length: 4
+Chest: 10
+Neck Size: 8
+Shoulder Height: 4
+Leg Length: 6
+Thigh Size: 9
+Waist Size: 5
+Arm Size: 7
+Calf Size: 8
+Leg Coverage Radius: 175.1
+Arm Coverage Radius: 163.0
+Jumping Height: 263.0
+Torso Collision: 52.3
+Leg Length Based Height: 181
+
+Com Skills:
+Mazing Run
+Long Ball Expert
+Early Crosser
+
+Other Stats:
+Weak Foot Usage: 2
+Weak Foot Accuracy: 3
+Form: 2
+Injury Resistance: 2

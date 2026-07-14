@@ -1,0 +1,84 @@
+Name: B. Schweinsteiger
+Position: DMF
+Style: Box To Box
+
+Training:
+SHO: 6
+PAS: 4
+DRI: 4
+DEX: 8
+LBS: 8
+AER: 8
+DEF: 8
+Lv: 64
+Manager: Fabio Capello
+
+Attributes:
+Offensive Awareness: 80
+Ball Control: 81
+Dribbling: 80
+Tight Possession: 83
+Low Pass: 87
+Lofted Pass: 87
+Finishing: 81
+Heading: 80
+Place Kicking: 87
+Curl: 87
+Defensive Awareness: 91
+Defensive Engagement: 91
+Tackling: 88
+Aggression: 90
+Goalkeeping: 41
+Gk Catching: 41
+GK Parrying: 41
+GK Reflexes: 41
+GK Reach: 41
+Speed: 87
+Acceleration: 89
+Kicking Power: 90
+Jump: 82
+Balance: 82
+Stamina: 93
+Physical Contact: 92
+
+Skills:
+Through Passing
+One Touch Pass
+Weighted Pass
+Low Lofted Pass
+Interception
+Fighting Spirit
+Blocker
+Aerial Superiority
+Phenomenal Pass
+Long Reach Tackle
+
+Biometrics:
+Height: 183
+Weight: 79
+Arm Length: 6
+Shoulder Width: 10
+Neck Length: 7
+Chest: 5
+Neck Size: 10
+Shoulder Height: 7
+Leg Length: 7
+Thigh Size: 7
+Waist Size: 5
+Arm Size: 8
+Calf Size: 7
+Leg Coverage Radius: 176.6
+Arm Coverage Radius: 165.7
+Jumping Height: 266.7
+Torso Collision: 51.7
+Leg Length Based Height: 183
+
+Com Skills:
+Incisive Run
+Early Crosser
+
+Other Stats:
+Weak Foot Usage: 2
+Weak Foot Accuracy: 2
+Form: 2
+Injury Resistance: 1

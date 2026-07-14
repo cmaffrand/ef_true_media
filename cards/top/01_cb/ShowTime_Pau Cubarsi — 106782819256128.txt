@@ -1,0 +1,81 @@
+Name: Pau Cubarsi
+Position: CB
+Style: Build Up
+
+Training:
+DEX: 7
+LBS: 9
+AER: 8
+DEF: 10
+GK1: 1
+Lv: 56
+Manager: Fabio Capello
+
+Attributes:
+Offensive Awareness: 58
+Ball Control: 80
+Dribbling: 75
+Tight Possession: 80
+Low Pass: 84
+Lofted Pass: 80
+Finishing: 46
+Heading: 78
+Place Kicking: 58
+Curl: 65
+Defensive Awareness: 95
+Defensive Engagement: 96
+Tackling: 93
+Aggression: 94
+Goalkeeping: 42
+Gk Catching: 41
+GK Parrying: 41
+GK Reflexes: 41
+GK Reach: 41
+Speed: 90
+Acceleration: 84
+Kicking Power: 88
+Jump: 92
+Balance: 76
+Stamina: 91
+Physical Contact: 90
+
+Skills:
+Long Range Shooting
+Through Passing
+One Touch Pass
+Low Lofted Pass
+Man Marking
+Interception
+Fighting Spirit
+Blocker
+Visionary Pass
+Long Reach Tackle
+
+Biometrics:
+Height: 184
+Weight: 75
+Arm Length: 5
+Shoulder Width: 8
+Neck Length: 5
+Chest: 6
+Neck Size: 7
+Shoulder Height: 7
+Leg Length: 9
+Thigh Size: 7
+Waist Size: 7
+Arm Size: 8
+Calf Size: 7
+Leg Coverage Radius: 178.7
+Arm Coverage Radius: 165.2
+Jumping Height: 273.8
+Torso Collision: 51.6
+Leg Length Based Height: 186
+
+Com Skills:
+Early Crosser
+
+Other Stats:
+Weak Foot Usage: 3
+Weak Foot Accuracy: 3
+Form: 1
+Injury Resistance: 1
