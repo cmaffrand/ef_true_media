@@ -1,0 +1,81 @@
+Name: David Villa
+Position: CF
+Style: Dummy Runner
+
+Training:
+SHO: 7
+PAS: 2
+DRI: 8
+DEX: 9
+LBS: 10
+AER: 3
+Lv: 60
+Manager: Fabio Capello
+
+Attributes:
+Offensive Awareness: 96
+Ball Control: 91
+Dribbling: 95
+Tight Possession: 90
+Low Pass: 76
+Lofted Pass: 67
+Finishing: 93
+Heading: 74
+Place Kicking: 80
+Curl: 90
+Defensive Awareness: 50
+Defensive Engagement: 55
+Tackling: 51
+Aggression: 53
+Goalkeeping: 41
+Gk Catching: 41
+GK Parrying: 41
+GK Reflexes: 41
+GK Reach: 41
+Speed: 93
+Acceleration: 93
+Kicking Power: 94
+Jump: 73
+Balance: 85
+Stamina: 90
+Physical Contact: 75
+
+Skills:
+Long Range Shooting
+Double Touch
+Cut Behind & Turn
+Sole Control
+Long Range Curler
+Chip Shot Control
+First Time Shot
+Penalty Specialist
+Blitz Curler
+
+Biometrics:
+Height: 174
+Weight: 68
+Arm Length: 7
+Shoulder Width: 7
+Neck Length: 9
+Chest: 5
+Neck Size: 6
+Shoulder Height: 10
+Leg Length: 7
+Thigh Size: 6
+Waist Size: 6
+Arm Size: 6
+Calf Size: 5
+Leg Coverage Radius: 167.9
+Arm Coverage Radius: 158.0
+Jumping Height: 252.3
+Torso Collision: 48.4
+Leg Length Based Height: 174
+
+Com Skills:
+—
+
+Other Stats:
+Weak Foot Usage: 1
+Weak Foot Accuracy: 3
+Form: 2
+Injury Resistance: 1

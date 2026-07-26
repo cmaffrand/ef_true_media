@@ -1,0 +1,83 @@
+Name: Bradley Barcola
+Position: LWF
+Style: Prolific Winger
+
+Training:
+SHO: 5
+PAS: 4
+DRI: 7
+DEX: 8
+LBS: 12
+AER: 4
+Lv: 60
+Manager: Fabio Capello
+
+Attributes:
+Offensive Awareness: 85
+Ball Control: 91
+Dribbling: 93
+Tight Possession: 90
+Low Pass: 76
+Lofted Pass: 74
+Finishing: 83
+Heading: 62
+Place Kicking: 60
+Curl: 80
+Defensive Awareness: 51
+Defensive Engagement: 59
+Tackling: 49
+Aggression: 58
+Goalkeeping: 41
+Gk Catching: 41
+GK Parrying: 41
+GK Reflexes: 41
+GK Reach: 41
+Speed: 99
+Acceleration: 96
+Kicking Power: 90
+Jump: 66
+Balance: 90
+Stamina: 91
+Physical Contact: 75
+
+Skills:
+Through Passing
+Super Sub
+Double Touch
+Cut Behind & Turn
+Sole Control
+Long Range Curler
+Chip Shot Control
+First Time Shot
+Outside Curler
+Acceleration Burst
+
+Biometrics:
+Height: 182
+Weight: 73
+Arm Length: 9
+Shoulder Width: 8
+Neck Length: 7
+Chest: 7
+Neck Size: 7
+Shoulder Height: 8
+Leg Length: 9
+Thigh Size: 7
+Waist Size: 7
+Arm Size: 6
+Calf Size: 5
+Leg Coverage Radius: 176.7
+Arm Coverage Radius: 167.5
+Jumping Height: 255.2
+Torso Collision: 51.0
+Leg Length Based Height: 184
+
+Com Skills:
+Mazing Run
+Long Ball Expert
+
+Other Stats:
+Weak Foot Usage: 2
+Weak Foot Accuracy: 1
+Form: 1
+Injury Resistance: 2
