@@ -1,0 +1,84 @@
+Name: Hamdi Fathy
+Position: DMF
+Style: Destroyer
+
+Training:
+PAS: 4
+DRI: 6
+DEX: 8
+LBS: 10
+AER: 4
+DEF: 11
+GK1: 1
+Lv: 68
+Manager: Fabio Capello
+
+Attributes:
+Offensive Awareness: 71
+Ball Control: 82
+Dribbling: 80
+Tight Possession: 82
+Low Pass: 80
+Lofted Pass: 82
+Finishing: 63
+Heading: 72
+Place Kicking: 66
+Curl: 65
+Defensive Awareness: 94
+Defensive Engagement: 93
+Tackling: 94
+Aggression: 97
+Goalkeeping: 42
+Gk Catching: 41
+GK Parrying: 41
+GK Reflexes: 41
+GK Reach: 41
+Speed: 90
+Acceleration: 88
+Kicking Power: 84
+Jump: 81
+Balance: 85
+Stamina: 96
+Physical Contact: 83
+
+Skills:
+Long Range Shooting
+Long Range Curler
+One Touch Pass
+Man Marking
+Track Back
+Interception
+Fighting Spirit
+Blocker
+Sliding Tackle
+Long Reach Tackle
+
+Biometrics:
+Height: 180
+Weight: 77
+Arm Length: 6
+Shoulder Width: 6
+Neck Length: 7
+Chest: 6
+Neck Size: 10
+Shoulder Height: 7
+Leg Length: 7
+Thigh Size: 8
+Waist Size: 7
+Arm Size: 8
+Calf Size: 8
+Leg Coverage Radius: 173.7
+Arm Coverage Radius: 162.2
+Jumping Height: 263.1
+Torso Collision: 49.9
+Leg Length Based Height: 180
+
+Com Skills:
+Incisive Run
+Early Crosser
+
+Other Stats:
+Weak Foot Usage: 1
+Weak Foot Accuracy: 1
+Form: 1
+Injury Resistance: 1

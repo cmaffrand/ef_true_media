@@ -1,0 +1,84 @@
+Name: Enzo Fernandez
+Position: CMF
+Style: Destroyer
+
+Training:
+SHO: 6
+PAS: 5
+DRI: 7
+DEX: 8
+LBS: 10
+AER: 4
+DEF: 4
+Lv: 62
+Manager: Fabio Capello
+
+Attributes:
+Offensive Awareness: 82
+Ball Control: 90
+Dribbling: 87
+Tight Possession: 92
+Low Pass: 92
+Lofted Pass: 90
+Finishing: 85
+Heading: 72
+Place Kicking: 78
+Curl: 80
+Defensive Awareness: 77
+Defensive Engagement: 82
+Tackling: 81
+Aggression: 89
+Goalkeeping: 41
+Gk Catching: 41
+GK Parrying: 41
+GK Reflexes: 41
+GK Reach: 41
+Speed: 87
+Acceleration: 90
+Kicking Power: 94
+Jump: 72
+Balance: 88
+Stamina: 94
+Physical Contact: 85
+
+Skills:
+Long Range Shooting
+Through Passing
+Sole Control
+Heading
+Long Range Curler
+First Time Shot
+One Touch Pass
+Fighting Spirit
+Low Screamer
+Long Reach Tackle
+
+Biometrics:
+Height: 178
+Weight: 77
+Arm Length: 5
+Shoulder Width: 7
+Neck Length: 4
+Chest: 9
+Neck Size: 12
+Shoulder Height: 9
+Leg Length: 8
+Thigh Size: 8
+Waist Size: 9
+Arm Size: 7
+Calf Size: 8
+Leg Coverage Radius: 172.3
+Arm Coverage Radius: 159.6
+Jumping Height: 254.4
+Torso Collision: 49.8
+Leg Length Based Height: 179
+
+Com Skills:
+Incisive Run
+Early Crosser
+
+Other Stats:
+Weak Foot Usage: 1
+Weak Foot Accuracy: 2
+Form: 2
+Injury Resistance: 2

@@ -1,0 +1,82 @@
+Name: Darren Fletcher
+Position: DMF
+Style: Destroyer
+
+Training:
+PAS: 8
+DRI: 5
+DEX: 8
+LBS: 8
+AER: 4
+DEF: 10
+Lv: 64
+Manager: Fabio Capello
+
+Attributes:
+Offensive Awareness: 78
+Ball Control: 82
+Dribbling: 80
+Tight Possession: 80
+Low Pass: 88
+Lofted Pass: 88
+Finishing: 66
+Heading: 81
+Place Kicking: 65
+Curl: 66
+Defensive Awareness: 93
+Defensive Engagement: 91
+Tackling: 93
+Aggression: 92
+Goalkeeping: 41
+Gk Catching: 41
+GK Parrying: 41
+GK Reflexes: 41
+GK Reach: 41
+Speed: 90
+Acceleration: 88
+Kicking Power: 84
+Jump: 81
+Balance: 81
+Stamina: 95
+Physical Contact: 84
+
+Skills:
+Super Sub
+One Touch Pass
+Weighted Pass
+Man Marking
+Track Back
+Interception
+Blocker
+Aerial Superiority
+Sliding Tackle
+Phenomenal Pass
+
+Biometrics:
+Height: 183
+Weight: 83
+Arm Length: 6
+Shoulder Width: 9
+Neck Length: 5
+Chest: 3
+Neck Size: 9
+Shoulder Height: 10
+Leg Length: 7
+Thigh Size: 7
+Waist Size: 4
+Arm Size: 7
+Calf Size: 7
+Leg Coverage Radius: 176.6
+Arm Coverage Radius: 165.5
+Jumping Height: 265.5
+Torso Collision: 51.3
+Leg Length Based Height: 183
+
+Com Skills:
+—
+
+Other Stats:
+Weak Foot Usage: 1
+Weak Foot Accuracy: 1
+Form: 1
+Injury Resistance: 0

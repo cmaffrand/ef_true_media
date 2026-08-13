@@ -1,0 +1,82 @@
+Name: Shinji Ono
+Position: AMF
+Style: Hole Player
+
+Training:
+SHO: 4
+PAS: 6
+DRI: 7
+DEX: 8
+LBS: 12
+AER: 4
+Lv: 62
+Manager: Fabio Capello
+
+Attributes:
+Offensive Awareness: 80
+Ball Control: 95
+Dribbling: 88
+Tight Possession: 92
+Low Pass: 87
+Lofted Pass: 89
+Finishing: 81
+Heading: 65
+Place Kicking: 80
+Curl: 81
+Defensive Awareness: 59
+Defensive Engagement: 61
+Tackling: 62
+Aggression: 60
+Goalkeeping: 41
+Gk Catching: 41
+GK Parrying: 41
+GK Reflexes: 41
+GK Reach: 41
+Speed: 90
+Acceleration: 88
+Kicking Power: 88
+Jump: 68
+Balance: 89
+Stamina: 88
+Physical Contact: 76
+
+Skills:
+Through Passing
+Double Touch
+Marseille Turn
+Sole Control
+Long Range Curler
+Chip Shot Control
+One Touch Pass
+Weighted Pass
+Outside Curler
+
+Biometrics:
+Height: 175
+Weight: 75
+Arm Length: 3
+Shoulder Width: 8
+Neck Length: 6
+Chest: 2
+Neck Size: 6
+Shoulder Height: 4
+Leg Length: 8
+Thigh Size: 10
+Waist Size: 5
+Arm Size: 7
+Calf Size: 9
+Leg Coverage Radius: 169.4
+Arm Coverage Radius: 155.1
+Jumping Height: 249.2
+Torso Collision: 48.9
+Leg Length Based Height: 176
+
+Com Skills:
+Mazing Run
+Long Ball Expert
+
+Other Stats:
+Weak Foot Usage: 3
+Weak Foot Accuracy: 3
+Form: 1
+Injury Resistance: 1

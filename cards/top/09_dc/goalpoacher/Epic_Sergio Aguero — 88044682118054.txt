@@ -1,0 +1,84 @@
+Name: Sergio Aguero
+Position: CF
+Style: Goal Poacher
+
+Training:
+SHO: 6
+PAS: 3
+DRI: 8
+DEX: 9
+LBS: 10
+AER: 4
+Lv: 60
+Manager: Fabio Capello
+
+Attributes:
+Offensive Awareness: 93
+Ball Control: 96
+Dribbling: 93
+Tight Possession: 91
+Low Pass: 73
+Lofted Pass: 70
+Finishing: 92
+Heading: 74
+Place Kicking: 71
+Curl: 80
+Defensive Awareness: 52
+Defensive Engagement: 49
+Tackling: 49
+Aggression: 51
+Goalkeeping: 41
+Gk Catching: 41
+GK Parrying: 41
+GK Reflexes: 41
+GK Reach: 41
+Speed: 92
+Acceleration: 92
+Kicking Power: 92
+Jump: 73
+Balance: 90
+Stamina: 87
+Physical Contact: 81
+
+Skills:
+Long Range Shooting
+Double Touch
+Cut Behind & Turn
+Long Range Curler
+Dipping Shot
+First Time Shot
+Outside Curler
+Fighting Spirit
+Blitz Curler
+Low Screamer
+
+Biometrics:
+Height: 173
+Weight: 70
+Arm Length: 3
+Shoulder Width: 7
+Neck Length: 7
+Chest: 7
+Neck Size: 13
+Shoulder Height: 8
+Leg Length: 8
+Thigh Size: 14
+Waist Size: 9
+Arm Size: 9
+Calf Size: 14
+Leg Coverage Radius: 167.5
+Arm Coverage Radius: 153.1
+Jumping Height: 250.8
+Torso Collision: 48.6
+Leg Length Based Height: 174
+
+Com Skills:
+Mazing Run
+Long Ball Expert
+Early Crosser
+
+Other Stats:
+Weak Foot Usage: 2
+Weak Foot Accuracy: 2
+Form: 2
+Injury Resistance: 1

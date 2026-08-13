@@ -1,0 +1,84 @@
+Name: Marco Reus
+Position: LWF
+Style: Prolific Winger
+
+Training:
+SHO: 8
+PAS: 4
+DRI: 8
+DEX: 11
+LBS: 9
+AER: 2
+Lv: 66
+Manager: Fabio Capello
+
+Attributes:
+Offensive Awareness: 93
+Ball Control: 93
+Dribbling: 90
+Tight Possession: 92
+Low Pass: 84
+Lofted Pass: 81
+Finishing: 88
+Heading: 56
+Place Kicking: 78
+Curl: 85
+Defensive Awareness: 52
+Defensive Engagement: 55
+Tackling: 51
+Aggression: 54
+Goalkeeping: 41
+Gk Catching: 41
+GK Parrying: 41
+GK Reflexes: 41
+GK Reach: 41
+Speed: 90
+Acceleration: 90
+Kicking Power: 87
+Jump: 60
+Balance: 92
+Stamina: 84
+Physical Contact: 75
+
+Skills:
+Long Range Shooting
+Through Passing
+Double Touch
+Marseille Turn
+Cut Behind & Turn
+Long Range Curler
+First Time Shot
+One Touch Pass
+Outside Curler
+Visionary Pass
+
+Biometrics:
+Height: 180
+Weight: 71
+Arm Length: 7
+Shoulder Width: 8
+Neck Length: 6
+Chest: 0
+Neck Size: 7
+Shoulder Height: 7
+Leg Length: 7
+Thigh Size: 4
+Waist Size: 2
+Arm Size: 6
+Calf Size: 4
+Leg Coverage Radius: 173.7
+Arm Coverage Radius: 163.6
+Jumping Height: 248.9
+Torso Collision: 49.9
+Leg Length Based Height: 180
+
+Com Skills:
+Mazing Run
+Incisive Run
+Long Ball Expert
+
+Other Stats:
+Weak Foot Usage: 2
+Weak Foot Accuracy: 2
+Form: 1
+Injury Resistance: 0

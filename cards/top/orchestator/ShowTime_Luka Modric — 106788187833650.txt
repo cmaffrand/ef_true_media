@@ -1,0 +1,85 @@
+Name: Luka Modric
+Position: CMF
+Style: Orchestrator
+
+Training:
+SHO: 5
+PAS: 6
+DRI: 8
+DEX: 8
+LBS: 11
+AER: 3
+DEF: 5
+Lv: 68
+Manager: Fabio Capello
+
+Attributes:
+Offensive Awareness: 80
+Ball Control: 95
+Dribbling: 90
+Tight Possession: 99
+Low Pass: 95
+Lofted Pass: 92
+Finishing: 70
+Heading: 58
+Place Kicking: 81
+Curl: 90
+Defensive Awareness: 82
+Defensive Engagement: 83
+Tackling: 84
+Aggression: 79
+Goalkeeping: 41
+Gk Catching: 41
+GK Parrying: 41
+GK Reflexes: 41
+GK Reach: 41
+Speed: 87
+Acceleration: 91
+Kicking Power: 90
+Jump: 64
+Balance: 92
+Stamina: 93
+Physical Contact: 76
+
+Skills:
+Long Range Shooting
+Through Passing
+Double Touch
+One Touch Pass
+Weighted Pass
+Outside Curler
+Interception
+Captaincy
+Phenomenal Pass
+Attack Trigger
+
+Biometrics:
+Height: 172
+Weight: 66
+Arm Length: 7
+Shoulder Width: 7
+Neck Length: 6
+Chest: 5
+Neck Size: 8
+Shoulder Height: 9
+Leg Length: 9
+Thigh Size: 8
+Waist Size: 5
+Arm Size: 5
+Calf Size: 10
+Leg Coverage Radius: 167.0
+Arm Coverage Radius: 156.2
+Jumping Height: 243.6
+Torso Collision: 47.8
+Leg Length Based Height: 174
+
+Com Skills:
+Trickster
+Mazing Run
+Incisive Run
+
+Other Stats:
+Weak Foot Usage: 2
+Weak Foot Accuracy: 2
+Form: 2
+Injury Resistance: 1

@@ -1,0 +1,83 @@
+Name: John O Shea
+Position: DMF
+Style: Destroyer
+
+Training:
+SHO: 3
+PAS: 7
+DRI: 5
+DEX: 9
+LBS: 9
+AER: 4
+DEF: 9
+Lv: 68
+Manager: Fabio Capello
+
+Attributes:
+Offensive Awareness: 82
+Ball Control: 83
+Dribbling: 80
+Tight Possession: 80
+Low Pass: 87
+Lofted Pass: 88
+Finishing: 76
+Heading: 81
+Place Kicking: 62
+Curl: 70
+Defensive Awareness: 91
+Defensive Engagement: 87
+Tackling: 88
+Aggression: 84
+Goalkeeping: 41
+Gk Catching: 41
+GK Parrying: 41
+GK Reflexes: 41
+GK Reach: 41
+Speed: 88
+Acceleration: 88
+Kicking Power: 81
+Jump: 85
+Balance: 80
+Stamina: 96
+Physical Contact: 81
+
+Skills:
+Super Sub
+Heading
+One Touch Pass
+Man Marking
+Interception
+Acrobatic Clearance
+Fighting Spirit
+Blocker
+Aerial Superiority
+Long Reach Tackle
+
+Biometrics:
+Height: 191
+Weight: 84
+Arm Length: 9
+Shoulder Width: 9
+Neck Length: 8
+Chest: 9
+Neck Size: 9
+Shoulder Height: 5
+Leg Length: 11
+Thigh Size: 8
+Waist Size: 8
+Arm Size: 8
+Calf Size: 8
+Leg Coverage Radius: 186.6
+Arm Coverage Radius: 176.0
+Jumping Height: 277.0
+Torso Collision: 54.0
+Leg Length Based Height: 195
+
+Com Skills:
+Early Crosser
+
+Other Stats:
+Weak Foot Usage: 2
+Weak Foot Accuracy: 2
+Form: 2
+Injury Resistance: 2

@@ -1,0 +1,82 @@
+Name: Dennis Bergkamp
+Position: AMF
+Style: Creative Playmaker
+
+Training:
+SHO: 6
+PAS: 6
+DRI: 8
+DEX: 9
+LBS: 8
+AER: 1
+Lv: 56
+Manager: Fabio Capello
+
+Attributes:
+Offensive Awareness: 89
+Ball Control: 92
+Dribbling: 90
+Tight Possession: 94
+Low Pass: 91
+Lofted Pass: 90
+Finishing: 90
+Heading: 68
+Place Kicking: 79
+Curl: 86
+Defensive Awareness: 47
+Defensive Engagement: 47
+Tackling: 45
+Aggression: 51
+Goalkeeping: 41
+Gk Catching: 41
+GK Parrying: 41
+GK Reflexes: 41
+GK Reach: 41
+Speed: 84
+Acceleration: 84
+Kicking Power: 88
+Jump: 68
+Balance: 83
+Stamina: 84
+Physical Contact: 76
+
+Skills:
+Through Passing
+Double Touch
+Marseille Turn
+Sombrero
+Sole Control
+Long Range Curler
+First Time Shot
+One Touch Pass
+Outside Curler
+Momentum Dribbling
+
+Biometrics:
+Height: 183
+Weight: 79
+Arm Length: 6
+Shoulder Width: 12
+Neck Length: 9
+Chest: 3
+Neck Size: 7
+Shoulder Height: 0
+Leg Length: 9
+Thigh Size: 8
+Waist Size: 2
+Arm Size: 3
+Calf Size: 8
+Leg Coverage Radius: 177.7
+Arm Coverage Radius: 166.0
+Jumping Height: 258.0
+Torso Collision: 52.2
+Leg Length Based Height: 185
+
+Com Skills:
+Mazing Run
+
+Other Stats:
+Weak Foot Usage: 1
+Weak Foot Accuracy: 2
+Form: 2
+Injury Resistance: 1

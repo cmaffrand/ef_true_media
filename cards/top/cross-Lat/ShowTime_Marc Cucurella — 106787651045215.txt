@@ -1,0 +1,85 @@
+Name: Marc Cucurella
+Position: LB
+Style: Offensive Wingback
+
+Training:
+SHO: 7
+PAS: 7
+DRI: 7
+DEX: 6
+LBS: 7
+AER: 4
+DEF: 8
+Lv: 64
+Manager: Fabio Capello
+
+Attributes:
+Offensive Awareness: 78
+Ball Control: 87
+Dribbling: 87
+Tight Possession: 88
+Low Pass: 87
+Lofted Pass: 90
+Finishing: 74
+Heading: 64
+Place Kicking: 65
+Curl: 86
+Defensive Awareness: 90
+Defensive Engagement: 90
+Tackling: 94
+Aggression: 94
+Goalkeeping: 41
+Gk Catching: 41
+GK Parrying: 41
+GK Reflexes: 41
+GK Reach: 41
+Speed: 90
+Acceleration: 93
+Kicking Power: 84
+Jump: 75
+Balance: 87
+Stamina: 93
+Physical Contact: 84
+
+Skills:
+Through Passing
+Pinpoint Crossing
+Double Touch
+One Touch Pass
+Outside Curler
+Gamesmanship
+Interception
+Blocker
+Edged Crossing
+Shadow Hunt
+
+Biometrics:
+Height: 174
+Weight: 69
+Arm Length: 7
+Shoulder Width: 10
+Neck Length: 10
+Chest: 5
+Neck Size: 7
+Shoulder Height: 3
+Leg Length: 7
+Thigh Size: 9
+Waist Size: 9
+Arm Size: 7
+Calf Size: 10
+Leg Coverage Radius: 167.9
+Arm Coverage Radius: 158.5
+Jumping Height: 253.8
+Torso Collision: 49.4
+Leg Length Based Height: 174
+
+Com Skills:
+Trickster
+Mazing Run
+Long Ball Expert
+
+Other Stats:
+Weak Foot Usage: 1
+Weak Foot Accuracy: 1
+Form: 2
+Injury Resistance: 1

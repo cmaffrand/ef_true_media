@@ -1,0 +1,84 @@
+Name: Rodri
+Position: DMF
+Style: Orchestrator
+
+Training:
+SHO: 4
+PAS: 4
+DRI: 9
+DEX: 8
+LBS: 9
+AER: 5
+DEF: 8
+Lv: 68
+Manager: Fabio Capello
+
+Attributes:
+Offensive Awareness: 73
+Ball Control: 91
+Dribbling: 87
+Tight Possession: 91
+Low Pass: 92
+Lofted Pass: 90
+Finishing: 75
+Heading: 76
+Place Kicking: 66
+Curl: 77
+Defensive Awareness: 94
+Defensive Engagement: 94
+Tackling: 91
+Aggression: 90
+Goalkeeping: 41
+Gk Catching: 41
+GK Parrying: 41
+GK Reflexes: 41
+GK Reach: 41
+Speed: 87
+Acceleration: 84
+Kicking Power: 92
+Jump: 77
+Balance: 75
+Stamina: 94
+Physical Contact: 90
+
+Skills:
+Through Passing
+Sole Control
+One Touch Pass
+Weighted Pass
+Man Marking
+Interception
+Captaincy
+Fighting Spirit
+Phenomenal Pass
+Long Reach Tackle
+
+Biometrics:
+Height: 190
+Weight: 82
+Arm Length: 8
+Shoulder Width: 8
+Neck Length: 5
+Chest: 4
+Neck Size: 7
+Shoulder Height: 3
+Leg Length: 8
+Thigh Size: 8
+Waist Size: 7
+Arm Size: 6
+Calf Size: 8
+Leg Coverage Radius: 183.9
+Arm Coverage Radius: 173.8
+Jumping Height: 269.9
+Torso Collision: 53.2
+Leg Length Based Height: 191
+
+Com Skills:
+Incisive Run
+Early Crosser
+
+Other Stats:
+Weak Foot Usage: 2
+Weak Foot Accuracy: 2
+Form: 2
+Injury Resistance: 1

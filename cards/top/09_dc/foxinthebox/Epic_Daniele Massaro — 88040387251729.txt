@@ -1,0 +1,82 @@
+Name: Daniele Massaro
+Position: CF
+Style: Fox In The Box
+
+Training:
+SHO: 8
+PAS: 4
+DRI: 4
+DEX: 8
+LBS: 10
+AER: 8
+Lv: 62
+Manager: Fabio Capello
+
+Attributes:
+Offensive Awareness: 91
+Ball Control: 81
+Dribbling: 82
+Tight Possession: 83
+Low Pass: 70
+Lofted Pass: 68
+Finishing: 90
+Heading: 84
+Place Kicking: 73
+Curl: 81
+Defensive Awareness: 52
+Defensive Engagement: 51
+Tackling: 47
+Aggression: 54
+Goalkeeping: 41
+Gk Catching: 41
+GK Parrying: 41
+GK Reflexes: 41
+GK Reach: 41
+Speed: 91
+Acceleration: 88
+Kicking Power: 89
+Jump: 91
+Balance: 86
+Stamina: 89
+Physical Contact: 90
+
+Skills:
+Long Range Shooting
+Heading
+Long Range Curler
+Dipping Shot
+Rising Shots
+Acrobatic Finishing
+First Time Shot
+Fighting Spirit
+Aerial Superiority
+Phenomenal Finishing
+
+Biometrics:
+Height: 179
+Weight: 74
+Arm Length: 8
+Shoulder Width: 8
+Neck Length: 7
+Chest: 7
+Neck Size: 9
+Shoulder Height: 6
+Leg Length: 11
+Thigh Size: 9
+Waist Size: 8
+Arm Size: 9
+Calf Size: 9
+Leg Coverage Radius: 174.9
+Arm Coverage Radius: 163.7
+Jumping Height: 268.7
+Torso Collision: 50.3
+Leg Length Based Height: 183
+
+Com Skills:
+Early Crosser
+
+Other Stats:
+Weak Foot Usage: 2
+Weak Foot Accuracy: 3
+Form: 2
+Injury Resistance: 1

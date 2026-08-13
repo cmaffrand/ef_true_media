@@ -1,0 +1,77 @@
+Name: Vozinha
+Position: GK
+Style: Defensive Goalkeeper
+
+Training:
+AER: 2
+GK1: 8
+GK2: 12
+GK3: 10
+Lv: 56
+Manager: Fabio Capello
+
+Attributes:
+Offensive Awareness: 44
+Ball Control: 46
+Dribbling: 46
+Tight Possession: 48
+Low Pass: 58
+Lofted Pass: 58
+Finishing: 45
+Heading: 46
+Place Kicking: 49
+Curl: 49
+Defensive Awareness: 43
+Defensive Engagement: 63
+Tackling: 43
+Aggression: 52
+Goalkeeping: 100
+Gk Catching: 96
+GK Parrying: 95
+GK Reflexes: 97
+GK Reach: 97
+Speed: 53
+Acceleration: 50
+Kicking Power: 66
+Jump: 70
+Balance: 62
+Stamina: 62
+Physical Contact: 73
+
+Skills:
+Gk Low Punt
+GK High Punt
+GK Long Throw
+GK Penalty Saver
+Captaincy
+Fighting Spirit
+GK Direct Defending
+
+Biometrics:
+Height: 189
+Weight: 77
+Arm Length: 8
+Shoulder Width: 8
+Neck Length: 5
+Chest: 6
+Neck Size: 7
+Shoulder Height: 9
+Leg Length: 11
+Thigh Size: 7
+Waist Size: 5
+Arm Size: 7
+Calf Size: 5
+Leg Coverage Radius: 184.7
+Arm Coverage Radius: 172.9
+Jumping Height: 264.3
+Torso Collision: 52.9
+Leg Length Based Height: 193
+
+Com Skills:
+Early Crosser
+
+Other Stats:
+Weak Foot Usage: 1
+Weak Foot Accuracy: 1
+Form: 2
+Injury Resistance: 1

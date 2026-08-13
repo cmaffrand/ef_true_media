@@ -1,0 +1,82 @@
+Name: Wesley Sneijder
+Position: CMF
+Style: Hole Player
+
+Training:
+SHO: 4
+PAS: 6
+DRI: 7
+DEX: 12
+LBS: 12
+Lv: 70
+Manager: Fabio Capello
+
+Attributes:
+Offensive Awareness: 87
+Ball Control: 93
+Dribbling: 87
+Tight Possession: 95
+Low Pass: 93
+Lofted Pass: 95
+Finishing: 81
+Heading: 59
+Place Kicking: 94
+Curl: 96
+Defensive Awareness: 65
+Defensive Engagement: 63
+Tackling: 60
+Aggression: 62
+Goalkeeping: 41
+Gk Catching: 41
+GK Parrying: 41
+GK Reflexes: 41
+GK Reach: 41
+Speed: 82
+Acceleration: 90
+Kicking Power: 101
+Jump: 65
+Balance: 95
+Stamina: 89
+Physical Contact: 62
+
+Skills:
+Through Passing
+Pinpoint Crossing
+Cut Behind & Turn
+Sole Control
+Knuckle Shot
+Acrobatic Finishing
+One Touch Pass
+Weighted Pass
+Outside Curler
+Low Lofted Pass
+
+Biometrics:
+Height: 170
+Weight: 72
+Arm Length: 5
+Shoulder Width: 9
+Neck Length: 5
+Chest: 4
+Neck Size: 11
+Shoulder Height: 7
+Leg Length: 7
+Thigh Size: 7
+Waist Size: 2
+Arm Size: 6
+Calf Size: 7
+Leg Coverage Radius: 164.1
+Arm Coverage Radius: 152.8
+Jumping Height: 242.0
+Torso Collision: 47.6
+Leg Length Based Height: 170
+
+Com Skills:
+Mazing Run
+Incisive Run
+
+Other Stats:
+Weak Foot Usage: 3
+Weak Foot Accuracy: 3
+Form: 2
+Injury Resistance: 1

@@ -1,0 +1,84 @@
+Name: Kevin De Bruyne
+Position: AMF
+Style: Creative Playmaker
+
+Training:
+SHO: 6
+PAS: 3
+DRI: 9
+DEX: 9
+LBS: 9
+AER: 4
+Lv: 60
+Manager: Fabio Capello
+
+Attributes:
+Offensive Awareness: 87
+Ball Control: 92
+Dribbling: 90
+Tight Possession: 92
+Low Pass: 92
+Lofted Pass: 92
+Finishing: 88
+Heading: 52
+Place Kicking: 90
+Curl: 92
+Defensive Awareness: 59
+Defensive Engagement: 62
+Tackling: 59
+Aggression: 68
+Goalkeeping: 41
+Gk Catching: 41
+GK Parrying: 41
+GK Reflexes: 41
+GK Reach: 41
+Speed: 90
+Acceleration: 90
+Kicking Power: 95
+Jump: 56
+Balance: 88
+Stamina: 88
+Physical Contact: 80
+
+Skills:
+Long Range Shooting
+Through Passing
+Pinpoint Crossing
+Sole Control
+Long Range Curler
+One Touch Pass
+Weighted Pass
+Outside Curler
+Visionary Pass
+Low Screamer
+
+Biometrics:
+Height: 181
+Weight: 75
+Arm Length: 7
+Shoulder Width: 8
+Neck Length: 4
+Chest: 8
+Neck Size: 9
+Shoulder Height: 7
+Leg Length: 8
+Thigh Size: 7
+Waist Size: 8
+Arm Size: 7
+Calf Size: 6
+Leg Coverage Radius: 175.2
+Arm Coverage Radius: 164.5
+Jumping Height: 246.8
+Torso Collision: 50.8
+Leg Length Based Height: 182
+
+Com Skills:
+Trickster
+Mazing Run
+Incisive Run
+
+Other Stats:
+Weak Foot Usage: 2
+Weak Foot Accuracy: 3
+Form: 2
+Injury Resistance: 0

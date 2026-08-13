@@ -1,0 +1,73 @@
+Name: David Seaman
+Position: GK
+Style: Defensive Goalkeeper
+
+Training:
+AER: 1
+GK1: 10
+GK2: 10
+GK3: 11
+Lv: 58
+Manager: Fabio Capello
+
+Attributes:
+Offensive Awareness: 44
+Ball Control: 48
+Dribbling: 47
+Tight Possession: 45
+Low Pass: 54
+Lofted Pass: 56
+Finishing: 46
+Heading: 46
+Place Kicking: 44
+Curl: 45
+Defensive Awareness: 46
+Defensive Engagement: 44
+Tackling: 44
+Aggression: 44
+Goalkeeping: 97
+Gk Catching: 97
+GK Parrying: 96
+GK Reflexes: 93
+GK Reach: 93
+Speed: 56
+Acceleration: 52
+Kicking Power: 65
+Jump: 78
+Balance: 56
+Stamina: 60
+Physical Contact: 60
+
+Skills:
+GK High Punt
+GK Penalty Saver
+GK Spirit Roar
+
+Biometrics:
+Height: 193
+Weight: 93
+Arm Length: 9
+Shoulder Width: 12
+Neck Length: 7
+Chest: 7
+Neck Size: 9
+Shoulder Height: 4
+Leg Length: 11
+Thigh Size: 7
+Waist Size: 7
+Arm Size: 7
+Calf Size: 7
+Leg Coverage Radius: 188.6
+Arm Coverage Radius: 178.4
+Jumping Height: 274.1
+Torso Collision: 55.4
+Leg Length Based Height: 197
+
+Com Skills:
+—
+
+Other Stats:
+Weak Foot Usage: 1
+Weak Foot Accuracy: 2
+Form: 2
+Injury Resistance: 1

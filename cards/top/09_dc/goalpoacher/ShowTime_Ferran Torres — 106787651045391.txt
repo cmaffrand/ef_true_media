@@ -1,0 +1,82 @@
+Name: Ferran Torres
+Position: CF
+Style: Goal Poacher
+
+Training:
+SHO: 6
+PAS: 5
+DRI: 7
+DEX: 9
+LBS: 11
+AER: 2
+Lv: 62
+Manager: Fabio Capello
+
+Attributes:
+Offensive Awareness: 96
+Ball Control: 91
+Dribbling: 93
+Tight Possession: 90
+Low Pass: 82
+Lofted Pass: 80
+Finishing: 91
+Heading: 67
+Place Kicking: 77
+Curl: 81
+Defensive Awareness: 46
+Defensive Engagement: 53
+Tackling: 51
+Aggression: 51
+Goalkeeping: 41
+Gk Catching: 41
+GK Parrying: 41
+GK Reflexes: 41
+GK Reach: 41
+Speed: 96
+Acceleration: 95
+Kicking Power: 94
+Jump: 64
+Balance: 90
+Stamina: 89
+Physical Contact: 76
+
+Skills:
+Long Range Shooting
+Through Passing
+Super Sub
+Double Touch
+Sole Control
+Long Range Curler
+First Time Shot
+Outside Curler
+Phenomenal Finishing
+Attacking Surge
+
+Biometrics:
+Height: 182
+Weight: 80
+Arm Length: 8
+Shoulder Width: 12
+Neck Length: 7
+Chest: 4
+Neck Size: 9
+Shoulder Height: 6
+Leg Length: 6
+Thigh Size: 7
+Waist Size: 5
+Arm Size: 6
+Calf Size: 6
+Leg Coverage Radius: 175.1
+Arm Coverage Radius: 167.2
+Jumping Height: 253.8
+Torso Collision: 52.0
+Leg Length Based Height: 181
+
+Com Skills:
+Mazing Run
+
+Other Stats:
+Weak Foot Usage: 2
+Weak Foot Accuracy: 3
+Form: 1
+Injury Resistance: 1

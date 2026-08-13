@@ -1,0 +1,84 @@
+Name: Moises Caicedo
+Position: DMF
+Style: Destroyer
+
+Training:
+PAS: 8
+DRI: 6
+DEX: 8
+LBS: 8
+AER: 6
+DEF: 8
+Lv: 64
+Manager: Fabio Capello
+
+Attributes:
+Offensive Awareness: 78
+Ball Control: 87
+Dribbling: 87
+Tight Possession: 88
+Low Pass: 88
+Lofted Pass: 85
+Finishing: 64
+Heading: 59
+Place Kicking: 59
+Curl: 64
+Defensive Awareness: 90
+Defensive Engagement: 90
+Tackling: 92
+Aggression: 92
+Goalkeeping: 41
+Gk Catching: 41
+GK Parrying: 41
+GK Reflexes: 41
+GK Reach: 41
+Speed: 92
+Acceleration: 91
+Kicking Power: 85
+Jump: 84
+Balance: 90
+Stamina: 97
+Physical Contact: 90
+
+Skills:
+Long Range Shooting
+Through Passing
+One Touch Pass
+Outside Curler
+Man Marking
+Interception
+Fighting Spirit
+Blocker
+Sliding Tackle
+Long Reach Tackle
+
+Biometrics:
+Height: 178
+Weight: 73
+Arm Length: 7
+Shoulder Width: 8
+Neck Length: 5
+Chest: 8
+Neck Size: 7
+Shoulder Height: 9
+Leg Length: 11
+Thigh Size: 7
+Waist Size: 9
+Arm Size: 7
+Calf Size: 6
+Leg Coverage Radius: 173.9
+Arm Coverage Radius: 161.8
+Jumping Height: 262.5
+Torso Collision: 50.0
+Leg Length Based Height: 182
+
+Com Skills:
+Mazing Run
+Incisive Run
+Early Crosser
+
+Other Stats:
+Weak Foot Usage: 1
+Weak Foot Accuracy: 1
+Form: 2
+Injury Resistance: 1

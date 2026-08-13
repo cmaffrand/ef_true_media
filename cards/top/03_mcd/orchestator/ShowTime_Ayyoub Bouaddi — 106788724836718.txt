@@ -1,0 +1,83 @@
+Name: Ayyoub Bouaddi
+Position: DMF
+Style: Orchestrator
+
+Training:
+PAS: 6
+DRI: 8
+DEX: 8
+LBS: 8
+AER: 8
+DEF: 8
+Lv: 68
+Manager: Fabio Capello
+
+Attributes:
+Offensive Awareness: 80
+Ball Control: 91
+Dribbling: 87
+Tight Possession: 90
+Low Pass: 91
+Lofted Pass: 88
+Finishing: 64
+Heading: 76
+Place Kicking: 65
+Curl: 68
+Defensive Awareness: 89
+Defensive Engagement: 87
+Tackling: 87
+Aggression: 83
+Goalkeeping: 41
+Gk Catching: 41
+GK Parrying: 41
+GK Reflexes: 41
+GK Reach: 41
+Speed: 88
+Acceleration: 90
+Kicking Power: 87
+Jump: 83
+Balance: 85
+Stamina: 94
+Physical Contact: 87
+
+Skills:
+Through Passing
+Fortress
+Double Touch
+Cut Behind & Turn
+Sole Control
+One Touch Pass
+Weighted Pass
+Outside Curler
+Interception
+Visionary Pass
+
+Biometrics:
+Height: 186
+Weight: 72
+Arm Length: 7
+Shoulder Width: 5
+Neck Length: 8
+Chest: 5
+Neck Size: 7
+Shoulder Height: 3
+Leg Length: 9
+Thigh Size: 6
+Waist Size: 5
+Arm Size: 4
+Calf Size: 5
+Leg Coverage Radius: 180.6
+Arm Coverage Radius: 168.5
+Jumping Height: 270.6
+Torso Collision: 51.1
+Leg Length Based Height: 188
+
+Com Skills:
+Mazing Run
+Speeding Bullet
+
+Other Stats:
+Weak Foot Usage: 2
+Weak Foot Accuracy: 1
+Form: 1
+Injury Resistance: 1

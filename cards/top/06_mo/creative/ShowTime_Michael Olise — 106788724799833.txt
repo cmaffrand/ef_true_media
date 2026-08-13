@@ -1,0 +1,84 @@
+Name: Michael Olise
+Position: AMF
+Style: Creative Playmaker
+
+Training:
+SHO: 7
+PAS: 6
+DRI: 8
+DEX: 7
+LBS: 10
+AER: 4
+Lv: 62
+Manager: Fabio Capello
+
+Attributes:
+Offensive Awareness: 82
+Ball Control: 93
+Dribbling: 93
+Tight Possession: 95
+Low Pass: 95
+Lofted Pass: 92
+Finishing: 90
+Heading: 53
+Place Kicking: 83
+Curl: 91
+Defensive Awareness: 50
+Defensive Engagement: 50
+Tackling: 53
+Aggression: 54
+Goalkeeping: 41
+Gk Catching: 41
+GK Parrying: 41
+GK Reflexes: 41
+GK Reach: 41
+Speed: 93
+Acceleration: 91
+Kicking Power: 93
+Jump: 58
+Balance: 91
+Stamina: 87
+Physical Contact: 80
+
+Skills:
+Long Range Shooting
+Through Passing
+Pinpoint Crossing
+Double Touch
+Long Range Curler
+Heel Trick
+One Touch Pass
+Outside Curler
+Phenomenal Pass
+Visionary Pass
+
+Biometrics:
+Height: 184
+Weight: 73
+Arm Length: 11
+Shoulder Width: 10
+Neck Length: 5
+Chest: 10
+Neck Size: 8
+Shoulder Height: 7
+Leg Length: 12
+Thigh Size: 4
+Waist Size: 4
+Arm Size: 5
+Calf Size: 4
+Leg Coverage Radius: 180.3
+Arm Coverage Radius: 171.8
+Jumping Height: 251.4
+Torso Collision: 52.1
+Leg Length Based Height: 189
+
+Com Skills:
+Mazing Run
+Incisive Run
+Long Ball Expert
+
+Other Stats:
+Weak Foot Usage: 1
+Weak Foot Accuracy: 1
+Form: 2
+Injury Resistance: 1

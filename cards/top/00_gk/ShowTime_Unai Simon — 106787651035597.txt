@@ -1,0 +1,78 @@
+Name: Unai Simon
+Position: GK
+Style: Offensive Goalkeeper
+
+Training:
+AER: 1
+GK1: 8
+GK2: 12
+GK3: 11
+Lv: 58
+Manager: Fabio Capello
+
+Attributes:
+Offensive Awareness: 41
+Ball Control: 62
+Dribbling: 46
+Tight Possession: 53
+Low Pass: 65
+Lofted Pass: 66
+Finishing: 42
+Heading: 52
+Place Kicking: 57
+Curl: 54
+Defensive Awareness: 65
+Defensive Engagement: 64
+Tackling: 57
+Aggression: 57
+Goalkeeping: 97
+Gk Catching: 96
+GK Parrying: 97
+GK Reflexes: 98
+GK Reach: 99
+Speed: 67
+Acceleration: 72
+Kicking Power: 72
+Jump: 73
+Balance: 54
+Stamina: 57
+Physical Contact: 65
+
+Skills:
+Gk Low Punt
+GK High Punt
+GK Long Throw
+GK Penalty Saver
+Interception
+Fighting Spirit
+Sliding Tackle
+GK Spirit Roar
+
+Biometrics:
+Height: 190
+Weight: 88
+Arm Length: 6
+Shoulder Width: 8
+Neck Length: 7
+Chest: 4
+Neck Size: 9
+Shoulder Height: 7
+Leg Length: 8
+Thigh Size: 7
+Waist Size: 6
+Arm Size: 5
+Calf Size: 7
+Leg Coverage Radius: 183.9
+Arm Coverage Radius: 171.6
+Jumping Height: 267.8
+Torso Collision: 53.1
+Leg Length Based Height: 191
+
+Com Skills:
+Early Crosser
+
+Other Stats:
+Weak Foot Usage: 0
+Weak Foot Accuracy: 0
+Form: 2
+Injury Resistance: 1

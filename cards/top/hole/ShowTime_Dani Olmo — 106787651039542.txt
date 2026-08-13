@@ -1,0 +1,84 @@
+Name: Dani Olmo
+Position: AMF
+Style: Hole Player
+
+Training:
+SHO: 6
+PAS: 6
+DRI: 8
+DEX: 8
+LBS: 10
+AER: 4
+Lv: 62
+Manager: Fabio Capello
+
+Attributes:
+Offensive Awareness: 91
+Ball Control: 95
+Dribbling: 93
+Tight Possession: 95
+Low Pass: 92
+Lofted Pass: 87
+Finishing: 88
+Heading: 53
+Place Kicking: 78
+Curl: 85
+Defensive Awareness: 56
+Defensive Engagement: 70
+Tackling: 53
+Aggression: 59
+Goalkeeping: 41
+Gk Catching: 41
+GK Parrying: 41
+GK Reflexes: 41
+GK Reach: 41
+Speed: 91
+Acceleration: 93
+Kicking Power: 92
+Jump: 62
+Balance: 90
+Stamina: 88
+Physical Contact: 75
+
+Skills:
+Through Passing
+Pinpoint Crossing
+Double Touch
+Cut Behind & Turn
+Sole Control
+Long Range Curler
+One Touch Pass
+Outside Curler
+Phenomenal Pass
+Magnetic Feet
+
+Biometrics:
+Height: 182
+Weight: 73
+Arm Length: 9
+Shoulder Width: 6
+Neck Length: 10
+Chest: 7
+Neck Size: 7
+Shoulder Height: 2
+Leg Length: 6
+Thigh Size: 9
+Waist Size: 7
+Arm Size: 7
+Calf Size: 8
+Leg Coverage Radius: 175.1
+Arm Coverage Radius: 167.2
+Jumping Height: 253.3
+Torso Collision: 50.5
+Leg Length Based Height: 181
+
+Com Skills:
+Mazing Run
+Incisive Run
+Long Ball Expert
+
+Other Stats:
+Weak Foot Usage: 1
+Weak Foot Accuracy: 3
+Form: 1
+Injury Resistance: 0
