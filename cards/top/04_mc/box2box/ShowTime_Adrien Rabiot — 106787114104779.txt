@@ -1,0 +1,85 @@
+Name: Adrien Rabiot
+Position: CMF
+Style: Box To Box
+
+Training:
+SHO: 4
+PAS: 8
+DRI: 8
+DEX: 8
+LBS: 9
+AER: 4
+DEF: 3
+Lv: 62
+Manager: Fabio Capello
+
+Attributes:
+Offensive Awareness: 81
+Ball Control: 88
+Dribbling: 84
+Tight Possession: 87
+Low Pass: 88
+Lofted Pass: 82
+Finishing: 75
+Heading: 79
+Place Kicking: 64
+Curl: 74
+Defensive Awareness: 84
+Defensive Engagement: 81
+Tackling: 82
+Aggression: 81
+Goalkeeping: 41
+Gk Catching: 41
+GK Parrying: 41
+GK Reflexes: 41
+GK Reach: 41
+Speed: 90
+Acceleration: 88
+Kicking Power: 89
+Jump: 74
+Balance: 85
+Stamina: 95
+Physical Contact: 87
+
+Skills:
+Through Passing
+Heading
+Rising Shots
+One Touch Pass
+Weighted Pass
+Outside Curler
+Interception
+Fighting Spirit
+Blocker
+Attack Trigger
+
+Biometrics:
+Height: 191
+Weight: 86
+Arm Length: 8
+Shoulder Width: 4
+Neck Length: 7
+Chest: 6
+Neck Size: 7
+Shoulder Height: 2
+Leg Length: 9
+Thigh Size: 4
+Waist Size: 5
+Arm Size: 5
+Calf Size: 5
+Leg Coverage Radius: 185.5
+Arm Coverage Radius: 173.9
+Jumping Height: 269.4
+Torso Collision: 52.1
+Leg Length Based Height: 193
+
+Com Skills:
+Mazing Run
+Incisive Run
+Early Crosser
+
+Other Stats:
+Weak Foot Usage: 1
+Weak Foot Accuracy: 1
+Form: 2
+Injury Resistance: 2

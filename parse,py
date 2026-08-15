@@ -37,6 +37,15 @@ def extract_text_from_html(file_path, output_folder, prefix=""):
     
     blacklist = ["eFHUB", "Players", "Community", "English", "Sign in", "Compare", "My Builds", "Community Builds", "Save Build", "Share", "SCREENSHOT", "SETTINGS", "Packs", "Get Pro", "Feed", "Tier Lists", "Skill FX", "Managers", "Reviews"]
     lines = [line.strip() for line in text.splitlines()]
+    # Search in 3 lines after "Condition" that contain "+" and store the content in a variable called "potenciators"
+    potenciators = []
+    for i, line in enumerate(lines):
+        if line == "Condition":
+            for j in range(i + 1, min(i + 4, len(lines))):
+                if "+" in lines[j]:
+                    potenciators.append(lines[j])
+    #print(f"\033[94mPotenciators: {potenciators}\033[0m")
+    
     text = "\n".join(line for line in lines if line and "+" not in line and not any(word in line for word in blacklist))
     
     # Change "-" with " " in the text
@@ -46,10 +55,13 @@ def extract_text_from_html(file_path, output_folder, prefix=""):
     # Change "Chest Measurement" for "Chest"
     text = text.replace("Chest Measurement", "Chest")
     
+    #print(text)
+    
     lines = text.splitlines()
     Name = lines[0] if len(lines) > 0 else ""
-    Style = lines[1] if len(lines) > 1 else ""
-    Position = lines[3] if len(lines) > 3 else ""
+    # Get Style concatenate line 1 and line 2
+    Style = "Offense: " + lines[1] + " Defence: " + lines[2] if len(lines) > 2 else ""
+    Position = lines[4] if len(lines) > 4 else ""
     #print (f"\033[94mName: {Name}, Style: {Style}, Position: {Position}\033[0m")
     
     training = ["SHO","PAS","DRI","DEX","LBS","AER","DEF","GK1","GK2","GK3"]
@@ -210,6 +222,9 @@ def extract_text_from_html(file_path, output_folder, prefix=""):
         f.write("Training:\n")
         for key, value in training_dict.items():
             f.write(f"{key}: {value}\n")
+        f.write("Potenciators:\n")
+        for potenciator in potenciators:
+            f.write(f"{potenciator}\n")
         f.write("\n")
         f.write("Attributes:\n")
         for key, value in attributes_dict.items():

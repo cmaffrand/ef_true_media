@@ -1,0 +1,82 @@
+Name: P. E. Aubameyang
+Position: CF
+Style: Goal Poacher
+
+Training:
+SHO: 8
+DRI: 8
+DEX: 8
+LBS: 11
+AER: 3
+Lv: 60
+Manager: Fabio Capello
+
+Attributes:
+Offensive Awareness: 92
+Ball Control: 88
+Dribbling: 91
+Tight Possession: 84
+Low Pass: 65
+Lofted Pass: 63
+Finishing: 90
+Heading: 75
+Place Kicking: 75
+Curl: 81
+Defensive Awareness: 47
+Defensive Engagement: 49
+Tackling: 50
+Aggression: 51
+Goalkeeping: 41
+Gk Catching: 41
+GK Parrying: 41
+GK Reflexes: 41
+GK Reach: 41
+Speed: 97
+Acceleration: 92
+Kicking Power: 88
+Jump: 81
+Balance: 82
+Stamina: 93
+Physical Contact: 77
+
+Skills:
+Scissors Feint
+Heading
+Long Range Curler
+Chip Shot Control
+Rising Shots
+Acrobatic Finishing
+First Time Shot
+Fighting Spirit
+Phenomenal Finishing
+Low Screamer
+
+Biometrics:
+Height: 187
+Weight: 80
+Arm Length: 8
+Shoulder Width: 5
+Neck Length: 7
+Chest: 6
+Neck Size: 7
+Shoulder Height: 7
+Leg Length: 11
+Thigh Size: 6
+Waist Size: 5
+Arm Size: 8
+Calf Size: 6
+Leg Coverage Radius: 182.7
+Arm Coverage Radius: 170.5
+Jumping Height: 270.1
+Torso Collision: 51.4
+Leg Length Based Height: 191
+
+Com Skills:
+Long Ball Expert
+Early Crosser
+
+Other Stats:
+Weak Foot Usage: 1
+Weak Foot Accuracy: 2
+Form: 1
+Injury Resistance: 1

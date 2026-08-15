@@ -1,0 +1,84 @@
+Name: Lamine Yamal
+Position: RWF
+Style: Offense: Prolific Winger Defence: Front Line Poacher
+
+Training:
+SHO: 7
+PAS: 7
+DRI: 8
+DEX: 8
+LBS: 8
+AER: 5
+Lv: 62
+Manager: Fabio Capello
+
+Attributes:
+Offensive Awareness: 83
+Ball Control: 94
+Dribbling: 95
+Tight Possession: 93
+Low Pass: 88
+Lofted Pass: 87
+Finishing: 85
+Heading: 56
+Place Kicking: 73
+Curl: 89
+Defensive Awareness: 46
+Defensive Engagement: 64
+Tackling: 49
+Aggression: 59
+Goalkeeping: 41
+Gk Catching: 41
+GK Parrying: 41
+GK Reflexes: 41
+GK Reach: 41
+Speed: 92
+Acceleration: 92
+Kicking Power: 88
+Jump: 65
+Balance: 93
+Stamina: 84
+Physical Contact: 75
+
+Skills:
+Through Passing
+Pinpoint Crossing
+Double Touch
+Flip Flap
+Marseille Turn
+Sole Control
+Long Range Curler
+One Touch Pass
+Outside Curler
+Acceleration Burst
+
+Biometrics:
+Height: 180
+Weight: 72
+Arm Length: 7
+Shoulder Width: 6
+Neck Length: 5
+Chest: 6
+Neck Size: 8
+Shoulder Height: 10
+Leg Length: 13
+Thigh Size: 5
+Waist Size: 6
+Arm Size: 4
+Calf Size: 5
+Leg Coverage Radius: 176.9
+Arm Coverage Radius: 163.3
+Jumping Height: 252.0
+Torso Collision: 49.7
+Leg Length Based Height: 186
+
+Com Skills:
+Trickster
+Mazing Run
+Long Ball Expert
+
+Other Stats:
+Weak Foot Usage: 2
+Weak Foot Accuracy: 2
+Form: 2
+Injury Resistance: 1

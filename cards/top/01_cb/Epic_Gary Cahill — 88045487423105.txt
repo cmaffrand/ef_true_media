@@ -1,0 +1,82 @@
+Name: Gary Cahill
+Position: CB
+Style: Build Up
+
+Training:
+PAS: 1
+DRI: 3
+DEX: 8
+LBS: 8
+AER: 8
+DEF: 8
+Lv: 52
+Manager: Fabio Capello
+
+Attributes:
+Offensive Awareness: 65
+Ball Control: 75
+Dribbling: 70
+Tight Possession: 70
+Low Pass: 75
+Lofted Pass: 77
+Finishing: 61
+Heading: 90
+Place Kicking: 51
+Curl: 63
+Defensive Awareness: 95
+Defensive Engagement: 93
+Tackling: 92
+Aggression: 90
+Goalkeeping: 41
+Gk Catching: 41
+GK Parrying: 41
+GK Reflexes: 41
+GK Reach: 41
+Speed: 88
+Acceleration: 83
+Kicking Power: 84
+Jump: 92
+Balance: 70
+Stamina: 88
+Physical Contact: 92
+
+Skills:
+Heading
+Man Marking
+Interception
+Captaincy
+Fighting Spirit
+Blocker
+Aerial Superiority
+Sliding Tackle
+Long Reach Tackle
+Aerial Fort
+
+Biometrics:
+Height: 193
+Weight: 86
+Arm Length: 8
+Shoulder Width: 8
+Neck Length: 8
+Chest: 5
+Neck Size: 10
+Shoulder Height: 3
+Leg Length: 7
+Thigh Size: 6
+Waist Size: 5
+Arm Size: 7
+Calf Size: 6
+Leg Coverage Radius: 186.2
+Arm Coverage Radius: 176.5
+Jumping Height: 283.6
+Torso Collision: 53.9
+Leg Length Based Height: 193
+
+Com Skills:
+Early Crosser
+
+Other Stats:
+Weak Foot Usage: 1
+Weak Foot Accuracy: 1
+Form: 2
+Injury Resistance: 1

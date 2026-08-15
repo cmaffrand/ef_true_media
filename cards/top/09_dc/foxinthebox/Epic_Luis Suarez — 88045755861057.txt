@@ -1,0 +1,82 @@
+Name: Luis Suarez
+Position: CF
+Style: Fox In The Box
+
+Training:
+SHO: 8
+PAS: 4
+DRI: 7
+DEX: 8
+LBS: 10
+AER: 4
+Lv: 60
+Manager: Fabio Capello
+
+Attributes:
+Offensive Awareness: 92
+Ball Control: 87
+Dribbling: 87
+Tight Possession: 90
+Low Pass: 76
+Lofted Pass: 74
+Finishing: 92
+Heading: 72
+Place Kicking: 83
+Curl: 92
+Defensive Awareness: 48
+Defensive Engagement: 51
+Tackling: 46
+Aggression: 52
+Goalkeeping: 41
+Gk Catching: 41
+GK Parrying: 41
+GK Reflexes: 41
+GK Reach: 41
+Speed: 92
+Acceleration: 91
+Kicking Power: 95
+Jump: 73
+Balance: 83
+Stamina: 88
+Physical Contact: 91
+
+Skills:
+Long Range Shooting
+Double Touch
+Heading
+Long Range Curler
+Acrobatic Finishing
+First Time Shot
+One Touch Pass
+Fighting Spirit
+Aerial Superiority
+Blitz Curler
+
+Biometrics:
+Height: 182
+Weight: 83
+Arm Length: 4
+Shoulder Width: 12
+Neck Length: 4
+Chest: 10
+Neck Size: 8
+Shoulder Height: 4
+Leg Length: 6
+Thigh Size: 9
+Waist Size: 5
+Arm Size: 7
+Calf Size: 8
+Leg Coverage Radius: 175.1
+Arm Coverage Radius: 163.0
+Jumping Height: 259.0
+Torso Collision: 52.3
+Leg Length Based Height: 181
+
+Com Skills:
+Early Crosser
+
+Other Stats:
+Weak Foot Usage: 2
+Weak Foot Accuracy: 3
+Form: 2
+Injury Resistance: 2
