@@ -59,10 +59,17 @@ def extract_text_from_html(file_path, output_folder, prefix=""):
     
     lines = text.splitlines()
     Name = lines[0] if len(lines) > 0 else ""
-    # Get Style concatenate line 1 and line 2
-    Style = "Offense: " + lines[1] + " Defence: " + lines[2] if len(lines) > 2 else ""
-    Position = lines[4] if len(lines) > 4 else ""
-    #print (f"\033[94mName: {Name}, Style: {Style}, Position: {Position}\033[0m")
+    # Get Style concatenate line 1 and line 2, if isnt a number in line 2, else just line 1
+    Style = lines[1] if len(lines) > 1 else ""
+    if len(lines) > 2 and not lines[2].replace(".", "").isdigit():
+        Style += " - " + lines[2]
+    # Find GK, CB, LB, RB, DMF, CMF, LMF, RMF, AMF, LWF, RWF, SS or CF in first 5 lines and store it in Position variable
+    Position = ""
+    for i in range(min(5, len(lines))):
+        if any(pos in lines[i] for pos in ["GK", "CB", "LB", "RB", "DMF", "CMF", "LMF", "RMF", "AMF", "LWF", "RWF", "SS", "CF"]):
+            Position = lines[i]
+            break
+    print (f"\033[94mName: {Name}, Style: {Style}, Position: {Position}\033[0m")
     
     training = ["SHO","PAS","DRI","DEX","LBS","AER","DEF","GK1","GK2","GK3"]
     training_dict = {}

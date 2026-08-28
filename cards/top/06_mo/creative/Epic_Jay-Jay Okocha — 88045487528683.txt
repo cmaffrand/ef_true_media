@@ -1,0 +1,87 @@
+Name: Jay Jay Okocha
+Position: AMF
+Style: Creative Playmaker - Pass Disruptor
+
+Training:
+SHO: 5
+PAS: 7
+DRI: 5
+DEX: 9
+LBS: 10
+AER: 6
+DEF: 1
+Lv: 64
+Manager: Fabio Capello
+Potenciators:
+Fantasista +4
+Off the ball +1
+
+Attributes:
+Offensive Awareness: 82
+Ball Control: 96
+Dribbling: 95
+Tight Possession: 95
+Low Pass: 91
+Lofted Pass: 90
+Finishing: 84
+Heading: 69
+Place Kicking: 90
+Curl: 85
+Defensive Awareness: 47
+Defensive Engagement: 48
+Tackling: 44
+Aggression: 50
+Goalkeeping: 41
+Gk Catching: 41
+GK Parrying: 41
+GK Reflexes: 41
+GK Reach: 41
+Speed: 90
+Acceleration: 90
+Kicking Power: 90
+Jump: 68
+Balance: 97
+Stamina: 89
+Physical Contact: 75
+
+Skills:
+Scissors Feint
+Double Touch
+Flip Flap
+Marseille Turn
+Sombrero
+Cut Behind & Turn
+Sole Control
+Momentum Dribbling
+Phenomenal Pass
+Magnetic Feet
+
+Biometrics:
+Height: 173
+Weight: 71
+Arm Length: 8
+Shoulder Width: 7
+Neck Length: 7
+Chest: 6
+Neck Size: 7
+Shoulder Height: 8
+Leg Length: 8
+Thigh Size: 6
+Waist Size: 6
+Arm Size: 6
+Calf Size: 7
+Leg Coverage Radius: 167.5
+Arm Coverage Radius: 158.1
+Jumping Height: 247.5
+Torso Collision: 48.1
+Leg Length Based Height: 174
+
+Com Skills:
+Incisive Run
+Long Ball Expert
+
+Other Stats:
+Weak Foot Usage: 2
+Weak Foot Accuracy: 2
+Form: 1
+Injury Resistance: 1

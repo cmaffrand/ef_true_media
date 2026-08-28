@@ -1,0 +1,88 @@
+Name: Denzel Dumfries
+Position: RB
+Style: Offensive Wingback
+
+Training:
+SHO: 4
+PAS: 8
+DRI: 8
+DEX: 7
+LBS: 8
+AER: 5
+DEF: 6
+Lv: 64
+Manager: Fabio Capello
+Potenciators:
+Crossing +4
+Off the ball +1
+
+Attributes:
+Offensive Awareness: 80
+Ball Control: 83
+Dribbling: 87
+Tight Possession: 81
+Low Pass: 90
+Lofted Pass: 92
+Finishing: 75
+Heading: 82
+Place Kicking: 68
+Curl: 85
+Defensive Awareness: 80
+Defensive Engagement: 77
+Tackling: 82
+Aggression: 85
+Goalkeeping: 41
+Gk Catching: 41
+GK Parrying: 41
+GK Reflexes: 41
+GK Reach: 41
+Speed: 94
+Acceleration: 88
+Kicking Power: 87
+Jump: 85
+Balance: 76
+Stamina: 95
+Physical Contact: 90
+
+Skills:
+Through Passing
+Pinpoint Crossing
+Heading
+One Touch Pass
+Long Throw
+Man Marking
+Fighting Spirit
+Aerial Superiority
+Edged Crossing
+Shadow Hunt
+
+Biometrics:
+Height: 188
+Weight: 80
+Arm Length: 8
+Shoulder Width: 7
+Neck Length: 6
+Chest: 7
+Neck Size: 8
+Shoulder Height: 2
+Leg Length: 12
+Thigh Size: 8
+Waist Size: 5
+Arm Size: 8
+Calf Size: 7
+Leg Coverage Radius: 184.2
+Arm Coverage Radius: 171.8
+Jumping Height: 273.4
+Torso Collision: 52.4
+Leg Length Based Height: 193
+
+Com Skills:
+Trickster
+Long Ball Expert
+Early Crosser
+
+Other Stats:
+Weak Foot Usage: 2
+Weak Foot Accuracy: 2
+Form: 2
+Injury Resistance: 1

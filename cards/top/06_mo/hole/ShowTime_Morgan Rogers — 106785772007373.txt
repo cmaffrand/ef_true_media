@@ -1,0 +1,86 @@
+Name: Morgan Rogers
+Position: AMF
+Style: Hole Player - Pass Disruptor
+
+Training:
+SHO: 5
+PAS: 6
+DRI: 8
+DEX: 8
+LBS: 9
+AER: 7
+DEF: 1
+Lv: 64
+Manager: Fabio Capello
+Potenciators:
+Breakthrough +4
+Striker's Instinct +1
+
+Attributes:
+Offensive Awareness: 88
+Ball Control: 90
+Dribbling: 94
+Tight Possession: 92
+Low Pass: 87
+Lofted Pass: 83
+Finishing: 90
+Heading: 65
+Place Kicking: 68
+Curl: 82
+Defensive Awareness: 60
+Defensive Engagement: 68
+Tackling: 63
+Aggression: 70
+Goalkeeping: 41
+Gk Catching: 41
+GK Parrying: 41
+GK Reflexes: 41
+GK Reach: 41
+Speed: 92
+Acceleration: 91
+Kicking Power: 94
+Jump: 79
+Balance: 90
+Stamina: 88
+Physical Contact: 91
+
+Skills:
+Long Range Shooting
+Through Passing
+Double Touch
+Cut Behind & Turn
+Long Range Curler
+First Time Shot
+One Touch Pass
+Momentum Dribbling
+Acceleration Burst
+Blitz Curler
+
+Biometrics:
+Height: 185
+Weight: 73
+Arm Length: 7
+Shoulder Width: 7
+Neck Length: 5
+Chest: 6
+Neck Size: 10
+Shoulder Height: 9
+Leg Length: 11
+Thigh Size: 7
+Waist Size: 6
+Arm Size: 7
+Calf Size: 6
+Leg Coverage Radius: 180.7
+Arm Coverage Radius: 168.0
+Jumping Height: 266.2
+Torso Collision: 51.5
+Leg Length Based Height: 189
+
+Com Skills:
+Incisive Run
+
+Other Stats:
+Weak Foot Usage: 2
+Weak Foot Accuracy: 2
+Form: 2
+Injury Resistance: 1

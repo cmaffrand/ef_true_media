@@ -1,0 +1,84 @@
+Name: Fabio Cannavaro
+Position: CB
+Style: Destroyer
+
+Training:
+PAS: 2
+DEX: 6
+LBS: 9
+AER: 8
+DEF: 9
+Lv: 52
+Manager: Fabio Capello
+Potenciators:
+Duelling +4
+Jump +6
+
+Attributes:
+Offensive Awareness: 63
+Ball Control: 65
+Dribbling: 64
+Tight Possession: 65
+Low Pass: 74
+Lofted Pass: 72
+Finishing: 61
+Heading: 80
+Place Kicking: 54
+Curl: 56
+Defensive Awareness: 98
+Defensive Engagement: 97
+Tackling: 99
+Aggression: 95
+Goalkeeping: 41
+Gk Catching: 41
+GK Parrying: 41
+GK Reflexes: 41
+GK Reach: 41
+Speed: 93
+Acceleration: 92
+Kicking Power: 84
+Jump: 101
+Balance: 90
+Stamina: 91
+Physical Contact: 94
+
+Skills:
+One Touch Pass
+Man Marking
+Interception
+Acrobatic Clearance
+Fighting Spirit
+Blocker
+Aerial Superiority
+Sliding Tackle
+Aerial Fort
+Shadow Hunt
+
+Biometrics:
+Height: 176
+Weight: 75
+Arm Length: 7
+Shoulder Width: 7
+Neck Length: 4
+Chest: 4
+Neck Size: 9
+Shoulder Height: 5
+Leg Length: 7
+Thigh Size: 11
+Waist Size: 8
+Arm Size: 7
+Calf Size: 9
+Leg Coverage Radius: 169.8
+Arm Coverage Radius: 159.8
+Jumping Height: 271.5
+Torso Collision: 49.2
+Leg Length Based Height: 176
+
+Com Skills:
+Early Crosser
+
+Other Stats:
+Weak Foot Usage: 1
+Weak Foot Accuracy: 2
+Form: 2
+Injury Resistance: 2

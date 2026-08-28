@@ -1,0 +1,85 @@
+Name: Tijani Babangida
+Position: RWF
+Style: Prolific Winger - Front Line Pressure
+
+Training:
+SHO: 7
+PAS: 7
+DRI: 8
+DEX: 8
+LBS: 8
+AER: 5
+Lv: 62
+Manager: Fabio Capello
+Potenciators:
+Hard Worker +4
+Speed +6
+
+Attributes:
+Offensive Awareness: 85
+Ball Control: 84
+Dribbling: 85
+Tight Possession: 80
+Low Pass: 80
+Lofted Pass: 82
+Finishing: 83
+Heading: 71
+Place Kicking: 75
+Curl: 80
+Defensive Awareness: 53
+Defensive Engagement: 62
+Tackling: 55
+Aggression: 70
+Goalkeeping: 41
+Gk Catching: 41
+GK Parrying: 41
+GK Reflexes: 41
+GK Reach: 41
+Speed: 102
+Acceleration: 100
+Kicking Power: 87
+Jump: 80
+Balance: 91
+Stamina: 89
+Physical Contact: 74
+
+Skills:
+Super Sub
+Scissors Feint
+Chop Turn
+Chip Shot Control
+Rising Shots
+Heel Trick
+Gamesmanship
+Track Back
+Acceleration Burst
+Attacking Surge
+
+Biometrics:
+Height: 169
+Weight: 69
+Arm Length: 7
+Shoulder Width: 6
+Neck Length: 4
+Chest: 5
+Neck Size: 10
+Shoulder Height: 3
+Leg Length: 14
+Thigh Size: 10
+Waist Size: 7
+Arm Size: 7
+Calf Size: 9
+Leg Coverage Radius: 166.6
+Arm Coverage Radius: 153.3
+Jumping Height: 250.7
+Torso Collision: 46.9
+Leg Length Based Height: 176
+
+Com Skills:
+Long Ball Expert
+
+Other Stats:
+Weak Foot Usage: 1
+Weak Foot Accuracy: 0
+Form: 1
+Injury Resistance: 1

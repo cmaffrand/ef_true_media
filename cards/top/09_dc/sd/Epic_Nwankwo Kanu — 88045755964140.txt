@@ -1,0 +1,84 @@
+Name: Nwankwo Kanu
+Position: CF
+Style: Deep Lying Forward - Front Line Poacher
+
+Training:
+SHO: 8
+DRI: 5
+DEX: 8
+LBS: 8
+AER: 12
+Lv: 66
+Manager: Fabio Capello
+Potenciators:
+Offence creator +4
+Aerial +1
+
+Attributes:
+Offensive Awareness: 88
+Ball Control: 88
+Dribbling: 87
+Tight Possession: 89
+Low Pass: 76
+Lofted Pass: 69
+Finishing: 91
+Heading: 90
+Place Kicking: 75
+Curl: 82
+Defensive Awareness: 46
+Defensive Engagement: 49
+Tackling: 49
+Aggression: 50
+Goalkeeping: 41
+Gk Catching: 41
+GK Parrying: 41
+GK Reflexes: 41
+GK Reach: 41
+Speed: 85
+Acceleration: 83
+Kicking Power: 89
+Jump: 88
+Balance: 83
+Stamina: 83
+Physical Contact: 94
+
+Skills:
+Super Sub
+Double Touch
+Marseille Turn
+Sole Control
+Heading
+Long Range Curler
+Outside Curler
+Aerial Superiority
+Phenomenal Finishing
+Bullet Header
+
+Biometrics:
+Height: 196
+Weight: 80
+Arm Length: 8
+Shoulder Width: 7
+Neck Length: 5
+Chest: 4
+Neck Size: 10
+Shoulder Height: 7
+Leg Length: 14
+Thigh Size: 3
+Waist Size: 2
+Arm Size: 3
+Calf Size: 3
+Leg Coverage Radius: 193.3
+Arm Coverage Radius: 179.1
+Jumping Height: 283.1
+Torso Collision: 54.1
+Leg Length Based Height: 203
+
+Com Skills:
+Mazing Run
+
+Other Stats:
+Weak Foot Usage: 2
+Weak Foot Accuracy: 2
+Form: 1
+Injury Resistance: 1

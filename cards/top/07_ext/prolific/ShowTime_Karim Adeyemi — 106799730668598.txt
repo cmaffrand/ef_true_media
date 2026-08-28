@@ -1,0 +1,86 @@
+Name: Karim Adeyemi
+Position: RWF
+Style: Prolific Winger - Front Line Pressure
+
+Training:
+SHO: 8
+PAS: 6
+DRI: 8
+DEX: 8
+LBS: 9
+AER: 3
+Lv: 62
+Manager: Fabio Capello
+Potenciators:
+Breakthrough +4
+Balance +6
+
+Attributes:
+Offensive Awareness: 85
+Ball Control: 90
+Dribbling: 94
+Tight Possession: 90
+Low Pass: 81
+Lofted Pass: 77
+Finishing: 88
+Heading: 63
+Place Kicking: 67
+Curl: 78
+Defensive Awareness: 52
+Defensive Engagement: 64
+Tackling: 49
+Aggression: 58
+Goalkeeping: 41
+Gk Catching: 41
+GK Parrying: 41
+GK Reflexes: 41
+GK Reach: 41
+Speed: 96
+Acceleration: 95
+Kicking Power: 91
+Jump: 79
+Balance: 99
+Stamina: 91
+Physical Contact: 80
+
+Skills:
+Super Sub
+Double Touch
+Flip Flap
+Cut Behind & Turn
+Sole Control
+Long Range Curler
+First Time Shot
+Outside Curler
+Momentum Dribbling
+Acceleration Burst
+
+Biometrics:
+Height: 180
+Weight: 75
+Arm Length: 7
+Shoulder Width: 8
+Neck Length: 5
+Chest: 6
+Neck Size: 7
+Shoulder Height: 9
+Leg Length: 11
+Thigh Size: 7
+Waist Size: 6
+Arm Size: 8
+Calf Size: 6
+Leg Coverage Radius: 175.9
+Arm Coverage Radius: 163.6
+Jumping Height: 261.2
+Torso Collision: 50.4
+Leg Length Based Height: 184
+
+Com Skills:
+Mazing Run
+Long Ball Expert
+
+Other Stats:
+Weak Foot Usage: 1
+Weak Foot Accuracy: 2
+Form: 0
+Injury Resistance: 0
