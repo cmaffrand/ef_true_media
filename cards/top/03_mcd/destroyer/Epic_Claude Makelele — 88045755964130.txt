@@ -1,0 +1,86 @@
+Name: Claude Makelele
+Position: DMF
+Style: All action Defender
+
+Training:
+SHO: 1
+PAS: 6
+DRI: 4
+DEX: 8
+LBS: 9
+AER: 5
+DEF: 10
+Lv: 64
+Manager: Fabio Capello
+Potenciators:
+Duelling +4
+Shutdown +1
+
+Attributes:
+Offensive Awareness: 75
+Ball Control: 82
+Dribbling: 81
+Tight Possession: 87
+Low Pass: 90
+Lofted Pass: 87
+Finishing: 63
+Heading: 69
+Place Kicking: 56
+Curl: 64
+Defensive Awareness: 98
+Defensive Engagement: 96
+Tackling: 99
+Aggression: 95
+Goalkeeping: 41
+Gk Catching: 41
+GK Parrying: 41
+GK Reflexes: 41
+GK Reach: 41
+Speed: 93
+Acceleration: 93
+Kicking Power: 89
+Jump: 82
+Balance: 92
+Stamina: 96
+Physical Contact: 90
+
+Skills:
+Double Touch
+One Touch Pass
+Man Marking
+Interception
+Fighting Spirit
+Blocker
+Sliding Tackle
+Phenomenal Pass
+Long Reach Tackle
+Shadow Hunt
+
+Biometrics:
+Height: 174
+Weight: 70
+Arm Length: 10
+Shoulder Width: 14
+Neck Length: 5
+Chest: 10
+Neck Size: 12
+Shoulder Height: 0
+Leg Length: 13
+Thigh Size: 12
+Waist Size: 1
+Arm Size: 10
+Calf Size: 9
+Leg Coverage Radius: 171.0
+Arm Coverage Radius: 162.2
+Jumping Height: 257.2
+Torso Collision: 50.5
+Leg Length Based Height: 180
+
+Com Skills:
+Early Crosser
+
+Other Stats:
+Weak Foot Usage: 1
+Weak Foot Accuracy: 2
+Form: 2
+Injury Resistance: 2

@@ -1,0 +1,84 @@
+Name: Jaap Stam
+Position: CB
+Style: Destroyer
+
+Training:
+DEX: 8
+LBS: 8
+AER: 7
+DEF: 11
+GK1: 1
+Lv: 56
+Manager: Fabio Capello
+Potenciators:
+Defending +4
+Agility +1
+
+Attributes:
+Offensive Awareness: 64
+Ball Control: 68
+Dribbling: 63
+Tight Possession: 65
+Low Pass: 70
+Lofted Pass: 74
+Finishing: 51
+Heading: 83
+Place Kicking: 55
+Curl: 63
+Defensive Awareness: 98
+Defensive Engagement: 96
+Tackling: 98
+Aggression: 95
+Goalkeeping: 42
+Gk Catching: 41
+GK Parrying: 41
+GK Reflexes: 41
+GK Reach: 41
+Speed: 90
+Acceleration: 88
+Kicking Power: 81
+Jump: 88
+Balance: 66
+Stamina: 88
+Physical Contact: 95
+
+Skills:
+Heading
+Man Marking
+Interception
+Acrobatic Clearance
+Fighting Spirit
+Blocker
+Aerial Superiority
+Sliding Tackle
+Long Reach Tackle
+Aerial Fort
+
+Biometrics:
+Height: 191
+Weight: 91
+Arm Length: 4
+Shoulder Width: 10
+Neck Length: 7
+Chest: 12
+Neck Size: 12
+Shoulder Height: 2
+Leg Length: 9
+Thigh Size: 7
+Waist Size: 7
+Arm Size: 7
+Calf Size: 7
+Leg Coverage Radius: 185.5
+Arm Coverage Radius: 170.7
+Jumping Height: 278.7
+Torso Collision: 54.4
+Leg Length Based Height: 193
+
+Com Skills:
+Early Crosser
+
+Other Stats:
+Weak Foot Usage: 1
+Weak Foot Accuracy: 1
+Form: 2
+Injury Resistance: 2

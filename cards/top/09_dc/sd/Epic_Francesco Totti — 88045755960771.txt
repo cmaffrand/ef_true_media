@@ -1,0 +1,86 @@
+Name: Francesco Totti
+Position: CF
+Style: Deep Lying Forward - Front Line Poacher
+
+Training:
+SHO: 7
+PAS: 4
+DRI: 8
+DEX: 9
+LBS: 11
+AER: 4
+Lv: 66
+Manager: Fabio Capello
+Potenciators:
+Shooting +4
+Agility +1
+
+Attributes:
+Offensive Awareness: 93
+Ball Control: 94
+Dribbling: 90
+Tight Possession: 93
+Low Pass: 90
+Lofted Pass: 90
+Finishing: 92
+Heading: 77
+Place Kicking: 85
+Curl: 83
+Defensive Awareness: 55
+Defensive Engagement: 55
+Tackling: 53
+Aggression: 58
+Goalkeeping: 41
+Gk Catching: 41
+GK Parrying: 41
+GK Reflexes: 41
+GK Reach: 41
+Speed: 95
+Acceleration: 91
+Kicking Power: 98
+Jump: 73
+Balance: 90
+Stamina: 88
+Physical Contact: 84
+
+Skills:
+Long Range Shooting
+Through Passing
+Double Touch
+Long Range Curler
+First Time Shot
+One Touch Pass
+Outside Curler
+Captaincy
+Magnetic Feet
+Snap Strike
+
+Biometrics:
+Height: 180
+Weight: 82
+Arm Length: 5
+Shoulder Width: 10
+Neck Length: 5
+Chest: 6
+Neck Size: 7
+Shoulder Height: 4
+Leg Length: 8
+Thigh Size: 8
+Waist Size: 5
+Arm Size: 7
+Calf Size: 7
+Leg Coverage Radius: 174.2
+Arm Coverage Radius: 161.9
+Jumping Height: 257.3
+Torso Collision: 51.0
+Leg Length Based Height: 181
+
+Com Skills:
+Mazing Run
+Incisive Run
+
+Other Stats:
+Weak Foot Usage: 2
+Weak Foot Accuracy: 2
+Form: 2
+Injury Resistance: 1

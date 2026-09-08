@@ -1,0 +1,86 @@
+Name: Adriano
+Position: CF
+Style: Goal Poacher - Attack Outlet
+
+Training:
+SHO: 8
+PAS: 5
+DRI: 8
+DEX: 9
+LBS: 9
+AER: 5
+Lv: 66
+Manager: Fabio Capello
+Potenciators:
+Striker's Instinct +4
+Kicking Power +6
+
+Attributes:
+Offensive Awareness: 91
+Ball Control: 86
+Dribbling: 90
+Tight Possession: 85
+Low Pass: 72
+Lofted Pass: 70
+Finishing: 93
+Heading: 83
+Place Kicking: 74
+Curl: 87
+Defensive Awareness: 43
+Defensive Engagement: 44
+Tackling: 45
+Aggression: 46
+Goalkeeping: 41
+Gk Catching: 41
+GK Parrying: 41
+GK Reflexes: 41
+GK Reach: 41
+Speed: 95
+Acceleration: 93
+Kicking Power: 102
+Jump: 91
+Balance: 77
+Stamina: 87
+Physical Contact: 91
+
+Skills:
+Long Range Shooting
+Marseille Turn
+Heading
+Long Range Curler
+Rising Shots
+First Time Shot
+Outside Curler
+Phenomenal Finishing
+Low Screamer
+Snap Strike
+
+Biometrics:
+Height: 189
+Weight: 90
+Arm Length: 8
+Shoulder Width: 11
+Neck Length: 6
+Chest: 7
+Neck Size: 14
+Shoulder Height: 4
+Leg Length: 10
+Thigh Size: 11
+Waist Size: 7
+Arm Size: 11
+Calf Size: 10
+Leg Coverage Radius: 184.1
+Arm Coverage Radius: 173.4
+Jumping Height: 278.4
+Torso Collision: 54.1
+Leg Length Based Height: 192
+
+Com Skills:
+Mazing Run
+Incisive Run
+
+Other Stats:
+Weak Foot Usage: 1
+Weak Foot Accuracy: 1
+Form: 2
+Injury Resistance: 2

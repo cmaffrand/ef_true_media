@@ -1,0 +1,78 @@
+Name: Petr Cech
+Position: GK
+Style: Defensive Goalkeeper
+
+Training:
+AER: 2
+GK1: 11
+GK2: 11
+GK3: 8
+Lv: 56
+Manager: Fabio Capello
+Potenciators:
+Saving +4
+GK Catching +6
+
+Attributes:
+Offensive Awareness: 41
+Ball Control: 49
+Dribbling: 41
+Tight Possession: 45
+Low Pass: 54
+Lofted Pass: 55
+Finishing: 42
+Heading: 48
+Place Kicking: 51
+Curl: 43
+Defensive Awareness: 47
+Defensive Engagement: 51
+Tackling: 43
+Aggression: 45
+Goalkeeping: 100
+Gk Catching: 96
+GK Parrying: 96
+GK Reflexes: 99
+GK Reach: 99
+Speed: 58
+Acceleration: 53
+Kicking Power: 70
+Jump: 83
+Balance: 52
+Stamina: 54
+Physical Contact: 74
+
+Skills:
+Gk Low Punt
+GK Long Throw
+GK Penalty Saver
+Captaincy
+GK Direct Defending
+
+Biometrics:
+Height: 196
+Weight: 90
+Arm Length: 5
+Shoulder Width: 11
+Neck Length: 6
+Chest: 5
+Neck Size: 6
+Shoulder Height: 7
+Leg Length: 10
+Thigh Size: 6
+Waist Size: 5
+Arm Size: 6
+Calf Size: 5
+Leg Coverage Radius: 190.9
+Arm Coverage Radius: 176.5
+Jumping Height: 280.1
+Torso Collision: 55.7
+Leg Length Based Height: 199
+
+Com Skills:
+—
+
+Other Stats:
+Weak Foot Usage: 0
+Weak Foot Accuracy: 1
+Form: 2
+Injury Resistance: 2

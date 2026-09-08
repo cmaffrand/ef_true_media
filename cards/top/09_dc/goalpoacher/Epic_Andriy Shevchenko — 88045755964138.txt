@@ -1,0 +1,87 @@
+Name: Andriy Shevchenko
+Position: CF
+Style: Goal Poacher - Front Line Pressure
+
+Training:
+SHO: 8
+PAS: 3
+DRI: 8
+DEX: 9
+LBS: 8
+AER: 6
+Lv: 62
+Manager: Fabio Capello
+Potenciators:
+Agility +4
+Off the ball +1
+
+Attributes:
+Offensive Awareness: 94
+Ball Control: 88
+Dribbling: 88
+Tight Possession: 87
+Low Pass: 70
+Lofted Pass: 68
+Finishing: 92
+Heading: 84
+Place Kicking: 84
+Curl: 84
+Defensive Awareness: 54
+Defensive Engagement: 53
+Tackling: 47
+Aggression: 58
+Goalkeeping: 41
+Gk Catching: 41
+GK Parrying: 41
+GK Reflexes: 41
+GK Reach: 41
+Speed: 96
+Acceleration: 96
+Kicking Power: 94
+Jump: 90
+Balance: 83
+Stamina: 88
+Physical Contact: 87
+
+Skills:
+Long Range Shooting
+Heading
+Long Range Curler
+Rising Shots
+Acrobatic Finishing
+First Time Shot
+Outside Curler
+Fighting Spirit
+Phenomenal Finishing
+Snap Strike
+
+Biometrics:
+Height: 183
+Weight: 73
+Arm Length: 5
+Shoulder Width: 7
+Neck Length: 4
+Chest: 6
+Neck Size: 7
+Shoulder Height: 9
+Leg Length: 7
+Thigh Size: 7
+Waist Size: 7
+Arm Size: 8
+Calf Size: 7
+Leg Coverage Radius: 176.6
+Arm Coverage Radius: 164.1
+Jumping Height: 271.2
+Torso Collision: 51.0
+Leg Length Based Height: 183
+
+Com Skills:
+Mazing Run
+Incisive Run
+Early Crosser
+
+Other Stats:
+Weak Foot Usage: 2
+Weak Foot Accuracy: 3
+Form: 2
+Injury Resistance: 1
