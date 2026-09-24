@@ -1,0 +1,81 @@
+Name: Ibrahim Maza
+Position: AMF
+Style: Hole Player - Pass Disruptor
+
+Training:
+SHO: 7
+PAS: 8
+DRI: 6
+DEX: 8
+LBS: 10
+AER: 2
+Lv: 62
+Manager: Jose Mourinho
+Potenciators:
+Offence Creator +4
+Off the Ball +1
+
+Attributes:
+Ball Control: 90
+Dribbling: 88
+Tight Possession: 89
+Low Pass: 90
+Lofted Pass: 82
+Finishing: 87
+Heading: 61
+Curl: 73
+Defensive Awareness: 58
+Defensive Engagement: 61
+Tackling: 63
+Aggression: 68
+GK Parrying: 41
+GK Reflexes: 41
+GK Reach: 41
+Speed: 90
+Acceleration: 91
+Kicking Power: 91
+Balance: 88
+Stamina: 88
+
+Skills:
+Long range Shooting
+Through Passing
+Double Touch
+Cut Behind & Turn
+Sole Control
+Rising Shot
+First time Shot
+One touch Pass
+Outside Curler
+Phenomenal Pass
+
+Biometrics:
+Height: 180
+Weight: 70
+Arm Length: 6
+Shoulder Width: 7
+Neck Length: 5
+Chest: 6
+Neck Size: 7
+Shoulder Height: 9
+Leg Length: 7
+Thigh Size: 7
+Waist Size: 7
+Arm Size: 8
+Calf Size: 7
+Leg Coverage Radius: 173.7
+Arm Coverage Radius: 162.4
+Jumping Height: 251.3
+Torso Collision: 50.2
+Leg Length Based Height: 180
+
+Com Skills:
+Mazing Run
+Incisive Run
+Long Ball Expert
+
+Other Stats:
+Weak Foot Usage: 1
+Weak Foot Accuracy: 2
+Form: 1
+Injury Resistance: 1

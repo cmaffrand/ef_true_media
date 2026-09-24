@@ -35,7 +35,8 @@ def extract_text_from_html(file_path, output_folder, prefix=""):
     
     #print(text)
     
-    blacklist = ["eFHUB", "Players", "Community", "English", "Sign in", "Compare", "My Builds", "Community Builds", "Save Build", "Share", "SCREENSHOT", "SETTINGS", "Packs", "Get Pro", "Feed", "Tier Lists", "Skill FX", "Managers", "Reviews"]
+    blacklist = ["eFHUB", "Players", "Community", "English", "Sign in", "Compare", "My Builds", "Community Builds", "Save Build", "Share", 
+                 "SCREENSHOT", "SETTINGS", "Packs", "Get Pro", "Feed", "Tier Lists", "Skill FX", "Managers", "Reviews", "Articles", "Pro Builds"]
     lines = [line.strip() for line in text.splitlines()]
     # Search in 3 lines after "Condition" that contain "+" and store the content in a variable called "potenciators"
     potenciators = []

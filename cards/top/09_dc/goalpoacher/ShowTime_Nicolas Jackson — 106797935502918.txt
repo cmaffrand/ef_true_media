@@ -1,0 +1,81 @@
+Name: Nicolas Jackson
+Position: CF
+Style: Goal Poacher - Front Line Pressure
+
+Training:
+SHO: 9
+PAS: 4
+DRI: 9
+DEX: 8
+LBS: 10
+AER: 2
+Lv: 66
+Manager: Jose Mourinho
+Potenciators:
+Breakthrough +4
+Striker's Instinct +1
+
+Attributes:
+Ball Control: 88
+Dribbling: 90
+Tight Possession: 86
+Low Pass: 70
+Lofted Pass: 67
+Finishing: 90
+Heading: 73
+Curl: 72
+Defensive Awareness: 53
+Defensive Engagement: 58
+Tackling: 52
+Aggression: 61
+GK Parrying: 41
+GK Reflexes: 41
+GK Reach: 41
+Speed: 94
+Acceleration: 93
+Kicking Power: 91
+Balance: 82
+Stamina: 87
+
+Skills:
+Long range Shooting
+Cut Behind & Turn
+Sole Control
+Heading
+Long range Curler
+Acrobatic Finishing
+First time Shot
+Outside Curler
+Fighting Spirit
+Attacking Surge
+
+Biometrics:
+Height: 186
+Weight: 78
+Arm Length: 10
+Shoulder Width: 8
+Neck Length: 7
+Chest: 6
+Neck Size: 9
+Shoulder Height: 9
+Leg Length: 12
+Thigh Size: 5
+Waist Size: 5
+Arm Size: 4
+Calf Size: 5
+Leg Coverage Radius: 182.3
+Arm Coverage Radius: 172.3
+Jumping Height: 261.8
+Torso Collision: 52.0
+Leg Length Based Height: 191
+
+Com Skills:
+Mazing Run
+Long Ball Expert
+Early Crosser
+
+Other Stats:
+Weak Foot Usage: 2
+Weak Foot Accuracy: 2
+Form: 1
+Injury Resistance: 1

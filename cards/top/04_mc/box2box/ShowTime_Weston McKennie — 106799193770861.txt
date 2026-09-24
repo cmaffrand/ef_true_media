@@ -1,0 +1,82 @@
+Name: Weston McKennie
+Position: CMF
+Style: Box to Box
+
+Training:
+SHO: 4
+PAS: 5
+DRI: 8
+DEX: 8
+LBS: 8
+AER: 4
+DEF: 8
+Lv: 62
+Manager: Jose Mourinho
+Potenciators:
+Balancer +4
+Technique +1
+
+Attributes:
+Ball Control: 91
+Dribbling: 87
+Tight Possession: 89
+Low Pass: 88
+Lofted Pass: 86
+Finishing: 75
+Heading: 73
+Curl: 75
+Defensive Awareness: 83
+Defensive Engagement: 81
+Tackling: 81
+Aggression: 87
+GK Parrying: 41
+GK Reflexes: 41
+GK Reach: 41
+Speed: 90
+Acceleration: 90
+Kicking Power: 90
+Balance: 80
+Stamina: 93
+
+Skills:
+Through Passing
+Double Touch
+First time Shot
+One touch Pass
+Low Lofted Pass
+Track Back
+Fighting Spirit
+Blocker
+Sliding Tackle
+Attack Trigger
+
+Biometrics:
+Height: 185
+Weight: 84
+Arm Length: 5
+Shoulder Width: 8
+Neck Length: 4
+Chest: 5
+Neck Size: 8
+Shoulder Height: 2
+Leg Length: 8
+Thigh Size: 8
+Waist Size: 6
+Arm Size: 5
+Calf Size: 8
+Leg Coverage Radius: 179.1
+Arm Coverage Radius: 166.1
+Jumping Height: 265.3
+Torso Collision: 51.8
+Leg Length Based Height: 186
+
+Com Skills:
+Incisive Run
+Long Ball Expert
+Early Crosser
+
+Other Stats:
+Weak Foot Usage: 1
+Weak Foot Accuracy: 2
+Form: 1
+Injury Resistance: 1

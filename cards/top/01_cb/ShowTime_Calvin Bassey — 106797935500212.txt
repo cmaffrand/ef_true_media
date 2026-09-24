@@ -1,0 +1,79 @@
+Name: Calvin Bassey
+Position: CB
+Style: Build Up - The Destroyer
+
+Training:
+DEX: 8
+LBS: 8
+AER: 7
+DEF: 9
+GK1: 3
+Lv: 52
+Manager: Jose Mourinho
+Potenciators:
+Stealing +4
+Defending +1
+
+Attributes:
+Ball Control: 68
+Dribbling: 68
+Tight Possession: 66
+Low Pass: 71
+Lofted Pass: 68
+Finishing: 52
+Heading: 77
+Curl: 55
+Defensive Awareness: 90
+Defensive Engagement: 90
+Tackling: 93
+Aggression: 93
+GK Parrying: 41
+GK Reflexes: 41
+GK Reach: 41
+Speed: 90
+Acceleration: 88
+Kicking Power: 77
+Balance: 71
+Stamina: 88
+
+Skills:
+Heading
+Long Throw
+Man Marking
+Interception
+Acrobatic Clearance
+Fighting Spirit
+Blocker
+Aerial Superiority
+Sliding Tackle
+Aerial Fort
+
+Biometrics:
+Height: 185
+Weight: 76
+Arm Length: 7
+Shoulder Width: 9
+Neck Length: 3
+Chest: 9
+Neck Size: 14
+Shoulder Height: 11
+Leg Length: 12
+Thigh Size: 12
+Waist Size: 8
+Arm Size: 10
+Calf Size: 9
+Leg Coverage Radius: 181.3
+Arm Coverage Radius: 168.4
+Jumping Height: 272.9
+Torso Collision: 52.5
+Leg Length Based Height: 190
+
+Com Skills:
+Trickster
+Early Crosser
+
+Other Stats:
+Weak Foot Usage: 0
+Weak Foot Accuracy: 1
+Form: 1
+Injury Resistance: 1

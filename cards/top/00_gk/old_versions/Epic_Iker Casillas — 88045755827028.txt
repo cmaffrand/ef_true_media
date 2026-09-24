@@ -46,7 +46,7 @@ Gk Low Punt
 GK Long Throw
 GK Penalty Saver
 Captaincy
-GK Direct Defending
+GK Directing Defence
 
 Biometrics:
 Height: 185

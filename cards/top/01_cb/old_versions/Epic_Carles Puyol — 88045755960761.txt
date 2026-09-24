@@ -1,0 +1,80 @@
+Name: Carles Puyol
+Position: CB
+Style: Build Up - The Destroyer
+
+Training:
+PAS: 1
+DRI: 2
+DEX: 8
+LBS: 10
+AER: 9
+DEF: 9
+GK1: 3
+Lv: 66
+Manager: Jose Mourinho
+Potenciators:
+Rebuilding +4
+Defending +1
+
+Attributes:
+Ball Control: 70
+Dribbling: 65
+Tight Possession: 68
+Low Pass: 75
+Lofted Pass: 72
+Finishing: 60
+Heading: 90
+Curl: 63
+Defensive Awareness: 96
+Defensive Engagement: 97
+Tackling: 96
+Aggression: 98
+GK Parrying: 41
+GK Reflexes: 41
+GK Reach: 41
+Speed: 90
+Acceleration: 88
+Kicking Power: 84
+Balance: 80
+Stamina: 88
+
+Skills:
+Man Marking
+Interception
+Acrobatic Clearance
+Captaincy
+Fighting Spirit
+Blocker
+Aerial Superiority
+Sliding Tackle
+Long reach Tackle
+Shadow Hunt
+
+Biometrics:
+Height: 178
+Weight: 80
+Arm Length: 5
+Shoulder Width: 7
+Neck Length: 6
+Chest: 12
+Neck Size: 12
+Shoulder Height: 6
+Leg Length: 8
+Thigh Size: 9
+Waist Size: 8
+Arm Size: 9
+Calf Size: 7
+Leg Coverage Radius: 172.3
+Arm Coverage Radius: 159.6
+Jumping Height: 272.7
+Torso Collision: 50.0
+Leg Length Based Height: 179
+
+Com Skills:
+Early Crosser
+
+Other Stats:
+Weak Foot Usage: 1
+Weak Foot Accuracy: 2
+Form: 2
+Injury Resistance: 1

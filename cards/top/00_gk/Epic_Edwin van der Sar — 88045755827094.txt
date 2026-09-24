@@ -1,0 +1,72 @@
+Name: Edwin van der Sar
+Position: GK
+Style: Attacking GK
+
+Training:
+AER: 1
+GK1: 10
+GK2: 11
+GK3: 10
+Lv: 58
+Manager: Jose Mourinho
+Potenciators:
+Goalkeeping +4
+Goalkeeping +1
+
+Attributes:
+Ball Control: 59
+Dribbling: 51
+Tight Possession: 59
+Low Pass: 62
+Lofted Pass: 64
+Finishing: 42
+Heading: 46
+Curl: 50
+Defensive Awareness: 46
+Defensive Engagement: 51
+Tackling: 45
+Aggression: 52
+GK Parrying: 99
+GK Reflexes: 97
+GK Reach: 97
+Speed: 52
+Acceleration: 48
+Kicking Power: 68
+Balance: 49
+Stamina: 57
+
+Skills:
+GK Low Punt
+GK High Punt
+GK Long Throw
+GK Penalty Saver
+GK Directing Defence
+
+Biometrics:
+Height: 197
+Weight: 84
+Arm Length: 7
+Shoulder Width: 7
+Neck Length: 8
+Chest: 7
+Neck Size: 6
+Shoulder Height: 5
+Leg Length: 10
+Thigh Size: 6
+Waist Size: 4
+Arm Size: 6
+Calf Size: 6
+Leg Coverage Radius: 191.9
+Arm Coverage Radius: 178.9
+Jumping Height: 280.3
+Torso Collision: 54.8
+Leg Length Based Height: 200
+
+Com Skills:
+—
+
+Other Stats:
+Weak Foot Usage: 1
+Weak Foot Accuracy: 1
+Form: 2
+Injury Resistance: 1

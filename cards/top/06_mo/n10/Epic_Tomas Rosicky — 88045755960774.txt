@@ -1,0 +1,80 @@
+Name: Tomas Rosicky
+Position: AMF
+Style: Classic No. 10 - Pass Disruptor
+
+Training:
+SHO: 7
+PAS: 7
+DRI: 5
+DEX: 9
+LBS: 10
+AER: 3
+Lv: 62
+Manager: Jose Mourinho
+Potenciators:
+Offence Creator +4
+Ball-carrying +1
+
+Attributes:
+Ball Control: 93
+Dribbling: 91
+Tight Possession: 92
+Low Pass: 95
+Lofted Pass: 90
+Finishing: 87
+Heading: 61
+Curl: 88
+Defensive Awareness: 57
+Defensive Engagement: 57
+Tackling: 59
+Aggression: 62
+GK Parrying: 41
+GK Reflexes: 41
+GK Reach: 41
+Speed: 90
+Acceleration: 92
+Kicking Power: 93
+Balance: 90
+Stamina: 88
+
+Skills:
+Long range Shooting
+Through Passing
+Double Touch
+Sole Control
+Long range Curler
+First time Shot
+One touch Pass
+Outside Curler
+Phenomenal Pass
+Attack Trigger
+
+Biometrics:
+Height: 178
+Weight: 65
+Arm Length: 2
+Shoulder Width: 6
+Neck Length: 4
+Chest: 5
+Neck Size: 7
+Shoulder Height: 5
+Leg Length: 8
+Thigh Size: 6
+Waist Size: 4
+Arm Size: 5
+Calf Size: 6
+Leg Coverage Radius: 172.3
+Arm Coverage Radius: 156.4
+Jumping Height: 250.4
+Torso Collision: 49.1
+Leg Length Based Height: 179
+
+Com Skills:
+Mazing Run
+Incisive Run
+
+Other Stats:
+Weak Foot Usage: 2
+Weak Foot Accuracy: 2
+Form: 2
+Injury Resistance: 0

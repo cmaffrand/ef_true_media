@@ -1,0 +1,80 @@
+Name: George Best
+Position: RWF
+Style: Prolific Winger - Front Line Poacher
+
+Training:
+SHO: 7
+PAS: 4
+DRI: 8
+DEX: 10
+LBS: 10
+AER: 4
+Lv: 66
+Manager: Jose Mourinho
+Potenciators:
+Breakthrough +4
+Balance +6
+
+Attributes:
+Ball Control: 95
+Dribbling: 98
+Tight Possession: 95
+Low Pass: 82
+Lofted Pass: 82
+Finishing: 91
+Heading: 61
+Curl: 82
+Defensive Awareness: 42
+Defensive Engagement: 44
+Tackling: 42
+Aggression: 45
+GK Parrying: 41
+GK Reflexes: 41
+GK Reach: 41
+Speed: 100
+Acceleration: 99
+Kicking Power: 91
+Balance: 99
+Stamina: 87
+
+Skills:
+Long range Shooting
+Double Touch
+Flip Flap
+Marseille Turn
+Cut Behind & Turn
+Sole Control
+Long range Curler
+Outside Curler
+Momentum Dribbling
+Acceleration Burst
+
+Biometrics:
+Height: 175
+Weight: 64
+Arm Length: 5
+Shoulder Width: 7
+Neck Length: 7
+Chest: 7
+Neck Size: 7
+Shoulder Height: 7
+Leg Length: 7
+Thigh Size: 7
+Waist Size: 7
+Arm Size: 6
+Calf Size: 7
+Leg Coverage Radius: 168.9
+Arm Coverage Radius: 156.9
+Jumping Height: 251.5
+Torso Collision: 48.8
+Leg Length Based Height: 175
+
+Com Skills:
+Mazing Run
+Long Ball Expert
+
+Other Stats:
+Weak Foot Usage: 2
+Weak Foot Accuracy: 3
+Form: 1
+Injury Resistance: 1

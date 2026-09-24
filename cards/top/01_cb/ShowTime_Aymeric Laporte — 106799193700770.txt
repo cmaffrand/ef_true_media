@@ -1,0 +1,77 @@
+Name: Aymeric Laporte
+Position: CB
+Style: Build Up - Covering Role
+
+Training:
+DEX: 9
+LBS: 10
+AER: 8
+DEF: 9
+Lv: 60
+Manager: Jose Mourinho
+Potenciators:
+Rebuilding +4
+Defending +1
+
+Attributes:
+Ball Control: 75
+Dribbling: 68
+Tight Possession: 70
+Low Pass: 86
+Lofted Pass: 80
+Finishing: 54
+Heading: 86
+Curl: 68
+Defensive Awareness: 95
+Defensive Engagement: 94
+Tackling: 90
+Aggression: 91
+GK Parrying: 41
+GK Reflexes: 41
+GK Reach: 41
+Speed: 84
+Acceleration: 80
+Kicking Power: 79
+Balance: 76
+Stamina: 87
+
+Skills:
+Through Passing
+One touch Pass
+Weighted Pass
+Low Lofted Pass
+Man Marking
+Interception
+Blocker
+Aerial Superiority
+Sliding Tackle
+Phenomenal Pass
+
+Biometrics:
+Height: 189
+Weight: 86
+Arm Length: 7
+Shoulder Width: 8
+Neck Length: 6
+Chest: 2
+Neck Size: 2
+Shoulder Height: 7
+Leg Length: 10
+Thigh Size: 5
+Waist Size: 2
+Arm Size: 2
+Calf Size: 3
+Leg Coverage Radius: 184.1
+Arm Coverage Radius: 171.8
+Jumping Height: 276.4
+Torso Collision: 52.5
+Leg Length Based Height: 192
+
+Com Skills:
+—
+
+Other Stats:
+Weak Foot Usage: 0
+Weak Foot Accuracy: 1
+Form: 1
+Injury Resistance: 0

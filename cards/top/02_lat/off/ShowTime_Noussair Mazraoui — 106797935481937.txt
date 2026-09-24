@@ -1,0 +1,81 @@
+Name: Noussair Mazraoui
+Position: LB
+Style: Attacking Full back - Covering Role
+
+Training:
+SHO: 7
+PAS: 8
+DRI: 4
+DEX: 6
+LBS: 10
+AER: 4
+DEF: 8
+Lv: 68
+Manager: Jose Mourinho
+Potenciators:
+Crossing +4
+Crossing +1
+
+Attributes:
+Ball Control: 82
+Dribbling: 80
+Tight Possession: 81
+Low Pass: 81
+Lofted Pass: 91
+Finishing: 67
+Heading: 72
+Curl: 88
+Defensive Awareness: 82
+Defensive Engagement: 87
+Tackling: 86
+Aggression: 85
+GK Parrying: 41
+GK Reflexes: 41
+GK Reach: 41
+Speed: 94
+Acceleration: 88
+Kicking Power: 87
+Balance: 80
+Stamina: 95
+
+Skills:
+Through Passing
+Pinpoint Crossing
+Sole Control
+One touch Pass
+Outside Curler
+Interception
+Blocker
+Aerial Superiority
+Sliding Tackle
+Edged Crossing
+
+Biometrics:
+Height: 183
+Weight: 74
+Arm Length: 12
+Shoulder Width: 9
+Neck Length: 8
+Chest: 4
+Neck Size: 7
+Shoulder Height: 9
+Leg Length: 11
+Thigh Size: 6
+Waist Size: 2
+Arm Size: 6
+Calf Size: 5
+Leg Coverage Radius: 178.8
+Arm Coverage Radius: 171.8
+Jumping Height: 262.4
+Torso Collision: 51.3
+Leg Length Based Height: 187
+
+Com Skills:
+Trickster
+Mazing Run
+
+Other Stats:
+Weak Foot Usage: 2
+Weak Foot Accuracy: 2
+Form: 2
+Injury Resistance: 0

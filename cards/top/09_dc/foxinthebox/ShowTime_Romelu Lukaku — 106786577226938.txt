@@ -1,0 +1,81 @@
+Name: Romelu Lukaku
+Position: CF
+Style: Fox in the Box - Front Line Poacher
+
+Training:
+SHO: 8
+PAS: 3
+DRI: 8
+DEX: 9
+LBS: 8
+AER: 6
+Lv: 62
+Manager: Jose Mourinho
+Potenciators:
+Physicality +4
+Striker's Instinct +1
+
+Attributes:
+Ball Control: 85
+Dribbling: 83
+Tight Possession: 81
+Low Pass: 70
+Lofted Pass: 67
+Finishing: 93
+Heading: 86
+Curl: 78
+Defensive Awareness: 47
+Defensive Engagement: 53
+Tackling: 52
+Aggression: 62
+GK Parrying: 41
+GK Reflexes: 41
+GK Reach: 41
+Speed: 91
+Acceleration: 88
+Kicking Power: 91
+Balance: 80
+Stamina: 86
+
+Skills:
+Heading
+Long range Curler
+Acrobatic Finishing
+First time Shot
+One touch Pass
+Outside Curler
+Fighting Spirit
+Aerial Superiority
+Phenomenal Finishing
+Low Screamer
+
+Biometrics:
+Height: 191
+Weight: 94
+Arm Length: 11
+Shoulder Width: 12
+Neck Length: 4
+Chest: 9
+Neck Size: 10
+Shoulder Height: 4
+Leg Length: 13
+Thigh Size: 11
+Waist Size: 8
+Arm Size: 11
+Calf Size: 10
+Leg Coverage Radius: 187.8
+Arm Coverage Radius: 178.7
+Jumping Height: 273.9
+Torso Collision: 55.1
+Leg Length Based Height: 197
+
+Com Skills:
+Mazing Run
+Long Ball Expert
+Early Crosser
+
+Other Stats:
+Weak Foot Usage: 2
+Weak Foot Accuracy: 2
+Form: 1
+Injury Resistance: 0

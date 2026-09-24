@@ -1,0 +1,80 @@
+Name: Eric Cantona
+Position: CF
+Style: Deep lying Forward - Attack Outlet
+
+Training:
+SHO: 9
+PAS: 5
+DRI: 4
+DEX: 8
+LBS: 11
+AER: 2
+Lv: 60
+Manager: Jose Mourinho
+Potenciators:
+Physicality +4
+Striker's Instinct +1
+
+Attributes:
+Ball Control: 88
+Dribbling: 86
+Tight Possession: 88
+Low Pass: 86
+Lofted Pass: 80
+Finishing: 90
+Heading: 74
+Curl: 84
+Defensive Awareness: 57
+Defensive Engagement: 54
+Tackling: 55
+Aggression: 58
+GK Parrying: 41
+GK Reflexes: 41
+GK Reach: 41
+Speed: 88
+Acceleration: 89
+Kicking Power: 95
+Balance: 82
+Stamina: 90
+
+Skills:
+Long range Shooting
+Through Passing
+Double Touch
+Heading
+Long range Curler
+Acrobatic Finishing
+First time Shot
+One touch Pass
+Outside Curler
+Momentum Dribbling
+
+Biometrics:
+Height: 188
+Weight: 88
+Arm Length: 9
+Shoulder Width: 10
+Neck Length: 7
+Chest: 8
+Neck Size: 9
+Shoulder Height: 7
+Leg Length: 11
+Thigh Size: 6
+Waist Size: 7
+Arm Size: 5
+Calf Size: 6
+Leg Coverage Radius: 183.7
+Arm Coverage Radius: 173.4
+Jumping Height: 267.1
+Torso Collision: 53.3
+Leg Length Based Height: 192
+
+Com Skills:
+Mazing Run
+Incisive Run
+
+Other Stats:
+Weak Foot Usage: 2
+Weak Foot Accuracy: 2
+Form: 2
+Injury Resistance: 2

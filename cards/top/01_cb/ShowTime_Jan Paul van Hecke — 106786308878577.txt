@@ -1,0 +1,79 @@
+Name: Jan Paul van Hecke
+Position: CB
+Style: Build Up - The Destroyer
+
+Training:
+DEX: 8
+LBS: 8
+AER: 7
+DEF: 11
+GK1: 1
+Lv: 56
+Manager: Jose Mourinho
+Potenciators:
+Stealing +4
+Defending +1
+
+Attributes:
+Ball Control: 74
+Dribbling: 66
+Tight Possession: 72
+Low Pass: 80
+Lofted Pass: 78
+Finishing: 56
+Heading: 86
+Curl: 64
+Defensive Awareness: 93
+Defensive Engagement: 93
+Tackling: 97
+Aggression: 98
+GK Parrying: 41
+GK Reflexes: 41
+GK Reach: 41
+Speed: 88
+Acceleration: 87
+Kicking Power: 83
+Balance: 68
+Stamina: 87
+
+Skills:
+Fortress
+Heading
+Weighted Pass
+Man Marking
+Interception
+Acrobatic Clearance
+Fighting Spirit
+Blocker
+Aerial Superiority
+Aerial Fort
+
+Biometrics:
+Height: 189
+Weight: 78
+Arm Length: 6
+Shoulder Width: 7
+Neck Length: 8
+Chest: 4
+Neck Size: 7
+Shoulder Height: 8
+Leg Length: 7
+Thigh Size: 6
+Waist Size: 4
+Arm Size: 4
+Calf Size: 5
+Leg Coverage Radius: 182.4
+Arm Coverage Radius: 170.5
+Jumping Height: 278.3
+Torso Collision: 52.4
+Leg Length Based Height: 189
+
+Com Skills:
+Speeding Bullet
+Early Crosser
+
+Other Stats:
+Weak Foot Usage: 1
+Weak Foot Accuracy: 2
+Form: 2
+Injury Resistance: 1

@@ -1,0 +1,82 @@
+Name: Nagatomo Yuto
+Position: LB
+Style: Attacking Full back - The Destroyer
+
+Training:
+SHO: 7
+PAS: 7
+DRI: 8
+DEX: 8
+LBS: 10
+AER: 4
+DEF: 4
+Lv: 70
+Manager: Fabio Capello
+Potenciators:
+Hard Worker +4
+Crossing +1
+
+Attributes:
+Ball Control: 83
+Dribbling: 87
+Tight Possession: 80
+Low Pass: 88
+Lofted Pass: 91
+Finishing: 68
+Heading: 69
+Curl: 80
+Defensive Awareness: 83
+Defensive Engagement: 84
+Tackling: 84
+Aggression: 85
+GK Parrying: 41
+GK Reflexes: 41
+GK Reach: 41
+Speed: 95
+Acceleration: 93
+Kicking Power: 88
+Balance: 87
+Stamina: 98
+Physical Contact: 82
+
+Skills:
+Through Passing
+Pinpoint Crossing
+One touch Pass
+Man Marking
+Interception
+Acrobatic Clearance
+Fighting Spirit
+Sliding Tackle
+Edged Crossing
+Shadow Hunt
+
+Biometrics:
+Height: 170
+Weight: 68
+Arm Length: 1
+Shoulder Width: 1
+Neck Length: 4
+Chest: 3
+Neck Size: 7
+Shoulder Height: 7
+Leg Length: 5
+Thigh Size: 9
+Waist Size: 3
+Arm Size: 7
+Calf Size: 8
+Leg Coverage Radius: 163.0
+Arm Coverage Radius: 147.5
+Jumping Height: 249.7
+Torso Collision: 45.5
+Leg Length Based Height: 168
+
+Com Skills:
+Trickster
+Early Crosser
+
+Other Stats:
+Weak Foot Usage: 2
+Weak Foot Accuracy: 3
+Form: 1
+Injury Resistance: 2

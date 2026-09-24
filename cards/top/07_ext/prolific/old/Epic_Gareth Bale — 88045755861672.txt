@@ -1,0 +1,81 @@
+Name: Gareth Bale
+Position: RWF
+Style: Prolific Winger - Attack Outlet
+
+Training:
+SHO: 6
+PAS: 6
+DRI: 8
+DEX: 9
+LBS: 11
+AER: 4
+Lv: 68
+Manager: Jose Mourinho
+Potenciators:
+Agility +4
+Kicking Power +6
+
+Attributes:
+Ball Control: 93
+Dribbling: 97
+Tight Possession: 91
+Low Pass: 80
+Lofted Pass: 77
+Finishing: 90
+Heading: 73
+Curl: 87
+Defensive Awareness: 44
+Defensive Engagement: 45
+Tackling: 46
+Aggression: 46
+GK Parrying: 41
+GK Reflexes: 41
+GK Reach: 41
+Speed: 98
+Acceleration: 94
+Kicking Power: 102
+Balance: 90
+Stamina: 87
+
+Skills:
+Long range Shooting
+Scissors Feint
+Knuckle Shot
+Dipping Shot
+Acrobatic Finishing
+First time Shot
+Outside Curler
+Rabona
+Acceleration Burst
+Low Screamer
+
+Biometrics:
+Height: 185
+Weight: 82
+Arm Length: 4
+Shoulder Width: 8
+Neck Length: 5
+Chest: 7
+Neck Size: 11
+Shoulder Height: 9
+Leg Length: 7
+Thigh Size: 8
+Waist Size: 2
+Arm Size: 6
+Calf Size: 7
+Leg Coverage Radius: 178.5
+Arm Coverage Radius: 165.0
+Jumping Height: 270.8
+Torso Collision: 51.7
+Leg Length Based Height: 185
+
+Com Skills:
+Mazing Run
+Incisive Run
+Long Ball Expert
+
+Other Stats:
+Weak Foot Usage: 1
+Weak Foot Accuracy: 2
+Form: 0
+Injury Resistance: 0

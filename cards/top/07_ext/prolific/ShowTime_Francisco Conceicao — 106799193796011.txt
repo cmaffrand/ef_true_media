@@ -1,0 +1,80 @@
+Name: Francisco Conceicao
+Position: RWF
+Style: Prolific Winger - Front Line Pressure
+
+Training:
+SHO: 8
+PAS: 8
+DRI: 5
+DEX: 8
+LBS: 10
+Lv: 60
+Manager: Jose Mourinho
+Potenciators:
+Ball-carrying +4
+Striker's Instinct +1
+
+Attributes:
+Ball Control: 91
+Dribbling: 92
+Tight Possession: 92
+Low Pass: 88
+Lofted Pass: 86
+Finishing: 90
+Heading: 52
+Curl: 88
+Defensive Awareness: 58
+Defensive Engagement: 66
+Tackling: 62
+Aggression: 69
+GK Parrying: 41
+GK Reflexes: 41
+GK Reach: 41
+Speed: 93
+Acceleration: 94
+Kicking Power: 87
+Balance: 93
+Stamina: 88
+
+Skills:
+Pinpoint Crossing
+Double Touch
+Flip Flap
+Marseille Turn
+Cut Behind & Turn
+Sole Control
+Long range Curler
+Outside Curler
+Track Back
+Acceleration Burst
+
+Biometrics:
+Height: 170
+Weight: 61
+Arm Length: 6
+Shoulder Width: 8
+Neck Length: 7
+Chest: 7
+Neck Size: 11
+Shoulder Height: 5
+Leg Length: 9
+Thigh Size: 8
+Waist Size: 7
+Arm Size: 8
+Calf Size: 7
+Leg Coverage Radius: 165.1
+Arm Coverage Radius: 153.6
+Jumping Height: 237.9
+Torso Collision: 47.7
+Leg Length Based Height: 172
+
+Com Skills:
+Trickster
+Mazing Run
+Long Ball Expert
+
+Other Stats:
+Weak Foot Usage: 1
+Weak Foot Accuracy: 1
+Form: 1
+Injury Resistance: 0

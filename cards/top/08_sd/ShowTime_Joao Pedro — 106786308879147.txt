@@ -1,0 +1,80 @@
+Name: Joao Pedro
+Position: CF
+Style: Deep lying Forward - Front Line Poacher
+
+Training:
+SHO: 8
+PAS: 6
+DRI: 5
+DEX: 9
+LBS: 11
+AER: 4
+Lv: 66
+Manager: Jose Mourinho
+Potenciators:
+Offence Creator +4
+Striker's Instinct +1
+
+Attributes:
+Ball Control: 92
+Dribbling: 90
+Tight Possession: 91
+Low Pass: 87
+Lofted Pass: 80
+Finishing: 93
+Heading: 72
+Curl: 80
+Defensive Awareness: 52
+Defensive Engagement: 57
+Tackling: 53
+Aggression: 67
+GK Parrying: 41
+GK Reflexes: 41
+GK Reach: 41
+Speed: 93
+Acceleration: 93
+Kicking Power: 93
+Balance: 92
+Stamina: 89
+
+Skills:
+Long range Shooting
+Double Touch
+Sole Control
+Long range Curler
+First time Shot
+Outside Curler
+Gamesmanship
+Phenomenal Finishing
+Magnetic Feet
+Attacking Surge
+
+Biometrics:
+Height: 182
+Weight: 70
+Arm Length: 6
+Shoulder Width: 5
+Neck Length: 9
+Chest: 4
+Neck Size: 5
+Shoulder Height: 5
+Leg Length: 12
+Thigh Size: 3
+Waist Size: 3
+Arm Size: 5
+Calf Size: 5
+Leg Coverage Radius: 178.4
+Arm Coverage Radius: 163.9
+Jumping Height: 260.3
+Torso Collision: 49.7
+Leg Length Based Height: 187
+
+Com Skills:
+Mazing Run
+Long Ball Expert
+
+Other Stats:
+Weak Foot Usage: 2
+Weak Foot Accuracy: 2
+Form: 2
+Injury Resistance: 0
