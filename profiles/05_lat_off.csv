@@ -30,8 +30,9 @@ injury_resistance,0,0,0,0
 
 Skills,0,0,0,0
 Edged Crossing,0,0,0,2100
-Long Reach Tackle,0,0,0,1700
+Long reach Tackle,0,0,0,1700
 Shadow Hunt,0,0,0,1300
+Power Tackle,0,0,0,1000
 Attacking Surge,0,0,0,1300
 Fortress,0,0,0,800
 Attack Trigger,0,0,0,800

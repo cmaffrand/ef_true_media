@@ -1,0 +1,82 @@
+Name: Pepe
+Position: CB
+Style: Tough Marker
+
+Training:
+PAS: 4
+DEX: 8
+LBS: 8
+AER: 8
+DEF: 9
+GK1: 1
+Lv: 56
+Manager: Jose Mourinho
+Potenciators:
+Duelling +4
+Aggression +6
+
+Attributes:
+Ball Control: 62
+Dribbling: 59
+Tight Possession: 60
+Low Pass: 70
+Lofted Pass: 71
+Finishing: 52
+Heading: 90
+Curl: 57
+Defensive Awareness: 94
+Defensive Engagement: 92
+Tackling: 96
+Aggression: 103
+GK Parrying: 41
+GK Reflexes: 41
+GK Reach: 41
+Speed: 90
+Acceleration: 88
+Kicking Power: 80
+Physical Contact: 96
+Balance: 69
+Stamina: 85
+Offensive Awareness: 58
+Goalkeeping: 42
+
+Skills:
+Heading
+Man Marking
+Interception
+Acrobatic Clearance
+Fighting Spirit
+Blocker
+Aerial Superiority
+Sliding Tackle
+Long reach Tackle
+Aerial Fort
+
+Biometrics:
+Height: 188
+Weight: 81
+Arm Length: 7
+Shoulder Width: 7
+Neck Length: 7
+Chest: 5
+Neck Size: 5
+Shoulder Height: 9
+Leg Length: 8
+Thigh Size: 6
+Waist Size: 5
+Arm Size: 5
+Calf Size: 6
+Leg Coverage Radius: 182.0
+Arm Coverage Radius: 170.7
+Jumping Height: 281.0
+Torso Collision: 52.2
+Leg Length Based Height: 189
+
+Com Skills:
+Early Crosser
+
+Other Stats:
+Weak Foot Usage: 1
+Weak Foot Accuracy: 1
+Form: 2
+Injury Resistance: 1

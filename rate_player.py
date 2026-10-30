@@ -27,11 +27,12 @@ SKILL_LABELS = [
 ]
 
 PREMIUM_SKILL_LABELS = [
-    "Phenomenal Finishing", "Long Reach Tackle", "Edged Crossing", "Bullet Header", 
+    "Phenomenal Finishing", "Long reach Tackle", "Edged Crossing", "Bullet Header", 
     "Momentum Dribbling", "Visionary Pass", "Phenomenal Pass", "Blitz Curler", 
     "GK Directing Defence", "GK Spirit Roar", "Low Screamer", "Aerial Fort", 
     "Fortress", "Will Power", "Acceleration Burst", "Game Changing Pass", "Magnetic Feet",
-    "Shadow Hunt", "Attack Trigger", "Attacking Surge", "Tap Trick", "Snap Strike"
+    "Shadow Hunt", "Attack Trigger", "Attacking Surge", "Tap Trick", "Snap Strike",
+    "Power Tackle"
 ]
 
 BIOMETRICS_LABELS = [

@@ -1,0 +1,83 @@
+Name: Micky van de Ven
+Position: CB
+Style: Extra Frontman - The Destroyer
+
+Training:
+PAS: 4
+DEX: 5
+LBS: 8
+AER: 8
+DEF: 10
+Lv: 52
+Manager: Jose Mourinho
+Potenciators:
+Duelling +4
+Defending +1
+
+Attributes:
+Ball Control: 67
+Dribbling: 70
+Tight Possession: 67
+Low Pass: 72
+Lofted Pass: 70
+Finishing: 52
+Heading: 86
+Curl: 61
+Defensive Awareness: 92
+Defensive Engagement: 93
+Tackling: 94
+Aggression: 95
+GK Parrying: 41
+GK Reflexes: 41
+GK Reach: 41
+Speed: 96
+Acceleration: 93
+Kicking Power: 72
+Physical Contact: 91
+Balance: 69
+Stamina: 90
+Offensive Awareness: 60
+Goalkeeping: 41
+
+Skills:
+Fortress
+Man Marking
+Acrobatic Clearance
+Captaincy
+Fighting Spirit
+Blocker
+Aerial Superiority
+Sliding Tackle
+Aerial Fort
+Shadow Hunt
+
+Biometrics:
+Height: 193
+Weight: 89
+Arm Length: 7
+Shoulder Width: 7
+Neck Length: 5
+Chest: 9
+Neck Size: 7
+Shoulder Height: 10
+Leg Length: 7
+Thigh Size: 7
+Waist Size: 8
+Arm Size: 7
+Calf Size: 6
+Leg Coverage Radius: 186.2
+Arm Coverage Radius: 175.2
+Jumping Height: 280.8
+Torso Collision: 53.9
+Leg Length Based Height: 193
+
+Com Skills:
+Speeding Bullet
+Long Ball Expert
+Early Crosser
+
+Other Stats:
+Weak Foot Usage: 1
+Weak Foot Accuracy: 2
+Form: 1
+Injury Resistance: 0

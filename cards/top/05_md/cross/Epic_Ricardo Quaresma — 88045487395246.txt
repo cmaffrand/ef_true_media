@@ -1,0 +1,84 @@
+Name: Ricardo Quaresma
+Position: RWF
+Style: Cross Specialist - Front Line Poacher
+
+Training:
+SHO: 7
+PAS: 5
+DRI: 8
+DEX: 8
+LBS: 8
+AER: 6
+Lv: 60
+Manager: Jose Mourinho
+Potenciators:
+Ball-carrying +4
+Crossing +1
+
+Attributes:
+Ball Control: 94
+Dribbling: 93
+Tight Possession: 92
+Low Pass: 87
+Lofted Pass: 92
+Finishing: 87
+Heading: 64
+Curl: 94
+Defensive Awareness: 44
+Defensive Engagement: 52
+Tackling: 46
+Aggression: 60
+GK Parrying: 41
+GK Reflexes: 41
+GK Reach: 41
+Speed: 91
+Acceleration: 92
+Kicking Power: 91
+Physical Contact: 75
+Balance: 93
+Stamina: 88
+Offensive Awareness: 82
+Goalkeeping: 41
+
+Skills:
+Pinpoint Crossing
+Double Touch
+Flip Flap
+Cut Behind & Turn
+Sole Control
+Long range Curler
+Outside Curler
+Rabona
+Momentum Dribbling
+Edged Crossing
+
+Biometrics:
+Height: 175
+Weight: 67
+Arm Length: 2
+Shoulder Width: 8
+Neck Length: 4
+Chest: 6
+Neck Size: 11
+Shoulder Height: 10
+Leg Length: 7
+Thigh Size: 7
+Waist Size: 6
+Arm Size: 7
+Calf Size: 7
+Leg Coverage Radius: 168.9
+Arm Coverage Radius: 154.1
+Jumping Height: 251.4
+Torso Collision: 49.0
+Leg Length Based Height: 175
+
+Com Skills:
+Trickster
+Mazing Run
+Incisive Run
+
+Other Stats:
+Weak Foot Usage: 0
+Weak Foot Accuracy: 2
+Form: 1
+Injury Resistance: 1

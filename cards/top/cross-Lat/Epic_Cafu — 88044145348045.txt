@@ -51,7 +51,7 @@ Man Marking
 Interception
 Sliding Tackle
 Edged Crossing
-Long Reach Tackle
+Long reach Tackle
 
 Biometrics:
 Height: 176

@@ -1,0 +1,82 @@
+Name: Jeremy Doku
+Position: LWF
+Style: Prolific Winger - Front Line Poacher
+
+Training:
+SHO: 8
+PAS: 7
+DRI: 8
+DEX: 8
+LBS: 8
+AER: 4
+Lv: 62
+Manager: Jose Mourinho
+Potenciators:
+Technique +4
+Balance +6
+
+Attributes:
+Ball Control: 93
+Dribbling: 96
+Tight Possession: 95
+Low Pass: 84
+Lofted Pass: 80
+Finishing: 87
+Heading: 50
+Curl: 82
+Defensive Awareness: 49
+Defensive Engagement: 58
+Tackling: 52
+Aggression: 63
+GK Parrying: 41
+GK Reflexes: 41
+GK Reach: 41
+Speed: 95
+Acceleration: 97
+Kicking Power: 89
+Physical Contact: 78
+Balance: 100
+Stamina: 86
+Offensive Awareness: 86
+Goalkeeping: 41
+
+Skills:
+Long range Curler
+Through Passing
+Momentum Dribbling
+Scissors Feint
+Double Touch
+Flip Flap
+Cut Behind & Turn
+Sole Control
+Gamesmanship
+Acceleration Burst
+
+Biometrics:
+Height: 173
+Weight: 77
+Arm Length: 7
+Shoulder Width: 9
+Neck Length: 4
+Chest: 9
+Neck Size: 9
+Shoulder Height: 9
+Leg Length: 10
+Thigh Size: 10
+Waist Size: 7
+Arm Size: 10
+Calf Size: 8
+Leg Coverage Radius: 168.5
+Arm Coverage Radius: 157.4
+Jumping Height: 244.8
+Torso Collision: 49.0
+Leg Length Based Height: 176
+
+Com Skills:
+Long Ball Expert
+
+Other Stats:
+Weak Foot Usage: 2
+Weak Foot Accuracy: 1
+Form: 1
+Injury Resistance: 0

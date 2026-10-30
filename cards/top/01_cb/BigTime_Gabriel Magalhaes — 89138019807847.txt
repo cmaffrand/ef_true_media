@@ -48,7 +48,7 @@ Fighting Spirit
 Blocker
 Aerial Superiority
 Sliding Tackle
-Long Reach Tackle
+Long reach Tackle
 Aerial Fort
 
 Biometrics:

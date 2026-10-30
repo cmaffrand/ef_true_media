@@ -1,0 +1,85 @@
+Name: Wesley
+Position: LB
+Style: Attacking Full back - Covering Role
+
+Training:
+SHO: 7
+PAS: 6
+DRI: 5
+DEX: 5
+LBS: 9
+AER: 4
+DEF: 9
+Lv: 64
+Manager: Jose Mourinho
+Potenciators:
+Agility +4
+Lofted Pass +6
+
+Attributes:
+Ball Control: 87
+Dribbling: 88
+Tight Possession: 86
+Low Pass: 80
+Lofted Pass: 90
+Finishing: 70
+Heading: 65
+Curl: 81
+Defensive Awareness: 86
+Defensive Engagement: 86
+Tackling: 87
+Aggression: 93
+GK Parrying: 41
+GK Reflexes: 41
+GK Reach: 41
+Speed: 94
+Acceleration: 93
+Kicking Power: 87
+Physical Contact: 81
+Balance: 87
+Stamina: 93
+Offensive Awareness: 77
+Goalkeeping: 41
+
+Skills:
+Through Passing
+Pinpoint Crossing
+Double Touch
+One touch Pass
+Outside Curler
+Man Marking
+Interception
+Fighting Spirit
+Edged Crossing
+Acceleration Burst
+
+Biometrics:
+Height: 178
+Weight: 73
+Arm Length: 7
+Shoulder Width: 6
+Neck Length: 4
+Chest: 6
+Neck Size: 9
+Shoulder Height: 8
+Leg Length: 13
+Thigh Size: 6
+Waist Size: 5
+Arm Size: 5
+Calf Size: 4
+Leg Coverage Radius: 175.0
+Arm Coverage Radius: 161.4
+Jumping Height: 254.4
+Torso Collision: 49.2
+Leg Length Based Height: 184
+
+Com Skills:
+Mazing Run
+Long Ball Expert
+Early Crosser
+
+Other Stats:
+Weak Foot Usage: 1
+Weak Foot Accuracy: 2
+Form: 2
+Injury Resistance: 2

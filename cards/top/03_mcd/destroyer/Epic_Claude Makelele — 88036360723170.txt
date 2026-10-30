@@ -50,7 +50,7 @@ Fighting Spirit
 Blocker
 Sliding Tackle
 Visionary Pass
-Long Reach Tackle
+Long reach Tackle
 
 Biometrics:
 Height: 174

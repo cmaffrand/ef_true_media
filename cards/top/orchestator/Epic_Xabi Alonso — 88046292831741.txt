@@ -1,0 +1,83 @@
+Name: Xabi Alonso
+Position: DMF
+Style: Orchestrator - Pass Disruptor
+
+Training:
+PAS: 6
+DRI: 6
+DEX: 9
+LBS: 9
+AER: 3
+DEF: 9
+Lv: 64
+Manager: Jose Mourinho
+Potenciators:
+Accuracy +4
+Off the Ball +1
+
+Attributes:
+Ball Control: 87
+Dribbling: 83
+Tight Possession: 90
+Low Pass: 96
+Lofted Pass: 95
+Finishing: 70
+Heading: 69
+Curl: 86
+Defensive Awareness: 90
+Defensive Engagement: 94
+Tackling: 90
+Aggression: 90
+GK Parrying: 41
+GK Reflexes: 41
+GK Reach: 41
+Speed: 87
+Acceleration: 87
+Kicking Power: 96
+Physical Contact: 81
+Balance: 81
+Stamina: 90
+Offensive Awareness: 80
+Goalkeeping: 41
+
+Skills:
+Long range Shooting
+Through Passing
+One touch Pass
+Weighted Pass
+Outside Curler
+Low Lofted Pass
+Interception
+Blocker
+Visionary Pass
+Attack Trigger
+
+Biometrics:
+Height: 183
+Weight: 80
+Arm Length: 5
+Shoulder Width: 8
+Neck Length: 9
+Chest: 7
+Neck Size: 9
+Shoulder Height: 1
+Leg Length: 5
+Thigh Size: 10
+Waist Size: 8
+Arm Size: 7
+Calf Size: 10
+Leg Coverage Radius: 175.5
+Arm Coverage Radius: 164.3
+Jumping Height: 262.0
+Torso Collision: 51.5
+Leg Length Based Height: 181
+
+Com Skills:
+Mazing Run
+Incisive Run
+
+Other Stats:
+Weak Foot Usage: 1
+Weak Foot Accuracy: 2
+Form: 2
+Injury Resistance: 1

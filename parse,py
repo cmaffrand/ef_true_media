@@ -108,11 +108,11 @@ def extract_text_from_html(file_path, output_folder, prefix=""):
         lines = lines[:injury_resistance_index + 2]
         text = "\n".join(lines)
     
-    attributes = ["Offensive Awareness", "Ball Control", "Dribbling", "Tight Possession", "Low Pass", 
+    attributes = ["Attacking Awareness", "Ball Control", "Dribbling", "Tight Possession", "Low Pass", 
                   "Lofted Pass", "Finishing", "Heading", "Place Kicking", "Curl", "Defensive Awareness", "Defensive Engagement", 
-                  "Tackling", "Aggression", "Goalkeeping", "Gk Catching", "GK Parrying", "GK Reflexes", "GK Reach", "Speed", "Acceleration", 
-                  "Kicking Power", "Jump", "Physical", "Balance", "Stamina"]
-    #print(text)
+                  "Tackling", "Aggression", "GK Awareness", "Gk Catching", "GK Parrying", "GK Reflexes", "GK Reach", "Speed", "Acceleration", 
+                  "Kicking Power", "Jump", "Physical Contact", "Balance", "Stamina"]
+    print(text)
     
     attributes_dict = {}
     for i, line in enumerate(lines):
@@ -129,11 +129,15 @@ def extract_text_from_html(file_path, output_folder, prefix=""):
     #attributes_dict["Defensive Engagement"] = attributes_dict.get("Tackling")
     #attributes_dict["Tackling"] = mem
     
-    # Change "Physical" key for "Physical Contact"
-    if "Physical" in attributes_dict:
-        attributes_dict["Physical Contact"] = attributes_dict.pop("Physical")
+    # Change "Attacking Awareness" key for "Offensive Awareness"
+    if "Attacking Awareness" in attributes_dict:
+        attributes_dict["Offensive Awareness"] = attributes_dict.pop("Attacking Awareness")
+
+    # Change GK Awareness key for Goalkeeping
+    if "GK Awareness" in attributes_dict:
+        attributes_dict["Goalkeeping"] = attributes_dict.pop("GK Awareness")    
     
-    #print(attributes_dict)
+    print(attributes_dict)
     
     skills = []
     skills_start_index = -1

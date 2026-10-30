@@ -96,7 +96,7 @@ Fighting Spirit
 Blocker
 Sliding Tackle
 Edged Crossing
-Long Reach Tackle
+Long reach Tackle
 
 Body Measurements
 Leg Length

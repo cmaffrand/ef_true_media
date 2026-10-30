@@ -1,0 +1,82 @@
+Name: Nakata Hidetoshi
+Position: AMF
+Style: Creative Playmaker - All action Defender
+
+Training:
+SHO: 8
+PAS: 7
+DRI: 7
+DEX: 7
+LBS: 11
+AER: 1
+Lv: 64
+Manager: Jose Mourinho
+Potenciators:
+Offence Creator +4
+Striker's Instinct +1
+
+Attributes:
+Ball Control: 92
+Dribbling: 90
+Tight Possession: 92
+Low Pass: 93
+Lofted Pass: 90
+Finishing: 90
+Heading: 63
+Curl: 86
+Defensive Awareness: 69
+Defensive Engagement: 71
+Tackling: 68
+Aggression: 76
+GK Parrying: 41
+GK Reflexes: 41
+GK Reach: 41
+Speed: 90
+Acceleration: 91
+Kicking Power: 94
+Physical Contact: 84
+Balance: 87
+Stamina: 89
+Offensive Awareness: 85
+Goalkeeping: 41
+
+Skills:
+Long range Curler
+Long range Shooting
+Through Passing
+Super sub
+Phenomenal Pass
+Double Touch
+First time Shot
+One touch Pass
+Outside Curler
+Low Screamer
+
+Biometrics:
+Height: 175
+Weight: 72
+Arm Length: 4
+Shoulder Width: 9
+Neck Length: 6
+Chest: 3
+Neck Size: 10
+Shoulder Height: 3
+Leg Length: 5
+Thigh Size: 9
+Waist Size: 2
+Arm Size: 6
+Calf Size: 9
+Leg Coverage Radius: 167.8
+Arm Coverage Radius: 156.2
+Jumping Height: 249.2
+Torso Collision: 49.1
+Leg Length Based Height: 173
+
+Com Skills:
+Mazing Run
+
+Other Stats:
+Weak Foot Usage: 1
+Weak Foot Accuracy: 2
+Form: 2
+Injury Resistance: 2

@@ -54,7 +54,7 @@ Interception
 Captaincy
 Fighting Spirit
 Blocker
-Long Reach Tackle
+Long reach Tackle
 
 Biometrics:
 Height: 182

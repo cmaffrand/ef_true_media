@@ -51,7 +51,7 @@ Acrobatic Clearance
 Fighting Spirit
 Blocker
 Sliding Tackle
-Long Reach Tackle
+Long reach Tackle
 
 Biometrics:
 Height: 168

@@ -94,5 +94,5 @@ Fighting Spirit
 Aerial Superiority
 Blocker
 Sliding Tackle
-Long Reach Tackle
+Long reach Tackle
 Aerial Fort

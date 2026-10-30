@@ -1,0 +1,82 @@
+Name: Yaya Toure
+Position: DMF
+Style: Anchor Man
+
+Training:
+PAS: 6
+DRI: 5
+DEX: 8
+LBS: 9
+AER: 6
+DEF: 9
+Lv: 64
+Manager: Jose Mourinho
+Potenciators:
+Stealing +4
+Defensive Engagement +6
+
+Attributes:
+Ball Control: 87
+Dribbling: 86
+Tight Possession: 91
+Low Pass: 90
+Lofted Pass: 87
+Finishing: 75
+Heading: 73
+Curl: 79
+Defensive Awareness: 90
+Defensive Engagement: 99
+Tackling: 90
+Aggression: 88
+GK Parrying: 41
+GK Reflexes: 41
+GK Reach: 41
+Speed: 89
+Acceleration: 88
+Kicking Power: 90
+Physical Contact: 90
+Balance: 83
+Stamina: 92
+Offensive Awareness: 78
+Goalkeeping: 41
+
+Skills:
+Long range Shooting
+Through Passing
+Double Touch
+Sole Control
+One touch Pass
+Low Lofted Pass
+Interception
+Blocker
+Phenomenal Pass
+Long reach Tackle
+
+Biometrics:
+Height: 189
+Weight: 90
+Arm Length: 10
+Shoulder Width: 10
+Neck Length: 4
+Chest: 2
+Neck Size: 6
+Shoulder Height: 8
+Leg Length: 12
+Thigh Size: 6
+Waist Size: 3
+Arm Size: 7
+Calf Size: 3
+Leg Coverage Radius: 185.2
+Arm Coverage Radius: 175.4
+Jumping Height: 267.3
+Torso Collision: 53.2
+Leg Length Based Height: 194
+
+Com Skills:
+Incisive Run
+
+Other Stats:
+Weak Foot Usage: 2
+Weak Foot Accuracy: 2
+Form: 2
+Injury Resistance: 1

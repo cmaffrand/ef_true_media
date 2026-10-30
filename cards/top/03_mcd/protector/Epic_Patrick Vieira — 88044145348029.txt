@@ -50,7 +50,7 @@ Blocker
 Aerial Superiority
 Sliding Tackle
 Visionary Pass
-Long Reach Tackle
+Long reach Tackle
 
 Biometrics:
 Height: 192

@@ -1,0 +1,82 @@
+Name: Didier Drogba
+Position: CF
+Style: Fox in the Box - Front Line Poacher
+
+Training:
+SHO: 8
+PAS: 1
+DRI: 7
+DEX: 11
+LBS: 10
+AER: 4
+Lv: 66
+Manager: Jose Mourinho
+Potenciators:
+Striker's Instinct +4
+Heading +6
+
+Attributes:
+Ball Control: 84
+Dribbling: 86
+Tight Possession: 86
+Low Pass: 73
+Lofted Pass: 66
+Finishing: 93
+Heading: 97
+Curl: 78
+Defensive Awareness: 53
+Defensive Engagement: 53
+Tackling: 52
+Aggression: 50
+GK Parrying: 41
+GK Reflexes: 41
+GK Reach: 41
+Speed: 93
+Acceleration: 90
+Kicking Power: 97
+Physical Contact: 93
+Balance: 80
+Stamina: 87
+Offensive Awareness: 93
+Goalkeeping: 41
+
+Skills:
+Long range Shooting
+Heading
+Long range Curler
+Acrobatic Finishing
+First time Shot
+One touch Pass
+Fighting Spirit
+Aerial Superiority
+Phenomenal Finishing
+Bullet Header
+
+Biometrics:
+Height: 189
+Weight: 91
+Arm Length: 7
+Shoulder Width: 13
+Neck Length: 7
+Chest: 9
+Neck Size: 12
+Shoulder Height: 9
+Leg Length: 9
+Thigh Size: 5
+Waist Size: 5
+Arm Size: 7
+Calf Size: 5
+Leg Coverage Radius: 183.5
+Arm Coverage Radius: 172.7
+Jumping Height: 278.0
+Torso Collision: 54.4
+Leg Length Based Height: 191
+
+Com Skills:
+Early Crosser
+
+Other Stats:
+Weak Foot Usage: 2
+Weak Foot Accuracy: 2
+Form: 2
+Injury Resistance: 1

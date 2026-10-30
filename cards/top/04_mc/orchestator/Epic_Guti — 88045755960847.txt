@@ -1,0 +1,80 @@
+Name: Guti
+Position: CMF
+Style: Orchestrator - Covering Role
+
+Training:
+SHO: 5
+PAS: 4
+DRI: 6
+DEX: 9
+LBS: 11
+AER: 5
+DEF: 4
+Lv: 64
+Manager: Jose Mourinho
+Potenciators:
+Technique +4
+Off the Ball +1
+
+Attributes:
+Ball Control: 92
+Dribbling: 90
+Tight Possession: 93
+Low Pass: 93
+Lofted Pass: 91
+Finishing: 87
+Heading: 76
+Curl: 91
+Defensive Awareness: 71
+Defensive Engagement: 71
+Tackling: 70
+Aggression: 72
+GK Parrying: 41
+GK Reflexes: 41
+GK Reach: 41
+Speed: 90
+Acceleration: 91
+Kicking Power: 94
+Balance: 90
+Stamina: 91
+
+Skills:
+Through Passing
+Double Touch
+Long range Curler
+Chip Shot Control
+Heel Trick
+One touch Pass
+Weighted Pass
+Outside Curler
+Phenomenal Pass
+Visionary Pass
+
+Biometrics:
+Height: 182
+Weight: 78
+Arm Length: 8
+Shoulder Width: 4
+Neck Length: 11
+Chest: 4
+Neck Size: 5
+Shoulder Height: 0
+Leg Length: 5
+Thigh Size: 10
+Waist Size: 3
+Arm Size: 7
+Calf Size: 9
+Leg Coverage Radius: 174.5
+Arm Coverage Radius: 165.8
+Jumping Height: 262.8
+Torso Collision: 49.7
+Leg Length Based Height: 180
+
+Com Skills:
+Mazing Run
+
+Other Stats:
+Weak Foot Usage: 2
+Weak Foot Accuracy: 3
+Form: 1
+Injury Resistance: 1

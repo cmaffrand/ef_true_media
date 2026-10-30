@@ -1,0 +1,79 @@
+Name: Leonardo Bonucci
+Position: CB
+Style: Build Up - High Line Master
+
+Training:
+DRI: 1
+DEX: 8
+LBS: 8
+AER: 8
+DEF: 10
+GK1: 1
+Lv: 56
+Manager: Jose Mourinho
+Potenciators:
+Defending +4
+Lofted Pass +6
+
+Attributes:
+Ball Control: 70
+Dribbling: 68
+Tight Possession: 68
+Low Pass: 78
+Lofted Pass: 88
+Finishing: 66
+Heading: 83
+Curl: 64
+Defensive Awareness: 98
+Defensive Engagement: 98
+Tackling: 97
+Aggression: 97
+GK Parrying: 41
+GK Reflexes: 41
+GK Reach: 41
+Speed: 88
+Acceleration: 82
+Kicking Power: 86
+Balance: 70
+Stamina: 86
+
+Skills:
+Weighted Pass
+Man Marking
+Interception
+Acrobatic Clearance
+Fighting Spirit
+Blocker
+Aerial Superiority
+Sliding Tackle
+Long reach Tackle
+Power Tackle
+
+Biometrics:
+Height: 190
+Weight: 82
+Arm Length: 5
+Shoulder Width: 8
+Neck Length: 6
+Chest: 3
+Neck Size: 5
+Shoulder Height: 8
+Leg Length: 7
+Thigh Size: 7
+Waist Size: 4
+Arm Size: 2
+Calf Size: 6
+Leg Coverage Radius: 183.4
+Arm Coverage Radius: 170.5
+Jumping Height: 278.7
+Torso Collision: 53.0
+Leg Length Based Height: 190
+
+Com Skills:
+Early Crosser
+
+Other Stats:
+Weak Foot Usage: 2
+Weak Foot Accuracy: 2
+Form: 2
+Injury Resistance: 1

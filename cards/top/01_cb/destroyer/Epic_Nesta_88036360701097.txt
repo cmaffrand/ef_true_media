@@ -96,4 +96,4 @@ Aerial Superiority
 Blocker
 Sliding Tackle
 Aerial Fort
-Long Reach Tackle
+Long reach Tackle

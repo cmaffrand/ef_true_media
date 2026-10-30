@@ -1,0 +1,83 @@
+Name: Clarence Seedorf
+Position: CMF
+Style: Box to Box
+
+Training:
+SHO: 6
+PAS: 5
+DRI: 7
+DEX: 8
+LBS: 8
+AER: 8
+DEF: 6
+Lv: 68
+Manager: Jose Mourinho
+Potenciators:
+Ball Protection +4
+Agility +1
+
+Attributes:
+Ball Control: 90
+Dribbling: 91
+Tight Possession: 93
+Low Pass: 88
+Lofted Pass: 86
+Finishing: 75
+Heading: 74
+Curl: 80
+Defensive Awareness: 86
+Defensive Engagement: 89
+Tackling: 88
+Aggression: 87
+GK Parrying: 41
+GK Reflexes: 41
+GK Reach: 41
+Speed: 91
+Acceleration: 91
+Kicking Power: 89
+Physical Contact: 90
+Balance: 89
+Stamina: 94
+Offensive Awareness: 76
+Goalkeeping: 41
+
+Skills:
+Long range Shooting
+Through Passing
+Double Touch
+Marseille Turn
+One touch Pass
+Interception
+Blocker
+Phenomenal Pass
+Magnetic Feet
+Attack Trigger
+
+Biometrics:
+Height: 177
+Weight: 80
+Arm Length: 7
+Shoulder Width: 11
+Neck Length: 7
+Chest: 9
+Neck Size: 8
+Shoulder Height: 0
+Leg Length: 9
+Thigh Size: 14
+Waist Size: 8
+Arm Size: 10
+Calf Size: 12
+Leg Coverage Radius: 171.9
+Arm Coverage Radius: 161.4
+Jumping Height: 259.4
+Torso Collision: 50.9
+Leg Length Based Height: 179
+
+Com Skills:
+Incisive Run
+
+Other Stats:
+Weak Foot Usage: 3
+Weak Foot Accuracy: 3
+Form: 2
+Injury Resistance: 2

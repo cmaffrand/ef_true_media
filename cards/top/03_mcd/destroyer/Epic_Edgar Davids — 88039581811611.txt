@@ -51,7 +51,7 @@ Fighting Spirit
 Blocker
 Sliding Tackle
 Low Screamer
-Long Reach Tackle
+Long reach Tackle
 
 Biometrics:
 Height: 168

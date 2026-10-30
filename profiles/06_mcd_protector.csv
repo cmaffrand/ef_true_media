@@ -29,7 +29,8 @@ player_form,0,0,0,3000
 injury_resistance,0,0,0,0
 
 Skills,0,0,0,0
-Long Reach Tackle,0,0,0,2100
+Long reach Tackle,0,0,0,2100
+Power Tackle,0,0,0,1700
 Fortress,0,0,0,1300
 Shadow Hunt,0,0,0,1300
 Visionary Pass,0,0,0,1300

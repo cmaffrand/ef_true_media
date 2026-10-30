@@ -1,0 +1,79 @@
+Name: Kaka
+Position: AMF
+Style: Classic No. 10 - Pass Disruptor
+
+Training:
+SHO: 7
+PAS: 9
+DRI: 5
+DEX: 8
+LBS: 10
+AER: 3
+Lv: 64
+Manager: Jose Mourinho
+Potenciators:
+Shooting +4
+Agility +1
+
+Attributes:
+Ball Control: 93
+Dribbling: 96
+Tight Possession: 91
+Low Pass: 92
+Lofted Pass: 87
+Finishing: 91
+Heading: 65
+Curl: 82
+Defensive Awareness: 58
+Defensive Engagement: 54
+Tackling: 55
+Aggression: 61
+GK Parrying: 41
+GK Reflexes: 41
+GK Reach: 41
+Speed: 98
+Acceleration: 92
+Kicking Power: 92
+Balance: 92
+Stamina: 87
+
+Skills:
+Long range Shooting
+Through Passing
+Double Touch
+Marseille Turn
+Long range Curler
+First time Shot
+One touch Pass
+Momentum Dribbling
+Acceleration Burst
+Attack Trigger
+
+Biometrics:
+Height: 185
+Weight: 82
+Arm Length: 5
+Shoulder Width: 8
+Neck Length: 7
+Chest: 6
+Neck Size: 6
+Shoulder Height: 6
+Leg Length: 7
+Thigh Size: 8
+Waist Size: 7
+Arm Size: 6
+Calf Size: 6
+Leg Coverage Radius: 178.5
+Arm Coverage Radius: 166.1
+Jumping Height: 254.9
+Torso Collision: 51.9
+Leg Length Based Height: 185
+
+Com Skills:
+Incisive Run
+
+Other Stats:
+Weak Foot Usage: 2
+Weak Foot Accuracy: 2
+Form: 2
+Injury Resistance: 2

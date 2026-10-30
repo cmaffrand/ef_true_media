@@ -1,0 +1,83 @@
+Name: Fernando Torres
+Position: CF
+Style: Goal Poacher - Front Line Pressure
+
+Training:
+SHO: 8
+PAS: 4
+DRI: 8
+DEX: 9
+LBS: 9
+AER: 4
+Lv: 62
+Manager: Jose Mourinho
+Potenciators:
+Shooting +4
+Striker's Instinct +1
+
+Attributes:
+Ball Control: 89
+Dribbling: 91
+Tight Possession: 86
+Low Pass: 72
+Lofted Pass: 70
+Finishing: 95
+Heading: 78
+Curl: 80
+Defensive Awareness: 53
+Defensive Engagement: 53
+Tackling: 54
+Aggression: 63
+GK Parrying: 41
+GK Reflexes: 41
+GK Reach: 41
+Speed: 96
+Acceleration: 95
+Kicking Power: 91
+Physical Contact: 85
+Balance: 81
+Stamina: 86
+Offensive Awareness: 94
+Goalkeeping: 41
+
+Skills:
+Double Touch
+Heading
+Long range Curler
+Acrobatic Finishing
+First time Shot
+Outside Curler
+Track Back
+Fighting Spirit
+Acceleration Burst
+Low Screamer
+
+Biometrics:
+Height: 186
+Weight: 78
+Arm Length: 4
+Shoulder Width: 8
+Neck Length: 7
+Chest: 2
+Neck Size: 4
+Shoulder Height: 0
+Leg Length: 6
+Thigh Size: 7
+Waist Size: 2
+Arm Size: 4
+Calf Size: 8
+Leg Coverage Radius: 178.9
+Arm Coverage Radius: 165.9
+Jumping Height: 267.1
+Torso Collision: 51.8
+Leg Length Based Height: 185
+
+Com Skills:
+Mazing Run
+Early Crosser
+
+Other Stats:
+Weak Foot Usage: 2
+Weak Foot Accuracy: 1
+Form: 2
+Injury Resistance: 1

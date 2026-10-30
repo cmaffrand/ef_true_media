@@ -51,7 +51,7 @@ Interception
 Captaincy
 Fighting Spirit
 Phenomenal Pass
-Long Reach Tackle
+Long reach Tackle
 
 Biometrics:
 Height: 190

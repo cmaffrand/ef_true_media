@@ -29,10 +29,11 @@ player_form,0,0,0,3000
 injury_resistance,0,0,0,0
 
 Skills,0,0,0,0
-Long Reach Tackle,0,0,0,1700
+Long reach Tackle,0,0,0,1700
 Visionary Pass,0,0,0,1700
 Phenomenal Pass,0,0,0,1700
 Fortress,0,0,0,1000
+Power Tackle,0,0,0,1000
 Aerial Fort,0,0,0,800
 Shadow Hunt,0,0,0,800
 Game Changing Pass,0,0,0,800

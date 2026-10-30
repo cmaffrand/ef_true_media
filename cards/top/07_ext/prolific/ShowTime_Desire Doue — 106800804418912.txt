@@ -1,0 +1,84 @@
+Name: Desire Doue
+Position: RWF
+Style: Prolific Winger - Press Back
+
+Training:
+SHO: 8
+PAS: 7
+DRI: 8
+DEX: 8
+LBS: 8
+AER: 4
+Lv: 62
+Manager: Jose Mourinho
+Potenciators:
+Ball-carrying +4
+Off the Ball +1
+
+Attributes:
+Ball Control: 93
+Dribbling: 95
+Tight Possession: 94
+Low Pass: 89
+Lofted Pass: 86
+Finishing: 88
+Heading: 52
+Curl: 86
+Defensive Awareness: 51
+Defensive Engagement: 60
+Tackling: 54
+Aggression: 63
+GK Parrying: 41
+GK Reflexes: 41
+GK Reach: 41
+Speed: 94
+Acceleration: 95
+Kicking Power: 92
+Physical Contact: 82
+Balance: 93
+Stamina: 87
+Offensive Awareness: 87
+Goalkeeping: 41
+
+Skills:
+Long range Curler
+Long range Shooting
+Through Passing
+Magnetic Feet
+Double Touch
+Cut Behind & Turn
+Sole Control
+One touch Pass
+Outside Curler
+Tap Trick
+
+Biometrics:
+Height: 181
+Weight: 79
+Arm Length: 7
+Shoulder Width: 8
+Neck Length: 6
+Chest: 6
+Neck Size: 9
+Shoulder Height: 6
+Leg Length: 11
+Thigh Size: 7
+Waist Size: 5
+Arm Size: 8
+Calf Size: 6
+Leg Coverage Radius: 176.8
+Arm Coverage Radius: 164.5
+Jumping Height: 250.6
+Torso Collision: 50.6
+Leg Length Based Height: 185
+
+Com Skills:
+Mazing Run
+Incisive Run
+Long Ball Expert
+
+Other Stats:
+Weak Foot Usage: 2
+Weak Foot Accuracy: 2
+Form: 1
+Injury Resistance: 1

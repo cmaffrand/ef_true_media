@@ -1,0 +1,82 @@
+Name: Roberto Baggio
+Position: AMF
+Style: Hole Player - Pass Disruptor
+
+Training:
+SHO: 8
+PAS: 5
+DRI: 8
+DEX: 8
+LBS: 10
+AER: 4
+Lv: 64
+Manager: Jose Mourinho
+Potenciators:
+Technique +4
+Breakthrough +1
+
+Attributes:
+Ball Control: 95
+Dribbling: 98
+Tight Possession: 96
+Low Pass: 92
+Lofted Pass: 86
+Finishing: 91
+Heading: 61
+Curl: 86
+Defensive Awareness: 44
+Defensive Engagement: 44
+Tackling: 43
+Aggression: 44
+GK Parrying: 41
+GK Reflexes: 41
+GK Reach: 41
+Speed: 94
+Acceleration: 95
+Kicking Power: 94
+Physical Contact: 80
+Balance: 93
+Stamina: 86
+Offensive Awareness: 91
+Goalkeeping: 41
+
+Skills:
+Long range Curler
+Through Passing
+Momentum Dribbling
+Phenomenal Pass
+Double Touch
+Sole Control
+First time Shot
+One touch Pass
+Outside Curler
+Attack Trigger
+
+Biometrics:
+Height: 174
+Weight: 73
+Arm Length: 5
+Shoulder Width: 11
+Neck Length: 4
+Chest: 6
+Neck Size: 9
+Shoulder Height: 8
+Leg Length: 9
+Thigh Size: 7
+Waist Size: 7
+Arm Size: 8
+Calf Size: 7
+Leg Coverage Radius: 169.0
+Arm Coverage Radius: 156.7
+Jumping Height: 242.5
+Torso Collision: 49.6
+Leg Length Based Height: 176
+
+Com Skills:
+Mazing Run
+
+Other Stats:
+Weak Foot Usage: 2
+Weak Foot Accuracy: 3
+Form: 2
+Injury Resistance: 1

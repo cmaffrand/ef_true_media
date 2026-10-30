@@ -95,7 +95,7 @@ Fighting Spirit
 Blocker
 Sliding Tackle
 Fortress
-Long Reach Tackle
+Long reach Tackle
 
 Body Measurements
 Leg Length

@@ -96,4 +96,4 @@ Aerial Superiority
 Blocker
 Sliding Tackle
 Fortress
-Long Reach Tackle
+Long reach Tackle

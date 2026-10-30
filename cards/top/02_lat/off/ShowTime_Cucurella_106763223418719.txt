@@ -96,7 +96,7 @@ Gamesmanship
 Man Marking
 Interception
 Sliding Tackle
-Long Reach Tackle
+Long reach Tackle
 
 Body Measurements
 Leg Length

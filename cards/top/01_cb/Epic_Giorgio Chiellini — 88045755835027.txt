@@ -1,0 +1,78 @@
+Name: Giorgio Chiellini
+Position: CB
+Style: The Destroyer
+
+Training:
+DEX: 8
+LBS: 8
+AER: 8
+DEF: 10
+GK1: 2
+Lv: 56
+Manager: Jose Mourinho
+Potenciators:
+Stealing +4
+Agility +1
+
+Attributes:
+Ball Control: 64
+Dribbling: 60
+Tight Possession: 62
+Low Pass: 72
+Lofted Pass: 70
+Finishing: 58
+Heading: 87
+Curl: 60
+Defensive Awareness: 98
+Defensive Engagement: 99
+Tackling: 98
+Aggression: 98
+GK Parrying: 41
+GK Reflexes: 41
+GK Reach: 41
+Speed: 90
+Acceleration: 83
+Kicking Power: 81
+Balance: 64
+Stamina: 88
+
+Skills:
+Man Marking
+Interception
+Captaincy
+Fighting Spirit
+Blocker
+Aerial Superiority
+Sliding Tackle
+Long reach Tackle
+Aerial Fort
+Power Tackle
+
+Biometrics:
+Height: 187
+Weight: 85
+Arm Length: 5
+Shoulder Width: 10
+Neck Length: 7
+Chest: 2
+Neck Size: 7
+Shoulder Height: 6
+Leg Length: 7
+Thigh Size: 8
+Waist Size: 7
+Arm Size: 4
+Calf Size: 8
+Leg Coverage Radius: 180.5
+Arm Coverage Radius: 168.2
+Jumping Height: 277.3
+Torso Collision: 52.9
+Leg Length Based Height: 187
+
+Com Skills:
+Early Crosser
+
+Other Stats:
+Weak Foot Usage: 1
+Weak Foot Accuracy: 1
+Form: 2
+Injury Resistance: 2
